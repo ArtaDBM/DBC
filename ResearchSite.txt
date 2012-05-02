@@ -1,0 +1,186 @@
+id	map	blobID?	name	field4	9	0	54097	"Ironband\'s Excavation Site"	177
+10	0	54124	"Ironbeard\'s Tomb"	177
+12	0	54126	"Whelgar\'s Excavation Site"	177
+13	0	54127	"Greenwarden\'s Fossil Bank"	177
+15	0	54129	"Thoradin\'s Wall"	177
+18	0	54132	"Witherbark Digsite"	177
+19	0	54133	"Thandol Span"	177
+20	0	54134	"Dun Garok Digsite"	177
+21	0	54135	"Southshore Fossil Field"	177
+22	0	54136	"Aerie Peak Digsite"	177
+23	0	54137	"Shadra\'Alor Digsite"	177
+24	0	54138	"Altar of Zul Digsite"	177
+25	0	54139	"Jintha\'Alor Lower City Digsite"	177
+26	0	54140	"Jintha\'Alor Upper City Digsite"	177
+27	0	54141	"Agol\'watha Digsite"	177
+140	0	54828	"TEMPLATE TROLL"	177
+142	0	54830	"TEMPLATE DWARF"	177
+144	0	54832	"Hammertoe\'s Digsite"	177
+146	0	54834	"Tomb of the Watchers Digsite"	177
+150	0	54838	"Uldaman Entrance Digsite"	177
+152	0	54862	"Sunken Temple Digsite"	177
+154	0	54864	"Misty Reed Fossil Bank"	177
+161	0	55348	"TEMPLATE NIGHT ELF "	177
+163	0	55350	"Twilight Grove Digsite"	177
+165	0	55352	"Vul\'Gol Fossil Bank"	177
+167	1	55354	"Nazj\'vel Digsite"	177
+169	1	55356	"Zoram Strand Digsite"	177
+171	1	55398	"Ruins of Ordil\'Aran"	177
+173	1	55400	"Ruins of Stardust"	177
+175	1	55402	"Forest Song Digsite"	177
+177	1	55404	"Stonetalon Peak"	177
+179	1	55406	"Ruins of Eldre\'Thar"	177
+181	1	55408	"Unearthed Grounds"	177
+183	1	55410	"Bael Modan Digsite"	177
+185	1	55412	"Ruins of Eldarath"	177
+187	1	55414	"Ruins of Arkkoran"	177
+189	0	55416	"Lakeridge Highway Fossil Bank"	177
+191	1	55418	"Slitherblade Shore Digsite"	177
+193	1	55420	"Ethel Rethor Digsite"	177
+195	1	55422	"Valley of Bones"	177
+197	1	55424	"Mannoroc Coven Digsite"	177
+199	1	55426	"Kodo Graveyard"	177
+201	1	55428	"Sargeron Digsite"	177
+203	0	55434	"Red Reaches Fossil Bank"	177
+205	0	55436	"Dreadmaul Fossil Field"	177
+207	0	55438	"Grimsilt Digsite"	177
+209	0	55440	"Pyrox Flats Digsite"	177
+211	0	55442	"Western Ruins of Thaurissan"	177
+213	0	55444	"Eastern Ruins of Thaurissan"	177
+215	0	55446	"Terror Wing Fossil Field"	177
+217	0	55448	"Zul\'Mashar Digsite"	177
+219	0	55450	"Quel\'Lithien Lodge Digsite"	177
+221	0	55452	"Infectis Scar Fossil Field"	177
+223	0	55454	"Eastern Zul\'Kunda Digsite"	177
+225	0	55456	"Western Zul\'Kunda Digsite"	177
+227	0	55458	"Bal\'lal Ruins Digsite"	177
+229	0	55460	"Balia\'mah Digsite"	177
+231	0	55462	"Ziata\'jai Digsite"	177
+233	0	55464	"Eastern Zul\'Mamwe Digsite"	177
+235	0	55466	"Western Zul\'Mamwe Digsite"	177
+237	0	55468	"Savage Coast Raptor Fields"	177
+239	0	55470	"Ruins of Aboraz"	177
+241	0	55472	"Ruins of Jubuwal"	177
+243	0	55474	"Gurubashi Arena Digsite"	177
+245	0	55476	"Nek\'mani Wellspring Digsite"	177
+247	0	55478	"Felstone Fossil Field"	177
+249	0	55480	"Northridge Fossil Field"	177
+251	0	55482	"Andorhal Fossil Bank"	177
+259	1	55755	"Wyrmbog Fossil Field"	177
+261	1	55757	"Quagmire Fossil Field"	177
+279	1	56327	"Dire Maul Digsite"	177
+281	1	56329	"Broken Commons Digsite"	177
+283	1	56331	"Ravenwind Digsite"	177
+285	1	56333	"Oneiros Digsite"	177
+287	1	56335	"Solarsal Digsite"	177
+289	1	56337	"Darkmist Digsite"	177
+291	1	56339	"South Isildien Digsite"	177
+293	1	56341	"North Isildien Digsite"	177
+295	1	56343	"Constellas Digsite"	177
+297	1	56345	"Morlos\'Aran Digsite"	177
+299	1	56347	"Jaedenar Digsite"	177
+301	1	56349	"Ironwood Digsite"	177
+303	1	56351	"Lake Kel\'Theril Digsite"	177
+305	1	56354	"Owl Wing Thicket Digsite"	177
+307	1	56356	"Frostwhisper Gorge Digsite"	177
+309	1	56358	"Fields of Blood Fossil Bank"	177
+313	1	56362	"Nightmare Scar Digsite"	177
+315	1	56364	"Zul\'Farrak Digsite"	177
+317	1	56367	"Broken Pillar Digsite"	177
+319	1	56369	"Eastmoon Ruins Digsite"	177
+321	1	56371	"Southmoon Ruins Digsite"	177
+323	1	56373	"Dunemaul Fossil Ridge"	177
+325	1	56375	"Abyssal Sands Fossil Ridge"	177
+327	1	56380	"Lower Lakkari Tar Pits"	177
+329	1	56382	"Upper Lakkari Tar Pits"	177
+331	1	56384	"Terror Run Fossil Field"	177
+333	1	56386	"Screaming Reaches Fossil Field"	177
+335	1	56388	"Marshlands Fossil Bank"	177
+337	1	56390	"Southwind Village Digsite"	177
+339	530	56392	"Gor\'gaz Outpost Digsite"	177
+341	530	56394	"Zeth\'Gor Digsite"	177
+343	530	56396	"Hellfire Basin Digsite"	177
+345	530	56398	"Hellfire Citadel Digsite"	177
+347	530	56400	"Sha\'naar Digsite"	177
+349	530	56402	"Boha\'mu Ruins Digsite"	177
+351	530	56404	"Twin Spire Ruins Digsite"	177
+353	530	56406	"Ruins of Enkaat Digsite"	177
+355	530	56408	"Arklon Ruins Digsite"	177
+357	530	56410	"Ruins of Farahlon Digsite"	177
+359	530	56412	"Ancestral Grounds Digsite"	177
+363	530	56416	"Sunspring Post Digsite"	177
+365	530	56418	"Laughing Skull Digsite"	177
+367	530	56420	"Burning Blade Digsite"	177
+369	530	56422	"Halaa Digsite"	177
+371	530	56424	"Grangol\'var Village Digsite"	177
+373	530	56426	"Tuurem Digsite"	177
+375	530	56428	"Bleeding Hollow Ruins Digsite"	177
+377	530	56430	"Bonechewer Ruins Digsite"	177
+379	530	56432	"Bone Wastes Digsite"	177
+381	530	56434	"East Auchindoun Digsite"	177
+383	530	56437	"West Auchindoun Digsite"	177
+385	530	56439	"Illidari Point Digsite"	177
+387	530	56441	"Coilskar Point Digsite"	177
+391	530	56446	"Ruins of Baa\'ri Digsite"	177
+393	530	56448	"Eclipse Point Digsite"	177
+395	530	56450	"Warden\'s Cage Digsite"	177
+399	530	56455	"Dragonmaw Fortress"	177
+401	571	56504	"Skorn Digsite"	177
+403	571	56506	"Halgrind Digsite"	177
+405	571	56508	"Wyrmskull Digsite"	177
+407	571	56510	"Shield Hill Digsite"	177
+409	571	56512	"Baleheim Digsite"	177
+411	571	56514	"Nifflevar Digsite"	177
+413	571	56516	"Gjalerbron Digsite"	177
+415	571	56518	"Pit of Narjun Digsite"	177
+417	571	56520	"Moonrest Gardens Digsite"	177
+419	571	56522	"En\'kilah Digsite"	177
+421	571	56524	"Kolramas Digsite"	177
+423	571	56526	"Riplash Ruins Digsite"	177
+425	571	56528	"Violet Stand Digsite"	177
+427	571	56530	"Ruins of Shandaral Digsite"	177
+429	571	56533	"Altar of Sseratus Digsite"	177
+431	571	56535	"Zim\'Rhuk Digsite"	177
+433	571	56537	"Zol\'Heb Digsite"	177
+435	571	56539	"Altar of Quetz\'lun Digsite"	177
+437	571	56541	"Talramas Digsite"	177
+439	571	56543	"Voldrune Digsite"	177
+443	571	56547	"Drakil\'Jin Ruins Digsite"	177
+445	571	56549	"Brunnhildar Village Digsite"	177
+447	571	56551	"Sifreldar Village Digsite"	177
+449	571	56553	"Valkyrion Digsite"	177
+451	571	56555	"Scourgeholme Digsite"	177
+455	571	56560	"Ymirheim Digsite"	177
+457	571	56562	"Jotunheim Digsite"	177
+459	571	56564	"Njorndar Village Digsite"	177
+461	1	56566	"Ruins of Lar\'donir Digsite"	177
+463	1	56568	"Shrine of Goldrinn Digsite"	177
+465	1	56570	"Grove of Aessina Digsite"	177
+467	1	56572	"Sanctuary of Malorne Digsite"	177
+469	1	56574	"Scorched Plain Digsite"	177
+471	0	56576	"Quel\'Dormir Gardens Digsite"	177
+473	0	56578	"Nar\'shola (Middle Tier) Digsite"	177
+475	0	56580	"Biel\'aran Ridge Digsite"	177
+477	0	56583	"Dunwald Ruins Digsite"	177
+479	0	56585	"Thundermar Ruins Digsite"	177
+481	0	56587	"Humboldt Conflagration Digsite"	177
+485	1	56591	"Khartut\'s Tomb Digsite"	177
+487	1	56593	"Tombs of the Precursors Digsite"	177
+489	1	56595	"Steps of Fate Digsite"	177
+491	1	56597	"Neferset Digsite"	177
+493	1	56599	"Orsis Digsite"	177
+495	1	56601	"Ruins of Ammon Digsite"	177
+497	1	56603	"Ruins of Khintaset Digsite"	177
+499	1	56605	"Temple of Uldum Digsite"	177
+501	1	56607	"Ruins of Ahmtul Digsite"	177
+570	1	60350	"River Delta Digsite"	177
+572	1	60352	"Cursed Landing Digsite"	177
+574	1	60354	"Keset Pass Digsite"	177
+576	1	60356	"Akhenet Fields Digsite"	177
+578	1	60358	"Obelisk of the Stars Digsite"	177
+581	1	60361	"Sahket Wastes Digsite"	177
+583	1	60363	"Schnottz\'s Landing"	177
+587	571	60367	"Pit of Fiends Digsite"	177
+589	571	60369	"Sands of Nasam"	177
+615	0	60442	"Terrorweb Tunnel Digsite"	177
+617	0	60444	"Plaguewood Digsite"	177

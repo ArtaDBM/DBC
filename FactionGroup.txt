@@ -1,0 +1,4 @@
+Id	Mask	internalName	Name	1	0	"Player"	""
+2	1	"Alliance"	"Alliance"
+3	2	"Horde"	"Horde"
+4	3	"Monster"	""

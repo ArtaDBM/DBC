@@ -1,0 +1,10 @@
+id	name	field2	currencyId	Icon	itemId	1	"Dwarf"	1	384	"Interface\Archeology\Arch-Race-Dwarf"	52843
+2	"Draenei"	1	398	"Interface\Archeology\Arch-Race-Draenei"	64394
+3	"Fossil"	1	393	"Interface\Archeology\Arch-Race-Fossil"	0
+4	"Night Elf"	1	394	"Interface\Archeology\Arch-Race-NightElf"	63127
+5	"Nerubian"	1	400	"Interface\Archeology\Arch-Race-Nerubian"	64396
+6	"Orc"	1	397	"Interface\Archeology\Arch-Race-Orc"	64392
+7	"Tol\'vir"	1	401	"Interface\Archeology\Arch-Race-Tolvir"	64397
+8	"Troll"	1	385	"Interface\Archeology\Arch-Race-Troll"	63128
+27	"Vrykul"	1	399	"Interface\Archeology\Arch-Race-Vrykul"	64395
+29	"Other"	1	0	"Interface\Archeology\Arch-Race-Misc"	0
