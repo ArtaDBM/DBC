@@ -452,23 +452,27 @@ m_ID	m_reputationIndex	m_reputationRaceMask_1	m_reputationRaceMask_2	m_reputatio
 1268	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	1	1	0	0	"Mogu"	"The ancient progenitors of this land, the Mogu hate any and all pretenders, including the upstart Pandaren."	0
 1269	167	65013759	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	0	0	0	0	"Golden Lotus"	"This mysterious society of Pandaren intend to solve the Mogu problem once and for all."	0
 1270	182	56625151	0	0	0	0	0	0	0	3000	0	0	0	16	0	0	0	1245	0	0	0	0	"Shado-Pan"	"The shadowy protectors of Pandaria\'s temples, the Shado-Pan are wrought with mystery."	0
-1271	154	65013759	0	0	0	2047	0	0	0	3000	0	0	0	0	0	0	0	1245	0	0	0	0	"The Serpent Riders"	"Guardians of the East Temple"	0
+1271	154	65013759	0	0	0	2047	0	0	0	3000	0	0	0	0	0	0	0	1245	0	0	0	0	"Order of the Cloud Serpent"	"Guardians of the East Temple"	0
 1272	171	56625151	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1245	1	1	0	0	"The Tillers"	"The Tillers are peaceful and productive pandaren, working with the land to feed the massive appetites of their people."	0
-1273	156	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Jogu the Drunk"	"This is a hidden faction used to gain the trust and affection of Jogu the Drunk"	0
-1275	158	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Ella"	"This is a hidden faction used to gain the trust and affection of Ella"	0
-1276	159	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Old Hillpaw"	"This is a hidden faction used to gain the trust and affection of Old Hillpaw"	0
-1277	160	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Chee Chee"	"This is a hidden faction used to gain the trust and affection of Chee Chee."	0
-1278	161	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Sho"	"This is a hidden faction used to gain the trust and affection of Sho."	0
-1279	162	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Haohan Mudclaw"	"This is a hidden faction used to gain the trust and affection of Haohan Mudclaw."	0
-1280	163	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Tina Mudclaw"	"This is a hidden faction used to gain the trust and affection of Tina Mudclaw."	0
-1281	164	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Gina Mudclaw"	"This is a hidden faction used to gain the trust and affection of Gina Mudclaw."	0
-1282	165	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Fish Felreed"	"This is a hidden faction used to gain the trust and affection of Fish Felreed."	0
-1283	166	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Farmer Fung"	"This is a hidden faction used to gain the trust and affection of Farmer Fung."	0
+1273	156	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Jogu the Drunk"	"Tillers - This is a hidden faction used to gain the trust and affection of Jogu the Drunk"	0
+1275	158	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Ella"	"Tillers - This is a hidden faction used to gain the trust and affection of Ella"	0
+1276	159	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Old Hillpaw"	"Tillers - This is a hidden faction used to gain the trust and affection of Old Hillpaw"	0
+1277	160	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Chee Chee"	"Tillers - This is a hidden faction used to gain the trust and affection of Chee Chee."	0
+1278	161	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Sho"	"Tillers - This is a hidden faction used to gain the trust and affection of Sho."	0
+1279	162	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Haohan Mudclaw"	"Tillers - This is a hidden faction used to gain the trust and affection of Haohan Mudclaw."	0
+1280	163	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Tina Mudclaw"	"Tillers - This is a hidden faction used to gain the trust and affection of Tina Mudclaw."	0
+1281	164	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Gina Mudclaw"	"Tillers - This is a hidden faction used to gain the trust and affection of Gina Mudclaw."	0
+1282	165	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Fish Felreed"	"Tillers - This is a hidden faction used to gain the trust and affection of Fish Felreed."	0
+1283	166	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	"Tillers - Farmer Fung"	"Tillers - This is a hidden faction used to gain the trust and affection of Farmer Fung."	0
 1286	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	"Guardians of the Red Crane"	""	0
 1302	172	56625151	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1245	1	1	0	0	"The Anglers"	"The Anglers are a group of Pandaren fisherman that hope to feed their people and grow their knowledge of fishing."	0
 1336	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	1	1	0	0	"The Mantid Swarm"	"The ravening swarms of the Mantid roam the Towlong Steppes and Dread Wastes, crushing all in their path."	0
-1337	181	65013759	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	0	0	0	0	"The Klaxxi"	"These Mantid Elders are untouched by the corruption and insanity that has overtaken the remainder of the Mantid Swarm. They seek to work with the races of Pandaria to restore their Queen to glory."	0
+1337	181	65013759	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1245	0	0	0	0	"The Klaxxi"	"These Mantid Elders are untouched by the corruption and insanity that has overtaken the remainder of the Mantid Swarm. They seek to work with the races of Pandaria to restore their Queen to glory."	0
 1338	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	"Gurthan Mogu"	""	0
 1339	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	"Harthak Mogu"	""	0
 1340	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	"Korgesh Mogu"	""	0
 1341	183	65013759	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	0	0	0	0	"The August Celestials"	"These men defend the temples of Pandaria from the evils of the Sha."	0
+1345	184	65013759	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	0	0	0	0	"The Lorewalkers"	"Caretakers of the mysteries of Pandaria, these brave souls roam the continent, hoping to learn from their history."	0
+1351	186	65013759	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	0	0	0	0	"The Brewmasters"	"These noble Pandaren safeguard the secrets of hereditary brews, braving great hardship to construct their potent concoctions."	0
+1352	187	33555378	18875469	0	0	0	0	0	0	3100	-42000	0	0	273	6	0	0	67	1	0.25	4	7	"Huojin Pandaren"	"Led by the intrepid Ji Firepaw, the Huojin Pandaren are quick to act and quicker to fight for what they believe in."	0
+1353	188	18875469	33555378	2097152	0	0	0	0	0	3100	-42000	3000	0	273	6	17	0	469	1	0.25	4	7	"Tushui Pandaren"	"Led by the stalwart Aysa Cloudsinger, the Tushui Pandaren believe in contemplation and reasoned action."	0

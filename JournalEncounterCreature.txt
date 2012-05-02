@@ -114,287 +114,291 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 900	340	38791	0	571744	"Echo of Baine"	0
 899	341	38991	0	536053	"Archbishop Benedictus"	0
 904	342	38995	0	536054	"Asira Dawnslayer"	0
-941	368	37143	0	0	"Ghamoo-Ra"	0
-942	369	8761	0	0	"High Interrogator Gerstahn"	0
-943	370	5781	0	0	"Lord Roccor"	0
-944	371	9212	0	0	"Houndmaster Grebmar"	0
-1234	372	9329	0	0	"High Justice Grimstone"	0
-945	373	8762	0	0	"Pyromancer Loregrain"	0
-946	374	1204	0	0	"Lord Incendius"	0
-947	375	9089	0	0	"Warder Stilgiss"	0
-948	376	8704	0	0	"Fineous Darkvire"	0
-949	377	12162	0	0	"Bael\'Gar"	0
-950	378	8756	0	0	"General Angerforge"	0
-951	379	8759	0	0	"Golem Lord Argelmach"	0
-952	380	8658	0	0	"Hurley Blackbreath"	0
-953	381	8177	0	0	"Phalanx"	0
-954	382	8667	0	0	"Ribbly Screwspigot"	0
-955	383	8652	0	0	"Plugger Spazzring"	0
-956	384	8329	0	0	"Ambassador Flamelash"	0
-1059	385	8687	0	0	"Doom\'rel"	1981
-957	386	12162	0	0	"Magmus"	0
-958	387	8807	0	0	"Emperor Dagran Thaurissan"	0
-959	388	11565	0	0	"Highlord Omokk"	0
-960	389	9732	0	0	"Shadow Hunter Vosh\'gajin"	0
-961	390	28281	0	0	"War Master Voone"	0
-962	391	9929	0	0	"Mother Smolderweb"	0
-963	392	11583	0	0	"Urok Doomhowl"	0
-964	393	9738	0	0	"Quartermaster Zigris"	0
-965	394	9567	0	0	"Halycon"	0
-966	395	9564	0	0	"Gizrul the Slavener"	0
-967	396	8711	0	0	"Overlord Wyrmthalak"	0
-968	397	2172	0	0	"Pyroguard Emberseer"	0
-969	398	9581	0	0	"Solakar Flamewreath"	0
-970	399	9778	0	0	"Warchief Rend Blackhand"	0
+941	368	37143	0	607613	"Ghamoo-Ra"	0
+942	369	8761	0	607644	"High Interrogator Gerstahn"	0
+943	370	5781	0	607697	"Lord Roccor"	0
+944	371	9212	0	607647	"Houndmaster Grebmar"	0
+1234	372	9329	0	608314	"High Justice Grimstone"	0
+945	373	8762	0	607749	"Pyromancer Loregrain"	0
+946	374	1204	0	607694	"Lord Incendius"	0
+947	375	9089	0	607814	"Warder Stilgiss"	0
+948	376	8704	0	607602	"Fineous Darkvire"	0
+949	377	12162	0	607549	"Bael\'Gar"	0
+950	378	8756	0	607610	"General Angerforge"	0
+951	379	8759	0	607618	"Golem Lord Argelmach"	0
+952	380	8658	0	607650	"Hurley Blackbreath"	0
+953	381	8177	0	607740	"Phalanx"	0
+954	382	8667	0	607758	"Ribbly Screwspigot"	0
+955	383	8652	0	607741	"Plugger Spazzring"	0
+956	384	8329	0	607535	"Ambassador Flamelash"	0
+1059	385	8687	0	607587	"Doom\'rel"	1981
+957	386	12162	0	607705	"Magmus"	0
+958	387	8807	0	607595	"Emperor Dagran Thaurissan"	0
+959	388	11565	0	607645	"Highlord Omokk"	0
+960	389	9732	0	607769	"Shadow Hunter Vosh\'gajin"	0
+961	390	28281	0	607810	"War Master Voone"	0
+962	391	9929	0	607719	"Mother Smolderweb"	0
+963	392	11583	0	607801	"Urok Doomhowl"	0
+964	393	9738	0	607751	"Quartermaster Zigris"	0
+965	394	9567	0	607634	"Halycon"	0
+966	395	9564	0	607615	"Gizrul the Slavener"	0
+967	396	8711	0	607737	"Overlord Wyrmthalak"	0
+968	397	2172	0	607748	"Pyroguard Emberseer"	0
+969	398	9581	0	607737	"Solakar Flamewreath"	0
+970	399	9778	0	607813	"Warchief Rend Blackhand"	0
 1235	399	9806	1	0	"Gyth"	0
-971	400	10193	0	0	"The Beast"	0
-972	401	10115	0	0	"General Drakkisath"	0
-973	402	11335	0	0	"Zevrim Thornhoof"	0
-974	403	5489	0	0	"Hydrospawn"	0
-975	404	21012	0	0	"Lethtendris"	0
-976	405	14416	0	0	"Alzzin the Wildshaper"	0
-977	406	14383	0	0	"Tendris Warpwood"	0
-978	407	11270	0	0	"Illyanna Ravenoak"	0
-979	408	14384	0	0	"Magister Kalendris"	0
-980	409	14173	0	0	"Immol\'thar"	0
-981	410	11256	0	0	"Prince Tortheldrin"	0
-982	411	11561	0	0	"Guard Mol\'dar"	0
-983	412	11545	0	0	"Stomper Kreeg"	0
-984	413	11561	0	0	"Guard Fengus"	0
-985	414	11561	0	0	"Guard Slip\'kik"	0
-986	415	11564	0	0	"Captain Kromcrush"	0
-987	416	11537	0	0	"Cho\'Rush the Observer"	0
-988	417	11583	0	0	"King Gordok"	0
-989	418	36560	0	0	"Crowd Pummeler 9-60"	0
-990	419	6533	0	0	"Grubbis"	0
-1236	420	36529	0	0	"Viscous Fallout"	0
-991	421	36558	0	0	"Electrocutioner 6000"	0
-992	422	36563	0	0	"Mekgineer Thermaplugg"	0
-993	423	11172	0	0	"Noxxion"	0
-994	424	12389	0	0	"Razorlash"	0
-995	425	7125	0	0	"Tinkerer Gizlock"	0
-996	426	1773	0	0	"Gelihast"	2680
-997	427	12334	0	0	"Lord Vyletongue"	0
-998	428	12350	0	0	"Celebras the Cursed"	0
-999	429	12293	0	0	"Landslide"	0
-1000	430	13589	0	0	"Rotgrip"	0
-1001	431	12292	0	0	"Princess Theradras"	0
-1237	432	7845	0	0	"Tuten\'kash"	0
-1002	433	8055	0	0	"Mordresh Fire Eye"	0
-1003	434	25730	0	0	"Glutton"	0
-1004	435	32610	0	0	"Amnennar the Coldbringer"	0
-1020	436	4979	0	0	"Lady Sarevess"	2836
-1005	437	4939	0	0	"Twilight Lord Kelris"	2884
-1006	438	4644	0	0	"Death Speaker Jargba"	0
-1007	439	6097	0	0	"Aggem Thorncurse"	0
-1008	440	4652	0	0	"Overlord Ramtusk"	0
+971	400	10193	0	607786	"The Beast"	0
+972	401	10115	0	607612	"General Drakkisath"	0
+973	402	11335	0	607824	"Zevrim Thornhoof"	0
+974	403	5489	0	607653	"Hydrospawn"	0
+975	404	21012	0	607686	"Lethtendris"	0
+976	405	14416	0	607533	"Alzzin the Wildshaper"	0
+977	406	14383	0	607785	"Tendris Warpwood"	0
+978	407	11270	0	607656	"Illyanna Ravenoak"	0
+979	408	14384	0	607703	"Magister Kalendris"	0
+980	409	14173	0	607657	"Immol\'thar"	0
+981	410	11256	0	607745	"Prince Tortheldrin"	0
+982	411	11561	0	607630	"Guard Mol\'dar"	0
+983	412	11545	0	607777	"Stomper Kreeg"	0
+984	413	11561	0	607629	"Guard Fengus"	0
+985	414	11561	0	607631	"Guard Slip\'kik"	0
+986	415	11564	0	607560	"Captain Kromcrush"	0
+987	416	11537	0	607565	"Cho\'Rush the Observer"	0
+988	417	11583	0	607673	"King Gordok"	0
+989	418	36560	0	607572	"Crowd Pummeler 9-60"	0
+990	419	6533	0	607628	"Grubbis"	0
+1236	420	36529	0	607808	"Viscous Fallout"	0
+991	421	36558	0	607594	"Electrocutioner 6000"	0
+992	422	36563	0	607714	"Mekgineer Thermaplugg"	0
+993	423	11172	0	607728	"Noxxion"	0
+994	424	12389	0	607756	"Razorlash"	0
+995	425	7125	0	607796	"Tinkerer Gizlock"	0
+996	426	1773	0	607609	"Gelihast"	2680
+997	427	12334	0	607699	"Lord Vyletongue"	0
+998	428	12350	0	607562	"Celebras the Cursed"	0
+999	429	12293	0	607684	"Landslide"	0
+1000	430	13589	0	607761	"Rotgrip"	0
+1001	431	12292	0	607747	"Princess Theradras"	0
+1237	432	7845	0	607799	"Tuten\'kash"	0
+1002	433	8055	0	607718	"Mordresh Fire Eye"	0
+1003	434	25730	0	607617	"Glutton"	0
+1004	435	32610	0	607537	"Amnennar the Coldbringer"	0
+1020	436	4979	0	607682	"Lady Sarevess"	2836
+1005	437	4939	0	607800	"Twilight Lord Kelris"	2884
+1006	438	4644	0	607584	"Death Speaker Jargba"	0
+1007	439	6097	0	607531	"Aggem Thorncurse"	0
+1008	440	4652	0	607736	"Overlord Ramtusk"	0
 1238	440	6078	1	0	"Razorfen Spearhide"	0
-1009	441	2450	0	0	"Agathelos the Raging"	0
-1010	442	31042	0	0	"Charlga Razorflank"	0
-1011	443	10482	0	0	"Hearthsinger Forresten"	0
-1012	444	2837	0	0	"Aku\'mai"	3051
-1013	445	571	0	0	"Timmy the Cruel"	0
-1014	446	34480	0	0	"Willey Hopebreaker"	0
+1009	441	2450	0	607530	"Agathelos the Raging"	0
+1010	442	31042	0	607563	"Charlga Razorflank"	0
+1011	443	10482	0	607637	"Hearthsinger Forresten"	0
+1012	444	2837	0	607532	"Aku\'mai"	3051
+1013	445	571	0	607795	"Timmy the Cruel"	0
+1014	446	34480	0	607818	"Willey Hopebreaker"	0
 1239	446	34481	1	0	"Risen Rifleman"	0
-1015	447	1816	0	0	"Old Serra\'kis"	3121
-1016	448	34498	0	0	"Instructor Galford"	0
-1017	449	34424	0	0	"Balnazzar"	0
-1018	450	10771	0	0	"The Unforgiven"	0
-1019	451	10698	0	0	"Baroness Anastari"	0
-1021	452	9793	0	0	"Nerub\'enkan"	0
-1022	453	10546	0	0	"Maleki the Pallid"	0
-1023	454	10433	0	0	"Magistrate Barthilas"	0
-1024	455	12818	0	0	"Ramstein the Gorger"	0
-1025	456	34837	0	0	"Lord Aurius Rivendare"	0
-1026	457	8053	0	0	"Avatar of Hakkar"	0
-1027	458	6708	0	0	"Jammal\'an the Prophet"	0
-1028	459	7553	0	0	"Dreamscythe"	0
-1029	460	6375	0	0	"Weaver"	0
-1030	461	7975	0	0	"Morphaz"	0
-1031	462	9584	0	0	"Hazzas"	0
-1032	463	7806	0	0	"Shade of Eranikus"	0
-1033	464	501	0	0	"Hogger"	0
-1034	465	1204	0	0	"Lord Overheat"	0
-1035	466	35068	0	0	"Randolph Moloch"	0
-1036	467	5945	0	0	"Revelosh"	0
-1039	468	5710	0	0	"Baelog"	0
+1015	447	1816	0	607733	"Old Serra\'kis"	3121
+1016	448	34498	0	607660	"Instructor Galford"	0
+1017	449	34424	0	607551	"Balnazzar"	0
+1018	450	10771	0	607792	"The Unforgiven"	0
+1019	451	10698	0	607553	"Baroness Anastari"	0
+1021	452	9793	0	607724	"Nerub\'enkan"	0
+1022	453	10546	0	607707	"Maleki the Pallid"	0
+1023	454	10433	0	607791	"Magistrate Barthilas"	0
+1024	455	12818	0	607752	"Ramstein the Gorger"	0
+1025	456	34837	0	607692	"Lord Aurius Rivendare"	0
+1026	457	8053	0	607548	"Avatar of Hakkar"	0
+1027	458	6708	0	607665	"Jammal\'an the Prophet"	0
+1028	459	7553	0	608311	"Dreamscythe"	0
+1347	459	6375	1	0	"Weaver"	0
+1348	459	7975	2	0	"Morphaz"	0
+1346	459	9584	3	0	"Hazzas"	0
+1032	463	7806	0	607768	"Shade of Eranikus"	0
+1033	464	501	0	607646	"Hogger"	0
+1034	465	1204	0	607695	"Lord Overheat"	0
+1035	466	35068	0	607753	"Randolph Moloch"	0
+1036	467	5945	0	607757	"Revelosh"	0
+1039	468	5710	0	607550	"Baelog"	0
 1037	468	5708	1	0	"Eric \"The Swift\""	0
 1038	468	5709	2	0	"Olaf"	0
-1040	469	6089	0	0	"Ironaya"	0
-1041	470	10798	0	0	"Ancient Stone Keeper"	0
-1042	471	6059	0	0	"Galgann Firehammer"	0
-1043	472	11165	0	0	"Grimlok"	0
-1044	473	5988	0	0	"Archaedas"	0
-1045	474	4313	0	0	"Lady Anacondra"	0
-1046	475	4213	0	0	"Lord Cobrahn"	0
-1047	476	4214	0	0	"Lord Pythas"	0
-1048	477	5126	0	0	"Kresh"	0
-1049	478	4203	0	0	"Skum"	0
-1050	479	4215	0	0	"Lord Serpentis"	0
-1051	480	4256	0	0	"Verdan the Everliving"	0
-1052	481	4088	0	0	"Mutanus the Devourer"	0
-1053	482	6685	0	0	"Hydromancer Velratha"	0
-1054	483	7271	0	0	"Gahz\'rilla"	0
-1055	484	7353	0	0	"Antu\'sul"	0
-1056	485	6696	0	0	"Theka the Martyr"	0
-1057	486	6434	0	0	"Witch Doctor Zum\'rah"	0
-1058	487	6690	0	0	"Nekrum Gutchewer"	0
-1240	487	6441	1	0	"Shadowpriest Sezz\'ziz"	0
-1061	489	6439	0	0	"Chief Ukorz Sandscalp"	0
-1098	523	18916	0	0	"Shirrak the Dead Watcher"	0
-1099	524	17715	0	0	"Exarch Maladaar"	0
-1104	527	18236	0	0	"Watchkeeper Gargolmar"	0
-1105	528	18237	0	0	"Omor the Unscarred"	0
-1106	529	18944	0	0	"Vazruden the Herald"	0
-1107	530	22642	0	0	"Selin Fireheart"	0
-1108	531	22731	0	0	"Vexallus"	0
-1109	532	22596	0	0	"Priestess Delrissa"	0
-1110	533	22906	0	0	"Kael\'thas Sunstrider"	0
-1111	534	19338	0	0	"Pandemonius"	0
-1112	535	19332	0	0	"Tavarok"	0
-1113	536	14173	0	0	"Yor"	0
-1114	537	19780	0	0	"Nexus-Prince Shaffar"	0
-1115	538	17386	0	0	"Lieutenant Drake"	0
-1116	539	17387	0	0	"Captain Skarloc"	0
-1117	540	19135	0	0	"Epoch Hunter"	0
-1118	541	20599	0	0	"Darkweaver Syth"	0
-1119	542	21492	0	0	"Anzu"	0
-1120	543	18636	0	0	"Talon King Ikiss"	0
-1121	544	18821	0	0	"Ambassador Hellmaw"	0
-1122	545	18058	0	0	"Blackheart the Inciter"	0
-1123	546	18535	0	0	"Grandmaster Vorpil"	0
-1124	547	18839	0	0	"Murmur"	0
-1125	548	19882	0	0	"Zereketh the Unbound"	0
-1126	549	19888	0	0	"Dalliah the Doomsayer"	0
-1127	550	19977	0	0	"Wrath-Scryer Soccothrates"	0
-1128	551	19943	0	0	"Harbinger Skyriss"	0
-1129	552	20513	0	0	"Chrono Lord Deja"	0
-1130	553	19066	0	0	"Temporus"	0
-1131	554	20510	0	0	"Aeonus"	0
-1132	555	18369	0	0	"The Maker"	0
-1133	556	19372	0	0	"Broggok"	0
-1134	557	17153	0	0	"Keli\'dan the Breaker"	0
-1135	558	18929	0	0	"Commander Sarannis"	0
-1136	559	19045	0	0	"High Botanist Freywinn"	0
-1137	560	14416	0	0	"Thorngrin the Tender"	0
-1138	561	13109	0	0	"Laj"	0
-1139	562	19438	0	0	"Warp Splinter"	0
-1140	563	19162	0	0	"Mechano-Lord Capacitus"	0
-1141	564	19166	0	0	"Nethermancer Sepethrea"	0
-1142	565	20033	0	0	"Pathaleon the Calculator"	0
-1143	566	16628	0	0	"Grand Warlock Nethekurse"	0
-1145	568	18031	0	0	"Warbringer O\'mrogg"	0
-1146	569	19799	0	0	"Warchief Kargath Bladefist"	0
-1147	570	17728	0	0	"Mennu the Betrayer"	0
-1148	571	17729	0	0	"Rokmar the Crackler"	0
-1149	572	18224	0	0	"Quagmirran"	0
-1150	573	11268	0	0	"Hydromancer Thespia"	0
-1151	574	18638	0	0	"Mekgineer Steamrigger"	0
-1152	575	20235	0	0	"Warlord Kalithresh"	0
-1153	576	17228	0	0	"Hungarfen"	0
-1154	577	17528	0	0	"Ghaz\'an"	0
-1155	578	18570	0	0	"Swamplord Musel\'ek"	0
-1156	579	18194	0	0	"The Black Stalker"	0
-1157	580	27407	0	0	"Elder Nadox"	0
-1158	581	27406	0	0	"Prince Taldaram"	0
-1159	582	26777	0	0	"Jedoga Shadowseeker"	0
-1160	583	28133	0	0	"Amanitar"	0
-1161	585	27394	0	0	"Krik\'thir the Gatewatcher"	0
-1162	586	26776	0	0	"Hadronox"	0
-1163	588	26352	0	0	"Trollgore"	0
-1164	589	26292	0	0	"Novos the Summoner"	0
-1165	590	5240	0	0	"King Dred"	0
-1166	591	27073	0	0	"The Prophet Tharon\'ja "	0
-1167	592	27422	0	0	"Slad\'ran"	0
-1168	593	26589	0	0	"Drakkari Colossus"	0
-1169	594	27059	0	0	"Moorabi"	0
-1170	595	26644	0	0	"Eck the Ferocious"	0
-1171	596	27061	0	0	"Gal\'darah"	0
-1172	597	27301	0	0	"General Bjarngrim"	0
-1173	598	27071	0	0	"Volkhan"	0
-1174	599	27484	0	0	"Ionar"	0
-1175	600	27485	0	0	"Loken"	0
-1176	601	30972	0	0	"Falric"	0
-1177	602	30973	0	0	"Marwyn"	0
-1178	603	30721	0	0	"The Lich King"	0
-1179	604	20909	0	0	"Krystallus"	0
-1180	605	26657	0	0	"Maiden of Grief"	0
-1181	607	27483	0	0	"Sjonnir The Ironshaper"	0
-1182	608	30843	0	0	"Forgemaster Garfrost"	0
-1183	609	30347	0	0	"Ick"	0
-1184	609	30331	1	0	"Krick"	0
-1185	610	27982	0	0	"Scourgelord Tyrannus"	0
-1186	611	26579	0	0	"Meathook"	0
-1187	612	26581	0	0	"Salramm the Fleshcrafter"	0
-1188	613	26580	0	0	"Chrono-Lord Epoch"	0
-1189	614	26582	0	0	"Mal\'Ganis"	0
-1190	615	30226	0	0	"Bronjahm"	0
-1191	616	30148	0	0	"Devourer of Souls"	0
-1193	617	24366	0	0	"Commander Stoutbeard"	0
-1192	617	24352	1	0	"Commander Kolurg"	0
-1194	618	24066	0	0	"Grand Magus Telestra"	0
-1195	619	26259	0	0	"Anomalus"	0
-1196	620	26298	0	0	"Ormorok the Tree-Shaper"	0
-1197	621	24307	0	0	"Keristrasza"	0
-1198	622	27032	0	0	"Drakos the Interrogator"	0
-1199	623	27033	0	0	"Varos Cloudstrider"	0
-1200	624	25010	0	0	"Mage-Lord Urom"	0
-1201	625	27034	0	0	"Ley-Guardian Eregos"	0
-1202	626	27488	0	0	"Erekem"	0
-1203	627	20590	0	0	"Moragg"	0
-1204	628	27487	0	0	"Ichoron"	0
-1205	629	27486	0	0	"Xevozz"	0
-1206	630	10193	0	0	"Lavanthor"	0
-1207	631	27855	0	0	"Zuramat the Obliterator"	0
-1208	632	27508	0	0	"Cyanigosa"	0
-1209	633	28560	0	0	"Marshal Jacob Alerius"	0
+1040	469	6089	0	607664	"Ironaya"	0
+1041	470	10798	0	607538	"Ancient Stone Keeper"	0
+1042	471	6059	0	607606	"Galgann Firehammer"	0
+1043	472	11165	0	607626	"Grimlok"	0
+1044	473	5988	0	607546	"Archaedas"	0
+1045	474	4313	0	607680	"Lady Anacondra"	0
+1046	475	4213	0	607693	"Lord Cobrahn"	0
+1047	476	4214	0	607696	"Lord Pythas"	0
+1048	477	5126	0	607676	"Kresh"	0
+1049	478	4203	0	607775	"Skum"	0
+1050	479	4215	0	607698	"Lord Serpentis"	0
+1051	480	4256	0	607805	"Verdan the Everliving"	0
+1052	481	4088	0	607721	"Mutanus the Devourer"	0
+1053	482	6685	0	607652	"Hydromancer Velratha"	0
+1054	483	7271	0	607614	"Gahz\'rilla"	0
+1055	484	7353	0	607541	"Antu\'sul"	0
+1056	485	6696	0	607793	"Theka the Martyr"	0
+1057	486	6434	0	607819	"Witch Doctor Zum\'rah"	0
+1058	487	6690	0	607723	"Nekrum Gutchewer"	0
+1240	487	6441	1	607770	"Shadowpriest Sezz\'ziz"	0
+1061	489	6439	0	607564	"Chief Ukorz Sandscalp"	0
+1098	523	18916	0	607771	"Shirrak the Dead Watcher"	0
+1099	524	17715	0	607600	"Exarch Maladaar"	0
+1104	527	18236	0	607817	"Watchkeeper Gargolmar"	0
+1105	528	18237	0	607734	"Omor the Unscarred"	0
+1106	529	18944	0	607803	"Vazruden the Herald"	0
+1107	530	22642	0	607767	"Selin Fireheart"	0
+1108	531	22731	0	607806	"Vexallus"	0
+1109	532	22596	0	607742	"Priestess Delrissa"	0
+1110	533	22906	0	607669	"Kael\'thas Sunstrider"	0
+1111	534	19338	0	607738	"Pandemonius"	0
+1112	535	19332	0	607782	"Tavarok"	0
+1113	536	14173	0	607822	"Yor"	0
+1114	537	19780	0	607726	"Nexus-Prince Shaffar"	0
+1115	538	17386	0	607689	"Lieutenant Drake"	0
+1116	539	17387	0	607561	"Captain Skarloc"	0
+1117	540	19135	0	607596	"Epoch Hunter"	0
+1118	541	20599	0	607583	"Darkweaver Syth"	0
+1119	542	21492	0	607544	"Anzu"	0
+1120	543	18636	0	607780	"Talon King Ikiss"	0
+1121	544	18821	0	607536	"Ambassador Hellmaw"	0
+1122	545	18058	0	607555	"Blackheart the Inciter"	0
+1123	546	18535	0	607625	"Grandmaster Vorpil"	0
+1124	547	18839	0	607720	"Murmur"	0
+1125	548	19882	0	607823	"Zereketh the Unbound"	0
+1126	549	19888	0	607574	"Dalliah the Doomsayer"	0
+1127	550	19977	0	607820	"Wrath-Scryer Soccothrates"	0
+1128	551	19943	0	607635	"Harbinger Skyriss"	0
+1129	552	20513	0	607566	"Chrono Lord Deja"	0
+1130	553	19066	0	607784	"Temporus"	0
+1131	554	20510	0	607529	"Aeonus"	0
+1132	555	18369	0	607789	"The Maker"	0
+1133	556	19372	0	607558	"Broggok"	0
+1134	557	17153	0	607670	"Keli\'dan the Breaker"	0
+1135	558	18929	0	607570	"Commander Sarannis"	0
+1136	559	19045	0	607641	"High Botanist Freywinn"	0
+1137	560	14416	0	607794	"Thorngrin the Tender"	0
+1138	561	13109	0	607683	"Laj"	0
+1139	562	19438	0	607816	"Warp Splinter"	0
+1140	563	19162	0	607712	"Mechano-Lord Capacitus"	0
+1141	564	19166	0	607725	"Nethermancer Sepethrea"	0
+1142	565	20033	0	607739	"Pathaleon the Calculator"	0
+1143	566	16628	0	607624	"Grand Warlock Nethekurse"	0
+1145	568	18031	0	607811	"Warbringer O\'mrogg"	0
+1146	569	19799	0	607812	"Warchief Kargath Bladefist"	0
+1147	570	17728	0	607715	"Mennu the Betrayer"	0
+1148	571	17729	0	607759	"Rokmar the Crackler"	0
+1149	572	18224	0	607750	"Quagmirran"	0
+1150	573	11268	0	607651	"Hydromancer Thespia"	0
+1151	574	18638	0	607713	"Mekgineer Steamrigger"	0
+1152	575	20235	0	607815	"Warlord Kalithresh"	0
+1153	576	17228	0	607649	"Hungarfen"	0
+1154	577	17528	0	607614	"Ghaz\'an"	0
+1155	578	18570	0	607779	"Swamplord Musel\'ek"	0
+1156	579	18194	0	607788	"The Black Stalker"	0
+1157	580	27407	0	607593	"Elder Nadox"	0
+1158	581	27406	0	607744	"Prince Taldaram"	0
+1159	582	26777	0	607667	"Jedoga Shadowseeker"	0
+1160	583	28133	0	607534	"Amanitar"	0
+1337	584	27408	0	607639	"Herald Volazj"	0
+1161	585	27394	0	607678	"Krik\'thir the Gatewatcher"	0
+1162	586	26776	0	607633	"Hadronox"	0
+1338	587	27856	0	607542	"Anub\'arak"	0
+1163	588	26352	0	607798	"Trollgore"	0
+1164	589	26292	0	607727	"Novos the Summoner"	0
+1165	590	5240	0	607672	"King Dred"	0
+1166	591	27073	0	607790	"The Prophet Tharon\'ja "	0
+1167	592	27422	0	607776	"Slad\'ran"	0
+1168	593	26589	0	607589	"Drakkari Colossus"	0
+1169	594	27059	0	607716	"Moorabi"	0
+1170	595	26644	0	607592	"Eck the Ferocious"	0
+1171	596	27061	0	607605	"Gal\'darah"	0
+1172	597	27301	0	607611	"General Bjarngrim"	0
+1173	598	27071	0	607809	"Volkhan"	0
+1174	599	27484	0	607663	"Ionar"	0
+1175	600	27485	0	607690	"Loken"	0
+1176	601	30972	0	607601	"Falric"	0
+1177	602	30973	0	607710	"Marwyn"	0
+1178	603	30721	0	607688	"The Lich King"	0
+1179	604	20909	0	607679	"Krystallus"	0
+1180	605	26657	0	607706	"Maiden of Grief"	0
+1342	606	26353	0	607797	"Brann Bronzebeard"	0
+1181	607	27483	0	607772	"Sjonnir The Ironshaper"	0
+1182	608	30843	0	607603	"Forgemaster Garfrost"	0
+1184	609	30331	0	607677	"Krick"	0
+1183	609	30347	1	607655	"Ick"	0
+1185	610	27982	0	607765	"Scourgelord Tyrannus"	0
+1186	611	26579	0	607711	"Meathook"	0
+1187	612	26581	0	607763	"Salramm the Fleshcrafter"	0
+1188	613	26580	0	607567	"Chrono-Lord Epoch"	0
+1189	614	26582	0	607708	"Mal\'Ganis"	0
+1190	615	30226	0	607559	"Bronjahm"	0
+1191	616	30148	0	607585	"Devourer of Souls"	0
+1193	617	24366	0	607571	"Commander Stoutbeard"	0
+1192	617	24352	1	607568	"Commander Kolurg"	0
+1194	618	24066	0	607623	"Grand Magus Telestra"	0
+1195	619	26259	0	607540	"Anomalus"	0
+1196	620	26298	0	607735	"Ormorok the Tree-Shaper"	0
+1197	621	24307	0	607671	"Keristrasza"	0
+1198	622	27032	0	607590	"Drakos the Interrogator"	0
+1199	623	27033	0	607802	"Varos Cloudstrider"	0
+1200	624	25010	0	607702	"Mage-Lord Urom"	0
+1201	625	27034	0	607687	"Ley-Guardian Eregos"	0
+1202	626	27488	0	607597	"Erekem"	0
+1203	627	20590	0	607717	"Moragg"	0
+1204	628	27487	0	607654	"Ichoron"	0
+1205	629	27486	0	607821	"Xevozz"	0
+1206	630	10193	0	607685	"Lavanthor"	0
+1207	631	27855	0	607825	"Zuramat the Obliterator"	0
+1208	632	27508	0	607573	"Cyanigosa"	0
+1209	633	28560	0	607621	"Marshal Jacob Alerius"	0
 1211	633	28586	1	0	"Ambrose Boltspark"	0
 1213	633	28735	2	0	"Jaelyne Evensong"	0
 1212	633	28564	3	0	"Lana Stouthammer"	0
 1210	633	28736	4	0	"Colosos"	0
-1214	634	28587	0	0	"Mokra the Skullcrusher"	0
+1214	634	28587	0	607622	"Mokra the Skullcrusher"	0
 1216	634	28637	1	0	"Eressea Dawnsinger"	0
 1217	634	28597	2	0	"Runok Wildmane"	0
 1215	634	28588	3	0	"Zul\'tore"	0
 1218	634	28589	4	0	"Deathstalker Visceri"	0
-1219	635	29616	0	0	"Eadric the Pure"	0
-1220	636	29490	0	0	"Argent Confessor Paletress"	0
-1221	637	29837	0	0	"The Black Knight"	0
-1222	638	25338	0	0	"Prince Keleseth"	0
-1223	639	24605	0	0	"Skarvald the Constructor"	0
-1224	639	26349	1	0	"Dalronn the Controller"	0
-1225	640	21953	0	0	"Ingvar the Plunderer"	0
-1226	641	26096	0	0	"Svala Sorrowgrave"	0
-1227	642	27419	0	0	"Gortok Palehoof"	0
+1219	635	29616	0	607591	"Eadric the Pure"	0
+1220	636	29490	0	607547	"Argent Confessor Paletress"	0
+1221	637	29837	0	607787	"The Black Knight"	0
+1222	638	25338	0	607743	"Prince Keleseth"	0
+1223	639	24605	0	607774	"Skarvald the Constructor"	0
+1224	639	26349	1	607575	"Dalronn the Controller"	0
+1225	640	21953	0	607659	"Ingvar the Plunderer"	0
+1226	641	26096	0	607778	"Svala Sorrowgrave"	0
+1227	642	27419	0	607620	"Gortok Palehoof"	0
 1228	642	26284	1	0	"Ferocious Rhino"	0
 1230	642	26327	2	0	"Frenzied Worgen"	0
 1229	642	24564	3	0	"Massive Jormungar"	0
 1231	642	23999	4	0	"Ravenous Furbolg"	0
-1232	643	27418	0	0	"Skadi the Ruthless"	0
-1233	644	28019	0	0	"King Ymiron"	0
-1252	649	39519	0	522338	"Raigonn"	5875
+1232	643	27418	0	607773	"Skadi the Ruthless"	0
+1233	644	28019	0	607674	"King Ymiron"	0
+1252	649	39519	0	0	"Raigonn"	0
 1253	654	40293	0	0	"Armsmaster Harlan"	0
-1254	655	15333	0	0	"Mantid Muintions Expert"	0
+1414	655	15333	0	0	"Saboteur Kip\'tilak"	0
+1404	656	40597	0	0	"Flameweaver Koegler"	0
 1255	657	39887	0	0	"Master Snowdrift"	0
 1257	658	39487	0	0	"Liu Flameheart"	0
-1256	658	39494	1	0	"Jade Serpent"	0
 1258	659	40301	0	0	"Instructor Chillheart"	0
-1326	660	42264	0	0	"Houndmaster Braun PH Dressing"	0
-1325	660	41324	1	0	"Obedient Hound"	0
+1326	660	42264	0	0	"Houndmaster Braun"	0
 1265	663	40639	0	0	"Jandice Barov"	0
 1266	664	39506	0	0	"Lorewalker Stonestep"	0
-1269	665	31092	0	0	"Rattlegore"	6090
-1270	666	40256	0	0	"Lilian Voss"	6090
-1272	668	39498	0	0	"Ook-Ook"	6090
-1273	669	40339	0	0	"Hoptallus"	6090
-1274	670	40825	0	0	"Yan-Zhu the Uncasked"	6090
-1275	671	41154	0	522333	"Brother Korloff"	6162
-1299	672	41125	0	0	"Wise Mari (Dressing PH)"	0
-1298	672	39411	1	0	"Corrupt Living Water"	0
-1297	672	39442	2	0	"Corrupt Droplet"	0
-1276	674	41220	0	0	"Commander Durand"	0
+1269	665	31092	0	0	"Rattlegore"	0
+1270	666	40256	0	0	"Lilian Voss"	0
+1272	668	39498	0	0	"Ook-Ook"	0
+1273	669	40339	0	0	"Hoptallus"	6122
+1274	670	40825	0	0	"Yan-Zhu the Uncasked"	0
+1275	671	41154	0	0	"Brother Korloff"	0
+1299	672	41125	0	0	"Wise Mari"	0
+1419	672	39411	1	0	"Corrupt Living Water"	0
+1418	672	39442	2	0	"Corrupt Droplet"	0
+1402	673	39489	0	0	"Gu Cloudstrike"	0
+1403	673	39492	1	0	"Azure Serpent"	0
+1276	674	41220	0	607643	"Commander Durand"	0
 1277	674	2043	1	0	"High Inquisitor Whitemane"	0
-1278	675	37755	0	0	"Striker Ga\'dok"	6162
+1278	675	37755	0	0	"Striker Ga\'dok"	0
 1279	676	20556	0	0	"Commander Ri\'mok"	0
 1295	677	41391	0	0	"Jan-xi"	0
 1294	677	41392	1	0	"Qin-xi"	0
@@ -403,25 +407,52 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1281	679	41232	2	0	"Jade Quilen"	0
 1282	679	41233	3	0	"Jasper Quilen"	0
 1296	682	41256	0	0	"Gara\'jal the Spiritbinder"	0
+1390	682	41320	1	0	"Spirit Totem"	0
+1392	682	41286	2	0	"Shadowy Minion"	0
+1391	682	42337	3	0	"Severer of Souls"	0
 1307	683	41503	0	0	"PH Council Plate Boss"	0
 1301	683	41502	1	0	"PH Council Leather Boss"	0
 1306	683	41504	2	0	"PH Council Cloth Boss"	0
-1303	684	31092	0	0	"Rattlegore"	6090
+1393	684	40322	0	0	"Darkmaster Gandling"	0
 1304	685	39493	0	0	"Sha of Violence"	0
 1305	686	41121	0	0	"Taran Zhu"	0
-1309	687	41813	0	0	"Meng Sharpfang"	6507
-1308	687	41812	1	0	"Qiang Steelskin"	6532
-1310	687	41565	2	0	"Sebotai Swiftfoot"	6563
-1311	687	41566	3	0	"Tian Dreadshadow"	6592
+1309	687	41813	0	0	"Meng Sharpfang"	6585
+1308	687	41812	1	0	"Qiang Steelskin"	6610
+1310	687	41565	2	0	"Sebotai Swiftfoot"	6641
+1311	687	41566	3	0	"Tian Dreadshadow"	6670
 1312	688	27705	0	0	"Thalnos the Soulrender"	0
 1313	689	41192	0	0	"Feng the Accursed"	0
 1315	690	41920	0	0	"Gekkan"	0
 1316	691	41448	0	0	"Sha of Anger"	0
-1317	692	42105	0	0	"Mantid General [PH]"	0
-1318	693	27394	0	0	"Resin Harvester"	0
+1339	692	42105	0	0	"General Pa\'valak"	0
+1318	693	27394	0	0	"Vizier Jin\'bak"	0
 1319	693	33011	1	0	"Sap Globule"	0
-1320	694	38759	0	0	"Adjules"	0
-1321	695	42101	0	0	"Dark Shaman Koranthal"	0
-1322	696	38773	0	0	"Magnaw"	0
-1323	697	42100	0	0	"Liuetenant Gordoth"	0
+1343	694	38759	0	608309	"Adarogg"	0
+1321	695	42101	0	608310	"Dark Shaman Koranthal"	0
+1344	696	38391	0	522251	"Slagmaw"	0
+1345	697	42100	0	608315	"Lava Guard Gordoth"	0
 1324	698	41987	0	0	"King Everything"	0
+1334	708	42058	0	0	"Kuai the Brute"	0
+1335	708	42059	1	0	"Ming the Cunning"	0
+1336	708	42060	2	0	"Haiyan the Unstoppable"	0
+1341	709	41772	0	0	"Sha of Fear"	0
+1405	713	42368	0	0	"Garalon"	0
+1386	725	42439	0	0	"Galleon"	0
+1385	725	42468	1	0	"Chief Salyis"	0
+1383	726	41399	0	0	"Elegon"	0
+1381	726	41593	1	0	"Celestial Protector"	0
+1380	726	41689	2	0	"Energy Charge"	0
+1384	726	42095	3	0	"Cosmic Spark"	0
+1382	726	39997	4	0	"Empyreal Focus"	0
+1389	727	23941	0	0	"Wing Leader Ner\'onok"	0
+1394	728	17725	0	607556	"Blood Guard Porung"	0
+1412	729	42811	0	0	"Lei Shi"	0
+1413	729	20076	1	0	"Animated Protector"	0
+1400	737	43126	0	0	"Amber-Shaper Un\'sok"	0
+1401	737	42889	1	0	"Amber Monstrosity"	0
+1407	738	42169	0	0	"Commander Vo\'jak"	0
+1415	741	42645	0	0	"Wind Lord Mel\'jarak"	0
+1416	742	42532	0	0	"Nalomoni"	0
+1417	743	42730	0	0	"Grand Empress Shek\'zeer"	0
+1420	744	26852	0	0	"Armsmaster Ta\'yak"	0
+1421	745	42807	0	0	"Imperial Vizier Zor\'lok"	0

@@ -21,7 +21,7 @@ ID	MinScale	MinScaleLevel	MaxScale	MaxScaleLevel	SkillLine	SkillLine2	ItemPetFoo
 25	0.7	1	0.9	60	654	270	1	0	10	"Hyena"	"Interface\Icons\Ability_Hunter_Pet_Hyena"
 26	0.5	1	0.8	60	655	270	3	2	2	"Bird of Prey"	"Interface\Icons\Ability_Hunter_Pet_Owl"
 27	0.5	1	0.7	60	656	270	14	2	22	"Wind Serpent"	"Interface\Icons\Ability_Hunter_Pet_WindSerpent"
-28	0	0	0	0	758	0	0	-1	-1	"Remote Control"	""
+28	0	0	0	0	758	0	0	-1	0	"Remote Control"	""
 29	0.45	1	0.9	60	761	0	0	-1	41	"Felguard"	""
 30	0.35	1	0.65	60	763	270	35	2	8	"Dragonhawk"	"Interface\Icons\Ability_Hunter_Pet_DragonHawk"
 31	0.65	1	0.9	60	767	270	1	2	14	"Ravager"	"Interface\Icons\Ability_Hunter_Pet_Ravager"

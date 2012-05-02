@@ -138,7 +138,7 @@ field0	field1	field2	field3
 341	"|cffffd100Tip:|r Remember to take all things in moderation (even World of Warcraft!)"	0	0
 540	"|cffffd100Tip:|r Click on the Lightwell!"	75	85
 543	"|cffffd100Tip:|r Don\'t stand in the fire!"	75	85
-544	"|cffffd100Tip:|r You can earn Justice points from dungeons and Valor points from Heroic dungeons or raids to purchase more powerful items."	75	85
+544	"|cffffd100Tip:|r You can earn Valor points from daily quests, scenarios and dungeons to upgrade your best items."	75	85
 475	"|cffffd100Tip:|r If you are having difficulty with a group of creatures in a dungeon, try using a crowd control ability, such as Polymorph or Sap."	40	85
 480	"|cffffd100Tip:|r Once you reach level 30, your class trainer can instruct you in Dual Talent Specialization. This feature allows you to swap out your talents, glyphs and action bars between two commonly used configurations."	0	0
 404	"|cffffd100Tip:|r When interacting with other players a little kindness goes a long way!"	20	85
@@ -150,3 +150,11 @@ field0	field1	field2	field3
 578	"|cffffd100Tip:|r The War Games feature allows your group leader to challenge another group to an Arena or Battleground skirmish of their choice. War Games can be started from the Player vs. Player screen <H>."	20	90
 588	"|cffffd100Tip:|r It is possible to change the look of your armor or weapons by visiting a Transmogrifier in major cities."	40	85
 589	"|cffffd100Tip:|r You can use Raid Finder to join a 25-player raid for some of the most epic experiences World of Warcraft has to offer."	85	85
+594	"|cffffd100Tip:|r You can queue for Scenarios to run short group content."	86	90
+595	"|cffffd100Tip:|r You can change your class specialization, talents or glyphs by visiting a class trainer."	10	90
+596	"|cffffd100Tip:|r Most achievements are account-wide. If you have earned the points on one of your characters, they will all share the points."	10	90
+597	"|cffffd100Tip:|r Visit a Pet Battle Trainer if you want to collect and battle companion pets."	10	90
+598	"|cffffd100Tip:|r You can\'t fly in Pandaria until your reach level 90."	85	90
+599	"|cffffd100Tip:|r Nobody has seen Alleria or Turalyon in years."	85	90
+600	"|cffffd100Tip:|r Major Glyphs modify your spells in interesting ways. Minor Glyphs are more cosmetic or convenient."	15	90
+601	"|cffffd100Tip:|r Companion pets are account-wide. If one of your characters has a pet, all your characters can use that pet."	10	90

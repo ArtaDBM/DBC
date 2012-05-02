@@ -17,3 +17,4 @@ field0	field1	field2	field3	field4
 6	"Classic Raid"	20	0	2
 11	"World Events"	21	0	0
 20	"Rated Battleground"	22	0	2
+38	"Scenarios"	23	0	1
