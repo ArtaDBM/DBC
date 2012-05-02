@@ -1,0 +1,342 @@
+field0	field1	field2	field3	field4	field5
+1	0	0	Default	0	0
+2	0	0	Direct Damage - Spell	0	0
+4	4	0	Item - Combat Cons. (Potion)	0	0
+11	0	0	Item - Food	0	0
+12	0	0	Healing - Spell	0	0
+17	0	0	Quick Buff (Resist) - Spell	0	0
+18	0	0	Damage Over Time - Spell	0	0
+19	0	0	Quick Damage - Spell	0	0
+20	0	0	Invulnerability (Other)	0	0
+21	0	0	Quick Buff - Spell	0	0
+22	0	0	Quick Debuff - Spell	0	0
+23	0	0	Summoning	0	0
+24	0	0	Item - Combat Cons. (Aggressive)	0	0
+25	0	0	Quick Heal - Spell	0	0
+26	0	0	Resurrection (Full)	0	0
+27	0	0	Item - Scroll	0	0
+28	0	0	Item - Quick Buff	0	0
+29	0	0	Item - Debuff	0	0
+30	0	0	Item - Healing	0	0
+31	0	0	Conjure (Short)	0	0
+32	0	0	Stun	0	0
+33	0	0	Mez	0	0
+34	0	0	Root	0	0
+35	0	0	Direct Damage (AE) - Spell	0	0
+36	0	0	Debuff - Spell	0	0
+37	0	0	Invulnerability	0	0
+38	0	0	Aura	0	0
+39	0	0	Shapeshift	0	0
+40	0	0	Melee (Generic)	0	0
+41	0	0	Critical	0	0
+42	0	0	Snare	0	0
+43	0	0	Shout	0	0
+44	0	0	Speed	0	0
+45	0	0	Totem (Stoneclaw)	0	0
+46	0	0	Healing (Group) - Spell	0	0
+47	0	0	Combat States	0	0
+49	0	0	Direct Damage (AE) - Ability	0	0
+50	0	0	Direct Damage (AE-Cone) - Ability	0	0
+51	0	0	Quick Debuff (DPS) - Spell	0	0
+52	0	0	Quick Debuff (DR) - Spell	0	0
+54	0	0	Quick Buff (DR) - Spell	0	0
+55	0	0	Quick Buff (DPS) - Spell	0	0
+56	0	0	Instant Heal - Spell	0	0
+57	0	0	Quick Heal (Group) - Spell	0	0
+58	0	0	Instant Heal (Group) - Spell	0	0
+59	0	0	Item - Drink	0	0
+60	0	0	Invulnerability (Temp)	0	0
+61	0	0	Energize (Group) - Spell	0	0
+62	0	0	Energize - Spell	0	0
+63	0	0	Big Direct Damage - Spell	0	0
+64	0	0	Minimap Special	0	0
+65	0	0	Melee (Special)	0	0
+66	0	0	Dodge Maneuver	0	0
+67	0	0	Block Maneuver	0	0
+68	0	0	Parry Maneuver	0	0
+72	0	0	Direct Damage (AE-Persistent) Spell	0	0
+73	0	0	Martial Arts (Generic)	0	0
+74	0	0	Martial Arts (Special)	0	0
+75	0	0	Detect	0	0
+76	0	0	Shoot/Throw	0	0
+77	0	0	Trade - Herbalism	0	0
+78	0	0	Trade - Mining	0	0
+79	0	0	Item - Potion (Non-Combat)	0	0
+82	0	0	Taunt/Detaunt	0	0
+83	0	0	Taming	0	0
+84	0	0	Taunt (AE)	0	0
+85	0	0	Direct Damage (AE-Chain) - Ability	0	0
+86	0	0	Pet	0	0
+87	0	0	Conjure (Long)	0	0
+88	0	0	Silence	0	0
+89	0	0	Portal	0	0
+93	0	0	Charm	0	0
+94	0	0	Item - Summoning	0	0
+95	0	0	Racial Ability	0	0
+96	0	0	Racial Ability 2	0	0
+97	0	0	Secondary - Survival	0	0
+98	0	0	Big Direct Damage - Spell (2)	0	0
+99	0	0	Instant Spell	0	0
+100	0	0	Item - Mana Gem	0	0
+101	0	0	Felhunter	0	0
+102	0	0	Item - Long Buff	0	0
+103	0	0	Item - Epic	0	0
+104	0	0	Totem (Healing)	0	0
+105	0	0	Totem (Serpent)	0	0
+106	0	0	Totem (Slowing)	0	0
+107	0	0	Totem (Mana)	0	0
+108	0	0	Totem (Invisibility)	0	0
+109	0	0	Melee (Disarm)	0	0
+132	0	0	Discipline	0	0
+133	0	0	Global	0	0
+150	0	0	Item - Bandage	0	0
+170	1	0	Finishing Move (Weapon-scaled)	0	0
+190	0	0	Banish	0	0
+230	0	0	Totem (Grounding)	0	0
+250	0	0	Blast Wave	0	0
+270	0	0	Kidney Shot	0	0
+290	0	0	Pyroblast	0	0
+310	8	0	Transmute - Alchemy	0	0
+330	0	0	Mount	0	0
+350	0	0	Inner Rage	0	0
+351	2	0	Ranged Weapon	0	0
+371	0	0	Lightning Shield	0	0
+391	0	0	Quest - Felcurse	0	0
+411	0	0	Trap (Frost)	0	0
+431	0	0	Holy Nova	0	0
+451	0	0	Holy Fire	0	0
+471	0	0	Ice Barrier	0	0
+511	0	0	Astral Recall	0	0
+531	0	0	Nature\'s Grasp	0	0
+551	0	0	Aura of the Pious	0	0
+571	0	0	Hurricane	0	0
+591	0	0	Totem (Mana Tide)	0	0
+611	0	0	Wings of Hope	0	0
+631	0	0	Soul Fire	0	0
+633	0	0	Death Coil	0	0
+634	0	0	Howl of Terror	0	0
+651	0	0	Shadowburn	0	0
+671	0	0	Desperate Prayer	0	0
+672	0	0	Conflagrate	2	12000
+691	0	0	Devouring Plague	0	0
+731	0	0	Warlock - Summon Guardian	0	0
+751	0	0	Tree Form	0	0
+791	0	0	Item - Salt Shaker	0	0
+811	0	0	Divine Intervention	0	0
+831	0	0	Soulstone	0	0
+851	0	0	Restoration	0	0
+871	0	0	Shadowmeld	0	0
+891	0	0	Whirlwind	0	0
+892	0	0	Holy Shock	0	0
+911	0	0	Distracting Shot	0	0
+931	0	0	Holy Shield	0	0
+932	0	0	Consecration	0	0
+951	0	0	PvP Battlefield Item - LONG (30 mins)	0	0
+971	0	0	Mortal Strike	0	0
+991	0	0	Item - SnowMaster	0	0
+1011	0	0	Frenzied Healing	0	0
+1031	0	0	Item - Half Hour	0	0
+1051	0	0	Item - Jumper Cables	0	0
+1071	0	0	Item - Hatch Jubling	0	0
+1091	0	0	Battlegrounds Recall	0	0
+1111	0	0	Wyvern Sting	0	0
+1131	0	0	Hammer of Vengeance	0	0
+1132	0	0	Intimidation	0	0
+1133	0	0	Faerie Fire (Feral)	0	0
+1134	0	0	Riposte	0	0
+1135	0	0	Counterattack	0	0
+1136	0	0	Holiday - Firework Rockets	0	0
+1137	0	0	Holiday - Firecracker	0	0
+1138	0	0	RC Weapons	0	0
+1139	0	0	Item - Quest (10 minutes)	0	0
+1140	0	0	Item - Quest (1 min)	0	0
+1141	0	0	Item - Burst Trinket	0	0
+1142	0	0	Holiday - Valentine	0	0
+1143	0	0	Item - Target Dummy	0	0
+1144	0	0	Priest Racial	0	0
+1145	0	0	Lightwell	0	0
+1146	0	0	Item - Enchanting Rod	0	0
+1147	0	0	Revive Champion	0	0
+1148	0	0	Spellstone	0	0
+1149	0	0	Quest - 1 Hour	0	0
+1150	0	0	ShadowThunderstrike	0	0
+1151	0	0	Talent - DPS	0	0
+1152	0	0	Creature Special	0	0
+1153	0	0	Item - Combat Cons. (Non-Aggressive)	0	0
+1154	0	0	Jewelcrafting - Cut Jewel	0	0
+1155	0	0	Arathi Basin Trinket	0	0
+1156	0	0	Reincarnation	0	0
+1157	0	0	Item - Quest (10 sec)	0	0
+1158	0	0	Intercept	0	0
+1159	0	0	Creature Special 2	0	0
+1160	0	0	Item - Priest Epic Staff	0	0
+1161	0	0	Reincarnation	0	0
+1162	0	0	Invisibility	0	0
+1163	0	0	Chess Cooldown, Move	0	0
+1164	0	0	Quest - Azuremyst Mount	0	0
+1165	0	0	Pain Spike	0	0
+1166	0	0	PvP Trinket/WOTF	0	0
+1167	0	0	Quest - Throw Boulder	0	0
+1168	0	0	Smoke Flare	0	0
+1169	0	0	Shadow Word: Death	0	0
+1170	0	0	Quest - Aerial Assault	0	0
+1171	0	0	Kill Command	0	0
+1172	0	0	Swift Shot	0	0
+1173	0	0	Arcane Shot	0	0
+1174	0	0	Enchanting	0	0
+1175	0	0	Viper Sting	0	0
+1176	0	0	Hearthstone	0	0
+1177	0	0	Ritual of Souls/Refreshment	0	0
+1178	0	0	Stealth Start	0	0
+1179	0	0	Curse of Doom	0	0
+1180	0	0	Goblin Rocket Helm	0	0
+1181	0	0	Prayer of Mending	0	0
+1182	0	0	PvP Class Trinkets	0	0
+1183	0	0	Item - Netherwing Whelp	0	0
+1184	0	0	Zone Flask - Blade\'s Edge	0	0
+1185	0	0	Zone Flask - Shattrath	0	0
+1186	0	0	Hand of Sacrifice	0	0
+1187	0	0	Blind	0	0
+1188	0	0	Chastise	0	0
+1189	0	0	Arcane Barrage	0	0
+1190	0	0	Item - PvP Health Increase	0	0
+1191	0	0	Shatter Shield	0	0
+1192	0	0	Starshards	0	0
+1193	1	0	Item - Repair Bot	0	0
+1194	0	0	Zone Buff - Sunwell	0	0
+1195	0	0	Earth Shield	0	0
+1196	0	0	Death Strike	0	0
+1197	0	0	Holiday - Snowball	0	0
+1198	0	0	Transmute - Alchemy (Metals)	0	0
+1199	0	0	Transmute - Alchemy (Unused)	0	0
+1200	0	0	Transmute - Alchemy (Gems)	0	0
+1201	0	0	Shockwave	0	0
+1202	0	0	Nature\'s Swiftness (Shaman)	0	0
+1203	0	0	Item - Speed	0	0
+1204	0	0	Circle of Healing	0	0
+1205	0	0	Feral Charge	0	0
+1206	0	0	Shadowstep	0	0
+1207	0	0	Blood Strike	0	0
+1208	0	0	Berserk	0	0
+1209	0	0	Shield Slam	0	0
+1210	0	0	Judgement	0	0
+1211	0	0	Heroic Leap	0	0
+1212	0	0	Teleport Dalaran - Epic Ring	0	0
+1213	0	0	Item - Tracking	0	0
+1214	0	0	Living Bomb	0	0
+1215	0	0	Dragon\'s Breath	0	0
+1216	0	0	Item - Engineering Enchant	0	0
+1217	0	0	Typhoon	0	0
+1218	0	0	Starfall	0	0
+1219	0	0	Charge	0	0
+1221	0	0	Deep Freeze	0	0
+1222	0	0	Haunt	0	0
+1223	0	0	Thunderstorm	0	0
+1224	0	0	Lava Burst	0	0
+1225	0	0	Warlock - Gul\'dan Spells	2	15000
+1226	0	0	Kill Shot	0	0
+1227	0	0	Bomber - Damage Control	0	0
+1228	0	0	Riptide	0	0
+1229	0	0	Item - Scroll of Recall	0	0
+1230	0	0	Penance	0	0
+1231	0	0	Concussive Shot	0	0
+1232	0	0	Item - Darkmoon Tarot Cards	0	0
+1233	0	0	Windfury Weapon	0	0
+1234	0	0	Holiday - Thanksgiving Table	0	0
+1235	0	0	Icecrown Bomber - Switch Seats	0	0
+1236	0	0	Darkmoon - Test of Strength	0	0
+1237	0	0	Wild Growth	0	0
+1238	0	0	Tracking	0	0
+1239	0	0	Tracking	0	0
+1240	0	0	Corpse Explosion	0	0
+1241	0	0	Cower	0	0
+1242	0	0	AP/POM	0	0
+1243	0	0	Power Word: Barrier	0	0
+1244	0	0	Tournament - Mounted Melee	0	0
+1245	0	0	Raise Dead	0	0
+1246	0	0	Tournament - Banner	0	0
+1247	0	0	Froststorm Breath	0	0
+1248	0	0	Howling Blast	0	0
+1249	0	0	Trap (Nature)	0	0
+1250	0	0	Trap (Fire)	0	0
+1251	0	0	Temporary Health	0	0
+1252	0	0	Goblin Rocket Belt	0	0
+1253	0	0	Horn of Winter	0	0
+1254	0	0	Stormstrike	0	0
+1255	0	0	Quest - Vehicle	0	0
+1256	8	7	Test - Ron\'s test	5	10000
+1257	0	0	Stampeding Roar	0	0
+1258	0	0	Tree Climbing	0	0
+1259	0	0	Lava Lash/Fire Nova	0	0
+1260	0	0	Skull Bash	0	0
+1261	0	0	Warrior Shout Buffs	0	0
+1262	0	0	Ardent Defender	0	0
+1263	8	0	Inscription - Create Recipe	0	0
+1264	0	0	Crusader Strike	0	0
+1265	0	0	Heroic Strike	0	0
+1266	0	0	Fear (Warlock)	0	0
+1267	8	0	Forged Documents	0	0
+1268	0	0	Priest - Archangel	0	0
+1269	0	0	Flame Orb	0	0
+1271	0	0	Soul Swap	0	0
+1272	0	0	Entangling Roots	0	0
+1273	8	0	Inscription - Forged Documents	0	0
+1274	8	0	Alchemy Research - Northrend	0	0
+1275	8	0	Inscription Research - Minor	0	0
+1276	8	0	Inscription Research - Northrend	0	0
+1277	0	0	Guild Page/Herald	0	0
+1278	8	0	Tailoring - Dreamcloth (Air)	0	0
+1279	8	0	Tailoring - Dreamcloth (Water)	0	0
+1280	8	0	Tailoring - Dreamcloth (Fire)	0	0
+1281	8	0	Tailoring - Dreamcloth (Earth)	0	0
+1282	8	0	Tailoring - Dreamcloth (Life)	0	0
+1283	0	0	Engineering - Belt Enchantment	0	0
+1284	0	0	Cosmetic - Summon	0	0
+1285	8	0	Tailoring - Glacial Bag	0	0
+1286	0	0	Archaeology Survey	0	0
+1287	0	0	Blade Flurry	0	0
+1288	0	0	Centering Move	0	0
+1289	0	0	Last Stand	0	0
+1290	0	0	Bird Attacks	0	0
+1291	8	0	Jewelcrafting - Prism	0	0
+1298	0	0	Shield Wall	0	0
+1328	0	5	Tailoring - Dreamcloth (ALL)	0	0
+1329	0	0	Rogue - Survival	0	0
+1330	0	0	Deadly Calm	0	0
+1331	0	0	Quest - Monastery Training	0	0
+1332	0	0	Enchantment - Windsong	0	0
+1333	0	0	Incarnation	0	0
+1334	0	0	Guardian	0	0
+1335	0	0	Dragon Soul Legendary	0	0
+1336	0	0	Warlock - Grimoire of Service	0	0
+1339	8	0	Inscription - Scroll of Wisdom - 5.0 Daily Cooldown	0	0
+1345	0	0	War Banner	0	0
+1347	0	0	Guild Banner	0	0
+1348	0	0	Warlock - Demonic Circle	0	0
+1349	8	0	Player Farm - Plot 1 Harvest Cooldown VFW: (DLA)	0	0
+1350	8	0	Player Farm - Plot 2 Harvest Cooldown VFW: (DLA)	0	0
+1351	8	0	Player Farm - Plot 3 Harvest Cooldown VFW: (DLA)	0	0
+1352	8	0	Player Farm - Plot 4 Harvest Cooldown VFW: (DLA)	0	0
+1353	8	0	Player Farm - Plot 5 Harvest Cooldown VFW: (DLA)	0	0
+1354	8	0	Player Farm - Plot 6 Harvest Cooldown VFW: (DLA)	0	0
+1355	8	0	Player Farm - Plot 7 Harvest Cooldown VFW: (DLA)	0	0
+1356	0	0	Shaman Elemental Totems	0	0
+1357	0	5	Enchanting - Crystal Transformation	0	0
+1358	0	0	Demonic Slash	3	4500
+1359	0	0	Barkskin	0	0
+1360	0	0	Chakra	0	0
+1361	0	0	Scenario - Item - Damage	0	0
+1362	0	0	Scenario - Item - Stun	0	0
+1363	0	0	Warlock - Summon Demon	0	0
+1364	0	0	Scenario - Item - Heal	0	0
+1365	0	0	Monk - Roll	2	20000
+1366	0	0	Priest - Halo	0	0
+1367	0	0	Monk - Serpent Statue	2	180000
+1372	0	0	Wild Mushroom	0	0
+1373	0	0	Feathers From Heaven	3	10000
+1374	0	0	Monk - Roll <Celerity>	2	15000
+1376	0	0	Druid - Savage Defense	3	9000
+1377	0	0	Monk - Healing Sphere	3	6
+1378	0	0	Dire Beast	0	0
+1380	0	0	Divine Star	0	0
+1383	0	0	Heart of the Wild	0	0

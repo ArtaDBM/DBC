@@ -1,0 +1,39 @@
+field0	field1
+5	Global - Scene
+6	PetBattle - Prototype 1.0
+7	Test - Darren\'s Test Scene 1
+8	Test - Darren\'s Test Scene 2
+9	Test - Darren\'s Test Scene 3
+18	Test - Darren\'s Test Scene 4
+19	Test - Kun Lai - JSB
+22	Test - Darren\'s Test Scene 5
+23	Kun Lai Summit - Horde Hub Swap Scene - JSB
+24	Test - Alex\'s Battle Pet Staging
+25	Kun Lai Summit - Alliance Hub Swap Scene - JSB
+26	Shen-zin Su - Healing Cinematic (CSA)
+27	Kun Lai Summit - Troll Scene - Reclaiming the Thunder God - JSB
+41	Kun Lai Summit - Troll Scene - Resurrecting the Thunder God - JSB
+42	Test - Alex\'s Expanded Package View
+43	Jade Forest - Fresco Scene - JSB
+44	Jade Forest - MoP Horde Intro Scene - JSB
+46	PetBattle - Prototype 2.0
+54	Vale of Eternal Blossoms - Lorewalker Story - S1: The Humble Grummle - ZTO
+55	Stormwind - Varian Gets Punched - PRK
+57	PetBattle Template - Custom Turn
+58	PetBattle Template - Custom Effect
+59	Stormstout Brewery - Virmen Keg - JMF
+60	Siege of Niuzao Temple - The Mantid Army - SLG
+61	Test - Darren\'s Test 4000+
+63	Orgrimmar - MoP Horde Intro Scene - JSB
+64	Townlong - Dread Shadow Fight - PRK
+66	PetBattle(fallback)
+67	Vale of Eternal Blossoms - Lorewalker Story - S2: Between a Saurok and a Hard Place - ZTO
+68	Townlong Steppes - Ring Worm Intro Camera (CSA)
+69	Townlong Steppes - Finale Spyglass Intro (CSA)
+147	Jade Forest - Stay a While, and Listen - JSB
+148	Great Wall - Mantid Army
+154	Valley of the Four Winds - Stoneplow Finale - PRK
+155	PetBattle
+156	Cinematic Framework
+157	PetBattle - Brazification Pass
+159	PetBattle - Brazification Pass - Extended Attacks

@@ -1,0 +1,1048 @@
+field0	field1	field2
+50	Gilneas Lev 6	0
+51	Gilneas Lev 7	0
+52	Gilneas Lev 8	4
+53	Gilneas Lev 9	0
+54	Gilneas Lev 10	4
+101	Gilneas City Unphased Terrain Swap	4
+102	Gilneas City Phase 1 Terrain Swap	4
+103	Gilneas City Phase 2 Terrain Swap	4
+104	Gilneas City Phase 3 Terrain Swap	4
+105	Gilneas City Phase 4 Terrain Swap	4
+106	Gilneas City Phase 5 Terrain Swap	0
+122	Gilneas Phase 11 Terrain Swap	4
+123		0
+124		0
+125	Test Phase	0
+126		0
+127		0
+141	The Lost Isles Phase 5 Terrain Swap	4
+142	The Lost Isles Phase 6 Terrain Swap	4
+161	The Lost Isles Phase 7 Terrain Swap	4
+162	The Lost Isles Phase 8 Terrain Swap	4
+163	The Lost Isles Phase 9 Terrain Swap	4
+164	The Lost Isles Phase 10 Terrain Swap	4
+165	Hyjal A	4
+166	Hyjal B	0
+167	Hyjal C	0
+168	Hyjal D	0
+169	Normal	8
+170	Quest Zone-Specific 01	0
+171	Quest Zone-Specific 02	0
+172	Quest Zone-Specific 03	0
+173	Dungeon Encounter 1	0
+174	Dungeon Encounter 2	0
+175	Custom Event 1	0
+176	Custom Event 2	0
+177	Custom Event 3	0
+178	Barber Shop	0
+179	Quest Zone-Specific 04	0
+180	Quest Zone-Specific 05	0
+181	Quest Zone-Specific 06	0
+182	Quest Zone-Specific 07	0
+183	Quest Zone-Specific 08	0
+184	Quest Zone-Specific 09	0
+185	Quest Zone-Specific 10	0
+186	Quest Zone-Specific 11	0
+187	Quest Zone-Specific 12	0
+188	Quest Zone-Specific 13	0
+189	Quest Zone-Specific 14	0
+190	Quest Zone-Specific 15	0
+191	Quest Zone-Specific 16	0
+192	Quest Zone-Specific 17	0
+193	Quest Zone-Specific 18	0
+194	Quest Zone-Specific 19	0
+195	Quest Zone-Specific 20	0
+196	Quest Zone-Specific 21	0
+197	Quest Zone-Specific 22	0
+198	Quest Zone-Specific 23	0
+199	Quest Zone-Specific 24	0
+200	Quest Zone-Specific 25	0
+201	Stonetalon Bomb	4
+209	test!!!	0
+223	Stonetalon Bomb 2	0
+224	Stonetalon 4.x - Cliffwalker Finale (Final)	4
+225	PattyMack<test>	4
+226	Westfall Act II	4
+228	Cavern Submarine	4
+229	Dragonmaw Story Chapter I	4
+230	CC Pro - EA - TB	0
+231	Vision of the Past	0
+232	Rise of the Brotherhood	4
+233	CC Pro - EA - IF	0
+234	Zul\'Gurub Mind Vision	0
+235	Zul\'Gurub Mind Control	0
+236	Twilight Highlands Horde Zeppelin Event	4
+237	Therazane Siege	4
+238	Dragonmaw Story Chapter II	4
+239	Attack on Booty Bay	4
+240	Render\'s Valley Camera	0
+241	Render\'s Valley Post Explosion	4
+242	Bravo Company Siege Tank	4
+243	Showdown	4
+244	Showdown	4
+245	Stitches Attacks	4
+246	Triumphant Return	4
+247	Dragonmaw Story Chapter III	4
+251	Rescue the Stonefather... and Flint	4
+252	The Stone March	4
+253	Temple of Earth Finale, Stage 1	4
+254	Temple of Earth Finale, Stage 2	4
+255	Temple of Earth Finale, Stage 3	4
+256	Temple of Earth Finale, Stage 4	4
+257	Temple of Earth Finale Complete 	4
+259	Andorhal 01 - Horde/Alliance vs. Scourge	4
+260	Andorhal 02 - Horde/Alliance Prep	4
+261	Andorhal 03 - Horde vs. Alliance	4
+262	Felstone Field - Alliance-Held	4
+263	Felstone Field - Val\'kyr Practice	4
+264	Forsaken High Command Introduction	4
+265	Lord Darius Crowley & Packleader Bloodfang	0
+266	Sophia\'s Choice	4
+267	For Lordaeron!	4
+268	Andorhal 04H - Val\'kyr Attack (H)	4
+269	Andorhal 05 - Andorhal Event	0
+270	Crypt Ambush	4
+271	Writhing Haunt Training	4
+272	Andorhal 04A - Val\'kyr Attack (A)	4
+273	The Waters Run Red...	0
+274	Gilneas Act I	4
+275	Gilneas Act II	4
+276	Gilneas Act III	4
+277	The Forsaken Front	4
+278	The Forsaken Front	4
+279	Amber Mill	4
+280	Amber Mill	4
+281	Amber Mill	4
+282	[UNUSED] Redridge 4.x - Bridge	4
+283	The Twilight Gate - Pre-Invasion	4
+284	The Forsaken Front	4
+285	The Twilight Gate - Invasion	4
+287	Battle for Tyr\'s Hand 1	4
+288	Battle for Tyr\'s Hand 2	4
+289	The Forsaken Front	4
+290	Twilight Zone	0
+293	The Day that Deathwing Came 1	4
+294	Quel\'Danil Battle	4
+295	The Day that Deathwing Came 2	0
+297	Uldum - Phased Oasis	4
+298	Entrance to Uldum	4
+299	Dunwald Market Row Ambush	4
+300	Dunwald Town Square Fight	4
+301	Nyxondra Vision	4
+302	The Bloodmire - Phase II	4
+303	Uldum - Caravan Event	0
+304	The Bloodmire - Phase III - Stonard	4
+305	Skullcrusher the Mountain Fight - Alliance	4
+306	Skullcrusher the Mountain Fight - Horde	4
+307	Rheastrasza\'s Gift	0
+308	Tailgunner!	0
+309	"\Put It On\"" Quest Phase"""	4
+310	The Day that Deathwing Came 3	0
+311	Firebeard\'s Attack	4
+312	Gobbles Completion Event	0
+313	Schnottz\'s Landing - Chapter 1	4
+314	Class Phase 1	0
+315	Schnottz\'s Landing - Chapter 2	4
+316	Jadefire Nether Pocket	4
+317	Welcome to the Machine	0
+318	Twilight Caravan Ambush, Horde	4
+319	Grim Batol Attack, Horde	4
+320	Twilight Caravan Ambush, Alliance	4
+321	Grim Batol Attack, Alliance	4
+322	Thundermar Attack - Horde	4
+323	Twilight Highlands - Gullet - Torth Attack	4
+324	Schnottz\'s Landing - Chapter 3	4
+325	Schnottz\'s Landing - Chapter 4	4
+326	The Sludge Fields	0
+327	Isorath Nightmare	4
+328	Isorath Awakened	4
+329	Sindweller Vision	0
+330	Tyrande Event	0
+331	Maelstrom Nightmare	4
+332	A Blight Upon the Land	4
+333	The Sludge Fields Reclaimed	4
+334	Eye of Twilight Vision	0
+335	Thundermar Attack - Alliance	4
+336	"The Lost Isles -  \Town-In-A- Box\"" Phased Terrain Preload it"""	4
+337	Obelisk of the Moon - Chapter 1	4
+338	Obelisk of the Moon - Final	4
+339	Oil Leak!	4
+340	Fires	0
+341	Assault on Dreadmaul Rock - Cinematic	0
+342	Assault on Dreadmaul Rock 1	4
+343	Stormpike Rendezvous	0
+344	Battle for the Undercity	0
+345	Battle for the Undercity	0
+346	Assault on Dreadmaul Rock 2	4
+347	Obelisk of the Moon - Chapter 2	4
+348	Road to Purgation	0
+349	Glopgut\'s Hollow - Dwarf Attack	4
+350	March of the Stormpike	4
+351	Uldum - Chamber of the Moon - Initial	4
+352	Uldum - Chamber of the Moon - Pre-Fight	4
+353	Uldum - Chamber of the Moon - Fight	4
+354	Uldum - Chamber of the Moon - Final	4
+355	March of the Stormpike	0
+356	Uldum - Artillery Event	4
+357	Aid of the Frostwolf	0
+358	Thousand Needles Raceway - Race 1	4
+359	Kirthaven Wedding Scene	0
+360	Kirthaven Wedding Fight	0
+361	Krazzworks Highbank Attack	4
+362	Fire From the Sky Completion	4
+363	The Headland	4
+364	Stormpike Apocalypse	0
+365	Plants Vs. Ghouls Game Phase	4
+366	Cradle of the Ancients - Harrison - Prephase	4
+367	Uldum - Phased Oasis - Spawns	4
+368	Kirthaven Wedding Celebration	0
+369	Rotbrain Battle	4
+370	Caravan Event Phase	0
+371	Deathwing vs. Alexstrasza	0
+372	Twilight Highlands - Stormwind Prelude - Barracks	4
+373	Twilight Highlands - Stormwind Prelude - Catacombs	4
+374	Dormus The Camel-Hoarder	4
+375	"The Lost Isles -  \Volcano Eruption\"" Phased Terrain Preload it"""	4
+376	Sullah\'s Caravan	0
+377	Uldum - Firing Squad	4
+378	Kezan - Chapter 1	4
+379	Kezan - Chapter 2	4
+380	Kezan - Chapter 3	4
+381	Kezan - Chapter 4	4
+382	Kezan - Chapter 5	4
+383	Kezan - Chapter 6	4
+384	Kezan - Chapter 7	4
+385	Security Alert Cinematic	0
+386	Obelisk Explosion Cinematic	0
+387	Schnottz So Fast Cutscene	0
+388	Uldum - Chamber of the Moon - Beam Cutscene	0
+389	Deathwing vs. Alexstrasza Cutscene	0
+390	Uldum - Temple of Uldum	0
+391	Pre-sundering - Uldum	4
+392	Presundering - Twilight Highlands	4
+393	Plants Vs. Ghouls Game Phase - Endless	4
+394	Three if by Air	0
+395	Spirit Realm	0
+396	Coffer of Promise	0
+397	Deathwing vs. Alexstrasza	0
+399	To Windshear Hold!	0
+400	UNUSED	4
+401	Blizzcon Paragon Raid	4
+402	Blackwing Descent - Magmaw	0
+404	Suppressing the Firelord - Alliance	4
+405	Suppressing the Firelord - Horde	4
+406	Twilight Highlands - Drake Ride Cutscene	0
+407	Vashj\'ir - Personal Phase - Briny Cutter Battle	0
+408	Vashj\'ir - Personal Phase Aura - Immortal Coil	0
+417	Elemental Phase	4
+418	Twilight Invasion	4
+421	Firebeak Bombing Phase	4
+424	Stranglethorn - 4.1 - ZG Event	0
+425	Hyjal Regrowth Invasion	4
+426	Hyjal Regrowth Pre-Invasion A	4
+427	Anachronos Vision	0
+428	Forlorn Spire Assault	4
+429	Elemental Bonds - Worldtree Intro Cinematic	0
+430	Tarecgosa Intro	0
+431	Hyjal Regrowth Pre-Invasion C	4
+432	Hyjal Regrowth Pre-Invasion D	4
+433	Hyjal Regrowth Pre-Invasion B	0
+434	Eye of Eternity Cutscene 01	0
+438	Emergency Extraction Cutscene	0
+440	Foothold Fight	4
+441	Coldarra - At One Scene	0
+442	Firelands Tree, Not Grown	0
+443	Firelands Tree, Half Grown	0
+444	Firelands Tree, Full Grown	0
+445	Furnace Assault	4
+448	Alignment Cutscene	0
+449	Post Alignment Alignment Cutscene	0
+450	Foothold Completion	4
+451	Leyara Confrontation	4
+452	The Nexus - Legendary	4
+459	Nexus Legendary QUEST CRITERIA COMPLETE	0
+460	Silverpine 4.x - Arugal Resurrection Event	0
+467	Elemental Bonds - Firelands Quests	4
+470	Leyara Confrontation Completion	0
+473	Elemental Bonds - Alysra Kill Event	4
+486	Training Master Completion	0
+489	Wayward Landing - Arrival Phase	4
+503	Art of War Cutscene	0
+504	Spirit Master Fight	0
+509	Over the Deep Blue Cutscene	0
+515	The Debriefing: Rell\'s Report	4
+516	The Debriefing: Sully\'s Report	4
+517	The Debriefing: Yu\'s Report	4
+518	The Debriefing: Amber\'s Report	4
+523	A King\'s Request Cutscene	0
+524	Dragon Fight	4
+525	Scouting Report: Hostile Natives	4
+526	Scouting Report: A Rain of Lead	4
+527	Scouting Report: We\'re Not Alone	4
+528	Scouting Report: Like Jinyu in a Barrel	4
+529	Acid Rain	0
+535	Ravenholdt Infiltration Phase	4
+536	Dragon Fight Completion	4
+540	To Bridge Earth and Sky	0
+541	Wisdom of the Ages	0
+542	One Hand Clapping	0
+543	Crashed Ship Boss Fight	4
+544	Crashed Ship Healing	4
+545	Crashed Ship Healed	4
+546	Wisdom of the Ages	0
+549	Cosmetic - PattyMack Cosmetic 2	20
+550	Instant Messaging Event	0
+553	Ling Completion Phase	4
+555	Skat Shoot	0
+556	Cosmetic - Sha of Doubt	16
+559	Legacy	0
+560	Broken Dreams	0
+561	Pei-Back	4
+562	Grimleer Showdown	4
+563	Unyielding Fist	0
+566	Cosmetic - Sha of Doubt	16
+567	Cosmetic - Sha of Doubt	16
+568	Cosmetic - Sha of Doubt	16
+569	Cosmetic - Sha of Doubt	16
+573	Temple of the Jade Serpent	4
+575	Fort Grookin War Prep	4
+579	Stoneplow Finale	4
+580	Cosmetic - Blacksoil	20
+582	Cosmetic - Greentill	20
+583	Cosmetic - Marlfur	20
+584	Cosmetic - Spadepaw	20
+585	Cosmetic - Lin in Stoneplow	20
+586	Cosmetic - Bamboo Stack, Unbroken	20
+587	Cosmetic - Bamboo Stack, Broken	20
+588	Cosmetic - Wood Stack, Unbroken	20
+589	Cosmetic - Wood Stack, Broken	20
+590	Cosmetic - Stone Stack, Unbroken	20
+591	Cosmetic - Stone Stack, Broken	20
+592	Cosmetic - Warrior Weapon Racks	20
+593	Cosmetic - Mage Weapon Racks	20
+594	Cosmetic - Hunter Weapon Racks	20
+595	Cosmetic - Priest Weapon Racks	20
+596	Cosmetic - Rogue Weapon Racks	20
+597	Cosmetic - Shaman Weapon Racks	20
+598	Cosmetic - Monk Weapon Racks	20
+599	Cosmetic - Azure Serpent	20
+600	Cosmetic - Crimson Serpent	20
+601	Cosmetic - Emerald Serpent	20
+602	Cosmetic - Gold Serpent	20
+606	Temple of the Jade Serpent - Cinematic - Arrival	4
+607	Temple of the Jade Serpent - Cinematic - Serpent	4
+608	Cosmetic - Chen in Halfhill	20
+611	Cosmetic - Li Li in Halfhill	20
+614	East Temple Sha Dailies - Grounds	4
+616	Cosmetic - Mina at Home	20
+617	Cosmetic - Mina on Carrot	20
+618	Bonkers Brewery	4
+619	Cosmetic - Chen at Brewery Front	20
+620	Cosmetic - Chen at Brewery Back	20
+621	Cosmetic - Li Li at Brewery Front	20
+622	Cosmetic - Li Li at Brewery Back	20
+623	Cosmetic - Mudmug at Brewery Front	20
+624	Cosmetic - Mudmug at Brewery Back	20
+625	Cosmetic - Kung Fu Intro	20
+628	Ravenholdt Chapter 03 Cutscene	0
+629	Cosmetic - Cart Driver Captured	20
+630	Cosmetic - Cart Driver Freed	20
+631	Cosmetic - Huo, Pre-Ignition	20
+632	Cosmetic - Huo, Post-Ignition	20
+635	Gilneas Infiltration Phase	4
+638	Cosmetic - Bell	16
+639	Cosmetic - Water SpringsNOTUSED	16
+640	Karazhan Infiltration Phase	4
+642	Cosmetic - Mudmug in Halfhill	20
+643	Cosmetic - Post-Brewing NPCs in Halfhill	20
+644	Cosmetic - Barrels in Halfhill	20
+645	Cosmetic - NPCs at Brewery Front	20
+646	Cosmetic - NPCs at Brewery Back	20
+647	Knocking on the Door B	4
+648	East Temple Sha Dailies - Bombing Run	4
+649	Cosmetic - Cart at Brewery Front	20
+650	Cleaning House	4
+651	Ravenholdt Chapter 08 Finale	4
+652	Ravenholdt Chapter 08 Finale Cutscene	4
+655	Cosmetic - Jade Witch Pre-Fight	20
+656	Cosmetic - War Serpent for FirefightingNOTUSED	16
+657	Cosmetic - War Serpent for BombingNOTUSED	16
+658	Cosmetic - Doza in New Taurajo	20
+659	Cosmetic - New Taurajo (Going West)	20
+660	Cosmetic - Chezin Dawnchaser (Alive, H)	20
+661	Cosmetic - Kang Bramblestaff (New Taurajo)	20
+662	Cosmetic - New Taurajo (Going West)	20
+665	The Arboretum - Serpent Hatch Cinematic	4
+666	Cosmetic - Li Li at Granary	20
+667	Cosmetic - Mudmug at Gilded Fan	20
+668	Cosmetic - New Taurajo (Labor for Labor)	20
+669	Zhu\'s Despair	0
+670	Well of Eternity - Well RP Scene	0
+673	Cosmetic - The Torjari Pits (Toad Mastery)	20
+674	Cosmetic - The Torjari Pit (Post Toad Mastery)	20
+675	Cosmetic - Nesingwary\'s Safari	20
+676	Cosmetic - Nesingwary\'s Safari - Darkwool\'s Head	20
+677	Cosmetic - Nesingwary\'s Safari	20
+678	Cosmetic - Lair of the Beast (Fight NPCs)	20
+679	Cosmetic - Fallsong Village (Horde)	20
+680	Cosmetic - Flag 1	20
+681	Cosmetic - Flag 2	20
+682	Cosmetic - Flag 3	20
+683	Cosmetic - Flag 4	20
+684	Cosmetic - Flag 5	20
+685	Cosmetic - Flag 6	20
+686	Cosmetic - Flag 7	20
+687	Cosmetic - Flag 8	20
+688	Cosmetic - Flag 9	20
+689	Cosmetic - Flag 10	20
+690	Cosmetic - Nesingwary\'s Safari (Mushan done)	20
+691	Cosmetic - Nesingwary\'s Safari (Wolf done)	20
+692	Cosmetic - Post-Birth Event	20
+693	Cosmetic - Nesingwary\'s Safari (Fox done)	20
+694	The Arboretum - They Grow Like Weeds	4
+695	Birth Scene	4
+698	The Arboretum - Riding the Skies	4
+699	Cosmetic - Farwalker Refuge (Going West)	20
+700	Montage A	4
+701	Cosmetic - Forbidden Jungle (Captives)	20
+703	Montage B	4
+704	Cosmetic - Farwalker Refuge (For the Tribe)	20
+705	Cosmetic - Forbidden Jungle (H)	20
+706	Cosmetic - Farmer Yoon State 1	20
+707	Cosmetic - Farmer Yoon State 2	20
+708	Cosmetic - Farmer Yoon State 3	20
+709	Cosmetic - Unbudging Rocks	20
+710	Cosmetic - Farwalker Refuge (Conclusion)	20
+711	The Incursion (Oubliette)	4
+712	Cosmetic - See Haohan Mudclaw at House	20
+713	Cosmetic - See Haohan Mudclaw at Market	20
+714	Cosmetic - See Old Hillpaw at House	20
+715	Cosmetic - See Old Hillpaw at Market	20
+716	Cosmetic - See Farmer Fung at House	20
+717	Cosmetic - See Farmer Fung at Market	20
+718	Cosmetic - See Tina Mudclaw at House	20
+719	Cosmetic - See Tina Mudclaw at Market	20
+720	Cosmetic - See Chee Chee at House	20
+721	Cosmetic - See Chee Chee at Market	20
+722	Cosmetic - See Sho at House	20
+723	Cosmetic - See Sho at Market	20
+724	Cosmetic - See Ella at House	20
+725	Cosmetic - See Ella at Market	20
+726	Cosmetic - See Fish at House	20
+727	Cosmetic - See Fish at Market	20
+728	Cosmetic - Krasarang Wilds (Horde)	20
+729	Cosmetic - Krasarang Wilds (Alliance)	20
+734	Cosmetic - Kang Bramblestaff (The Incursion)	20
+735	Cosmetic - The Lost Dynasty (A)	20
+736	Cosmetic - Sentinel Basecamp (No Sister Left Behind)	20
+737	Cosmetic - Ruins of Korja (Horde)	20
+738	Cosmetic - Yoon\'s Marsh Lotus	20
+739	Cosmetic - Ruins of Korja (Hostages)	20
+741	Cosmetic - The Incursion (Post-Poisoning)	20
+742	Cosmetic - The Incursion (Pre-Poisoning)	20
+743	Cosmetic - The Lost Dynasty (A)	20
+744	Cosmetic - The Incursion (Lorekeeper Vaeldrin)	20
+745	Cosmetic - The Incursion (Post-Immortality, Lyalia)	20
+746	Cosmetic - The Incursion (Pre-Immortality, Lyalia)	20
+747	Cosmetic - Krasarang Wilds (Alliance)	20
+748	Cosmetic - Krasarang Wilds (Horde)	20
+751	Cosmetic - The Incursion (Main NPCs visible)	20
+752	Cosmetic - Forbidden Jungle (A)	20
+753	Cosmetic - Forbidden Jungle (Rescued Stoneplow Envoy)	20
+754	Cosmetic - The Incursion (Vaeldrin visible)	20
+755	Cosmetic - The Incursion (Pre-Immortality)	20
+756	Cosmetic - Sentinel Basecamp (Alliance Present) 	20
+757	Cosmetic - Sentinel Basecamp (Vaeldrin) 	20
+758	Cosmetic - Sentinel Basecamp (Lyalia Present) 	20
+759	Cosmetic - Sentinel Basecamp (Lyalia Present 02) 	20
+760	Cosmetic - Sentinel Basecamp (Lyalia Corpse)	20
+765	Cosmetic - The Incursion (Alynna)	20
+766	Cosmetic - See Little Lu	20
+767	Cosmetic - Nimm Codejack	20
+768	Cosmetic - Nimm\'s Cage	20
+770	Cosmetic - The Incursion (Xintar visible)	20
+771	Cosmetic - The Incursion (Post-Going on the Offensive)	20
+772	Cosmetic - Glassfin Waterspeaking Actors	20
+773	Cosmetic - Glassfin Waterspeaking Elder	20
+774	Cosmetic - Shrine of the Dawn (Find the Boy)	20
+775	Cosmetic - Dawnblossom (Lo Flamelager 01)	20
+776	Cosmetic - Dawnblossom (Shrine of the Dawn Complete)	20
+777	Ambermist Bog - The Dream Brew Vision	4
+778	Spirit Shift	0
+779	Cosmetic - Anduin Camp	20
+780	Cosmetic - Alliance Flags	20
+783	Cosmetic - Simian Sabotage - Stolen Weapons	20
+784	Cosmetic - Simian Sabotage - Stolen Tools	20
+785	Cosmetic - Simian Sabotage - Stolen Beer	20
+786	Cosmetic - Simian Sabotage - Stolen Grain	20
+787	Jade Dragon Destroyed 	0
+788	Jade Dragon Destroyed - Bombing Run	0
+789	Jade Dragon Intact 	4
+790	Cosmetic - Yak Wash 001	20
+791	Cosmetic - Yak Wash (Post wash)	20
+792	Cosmetic - Yombo Grumblepaw 001	20
+795	Cosmetic - See Ka Pao	20
+797	Serpent\'s Spine - Before Battle	4
+798	Meditation	0
+801	Cosmetic - Nazgrim & Taylor Unconscious	20
+802	Cosmetic - Nazgrim & Taylor Conscious	20
+803	Cosmetic - Frightened Pandaren in Binan Village	20
+804	Cosmetic - The Deeper (Idol 1 - Broken)	20
+805	Cosmetic - The Deeper (Idol 1 - Not Broken)	20
+809	Cosmetic - Plot Expansion 1	20
+810	Cosmetic - See Gai Lan at Farm	20
+811	Cosmetic - Easterly & Westerly Rest Not Taken	20
+812	Cosmetic - Easterly & Westerly Rest Taken	20
+813	Cosmetic - See Suspicious Footprints	20
+814	Cosmetic - Plot Expansion 2	20
+815	Glassfin Village War Prep	4
+816	Cosmetic - Do Not See Fish Because She\'s Working	20
+817	Cosmetic - See Gai Lan	20
+818	Cosmetic - See Gai Lan Junior	20
+819	Cosmetic - See Lost Dog	20
+820	Cosmetic - See Dog	20
+821	Cosmetic - See Fish at Farmer Yoon\'s	20
+822	Cosmetic - Dusty Spots	20
+823	Chief Yip-Yip	4
+824	Cosmetic - Plot Expansion 3	20
+825	Cosmetic - See Haohan at Farmer Yoon\'s	20
+826	Cosmetic - See Thunder	20
+827	Cosmetic - Upgrade - See Fixed Wagon	20
+828	Cosmetic - Upgrade - See Mushan Beast	20
+829	Cosmetic - Upgrade - See Chickens	20
+830	Cosmetic - Upgrade - See Horse	20
+831	Cosmetic - Upgrade - See Sheep	20
+832	Cosmetic - Upgrade - See Pigs	20
+833	Cosmetic - Upgrade - See Cat	20
+834	Cosmetic - Upgrade - See Tree	20
+835	Cosmetic - Upgrade - See Mailbox	20
+836	Cosmetic - See Ka Pao	20
+837	Cosmetic - See Luna at Ella\'s	20
+838	Cave of Scrolls Attack	4
+841	Cosmetic - Tassle 001	20
+842	Riding Tassle	4
+843	Cosmetic - Uyen Chow\'s Cast Iron Pot and Vegetables	20
+844	Cosmetic - Farmhand is Chee Chee	20
+845	Cosmetic - Farmhand is Ella	20
+846	Cosmetic - Farmhand is Fish	20
+847	Cosmetic - Farmhand is Fung	20
+848	Cosmetic - Farmhand is Gina	20
+849	Cosmetic - Farmhand is Haohan	20
+850	Cosmetic - Farmhand is Jogu	20
+851	Cosmetic - Farmhand is Old Hillpaw	20
+852	Cosmetic - Farmhand is Sho	20
+853	Cosmetic - Farmhand is Tina	20
+854	Cosmetic - Farmer Chow\'s Yaks	20
+855	Cosmetic - See Jogu at Market	20
+856	Cosmetic - See Gina at Market	20
+857	Cosmetic - Uyen Chow\'s Meat	20
+858	Cosmetic - Freed Farmhands	20
+859	Cosmetic - See Rake	20
+860	Cosmetic - See Dark Soil	20
+861	Cosmetic - See Rivett\'s Grill	20
+862	Serpent\'s Spine - Post Apacolypse 	4
+863	Cosmetic - See Rell Nightwind at Wayward Landing	20
+864	Cosmetic - The Great Shazboodle 01	16
+865	Cosmetic - Unloaded Firework Launchers	20
+866	Cosmetic - Loaded Firework Launchers	20
+867	Cosmetic - Supplies Restocked 	20
+868	Cosmetic - See Mishka at Plane	20
+869	Cosmetic - Sherpan Gathered	20
+870	Cosmetic - Mogu Relics Flavor	20
+871	Cosmetic - Ji-Lu\'s Cart 01	20
+872	Cosmetic - Ji-Lu\'s Cart 02	20
+873	Cosmetic - Supplies in Cart 	20
+874	Cosmetic - Loon Mai at House	20
+875	Cosmetic - Loon Mai at Barricade	20
+876	Golden Valley Intro	4
+877	Cosmetic - See Momo	20
+878	Cosmetic - Mandori Village Gate Spawns	20
+879	Cosmetic - Pei-Wu Forest Gate Spawns	20
+884	Cosmetic - The Great Shazboodle	20
+885	Cosmetic - The Great Shazboodle Prisoner	20
+886	Cosmetic - Pako the Speaker	20
+887	Cosmetic - The Deeper (Idol 2 - Not Broken)	20
+888	Cosmetic - The Deeper (Idol 2 - Broken)	20
+889	Cosmetic - The Deeper (Idol 3 - Not Broken)	20
+890	Cosmetic - The Deeper (Idol 3 - Broken)	20
+891	Ruins Rise - Cave is Open	4
+892	"Cosmetic - On \Round \'Em Up\"""""	20
+893	Cosmetic - See He Softfoot	20
+894	Cosmetic - Mudmug in Stoneplow	20
+895	Cosmetic - See Arrow	20
+896	Cosmetic - Stoneplow Kegs - Archers	20
+897	Cosmetic - Stoneplow Kegs - Priests	20
+898	Cosmetic - Stoneplow Kegs - Shadowpan	20
+899	Cosmetic - Stoneplow Kegs - Alliance	20
+900	Cosmetic - Stoneplow Kegs - Horde	20
+901	Ruins Rise - Cave is Closed	4
+902	Cosmetic - Floor Babies	20
+903	Cosmetic - Hermit Hut Spawns	20
+904	Player Farm - Horde Phase	4
+905	Player Farm - Alliance Phase	4
+906	Cosmetic - Fort Silverback (Snackrifice)	20
+907	"Cosmetic - On \Pandaren Prisoners\"""""	20
+908	Cosmetic - The Other Shazboodle 01	20
+909	Cosmetic - Fort Silverback (prelude)	20
+910	Cosmetic - Fort Silverback (Prelude 002)	20
+911	"Cosmetic - \In Tents Channeling\"" Fire Shield"""	20
+912	Cosmetic - Miss Fanny in Stoneplow	20
+913	Cosmetic - Mantid Colossus	20
+914	"Cosmetic - \Barrels of Fun\"" - Eastern Oil Rig Effects"""	20
+915	"Cosmetic - \Barrels of Fun\"" - Southern Oil Rig Effects"""	20
+916	"Cosmetic - \Barrels of Fun\"" - Western Oil Rig Effects"""	20
+917	Cosmetic - Fort Silverback (Idol 4 - Not Broken)	20
+918	Cosmetic - Fort Silverback (Idol 4 - Broken)	20
+919	Golden Valley Finale	4
+920	Golden Valley Finale Completion Phase	4
+921	"Cosmetic - \Challenge Accepted\"" Props Before"""	20
+922	"Cosmetic - \Challenge Accepted\"" Props After"""	20
+923	Cosmetic Phase - See Rusty Watering Can	20
+924	Cosmetic Phase - See Vintage Bug Sprayer	20
+925	Silent Sanctuary NPCs Dead	4
+926	Silent Sanctuary Combat Phase	4
+927	Cosmetic - Untainted Supplies	20
+928	Cosmetic - The Dooker Dome (Sherp it Up)	20
+929	Cosmetic - See NPCs at Outpost - Phase 1	20
+930	Cosmetic - Dooker Dome (Questgivers 1)	20
+931	Cosmetic - Supplies at the Camp - Phase 2	20
+932	Dooker Dome (Final Fight)	4
+933	Cosmetic - Rokko	20
+934	Dooker Dome (Final Fight Prep)	4
+935	"Cosmetic - \Holed Up\"" - Jin Warmkeg"""	20
+936	"Cosmetic - \Holed Up\"" - Mayor Firebough"""	20
+937	Cosmetic - Lha-Po - Phase 3	20
+938	Cosmetic - The Deeper (Idol 2 Alter - Not Broken)	20
+939	Cosmetic - The Deeper (Idol 3 Alter - Not Broken)	20
+940	Cosmetic - The Deeper (Idol 1 Alter - Not Broken)	20
+941	"Cosmetic - \Holed Up\"" - Old Lady Fung"""	20
+942	"Cosmetic - \Holed Up\"" - Sya Lotusflower"""	20
+943	Cosmetic - See Leven Dawnblade During Finale Completion	20
+944	Cosmetic - Yeti Mountain Basecamp	20
+945	Cosmetic - See Extra Dead Bodies	20
+946	Cosmetic - Spare Plank	20
+947	Horde Hub Swap	0
+948	Cosmetic - Tough Kelp	20
+949	Cosmetic - See Campfire at Outpost - Phase 1	20
+950	Cosmetic - Player Raft	20
+951	Cosmetic - The Dooker Dome (Monkey Idol 5 - Not Broken)	20
+952	Cosmetic - See Refugees at Gate	20
+953	Cosmetic - See Questgivers at Gate	20
+954	Cosmetic - The Dooker Dome (Monkey Idol 5 - Broken)	20
+955	"Cosmetic - \The Show Must Go On!\"" Special FX"""	20
+956	"Cosmetic - \Holed Up\"" - Complete"""	20
+957	Cosmetic - See Mogu Gate 1 - FIRST	20
+958	Cosmetic - See Mogu Gate 1 - SECOND	20
+959	Cosmetic - Silent Sanctuary Guards 1 (Fewer)	20
+960	Cosmetic - Silent Sanctuary Guards 2 (More)	20
+961	Cosmetic - Recipe - Flask of Spring Blossoms	20
+962	Cosmetic - See Zhi the Harmonious at Twin Monoliths	20
+963	Fort Silverback - Old Poot Poot Escape	4
+964	Cosmetic - Aysa\'s Vision	20
+965	"Cosmetic - \Regaining Honor\"" Completed"""	20
+966	Cosmetic - Cradle of Chi-Ji - Boss Fight 00	20
+967	Cosmetic - Cradle of Chi-Ji - Boss Fight 01	20
+968	Cosmetic - Cradle of Chi-Ji - Boss Fight 02	20
+969	Cosmetic - Cradle of Chi-Ji - Boss Fight 03	20
+970	Cosmetic - Cradle of Chi-Ji - Boss Fight 04	20
+971	Cosmetic - Cradle of Chi-Ji - Boss Fight 05	20
+972	Cosmetic - Cradle of Chi-Ji - Boss Fight 06	20
+973	Cosmetic - Cradle of Chi-Ji - Boss Fight 07	20
+974	Cosmetic - Cradle of Chi-Ji - Boss Fight 08	20
+975	Cosmetic - Cradle of Chi-Ji - Boss Fight 09	20
+976	Cosmetic - Cradle of Chi-Ji - Boss Fight 10	20
+977	Cosmetic - Cradle of Chi-Ji - Boss Fight 11	20
+978	Cosmetic - Cradle of Chi-Ji - Boss Fight 12	20
+979	Cosmetic - Cradle of Chi-Ji - Boss Fight 13	20
+980	Cosmetic - Cradle of Chi-Ji - Boss Fight 14	20
+981	Cosmetic - Cradle of Chi-Ji - Boss Fight 15	20
+984	Cosmetic - Intro - Two Soldiers	20
+985	Cosmetic - Cradle of Chi-Ji - Thelonius	20
+986	Cosmetic - Cradle of Chi-Ji - Kuo-Na	20
+987	Cosmetic - Cradle of Chi-Ji - Yan	20
+988	Cosmetic - See Battle Axe	20
+989	Cosmetic - See Battle Helm	20
+990	Cosmetic - See 3 Weapons	20
+992	Cosmetic - Destroyed Fishing Village QG Kneeling	20
+993	Crashed Ship Cinematic Leadin	4
+994	Cosmetic - Sumprushes - Broken Torch	20
+995	Cosmetic - Sumprushes - Mistbreaker\'s Torch	20
+996	Cosmetic - See Cooking Pot Sparkles	20
+997	Cosmetic - Sumprushes - Freed Orbiss	20
+998	Cosmetic - Destroyed Panda Village Intro	20
+999	Cosmetic - A Fair Trade - Questgivers	20
+1000	Cosmetic - Destroyed Panda Village Escort	20
+1001	The Burlap Grind	0
+1004	Alliance Hub Swap	0
+1005	Cosmetic - See Archers on Cart Ride	20
+1006	Cosmetic - A Fair Trade - Kota Kon	20
+1007	Cosmetic - Keenbean and Gootfur A	20
+1008	Cosmetic - See Shado-Pan Banner	20
+1009	Cosmetic - A Fair Trade - Lair of Kota Kon	20
+1010	Cosmetic - See Ban at Osul Peak	20
+1011	Cosmetic - See Ban at Outpost	20
+1012	Cosmetic - Sumprushes - Misty Orbiss	20
+1013	Cosmetic - Sumprushes - Golgoss	20
+1014	Cosmetic - Sumprushes - Arconiss	20
+1015	Cosmetic - See Taran	20
+1016	Cosmetic - Sumprushes - Finale Actors	20
+1017	Cosmetic - Sumprushes - Final Orbiss	20
+1018	Cosmetic - Kun-Lai Village Funeral Done	20
+1019	Cosmetic - Kun-Lai Funeral Incense Stick	20
+1020	Cosmetic - See Ban at Outpost	20
+1021	Cosmetic - Kun-Lai Funeral - Pre-Event Props (Not Stick)	20
+1022	Cosmetic - See Suna 1 at Osul Peak	20
+1023	Cosmetic - See Suna 2 at Osul Peak	20
+1024	Cosmetic - Burlap Waystation (Snackrifice Complete)	20
+1025	Cosmetic - See Suna 2 at Osul Peak	20
+1026	Cosmetic - See Suna at Outpost	20
+1027	Cosmetic - Fire Spirit Rescued	20
+1028	Cosmetic - Water Spirit Rescued	20
+1029	Cosmetic - Earth Spirit Rescued	20
+1030	Cosmetic - Air Spirit Rescued	20
+1031	Cosmetic - Ancient Text	20
+1032	Cosmetic - Burlap Trail 1	20
+1033	Cosmetic - Burlap Trail 2	20
+1034	Cosmetic - Grain Basket in Halfhill	20
+1035	Cosmetic - See Totem of Kindness	20
+1036	Cosmetic - See Totem of Love	20
+1037	Cosmetic - See Totem of Serenity	20
+1038	Cosmetic - See Totems	20
+1039	Cosmetic - Hop Bags in Halfhill	20
+1040	Horde Hub Swap	0
+1041	Cosmetic - Lin in Paoquan	20
+1042	Hatred Phase	4
+1045	Cosmetic - Mysterious Whirlpool	20
+1046	Cosmetic - North Fissure Available	20
+1047	Cosmetic - East Fissure Available	20
+1048	Cosmetic - South Fissure Available	20
+1049	Cosmetic - Wayward Lamb	20
+1051	Cosmetic - See Shado-Pan	20
+1053	Resurrecting Thunder God	0
+1054	Cosmetic - See Shado-Pan	20
+1055	Cosmetic - See Questgivers	20
+1056	Cosmetic - See Caravan	20
+1057	Cosmetic - See Xiao Tu	20
+1058	Cosmetic - See Yalia	20
+1059	Cosmetic - Xuen Location 1 - Intro	20
+1060	Cosmetic - Xuen Location 2 - Gazebo	20
+1061	Cosmetic - Xuen Location 3 - Eastern Arena	20
+1062	Cosmetic - Xuen Location 4 - Eastern Arena	20
+1063	Cosmetic - Xuen Location 5 - Tiger Temple 1	20
+1064	Cosmetic - See Xiao Tu	20
+1065	Cosmetic - See Questgivers	20
+1066	Cosmetic - See Yalia	20
+1067	Cosmetic - See Xiao Tu	20
+1068	Lei Shen\'s Tomb With Remains	4
+1069	Cosmetic - Kri\'vess - Weapon Racks	20
+1070	Cosmetic - Kri\'vess - Eggs	20
+1071	Cosmetic - Kri\'vess - Exploded Eggs	20
+1072	Cosmetic - Kri\'vess - Exploded Weapons	20
+1073	Cosmetic - See Mishi in Ruins	20
+1074	Cosmetic - See Shado-Pan	20
+1075	Cosmetic - Burial at Sea Questgiver	20
+1077	GoWB - Attack Phase 1 (Wall and Barrel Roll)	4
+1078	GoWB - Attack Phase 2 Pre-Event	4
+1079	Cosmetic - GoWB - Post-Attack	16
+1080	Cosmetic - Tiger Temple (Round 1 Flavor)	20
+1081	Cosmetic - Tiger Temple (Round 2 Flavor)	20
+1082	Cosmetic - Tiger Temple (Round 3 Flavor)	20
+1083	Cosmetic - Tiger Temple (Round 4 Flavor)	20
+1084	Cosmetic - Taoshi, Gao-ran Blockade	20
+1085	Cosmetic - Taoshi, Shallowstep Pass	20
+1086	Cosmetic - Taoshi, Dampsoil Burrow	20
+1087	Cosmetic - See Dead Bodies	20
+1088	Cosmetic - See Grayson Early Normal	20
+1089	Cosmetic - See Flavor Crewmen	20
+1090	Cosmetic - Clouds	20
+1091	Cosmetic - Scout Wei-chin	20
+1092	Cosmetic - Scout Jai-gan	20
+1093	Cosmetic - Scout Ying	20
+1094	Cosmetic - Scout Long	20
+1095	Cosmetic - Don\'t See Zuni	20
+1098	Cosmetic - Gorrok in Hellscream\'s Hope	20
+1099	Cosmetic - See Zuni	20
+1100	Cosmetic - Shokia in Hellscream\'s Hope	20
+1101	Cosmetic - Rivett in Hellscream\'s Hope	20
+1102	Cosmetic - Kiryn in Hellscream\'s Hope	20
+1103	Cosmetic - See Wounded Villagers	20
+1104	Cosmetic - See Villagers	20
+1105	Cosmetic - Kun-Lai Summit - No Mere Event	20
+1106	Cosmetic - Kun-Lai - Jinyu Speaker Questgiver Position 1	20
+1107	Cosmetic - Kun-Lai Summit - Jinyu Mere Post-Boss	20
+1108	Cosmetic - Kun-Lai - Waterspeaker Staff Done	20
+1109	Cosmetic - Kun-Lai - Father and Son Reunion Not Started	20
+1110	Cosmetic - Jade Mines Arrival	20
+1111	Cosmetic - Jade Mines - Miners Saved	20
+1112	Cosmetic - Kun-Lai Summit - Staff Done, No Event	20
+1113	Cosmetic - Kun-Lai - Ritual Complete	20
+1115	Cosmetic - Xuen Location 6 - Tiger Temple 2	20
+1116	Cosmetic - Kun-Lai - Mere Not Yet Cleansed	20
+1117	Cosmetic - Kun-Lai - Father and Son Reunion Complete	20
+1118	Cosmetic - Yak Temple - Grummles	20
+1119	Cosmetic - Kun-Lai Summit - Reposession Complete	20
+1120	Cosmetic - See Ancient Text (Lootable)	20
+1121	Cosmetic - See Ancient Text (Quest Giver)	20
+1122	Cosmetic - See Ancient Text (Final)	20
+1123	Cosmetic - Kun-Lai Summit - Post Mere Event	20
+1124	Cosmetic - Kun-Lai Summit - Cleansed Corpses(NLC)	20
+1125	Cosmetic - Kun-Lai Summit - Uncleansed Corpses(NLC)	20
+1126	Cosmetic - Fresco Panel 1	20
+1127	Cosmetic - Fresco Panel 2	20
+1128	Cosmetic - Fresco Panel 3	20
+1129	Cosmetic - Yak Temple - Yak Area Grummles	20
+1130	Cosmetic - Yak Temple - Yak Area Ruthers	20
+1131	Cosmetic - Yak Temple - Yak Area Good Yak	20
+1132	Cosmetic - Emperor\'s Omen - Hao Mann	20
+1133	Cosmetic - Pearlfin Finale Event 1	20
+1134	Cosmetic - See Bombers	20
+1135	Cosmetic - Stormwind/Elwynn - Aysa	20
+1136	Cosmetic - Stormwind/Elwynn - Jojo	20
+1137	Cosmetic - Stormwind/Elwynn - Balloon	20
+1138	Cosmetic - Ling Completion - See Scroll	20
+1139	Cosmetic - Stormwind Keep - See Varian	20
+1140	Cosmetic - Kun-Lai Funeral Appears	20
+1143	Cosmetic - Pearlfin Finale Event 2	20
+1144	Cosmetic - See Thunder King\'s Tablet	20
+1145	Cosmetic - See Thunder King\'s Tablet (Broken)	20
+1146	Cosmetic - Ling Completion - See Scroll - Dummy	20
+1147	Spar with Varian	0
+1148	Cosmetic - See Thunder King\'s Tablet Restored	20
+1149	Horde Intro Scene	0
+1150	Cosmetic - See Lorewalker Cho	20
+1151	Cosmetic - Kun-Lai Summit - GoWB - Liu\'s Spirit Not Freed	20
+1152	Cosmetic - Kun-Lai Summit - GoWB - Zhiyao\'s Spirit Not Freed	20
+1154	Cosmetic - Lorewalker Cho	20
+1155	Mantid Attack Phase	4
+1156	Cosmetic - Kun-Lai Summit - GoWB - Shiya\'s Spirit Not Freed	20
+1157	Cosmetic - Gate of Winter\'s Blossom - Wall Started, Not Complete	20
+1158	Zouchin Village - Zandalari Attack 	4
+1159	Cosmetic - GoWB - Start Phase	20
+1160	Cosmetic - GoWB - Past Suna Start Phase	20
+1161	Cosmetic - Ji-Lu\'s Cart 03	20
+1162	Cosmetic - See Opan in Onekeg	20
+1163	Cosmetic - Lorewalker - Bookshelf	20
+1164	Cosmetic - Orgrimmar/Durotar - Ji	20
+1165	Cosmetic - Orgrimmar/Durotar - Balloon	20
+1166	Cosmetic - Lao on the Wall	20
+1167	Cosmetic - Orgrimmar - Grommash Hold - See Garrosh	20
+1168	Cosmetic - Guides on Yaks	20
+1169	Cosmetic - Don\'t See Yaks	20
+1170	Cosmetic - Orgrimmar - Garrosh by Arena	20
+1171	Cosmetic - Lali the Assistant	20
+1172	Cosmetic - Lorewalker - The Humble Grummle	20
+1173	Cosmetic - Keg Bombs Ready!	20
+1174	Cosmetic - Lao Barrel Roll	20
+1175	Hellscream\'s Gift - Pre-Fight	4
+1176	Hellscream\'s Gift - Fight	4
+1177	Cosmetic - See Mantid 1 Bunnies	20
+1178	Cosmetic - See Mantid 2 Bunnies	20
+1179	Cosmetic - See Mantid 3 Bunnies	20
+1180	Cosmetic - See Mantid 4 Bunnies	20
+1181	Cosmetic - See Carapace	20
+1182	GoWB - Attack Phase 2 Event	4
+1183	GoWB - Attack Phase 2 Boss Fight	4
+1184	Cosmetic - See Thunder King\'s Tablet Restored	20
+1185	Cosmetic - See Paragon 2.1	20
+1186	Cosmetic - See Paragon 1.1	20
+1187	GoWB - Attack Phase 3 - Post Boss, Lao-Chen	4
+1188	GoWB - Attack Phase 3 - Post Boss, Suna Available	4
+1189	GoWB - Attack Phase 3 - Post Boss, Ban Here	4
+1190	Shado-Pan Monastery - Ban QG Visible	4
+1191	Shado-Pan Monastery - Unbelievable!	4
+1192	Cosmetic - See Offering	20
+1193	Cosmetic - See Paragon 1.2	20
+1194	Cosmetic - See Paragon 2.2	20
+1195	Cosmetic - See Paragon 5 Carapace	20
+1196	Cosmetic - See Paragon 5	20
+1197	MoP Horde Intro Scene - Orgrimmar	0
+1198	Cosmetic - Wayward Landing - See Fires	20
+1199	Mantid Flying Phase (Shooting Gallery)	0
+1200	Mantid Boss Phase	4
+1202	Cosmetic - Jade Forest - Disciple\'s Enclave - JSB	20
+1203	Cosmetic - Kil\'ruk Sick	20
+1204	Cosmetic - Tik Alive	20
+1205	Cosmetic - Tik Dead	20
+1206	Cosmetic - Lorewalker - Between a Saurok and a Hard Place	20
+1207	Cosmetic - Teran Zhu, Gao-ran Blockade	20
+1208	Cosmetic - Taoshi, Dusklight Hollow	20
+1209	Cosmetic - Horde Only	20
+1210	Cosmetic - Townlong Steppes - Tai Ho in Cave	20
+1211	Cosmetic - Temp Fires	20
+1212	Cosmetic - Townlong Steppes - Tai Ho at Garrison	20
+1213	Cosmetic - Temp Fires	20
+1214	Cosmetic - Townlong Steppes - Ku-Mo at Bridge	20
+1215	Cosmetic - Townlong Steppes - Ku-Mo at Stairs	20
+1216	Spawn Blendinng Test Phase 1	0
+1217	Cosmetic - Burial at Sea WESTERN CORPSE	20
+1218	Cosmetic - Burial at Sea SOUTHEASTERN CORPSE	20
+1219	Cosmetic - Burial at Sea NORTHEASTERN CORPSE	20
+1220	Dusklight Holdout Phase	4
+1221	Dusklight Combat Phase	4
+1222	Cosmetic - See Shomi Training	20
+1223	Cosmetic - Lao-Chin, Dusklight Bridge	20
+1224	Cosmetic - Lao-Chin, Holdout Turn-in	20
+1225	Cosmetic - Taran Zhu, Holdout Turn-in	20
+1226	Cosmetic - Taoshi, Holdout Turn-in	20
+1227	Cosmetic - Taran Zhu, Crossroads	20
+1228	Cosmetic - Taoshi, Crossroads	20
+1229	Cosmetic - Lao-Chin, Crossroads	20
+1230	Cosmetic - Orgrimmar - Ji Firepaw Trainer	20
+1231	Cosmetic - Stormwind - Aysa Monk Trainer	20
+1232	Mantid Ground Boss Phase	4
+1233	Cosmetic - Mantid Ground Boss Completion Phase	20
+1234	Cosmetic - Malik at Klaxxi\'vess	20
+1235	Cosmetic - Lorewalker - S10: Song of the Yaungol	20
+1236	Cosmetic - Lorewalker - S11: Legends of the Brewfathers	20
+1237	Cosmetic - Lorewalker - S12: Seven Burdens of Shao Hao	20
+1238	Cosmetic - Lorewalker - S3: Hozen in the Mist	20
+1239	Cosmetic - Lorewalker - S13: Ballad of Lou Lang	20
+1240	Cosmetic - Lorewalker - S4: Fish Tails	20
+1241	Cosmetic - Lorewalker - S5: Dark Heart of the Mogu	20
+1242	Cosmetic - Lorewalker - S6: Heart of the Mantid Swarm	20
+1243	Cosmetic - Lorewalker - S7: What is Worth Fighting For	20
+1244	Cosmetic - Lorewalker - S8: Order of the Cloud Serpent	20
+1245	Cosmetic - Lorewalker - S9: Klaxx Attack	20
+1246	Cosmetic - Nurong, Farwatch Cliff	20
+1247	Cosmetic - See Snow Blossom @ Challenger\'s Ring	20
+1248	Cosmetic - See Yalia @ Challenger\'s Ring	20
+1249	Cosmetic - Lost Mugs	20
+1250	Cosmetic - Lost Keg	20
+1251	Cosmetic - Lost Picnic	20
+1252	Cosmetic - Taoshi, Sik\'vess Subboss	20
+1253	Cosmetic - Lao-Chin, Sik\'vess Subboss	20
+1254	Cosmetic - Nurong, Sik\'vess Subboss	20
+1255	Cosmetic - Taoshi, Sik\'vess Entrance	20
+1256	Cosmetic - Lao-Chin, Sik\'vess Entrance	20
+1257	Cosmetic - Nurong, Sik\'vess Entrance	20
+1258	Cosmetic - Taran Zhu, Sik\'vess Entrance	20
+1259	Cosmetic - Ban, Sik\'vess Entrance	20
+1260	Cosmetic - Nurong, Crossroads	20
+1261	Sha of Hatred Intro Phase	4
+1262	Sha of Hatred Combat Phase	0
+1263	Cosmetic - See Portals	20
+1264	Cosmetic - See Snow Blossom at Hub 1	20
+1265	Cosmetic - See Yalia at Hub 1	20
+1266	Cosmetic - See Fei Li at Hub	20
+1267	Cosmetic - See Shifting Rocks Closed	20
+1268	Cosmetic - See Shifting Rocks (Summon)	20
+1269	Cosmetic - See Snow Blossom at Hub 2	20
+1270	Cosmetic - See Yalia at Hub 2	20
+1271	Cosmetic - Kil\'ruk at Klaxxi\'vess A	20
+1272	Cosmetic - Scroll of Auspice (Cave)	20
+1273	Cosmetic - See Chen A at Sunset Brewgarden	20
+1274	Cosmetic - See Chen with Evie	20
+1275	Cosmetic - See Chen B at Sunset Brewgarden	20
+1276	Cosmetic - See Evie\'s Grave	20
+1277	Cosmetic - See Han in Morrowchamber	20
+1278	Cosmetic - See Kneeling Chen in Morrowchamber	20
+1279	Cosmetic - See Amber Han in Brewgarden	20
+1280	Cosmetic - See Lya at Brewgarden	20
+1281	Cosmetic - See Scroll at Brewgarden	20
+1282	Cosmetic - See Stormstouts at Brewgarden	20
+1283	Cosmetic - See Li Li at Brewgarden	20
+1284	Cosmetic - See Evie at Brewgarden	20
+1285	Cosmetic - See Big Dan at Brewgarden	20
+1286	Cosmetic - See Brewers at Brewgarden (Opening)	20
+1287	Cosmetic - See Brewers at Rikkitun	20
+1288	Cosmetic - See Hiding Guides	20
+1289	Cosmetic - See Shinyseed at Rikkitun	20
+1290	Cosmetic - See Papa at Rikkitun	20
+1291	Cosmetic - See Landslide at Amber Hibernal	20
+1292	Cosmetic - See Caravan Guides	20
+1293	Cosmetic - See Brewers at Brewgarden (Final)	20
+1294	Cosmetic - See Dreadbrew at Brewgarden	20
+1295	Cosmetic - Mogu Lake Ritual Statues	20
+1296	Cosmetic - See Yi at Hub (NLC)	20
+1297	Cosmetic - See Chao @ Ring	20
+1298	Cosmetic - See Chao @ Hub	20
+1299	Cosmetic - See Lao-Chin @ Hub	20
+1300	Cosmetic - See Lao-Chin @ Ring	20
+1301	Cosmetic - See Han at Brewgarden (Free)	20
+1302	Cosmetic - See Malik in Hollow	20
+1303	Cosmetic - See Brew/Daggers at Brewgarden	20
+1304	Cosmetic - See Cho at Cairn of Bone	20
+1305	Cosmetic - Ting Still in Deathknell	20
+1306	Cosmetic - Daggle Bombstrider	20
+1307	Cosmetic - See Cho at Cairn of Stone	20
+1308	Cosmetic - Chezin Dawnchaser (Dead, H)	20
+1309	Cosmetic - Ancient Mogu Artifact	20
+1310	Cosmetic - See Mishi Finale	20
+1311	Cosmetic - See Sonar Tower	20
+1312	Cosmetic - See Korven the Prime	20
+1313	Cosmetic - See Zouchin Balloon (Long Ride)	20
+1314	Cosmetic - See Zouchin Balloon (Short Ride)	20
+1315	Saltscale Grotto Defense	4
+1316	Cosmetic - See Skeer - Frozen	20
+1317	Cosmetic - See Skeer - Unfrozen	20
+1318	Cosmetic - The Spring Drifter	20
+1319	Stoneplow Finale Scene	0
+1320	Cosmetic - See Great Wall Cap	20
+1321	Cosmetic - See Zouchin Balloon (Short Ride - Up)	20
+1322	Saltscale Grotto Completion Phase	4
+1323	Cosmetic - Central Statue, Pre-Fire	20
+1324	Cosmetic - Central Statue, Post-Fire	20
+1325	Cosmetic - Central Statue, Post-Water	20
+1326	Cosmetic - Central Statue, Post-Earth	20
+1327	Cosmetic - Central Statue, Post-Air	20
+1328	Cosmetic - GoWB - Pre-Battle Phase	20
+1329	Cosmetic - See NPCs - Pre-Invasion	20
+1330	Cosmetic - See NPCs - Post Invasion	20
+1331	Cosmetic - Kun-Lai Summit - Easterly Rest Evacuees Gathered	20
+1332	Cosmetic - Kun-Lai Summit - Westerly Rest Evacuees Gathered	20
+1333	Cosmetic - See Zidormi - Post Scenario	20
+1334	Cosmetic - Lorewalker Cho in Dawn\'s Blossom	20
+1335	Phase 3 - GoWB - Ban Waiting for Balloon	4
+1336	Cosmetic - Balloon Visible at Winter\'s Blossom	20
+1337	Cosmetic - See Xaril Questgiver	20
+1338	Cosmetic - See Dim Tower 1	20
+1339	Cosmetic - See Dim Tower 2	20
+1340	Cosmetic - See Dim Tower 3	20
+1341	Cosmetic - See Dim Tower 4	20
+1342	Cosmetic - See Dim Towers	20
+1343	TEST Ground Spawn Axe	16
+1344	Cosmetic - See Xaril Frozen	20
+1345	Cosmetic - Curious Cub 1	20
+1346	Cosmetic - Curious Cub 2	20
+1347	Cosmetic - Curious Cub 3	20
+1348	Cosmetic - Curious Cub 4	20
+1349	Cosmetic - Curious Cub 5	20
+1350	Cosmetic - Dawn\'s Blossom (Post - Cho)	20
+1351	East Temple Sha Dailies - Temple	4
+1352	Klaxxi Daily Bombing Run	0
+1353	Cosmetic - Balloon Visible at Monastery	20
+1354	Cosmetic - See Taoshi at Hub	20
+1355	Cosmetic - See Tenwu at Hub	20
+1356	Cosmetic - See Nurong at Hub	20
+1357	Cosmetic - See Trolls Attacking Strand	20
+1358	Cosmetic - See Liao Summon	20
+1359	Cosmetic - See Villager Corpses	20
+1360	Cosmetic - See Crab with Sleeping Panda	20
+1361	Cosmetic - See Crab while Standing	20
+1362	Cosmetic - See Trolls Finale	20
+1363	Cosmetic - Sra\'vess - Intact Statue A	20
+1364	Cosmetic - Sra\'vess - Destroyed Statue A	20
+1365	Cosmetic - Sra\'vess - Intact Statue B	20
+1366	Cosmetic - Sra\'vess - Destroyed Statue B	20
+1367	Cosmetic - Sra\'vess - Intact Statue C	20
+1368	Jeek Jeek	20
+1369	Cosmetic - Sra\'vess - Destroyed Statue C	20
+1370	Cosmetic - Sra\'vess - Intact Statue D	20
+1371	Cosmetic - Sra\'vess - Destroyed Statue D	20
+1372	Cosmetic: See Lorewalker Cho (Phased)	20
+1373	Cosmetic - Sra\'vess - Intact Tank A	20
+1374	Cosmetic - Sra\'vess - Intact Tank B	20
+1375	Cosmetic - Sra\'vess - Intact Tank C	20
+1376	Cosmetic - Sra\'vess - Intact Tank D	20
+1377	Cosmetic - Sra\'vess - Destroyed Tank A	20
+1378	Cosmetic - Sra\'vess - Destroyed Tank B	20
+1379	Cosmetic - Sra\'vess - Destroyed Tank C	20
+1380	Cosmetic - Sra\'vess - Destroyed Tank D	20
+1381	Cosmetic: See Elders (Phased)	20
+1382	Cosmetic - Freed Farmhands - Horde Hub	20
+1383	Cosmetic - Freed Farmhands - Alliance Hub	20
+1384	Cosmetic - Messenger Grummles	20
+1385	Cosmetic - Westerly Rest - Yaks	20
+1386	Cosmetic - Westerly Rest - Meat	20
+1387	Cosmetic - Easterly Rest - Meat	20

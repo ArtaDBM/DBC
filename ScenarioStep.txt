@@ -1,0 +1,34 @@
+field0	field1	field2	field3	field4	field5
+5	20975	3	0	Rescue the villagers from the 6 nearby houses.	Rescue all the Villagers
+9	20982	3	1	Defeat Vengeful Hui	Defeat Vengeful Hui
+24	21004	15	0	Bring Brewmaster Bo to the Unga Ingoo Brewing Cauldron.	Escort Brewmaster Bo
+25	21186	15	1	Bring 100 Unga Brew to the Brewing Cauldron.	Fill the Brewing Cauldron
+26	21008	15	2	Defeat Captain Ook.	Defeat Captain Ook
+114	21048	39	0	Defeat the Shado-Pan Leader and cleanse the Pool of Life.	Cleansing the Crypt
+115	22065	39	1	Steal the Urn of Kings.	Stealing Power
+116	20975	40	0	Defeat the monsters attacking the Greenstone villagers.	Save Greenstone Villagers
+117	20982	40	3	Defeat Vengeful Hui.	Defeat Vengeful Hui
+118	21059	40	1	Recover and return Stolen Kegs to village dojo.	Recover Stolen Kegs from Forest
+123	21078	44	0	Defeat the Sha corrupted forces inside the Temple of the Jade Serpent.	Complete the Temple of the Jade Serpent
+124	21087	45	0	Defeat the forces creating chaos within the Stormstout Brewery.	Complete the Stormstout Brewery
+125	21095	46	0	Defeat the forces opposing you within the Shado-Pan Monastery.	Complete the Shado-Pan Monastery
+127	21100	48	0	Defeat the Mantid forces assaulting the Gate of the Setting Sun.	Complete the Gate of the Setting Sun
+128	21105	49	0	Defeat the Mantid forces sieging the Niuzao Temple.	Complete the Siege of Niuzao Temple
+129	21110	50	0		Complete the Mogu\'shan Palace
+130	21120	51	0	Defeat the necromantic forces within Scholomance.	Complete Scholomance
+131	21130	52	0	Defeat the forces of the Scarlet Crusade.	Complete the Scarlet Halls
+132	21126	40	2	Travel to the Masons\' Quarter and awaken the unconscious villagers.	Rescue Greenstone Masons
+133	21134	53	0	Defeat the forces of the Scarlet Crusade inside their monastery.	Complete the Scarlet Monastery
+138	21323	58	0	Summon and defeat the mighty dragon turtle, Scar-Shell.	Scar-Shell
+139	21325	58	1	Summon and defeat the grummle-eating, snow-stalking horror, Jol\'Grum.	Jol\'Grum
+140	21327	58	2	Summon and defeat and defeat the playful fire spirit, Liuyang.	Little Liuyang
+141	21332	58	3	Summon and defeat the wandering yaungol warrior, Chagan Firehoof.	Chagan Firehoof
+142	21334	58	4	Summon and defeat the Feng the monkey monk, and then claim your reward from Wodin.	Face-Biter Feng
+154	21845	63	0	Collect the ingredients for Mayor Bramblestaff.	The Brewmoon Festival!
+155	21849	63	2	Stop the Yaungol attack on Binan Village.	The Yaungol attack!
+156	21851	63	3	Defeat Warbringer Qobi.	Warbringer Qobi
+157	21853	63	1	Investigate the Yaungol sightings.	The Scouts Report.
+159	21993	65	0	Assist Blanche in Brewing her famous Boomer\'s Brew.	Make Boomer\'s Brew
+160	21995	65	1	Escort Blanche down Thunderpaw Road.	Road to Thunderpaw
+161	21999	65	2	Defeat Borokhula the Destroyer.	Save Thunderpaw Refuge
+166	21050	39	2	Destroy the Abomination of Anger.	Destroy the Sha

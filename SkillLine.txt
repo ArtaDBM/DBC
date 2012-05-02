@@ -1,0 +1,158 @@
+field0	field1	field2	field3	field4	field5	field6	field7
+43	6	1	Higher weapon skill increases your chance to hit.	1	0	0	0
+44	6	58	Higher weapon skill increases your chance to hit.	1	0	0	0
+45	6	63	Higher weapon skill increases your chance to hit.	1	0	0	0
+46	6	68	Higher weapon skill increases your chance to hit.	1	0	0	0
+54	6	73	Higher weapon skill increases your chance to hit.	1	0	0	0
+55	6	79	Higher weapon skill increases your chance to hit.	1	0	0	0
+95	6	97	Higher defense improves your chance to dodge, parry, and block attacks, makes you harder to hit,  and makes monsters less likely to land a critical strike against you.	1	0	0	0
+98	10	273		1	0	0	0
+101	9	290		1	0	0	0
+109	10	305		1	0	0	0
+111	10	322		1	0	0	0
+113	10	340		1	0	0	0
+115	10	361		1	0	0	0
+118	6	379		1	0	0	0
+124	9	390		1	0	0	0
+125	9	404		1	0	0	0
+126	9	415		1	0	0	0
+129	9	432	Higher first aid skill allows you to learn higher level first aid abilities.  First aid abilities can be found on trainers around the world as well as from quests and as drops from monsters.	504	0	1	0
+136	6	633	Higher weapon skill increases your chance to hit.	1	0	0	0
+137	10	640		1	0	0	0
+138	10	661		1	0	0	0
+139	10	680		1	0	0	0
+140	10	703		1	0	0	0
+141	10	719		1	0	0	0
+142	9	740		1	0	0	0
+148	9	749		1	0	0	0
+149	9	762		1	0	0	0
+150	9	774		1	0	0	0
+152	9	787		1	0	0	0
+155	9	798		1	0	0	0
+160	6	807	Higher weapon skill increases your chance to hit.	1	0	0	0
+162	6	824	Higher skill increases your chance to hit.	1	0	0	0
+164	11	875	Higher smithing skill allows you to learn higher level smithing plans.  Blacksmithing plans can be found on trainers around the world as well as from quests and monsters.	335	1060	1	0
+165	11	1067	Higher leatherworking skill allows you to learn higher level leatherworking patterns.  Leatherworking patterns can be found on trainers around the world as well as from quests and monsters.	346	1272	1	0
+171	11	1279	Higher alchemy skill allows you to learn higher level alchemy recipes.  Alchemy recipes can be found on trainers around the world as well as from quests and monsters.	339	1454	1	0
+172	6	1461	Higher weapon skill increases your chance to hit.	1	0	0	0
+173	6	1477	Higher weapon skill increases your chance to hit.	1	0	0	0
+182	11	1485	Higher herbalism skill allows you to harvest more difficult herbs around the world.  If you cannot harvest a specific herb, then increase your skill by harvesting easier to gather herbs in lower level areas.	345	0	0	0
+183	12	1703		1	0	0	0
+185	9	1717	Higher cooking skill allows you to learn higher level cooking recipes.  Recipes can be found on trainers around the world as well as from quests and as drops from monsters.	1467	0	1	0
+186	11	1898	Higher mining skill allows you to harvest more difficult minerals nodes around the world.  If you cannot harvest a specific mineral, then increase your skill by mining easier to mine minerals in lower level areas.	2418	0	0	0
+188	7	2119		1	0	0	0
+189	7	2129		1	0	0	0
+197	11	2145	Higher tailoring skill allows you to learn higher level tailoring patterns.  Tailoring patterns can be found on trainers around the world as well as from quests and monsters.	341	2330	1	0
+202	11	2340	Higher engineering skill allows you to learn higher level engineering schematics.  Schematics can be found on trainers around the world as well as from quests and monsters.	333	2525	1	0
+203	7	2532		1	0	0	0
+204	7	2545		217	0	0	0
+205	7	2562		1	0	0	0
+206	7	2577		1	0	0	0
+207	7	2592		1	0	0	0
+208	7	2608		1	0	0	0
+209	7	2619		1	0	0	0
+210	7	2629		1	0	0	0
+211	7	2640		1	0	0	0
+212	7	2651		1	0	0	0
+213	7	2667		1	0	0	0
+214	7	2686		1	0	0	0
+215	7	2697		1	0	0	0
+217	7	2711		1	0	0	0
+218	7	2724		1	0	0	0
+220	9	2742		1	0	0	0
+226	6	2758	Higher weapon skill increases your chance to hit.	1	0	0	0
+228	6	2768	Higher weapon skill increases your chance to hit.	1	0	0	0
+229	6	2774	Higher weapon skill increases your chance to hit.	1	0	0	0
+236	7	2783		1	0	0	0
+251	7	2797		1	0	0	0
+270	7	2810		1	0	0	0
+293	8	2831	Allows the wearing of plate armor.	1	0	0	0
+313	10	2877		1	0	0	0
+315	10	2895		1	0	0	0
+333	11	2911	Higher enchanting skill allows you to learn more powerful formulae.  Formulae can be found on trainers around the world as well as from quests and monsters.	578	3079	1	0
+356	9	3087	Higher fishing skill increases your chance of catching fish in bodies of water around the world.  If you are having trouble catching fish in a given area, move to a lower level area or purchase a fishing lure and try again.	580	0	0	0
+393	11	3319	Higher skinning skill allows you to skin hides from higher level monsters around the world.    Once your skill is above 100, you can divide your skill by 5 to determine the highest level of monster you can skin.	736	0	0	0
+413	8	3540	Allows the wearing of mail armor.	1	0	0	0
+414	8	3579	Allows the wearing of leather armor.	1	0	0	0
+415	8	3624	Allows the wearing of cloth armor.	1	0	0	0
+433	8	3665	Allows the use of shields.	1	0	0	0
+473	6	3699	Allows for the use of fist weapons.  Chance to hit is determined by the Unarmed skill.	1	0	0	0
+533	9	3799		1	0	0	0
+553	9	3813		1	0	0	0
+554	9	3837		1	0	0	0
+653	7	3857		1	0	0	0
+654	7	3867		1	0	0	0
+655	7	3879		1	0	0	0
+656	7	3898		1	0	0	0
+673	10	3917		1	0	0	0
+713	9	3936		317	0	0	0
+733	9	3948		0	0	0	0
+753	9	3963		0	0	0	0
+754	9	3978		0	0	0	0
+755	11	3993	Higher jewelcrafting skill allows you to learn higher level jewelcrafting plans.  Jewelcrafting plans can be found on trainers around the world as well as from quests and monsters.	1768	1060	1	0
+756	9	4188		0	0	0	0
+758	-1	4205		0	0	0	0
+759	10	4234		0	0	0	0
+760	9	4252		0	0	0	0
+761	7	4267		0	0	0	0
+762	9	4282	Higher riding skill allows you to ride faster and more exotic beasts.	255	0	0	0
+763	7	4359		1530	0	0	0
+764	7	4376		1577	0	0	0
+765	7	4393		2033	0	0	0
+766	7	4408		1952	0	0	0
+767	7	4427		1585	0	0	0
+768	7	4441		2167	0	0	0
+769	7	4455		1775	0	0	0
+773	11	4464	Higher inscription skill allows you to learn more advanced inscriptions.  Inscriptions are acquired from learned scribes throughout the world.	3267	4619	1	0
+775	7	4628		0	0	0	0
+777	7	4639	Your mounts.	2224	0	0	0
+778	7	4659	Your companions.	0	0	0	0
+780	7	4687		0	0	0	0
+781	7	4709		0	0	0	0
+782	7	4732		221	0	0	0
+783	7	4744		0	0	0	0
+784	7	4766		0	0	0	0
+785	7	4784		0	0	0	0
+786	7	4794		0	0	0	0
+787	7	4813		0	0	0	0
+788	7	4837		0	0	0	0
+789	9	4863		4047	0	0	0
+790	9	4879		0	0	0	0
+791	10	4895		4057	0	0	0
+792	10	4913		4056	0	0	0
+794	9	4930	Higher archaeology skill allows you to complete more valuable artifacts and collect more artifact fragments. Fragments can be found in ruins and dig sites.	4727	0	0	0
+795	7	5098		2831	0	0	0
+796	7	5105		0	0	0	0
+798	7	5118		1561	0	0	0
+800	7	5124		25	0	0	0
+804	7	5132		1523	0	0	0
+805	7	5139		0	0	0	0
+808	7	5161		0	0	0	0
+810	12	5171	Glyphs go here!	4749	0	0	0
+811	7	5200		0	0	0	0
+815	5	5210		0	0	0	0
+817	7	5217		0	0	0	0
+818	7	5230		0	0	0	0
+821	5	5237		0	0	0	0
+824	7	5255		5183	0	0	0
+829	7	5261		6165	0	0	0
+840	7	5266		1462	0	0	0
+843	0	0		0	0	0	0
+849	7	5274		109	0	0	0
+899	5	5282		0	0	0	0
+904	7	5298		2832	0	0	0
+905	10	5303		5737	0	0	0
+906	10	5330		5738	0	0	0
+907	10	5358		0	0	0	0
+921	7	5383		513	0	0	0
+924	7	5389		38	0	0	0
+927	7	5396		5052	0	0	0
+928	5	5404		5913	0	0	0
+929	5	5413		5850	0	0	0
+930	5	5422		5914	0	0	0
+931	5	5431		5915	0	0	0
+934	12	5442	Misc specialization handling spells go here.	0	0	0	0
+960	7	5509		2727	0	0	0
+962	7	5521		0	0	0	0
+963	7	5549		0	0	0	0
+975	9	5578		0	0	0	185

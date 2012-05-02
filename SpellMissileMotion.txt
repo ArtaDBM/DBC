@@ -1,0 +1,3995 @@
+field0	field1	field2	field3	field4
+13	Parabola	"local angle = 0
+local maxMagnitude = startDistance * .15
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+19	Spiral Vortex	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 3
+local maxKickBack = 10
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+"	0	7
+20	Drunken Missiles	"local maxMagnitude = 1.5
+local minSpeedScalar = .7
+local maxSpeedScalar = 1.5
+
+local magnitude = (progress * 1.9) - 1
+magnitude = 1 - (magnitude * magnitude * magnitude * magnitude)
+
+transRight = (sin((rand1 * 1000) + (time * 1000)) + cos((rand2 * 1000) + (time * 200))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 700)) + cos((rand1 * 1000) + (time * 300))) * magnitude
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)
+"	0	5
+22	Metawheel	"local outerWheelSpinRate = 600
+local outerWheelMag = 1.5
+local innerWheelSpinRate = 800
+local innerWheelMagBase = .75
+local innerWheelMagVariance = .25
+local innerWheelOscillateRate = 300
+
+transAngle = time * outerWheelSpinRate
+transMag = outerWheelMag * (1 - progress)
+local innerMag = innerWheelMagBase + (innerWheelMagVariance * sin(time * innerWheelOscillateRate))
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount - 1)
+	transRight = innerMag * cos((time * innerWheelSpinRate) + (missileIndex * anglePerMissile))
+	transUp = innerMag * sin((time * innerWheelSpinRate ) + (missileIndex * anglePerMissile))
+end"	0	4
+23	Forward Spin	"local spinRate = 720
+
+modelPitch = time * spinRate"	0	1
+24	Boomerang	"local angle = 90
+local maxMagnitude = startDistance * .2
+local spinRate = 720
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelYaw = time * spinRate"	0	1
+25	Spinning Wave	"local startAngle = 0
+local finalAngle = 720
+local wavesPerSec = 2
+local maxMagnitude = 3
+
+transAngle = startAngle + ((finalAngle - startAngle) * progress)
+transMag = sin(time * wavesPerSec * 360) * maxMagnitude"	0	1
+26	Wave Beam	"local waveHeight = .8
+local wavesPerSec = 4
+
+transUp = waveHeight * sin(time * wavesPerSec * 360)"	0	1
+35	Glaive	"local spinRate = 360
+local angle = 90
+local maxMagnitude = startDistance * .1
+
+modelYaw = 90
+modelRoll = time * spinRate
+modelPitch = 90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+"	0	1
+36	Meteor Strike	"local magnitude = totalDistance * .5
+
+transUp = magnitude * ( 1 - progress )
+"	0	1
+37	Orbital Strike (Meteor High)	"local magnitude = totalDistance * 2
+
+transUp = magnitude * ( 1 - progress )
+transFront = distanceToImpactPos
+"	0	1
+38	Forward Spin + Parabola	"local angle = 0
+local maxMagnitude = startDistance * .15
+local spinRate = 360
+
+modelPitch = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+39	Spirit Fountain	"--
+-- This is actually more like a heat-seeking missile
+-- That always misses. 
+-- However, if you use it with a Nearby-Circumference (Dest)
+-- It looks awesome! 
+-- Check out 37099 for an example.
+--
+local angle = 0
+local maxMagnitude = startDist"	0	1
+40	Fountain	"local angle = 0
+local maxMagnitude = startDistance * .75
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transFront = -distanceToFirePos * (1 - progress)"	0	1
+41	Rocket Spiral	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 3
+local maxKickBack = 10
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+-- Add Upward Arc
+transUp = (progress * 2) - 1
+transUp = (1 - (transUp * transUp)) * startDistance * .15
+
+transFront = transFront + -distanceToFirePos * (1 - progress)"	0	7
+61	Shrink	scale = 1 - progress	0	1
+62	Grow	scale = progress	0	1
+81	Spiral Vortex (3 Missiles)	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 3
+local maxKickBack = 10
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+"	0	3
+101	Roll (Clockwise)	"local spinRate = 720
+
+modelRoll = time * spinRate"	0	1
+121	Snake	"local waveHeight = .8
+local wavesPerSec = 2
+
+transRight = waveHeight * sin(time * wavesPerSec * 360) * ( 1 - progress ) * 2"	0	1
+122	Snake (half frequency)	"local waveHeight = .8
+local wavesPerSec = 1
+
+transRight = waveHeight * sin(time * wavesPerSec * 360) * ( 1 - progress ) * 2"	0	1
+123	Spiral Vortex (2 Missiles)	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 3
+local maxKickBack = 10
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+"	0	2
+124	Parabola (-90 Pitch)	"local angle = 0
+local maxMagnitude = startDistance * .15
+modelPitch = -90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+125	Parabola (-90 to -45) (Flag Throw)	"local angle = 0
+local maxMagnitude = startDistance * .15
+modelPitch = -90 + 45 * progress
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+faceImpactPos = 0"	0	1
+141	Grow (x3)	scale = 3 * progress	0	1
+142	Booterang	"local angle = 90
+local maxMagnitude = startDistance * .2
+local spinRate = 720
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelYaw = time * spinRate
+modelPitch = 90"	0	1
+161	Spin Around Caster	"local outerWheelSpinRate = 360 	-- 1 spin / sec
+local outerWheelMag = 2			-- 1 yard
+local missileAngle = outerWheelSpinRate * time
+
+if (missileIndex > 0) then
+	--local anglePerMissile = 360 / (missileCount - 1)
+	--missileAngle = missileAngle + anglePerMissile * missileIndex
+end
+
+transFront = outerWheelMag * cos ( missileAngle )
+transRight = outerWheelMag * sin ( missileAngle )
+transUp = -distanceToFirePos"	0	1
+162	Spin Around Caster  (3)	"local outerWheelSpinRate = 360 	-- 1 spin / sec
+local outerWheelMag = 2.5			-- 1 yard
+local missileAngle = outerWheelSpinRate * time
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount)
+	missileAngle = missileAngle + anglePerMissile * missileIndex
+end
+
+transFront = outerWheelMag * cos ( missileAngle )
+transRight = outerWheelMag * sin ( missileAngle )
+transUp = -distanceToFirePos"	0	3
+163	Spin Around Caster Slow (3)	"local outerWheelSpinRate = 180 	-- 1 spin / sec
+local outerWheelMag = 2.5			-- 1 yard
+local missileAngle = outerWheelSpinRate * time
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount)
+	missileAngle = missileAngle + anglePerMissile * missileIndex
+end
+
+transFront = outerWheelMag * cos ( missileAngle )
+transRight = outerWheelMag * sin ( missileAngle )
+transUp = -distanceToFirePos"	0	3
+181	Spiral (3 Missiles)	"local outerWheelSpinRate = 180 	-- 1 spin / sec
+local outerWheelMag = 2.5			-- 1 yard
+local missileAngle = outerWheelSpinRate * time
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount)
+	missileAngle = missileAngle + anglePerMissile * missileIndex
+end
+
+transFront = outerWheelMag * cos ( missileAngle )
+transRight = outerWheelMag * sin ( missileAngle )
+"	0	3
+182	Spiral Inward (3 Missiles)	"local outerWheelSpinRate = 180 	-- 1 spin / sec
+local outerWheelMag = 2.5			-- 1 yard
+local missileAngle = outerWheelSpinRate * time
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount)
+	missileAngle = missileAngle + anglePerMissile * missileIndex
+end
+
+transFront = outerWheelMag * cos ( missileAngle ) * (1 - progress) * 2
+transRight = outerWheelMag * sin ( missileAngle ) * (1 - progress) * 2
+"	0	3
+201	Axe Boomerang	"local angle = -90
+local maxMagnitude = startDistance * .2
+local spinRate = 720
+
+modelRoll = 90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelYaw = time * spinRate"	0	1
+202	Axe Boomerang Return	"local angle = 90
+local maxMagnitude = startDistance * .2
+local spinRate = 720
+
+modelRoll = 90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelYaw = time * spinRate
+
+transFront = distanceToImpactPos - distanceToFirePos"	0	1
+221	Black Temple - Glaive Throw (Illidan)	modelRoll = time * 90	0	1
+222	Black Temple - Glaives Return (Illidan)	modelRoll = time * 90	0	1
+223	Rotation Test	"local angle = 90
+local maxMagnitude = startDistance * .2
+local yawSpin = 1080
+
+transAngle = angle
+--transMag = (progress * 2) - 1
+--transMag = (1 - (transMag * transMag)) * maxMagnitude
+--modelYaw = time * yawSpin
+--modelRoll = progress * 90
+modelRoll = time * 500"	0	1
+224	Parabola (High)	"local angle = 0
+local maxMagnitude = startDistance * .30
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+225	Spiral	"local spinRate = 720
+
+modelRoll = time * spinRate"	0	1
+226	Soul Vortex (3 Missiles)	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 3
+local maxKickBack = 10
+
+--progress = 1 - progress
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+--transUp = distanceToImpactPos - distanceToFirePos"	0	3
+227	Black Temple - Akama Soul Retrieve (Do Not Reuse)	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 3
+local maxKickBack = 10
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transUp = distanceToImpactPos - distanceToFirePos
+transMag = 10 * (1-progress) * (1-progress)
+
+transFront = distanceToImpactPos * (1 - progress) * (1 - progress)"	0	3
+241	Multi-shot Parabola (8 Missiles)	"local angle = 0
+local maxMagnitude = startDistance * .50
+local spread = 5
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transRight = (rand1 - 0.5) * spread * progress
+transUp = (rand2 - 0.5) * spread * progress"	0	8
+261	Grow (1 -> 3)	scale = 1 + 2 * progress	0	1
+321	Grow (1 -> 3) - Model Reversed	"scale = 1 + 2 * progress
+modelYaw = 180"	0	1
+341	Forward Spin + Parabola (High)	"local angle = 0
+local maxMagnitude = startDistance * .30
+local spinRate = 360
+
+modelPitch = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+361	Parabola (Top Spin)	"local angle = 0
+local maxMagnitude = startDistance * .15
+local spinRate = 720
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelYaw = time * spinRate
+"	0	1
+362	Parabola (Pitch Spin)	"local angle = 0
+local maxMagnitude = startDistance * .15
+local spinRate = 720
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+"	0	1
+381	Test Missile - LAB	"local startAngle = 0
+local degreesPerSec = 720
+local maxMagnitude = 1
+local maxKickBack = 10
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+"	0	1
+382	Possessed Knives	"speedScalar = 0.1 + 35 * progress * progress
+transUp  = (1.4 - 2 * rand1) * (1 - progress)
+transRight  = (1 - 2 * rand2) * (1 - progress)"	0	1
+383	Twin Wave - Horizontal	"
+local waveHeight = 1.5
+local wavesPerSec = 0.7
+
+if (missileIndex == 0) then
+transRight = waveHeight * sin(time * wavesPerSec * 360)
+end
+
+if (missileIndex == 1) then
+transRight = - waveHeight * sin(time * wavesPerSec * 360)
+end"	0	2
+384	Twin Waves - Double	"
+local waveHeight = 1.5
+local wavesPerSec = 0.7
+
+if (missileIndex == 0) then
+transRight = waveHeight * sin(time * wavesPerSec * 360)
+end
+
+if (missileIndex == 1) then
+transRight = - waveHeight * sin(time * wavesPerSec * 360)
+end
+--[[
+if (missileIndex == 2) then
+transUp = waveHeight * sin(time * wavesPerSec * 360) /2
+end
+
+if (missileIndex == 3) then
+transUp = - waveHeight * sin(time * wavesPerSec * 360) /2
+end ]]"	0	4
+385	Split Four Ways	"
+local spread = 1.2
+local distanceToFireMin = 5
+local distanceToFireMax = 7
+local spreadSpeed = 0.1
+local finalSpeed = 1.5
+
+if ( distanceToFirePos > distanceToFireMin and distanceToFirePos < distanceToFireMax ) then
+   speedScalar = spreadSpeed
+   if (missileIndex == 0) then
+   transUp = spread * ( distanceToFirePos - distanceToFireMin ) / ( distanceToFireMax - distanceToFireMin )
+   end
+   if (missileIndex == 1) then
+   transUp = -spread * ( distanceToFirePos - distanceToFireMin   ) / ( distanceToFireMax - distanceToFireMin )
+   end
+   if (missileIndex == 2) then
+   transRight = spread * ( distanceToFirePos - distanceToFireMin   ) / ( distanceToFireMax - distanceToFireMin )
+   end
+   if (missileIndex == 3) then
+   transRight = -spread * ( distanceToFirePos - distanceToFireMin    ) / ( distanceToFireMax - distanceToFireMin )
+   end
+end
+
+if ( distanceToFirePos > distanceToFireMax ) then
+   speedScalar = finalSpeed
+   if (missileIndex == 0) then
+   transUp = spread
+   end
+   if (missileIndex == 1) then
+   transUp = -spread
+   end
+   if (missileIndex == 2) then
+   transRight = spread
+   end
+   if (missileIndex == 3) then
+   transRight = -spread
+   end
+end
+"	0	4
+386	Possessed Knives x8	"speedScalar = 0.1 + 35 * progress * progress
+transUp  = (1.4 - 2 * rand1) * (1 - progress)
+transRight  = (1 - 2 * rand2) * (1 - progress)"	0	8
+401	Spin (Roll) - 1080	"local spinRate = 1080
+
+modelRoll = time * spinRate"	0	1
+421	Zul\'Aman - Skull Throw	"local angle = 0
+local maxMagnitude = startDistance * .15
+local spinRate = 720
+
+modelPitch = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+441	Forward Spin + Parabola (Very High)	"local angle = 0
+local maxMagnitude = startDistance * .90
+local spinRate = 360
+
+modelPitch = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+482	Soul Vortex (3 Missiles - No Kickback)	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 2.5
+local maxKickBack = 0
+
+--progress = 1 - progress
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+--transUp = distanceToImpactPos - distanceToFirePos"	0	3
+501	Parabola (Low)	"local angle = 0
+local maxMagnitude = startDistance * .10
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+521	Parabola (Top Spin, High)	"local angle = 0
+local maxMagnitude = startDistance * .30
+local spinRate = 720
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelYaw = time * spinRate"	0	1
+541	Crazy Launch (1 Missile)	"local outerWheelSpinRate = 1     -- 180 = 1 spin / sec
+local outerWheelMag = 1
+local missileAngle = 1
+
+outerWheelSpinRate = 360 - 400 * (progress)
+speedScalar = sin(100 * progress) + 0.1
+missileAngle = outerWheelSpinRate * time
+outerWheelMag = 10 * sin (500 * progress)
+transFront = outerWheelMag * cos ( missileAngle )
+transRight = outerWheelMag * sin ( missileAngle )
+"	0	1
+542	Parabola (Very High)	"local angle = 0
+local maxMagnitude = startDistance * .60
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+561	Meandering Missile (1)	"local maxMagnitude = 1.0
+local minSpeedScalar = 1.0
+local maxSpeedScalar = 1.0
+local randscalar = 100
+local timescalar = 50
+ 
+local angle = 0
+local maxArcMagnitude = startDistance * .35
+
+local magnitude = (progress * 1.9) - 1
+
+magnitude = 1 
+
+transRight = (sin((rand1 * randscalar * progress) + (time * randscalar)) + sin((rand2 * randscalar * progress) + (time * timescalar))) * magnitude
+transUp = (sin((rand2 * randscalar * progress) + (time * randscalar)) + sin((rand1 * randscalar * progress) + (time * timescalar))) * magnitude
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxArcMagnitude
+"	0	1
+581	Meandering Missile Soul (1)	"local maxMagnitude = 1.0
+local minSpeedScalar = 1.0
+local maxSpeedScalar = 1.0
+local randscalar = 100
+local timescalar = 50
+ 
+local angle = 0
+local maxMagnitude = startDistance * .35
+
+local magnitude = (progress * 1.9) - 1
+
+local Xmagnitude = 4 
+local Ymagnitude = 2
+
+transRight = (sin((rand1 * randscalar * progress)+ (time * randscalar)) + sin((rand2 * randscalar * progress))) * Xmagnitude
+transUp = (sin((rand2 * randscalar * progress) + (time * randscalar)) + sin((rand1 * randscalar * progress) + (time * timescalar))) * Ymagnitude
+transUp = transUp - 0
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+601	Time-Warped Shot	"
+local slowProgressStart = 0.4
+local slowProgressEnd = 0.65
+local slowSpeed = 0.3
+local finalSpeed = 6
+
+speedScalar = finalSpeed
+
+if ( progress > slowProgressStart and progress < slowProgressEnd ) then
+   speedScalar = slowSpeed
+end
+
+"	0	1
+621	Parabola (Pitch and Yaw Spin, High Altitude)	"local angle = 0
+local maxMagnitude = startDistance * 1
+local spinRateP = 180
+local spinRateY = 45
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+
+modelPitch = time * spinRateP
+modelYaw = time * spinRateY"	0	1
+641	Multi-Shot (3 Missiles)	"-- spread out as the missiles travel
+local outerWheelMag = 1.5 * progress
+local missileAngle
+
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount)
+	transAngle = anglePerMissile * missileIndex
+end
+
+transMag = outerWheelMag
+"	0	3
+661	Big to Small to Big Scale	"local m1x=0.4    --the first progress point where the missile is smallest
+local m1y=0.4    --the scale of the missile at the point above
+
+local m2x=0.6    --the first progress opint where the missile begins growing again
+local m2y=0.4    --the scale of the missile at the point above
+
+
+local slope
+local intercept
+if (progress <m1x) then
+                slope=(1-m1y)/(0-m1x)
+                intercept=1
+elseif (progress<m2x) then
+                slope=(m1y-m2y)/(m1x-m2x)
+                intercept=m1y-slope*m1x
+else
+                slope=(m2y-1)/(m2x-1)
+                intercept=1-slope
+end
+scale=slope*progress+intercept
+"	0	1
+681	Creature - Drain Power Effect (Malacrass)	"local startAngle = 0
+local degreesPerSec = 720
+local maxMagnitude = 1
+local maxKickBack = 10
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+"	0	5
+701	Forward Spin (Fast)	"local spinRate = 1440
+
+modelPitch = time * spinRate"	0	1
+721	Triple Parabola (Low)	"local angle = 0
+local maxMagnitude = startDistance * .10
+
+transAngle = angle
+progress = math.fmod(progress * 3, 1)
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+722	Triple Parabola (Low, Falloff) 	"local angle = 0
+local maxMagnitude = startDistance * .10
+
+transAngle = angle
+progress = math.fmod(progress * 3, 1)
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+transMag = transMag * (1 - progress)"	0	1
+741	Grow (1 -> 10)	scale = 10 * progress	0	1
+761	Paper Airlplane, Flying Machine 	"
+local minSpeedScalar = 1.0
+local maxSpeedScalar = 1.0
+local randscalar = 100
+local timescalar = 50
+ 
+local angle = 0
+local maxMagnitude = startDistance * .20
+
+local magnitude = (progress * 1.9) - 1
+
+local Xmagnitude = 4 
+local Ymagnitude = 2
+
+
+local modProgress = 4*(-1*(progress*progress) + progress)
+
+transRight = (sin((rand1 * randscalar * modProgress)+ (time * randscalar * modProgress)) + sin((rand2 * randscalar * modProgress))) * Xmagnitude
+transUp = (sin((rand2 * randscalar * modProgress) + (time * randscalar)) + sin((rand1 * randscalar * modProgress) + (time * timescalar))) * Ymagnitude
+transUp = transUp - 0
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+"	0	1
+781	Paper Airlplane, Zeppelin	"local randscalar = 100
+local timescalar = 100
+local wavefreqscalar = 50
+local yawlimit = 60
+local rolllimit = 25
+local minSpeedScalar = 1.0
+local maxSpeedScalar = 1.0
+
+local angle = 0
+local maxMagnitude = startDistance * .10
+
+local Ymagnitude = 1
+local Xmagnitude = 3
+
+local modProgress = 4*(-1*(progress*progress) + progress)
+
+modelYaw = sin(time*timescalar*rand1) * yawlimit * rand2
+modelRoll = sin(time*timescalar*rand2) * rolllimit * rand1
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)
+transUp = (sin((rand3 * randscalar * modProgress) + (time * randscalar)) + sin((rand1 * randscalar * modProgress) + (time * wavefreqscalar))) * Ymagnitude
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+801	Always Miss	"transRight = progress * 2
+transUp = progress * 4
+transFront = progress * 20"	0	1
+821	Orbital Strike (Reverse)	"local magnitude = totalDistance * 2.0
+
+transUp = totalDistance + -magnitude * ( progress )
+transFront = distanceFromImpactPos
+
+-- speedScalar = 0.8"	0	1
+841	Drunken Missiles Slow	"local maxMagnitude = 0.5
+local minSpeedScalar = .9
+local maxSpeedScalar = 1.1
+
+local angle = 0
+local maxArcMagnitude = startDistance * .75
+
+
+local magnitude = (progress * 1.9) - 1
+magnitude = (1 - (magnitude * magnitude * magnitude * magnitude)) * maxMagnitude
+
+transRight = (sin((rand1 * 1000) + (time * 700)) + cos((rand2 * 1000) + (time * 100))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 700)) + cos((rand1 * 1000) + (time * 300))) * magnitude
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxArcMagnitude"	0	5
+861	Multi-shot Parabola (4 Missiles)	"local angle = 0
+local maxMagnitude = startDistance * .50
+local spread = 5
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transRight = (rand1 - 0.5) * spread * progress
+transUp = (rand2 - 0.5) * spread * progress"	0	4
+881	Forward Spin (med) + Parabola (Random low)	"local angle = 0
+local randomMagnitudeScalar = rand1
+
+if (randomMagnitudeScalar <= 0.33)then
+	randomMagnitudeScalar = 0.20
+elseif (randomMagnitudeScalar <= 0.66)then
+	randomMagnitudeScalar = 0.30
+elseif (randomMagnitudeScalar <= 0.99)then
+	randomMagnitudeScalar = 0.40
+end
+
+local maxMagnitude = startDistance * randomMagnitudeScalar
+local spinRate = 540
+
+modelPitch = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+901	Midsummer - Juggle Torch, Self	"local missileSpeed = 0.42
+local startSpeed = 20
+local p0 = 0.5
+
+local travelTime = (startDistance / missileSpeed) - 2.5
+local v0 = startSpeed
+local acc = (v0*travelTime + p0) / (travelTime*travelTime)
+
+transUp = -acc*time*time + v0*time + p0
+
+local spinRate = 1080
+modelPitch = time * spinRate
+"	0	1
+921	Midsummer - Juggle Torch (Quest)	"local angle = 0
+local maxMagnitude = (distanceToImpactPos) * 2
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+local spinRate = 1080
+modelPitch = time * spinRate
+
+speedScalar = 1"	0	1
+922	Creature - Encapsulate (Felblaze)	"scale = 0.10 + 1 * progress * progress
+--speedScalar = 3 * progress"	0	1
+941	Midsummer - Juggle Torch, Slow	"local missileSpeed = 3.9
+local startSpeed = 20
+local p0 = 0
+
+local travelTime = (startDistance / missileSpeed)
+local v0 = startSpeed
+local acc = (v0*travelTime + p0) / (travelTime*travelTime)
+
+transUp = -acc*time*time + v0*time + p0
+
+--transFront = -distanceToFirePos
+
+local spinRate = 1420
+modelPitch = time * spinRate
+"	0	1
+942	Midsummer - Juggle Torch, Medium	"local missileSpeed = 6
+local startSpeed = 15
+local p0 = 0
+
+local travelTime = (startDistance / missileSpeed)
+local v0 = startSpeed
+local acc = (v0*travelTime + p0) / (travelTime*travelTime)
+
+transUp = -acc*time*time + v0*time + p0
+
+--transFront = -distanceToFirePos
+
+local spinRate = 1500
+modelPitch = time * spinRate
+"	0	1
+943	Midsummer - Juggle Torch, Fast	"local missileSpeed = 9
+local startSpeed = 20
+local p0 = 0
+
+local travelTime = (startDistance / missileSpeed)
+local v0 = startSpeed
+local acc = (v0*travelTime + p0) / (travelTime*travelTime)
+
+transUp = -acc*time*time + v0*time + p0
+
+--transFront = -distanceToFirePos
+
+local spinRate = 1600
+modelPitch = time * spinRate
+"	0	1
+961	Creature - Summon Void Sentinel (M\'uru)	"local degreesPerSec = 720
+local maxMagnitude = 4
+
+transAngle = (missileIndex / missileCount) * 360 + (time * degreesPerSec)
+transMag = 1- progress
+transMag = transMag * maxMagnitude
+transUp = 5 * progress"	0	5
+981	Creature - Transform Visual Missile (M\'uru)	"local sideMagnitude = startDistance * .3
+local frontMagnitude = startDistance
+local minAngle = -135
+local maxAngle = -45
+local collapseAngle = -90
+
+speedScalar = .4 + (progress * 1.2)
+
+transAngle = minAngle + (rand1 * (maxAngle - minAngle))
+transAngle = (transAngle * (1 - progress)) + (collapseAngle * progress)
+transMag = sin(progress * 480) * (1 - progress) * sideMagnitude
+transUp = (rand2 - 0.5) * (15 * progress) - 2
+
+transFront = sin(progress * 240) * (1 - progress) * frontMagnitude"	0	1
+1001	Parabola (Very VERY High)	"local angle = 0
+local maxMagnitude = startDistance * .90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+1041	Drunken Missiles (High Parabolic)	"local maxMagnitude = 1.5
+local minSpeedScalar = .7
+local maxSpeedScalar = 1.5
+
+local magnitude = (progress * 1.9) - 1
+magnitude = 1 - (magnitude * magnitude * magnitude * magnitude)
+
+transRight = (sin((rand1 * 1000) + (time * 1000)) + cos((rand2 * 1000) + (time * 200))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 700)) + cos((rand1 * 1000) + (time * 300))) * magnitude
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)
+
+local angle = 0
+local maxMagnitude = startDistance * .30
+local spinRate = 360
+
+modelPitch = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	5
+1061	Parabola - Tree Tumble	"local angle = 0
+local maxMagnitude = startDistance * .15
+local spinRate = 120
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelYaw = time * spinRate
+modelRoll = time * spinRate/2
+modelPitch = time * spinRate/4"	0	1
+1101	Spiral + Parabola (Low, Random)	"local angle = 0
+local maxMagnitude = startDistance * .05
+local spinRate = 720
+
+if ( rand1 > 0.5 ) then
+	spinRate = spinRate * -1
+end
+
+modelRoll = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+1141	Parabola (Pitch Spin, High)	"local angle = 0
+local maxMagnitude = startDistance * .30
+local spinRate = 720
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+"	0	1
+1161	Parabola (Spin, High)	"local angle = 0
+local maxMagnitude = startDistance * .30
+local spinRate = 720
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate"	0	1
+1181	Parabola (Top Spin, Very High)	"local angle = 0
+local maxMagnitude = startDistance * .60
+local spinRate = 360
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelYaw = time * spinRate
+"	0	1
+1183	Big to Small to Big Scale (shifted upwards)	"local m1x=0.4    --the first progress point where the missile is smallest
+local m1y=0.4    --the scale of the missile at the point above
+
+local m2x=0.6    --the first progress opint where the missile begins growing again
+local m2y=0.4    --the scale of the missile at the point above
+
+
+local slope
+local intercept
+if (progress <m1x) then
+                slope=(1-m1y)/(0-m1x)
+                intercept=1
+elseif (progress<m2x) then
+                slope=(m1y-m2y)/(m1x-m2x)
+                intercept=m1y-slope*m1x
+else
+                slope=(m2y-1)/(m2x-1)
+                intercept=1-slope
+end
+scale=slope*progress+intercept
+
+transUp=1.6"	0	1
+1201	Creature - Summon Telestra Clone (Telestra)	"local angle = 0
+local maxMagnitude = startDistance * .90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = 2*(1 - (transMag * transMag)) * maxMagnitude"	0	1
+1221	Spiral Cyclone (Slow)	"local numSpirals = 5
+local radius = 5 * progress * (rand1 + .5)
+
+local curAngle = numSpirals * progress * 360
+
+transFront = (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)
+
+transUp = 1.5 * progress
+
+speedScalar = .2"	0	1
+1241	REUSEME	"local magnitude = totalDistance * 2
+local spinRate = 1080
+
+transUp = magnitude * ( 1 - progress )
+transFront = distanceToImpactPos
+modelRoll = time * spinRate"	0	1
+1242	Parabola (Pitch Spin, VERY VERY HIGH)	"local angle = 0
+local maxMagnitude = startDistance * 6
+local spinRateP = 60
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+
+modelPitch = time * spinRateP
+"	0	1
+1261	Creature - Spirit Burst Extra Visual (Ymiron)	"local outerWheelSpinRate = 180 	-- 1 spin / sec
+local outerWheelMag = 2.5			-- 1 yard
+local missileAngle = outerWheelSpinRate * time
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount)
+	missileAngle = missileAngle + anglePerMissile * missileIndex
+end
+
+transFront = outerWheelMag * cos ( missileAngle ) * (rand1*30) * time
+transRight = outerWheelMag * sin ( missileAngle ) * (rand2*30) * time
+
+transUp = distanceToFirePos*10"	0	10
+1262	Creature - Spirit Burst (Ymiron)	"local angle = 0
+local maxMagnitude = startDistance * .60
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+1281	Creature - Summon Avenging Spirit Visual (Ymiron)	"
+	transUp = (1 - progress) * 8
+
+
+"	0	1
+1301	Grizzly Hills - Quest - Burning Oil	"
+local angle = 0
+local maxMagnitude = 4
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+
+local spread = 1
+local distanceToFireMin = 5
+local distanceToFireMax = 30
+local spreadSpeed = 1
+local finalSpeed = 1.5
+
+if ( distanceToFirePos > distanceToFireMin and distanceToFirePos < distanceToFireMax ) then
+   speedScalar = spreadSpeed
+   if (missileIndex == 0) then
+   transUp = spread * ( distanceToFirePos - distanceToFireMin ) / ( distanceToFireMax - distanceToFireMin )
+   end
+   if (missileIndex == 1) then
+   transUp = -spread * ( distanceToFirePos - distanceToFireMin   ) / ( distanceToFireMax - distanceToFireMin )
+   end
+   if (missileIndex == 2) then
+   transRight = spread * ( distanceToFirePos - distanceToFireMin   ) / ( distanceToFireMax - distanceToFireMin )
+   end
+   if (missileIndex == 3) then
+   transRight = -spread * ( distanceToFirePos - distanceToFireMin    ) / ( distanceToFireMax - distanceToFireMin )
+   end
+end
+
+if ( distanceToFirePos > distanceToFireMax ) then
+   speedScalar = finalSpeed
+   if (missileIndex == 0) then
+   transUp = spread
+   end
+   if (missileIndex == 1) then
+   transUp = -spread
+   end
+   if (missileIndex == 2) then
+   transRight = spread
+   end
+   if (missileIndex == 3) then
+   transRight = -spread
+   end
+end"	0	4
+1321	Tumbling Debris (Spin, Very High)	"local angle = 0
+local maxMagnitude = startDistance * .90
+local spinRate = 1440
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate *rand1
+modelYaw = time * spinRate
+"	0	1
+1322	Tumbling Debris (Very High)	"local angle = 0
+local maxMagnitude = startDistance * .90
+local spinRate = 1440
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+"	0	1
+1341	Forward Spin (Med) + Grow (1->3)	"local spinRate = 540
+
+modelPitch = time * spinRate
+
+scale = 1 + 2 * progress"	0	1
+1361	Parabola (Grow)	"local angle = 0
+local maxMagnitude = startDistance * .15
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+scale = progress"	0	1
+1381	Upper Deck - Ethereal Pet OnKill Give Essence	"local maxHeight = 10
+
+transUp = progress * (1 - progress) * maxHeight
+
+--transFront = startDistance - 2 * distanceToFirePos  --this would reverse the direction of the missile
+"	0	1
+1401	Scale - 2.00	scale = 2	0	1
+1421	Parabola (Top Spin, Very VERY High)	"local angle = 0
+local maxMagnitude = startDistance * .60
+local spinRate = 360
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelYaw = time * spinRate
+"	0	1
+1422	Missile Swarm	"local maxMagnitude = 0.5
+local minSpeedScalar = 0.7
+local maxSpeedScalar = 1.5
+
+local magnitude = (progress * 1.9) - 1
+magnitude = 1 - (magnitude * magnitude * magnitude * magnitude)
+
+transRight = (sin((rand1 * 1000) + (time * 100)) + cos((rand2 * 1000) + (time * 200))) * magnitude * (1-progress)
+--transUp = (sin((rand2 * 1000) + (time * 700)) + cos((rand1 * 1000) + (time * 300))) * magnitude
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)
+
+"	0	5
+1441	zzOLDCreature - Glare of the Tribunal (Tribunal)	"
+	if missileIndex == 1 then
+		transRight =  (1 - progress) * 3
+	else
+		transRight =  (1 - progress) * -3
+	end"	0	2
+1461	Always Miss (Revised, Random)	"transRight = 5 * (1 - progress * 2 * rand2)
+transUp = 2 * (1 - progress * 2 * rand1)
+transFront = 80 * progress"	0	1
+1462	Reverse Direction	"transFront = startDistance - 2 * distanceToFirePos  --this would reverse the direction of the missile
+"	0	1
+1481	Parabola (Fast Spin, High)	"local angle = 0
+local maxMagnitude = startDistance * .30
+local spinRate = 1440
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelYaw = time * spinRate"	0	1
+1501	Accelerated Missile	speedScalar = 0.2 + 2 * progress	0	1
+1502	Soul Vortex (7 Missiles)	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 3
+local maxKickBack = 10
+
+--progress = 1 - progress
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+--transUp = distanceToImpactPos - distanceToFirePos"	0	7
+1503	Soul Vortex (7 Missiles - Resyncced)	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 3
+local maxKickBack = 10
+speedscalar = 0.5
+
+--progress = 1 - progress
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+--transUp = distanceToImpactPos - distanceToFirePos"	0	7
+1521	Machine Gun	"
+if (missileIndex > 0) then
+    transFront = progress * (3 - 2 * missileIndex)
+end
+
+"	0	3
+1522	Rocket Spiral (x3)	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 3
+local maxKickBack = 10
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+-- Add Upward Arc
+transUp = (progress * 2) - 1
+transUp = (1 - (transUp * transUp)) * startDistance * .15
+
+transFront = transFront + -distanceToFirePos * (1 - progress)"	0	3
+1541	Parabola (Pitch and Yaw Spin)	"local angle = 0
+local maxMagnitude = startDistance * 0.5
+local spinRateP = 180
+local spinRateY = 45
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+
+modelPitch = time * spinRateP
+modelYaw = time * spinRateY"	0	1
+1542	Parabola (Pitch and Yaw Spin, Low)	"local angle = 0
+local maxMagnitude = startDistance * 0.25
+local spinRateP = 180
+local spinRateY = 45
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+
+modelPitch = time * spinRateP
+modelYaw = time * spinRateY"	0	1
+1561	Reverse Test (maybe works?)	transMag = ((1 - progress) * distanceToImpactPos) + (progress * -distanceToFirePos)	0	1
+1581	Parabola (Pitch Spin, slow, low)	"local angle = 0
+local maxMagnitude = startDistance * .1
+local spinRate = 120
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+"	0	1
+1601	Creature - Raise Dead Effect (Anub\'ar Necromancer)	"local maxMagnitude = startDistance * .5
+local spinRate = 360
+
+
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = (rand1 * 5) * (time * spinRate)
+speedScalar = (rand1 + 1)/2.5
+
+transUp = rand1 * progress
+transFront = rand2 * progress
+transRight = rand3 * progress
+"	0	5
+1621	Parabola (Yaw Spin)	"local angle = 0
+local maxMagnitude = startDistance * 0.25
+local spinRateY = 360
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelYaw = time * spinRateY"	0	1
+1641	Missile Swarm (1 Missile)	"local maxMagnitude = 0.5
+local minSpeedScalar = 0.7
+local maxSpeedScalar = 1.5
+
+local magnitude = (progress * 1.9) - 1
+magnitude = 1 - (magnitude * magnitude * magnitude * magnitude)
+
+transRight = (sin((rand1 * 1000) + (time * 100)) + cos((rand2 * 1000) + (time * 200))) * magnitude * (1-progress)
+--transUp = (sin((rand2 * 1000) + (time * 700)) + cos((rand1 * 1000) + (time * 300))) * magnitude
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)
+"	0	1
+1661	Multi-Shot (2 Missiles)	"-- spread out as the missiles travel
+local outerWheelMag = 1.5 * progress
+local missileAngle
+
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount)
+	transAngle = anglePerMissile * missileIndex
+end
+
+transMag = outerWheelMag
+"	0	2
+1662	Missile - 2		0	2
+1663	Forward Spin (Med, Scale = 2)	"scale = 2
+local spinRate = 540
+
+modelPitch = time * spinRate"	0	1
+1664	Shrink (Less)	scale = 1 - (progress / 2)	0	1
+1684	Creature - Ritual Strike (Svala)	"local spinRate = 360
+
+modelRoll = time * spinRate
+
+transUp = progress * 3"	0	1
+1704	Drunken Missiles (2 Missiles)	"local maxMagnitude = 1.5
+local minSpeedScalar = .7
+local maxSpeedScalar = 1.5
+
+local magnitude = (progress * 1.9) - 1
+magnitude = 1 - (magnitude * magnitude * magnitude * magnitude)
+
+transRight = (sin((rand1 * 1000) + (time * 1000)) + cos((rand2 * 1000) + (time * 200))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 700)) + cos((rand1 * 1000) + (time * 300))) * magnitude
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)
+"	0	2
+1724	Twin Waves - Double - Large	"
+local waveHeight = 15
+local wavesPerSec = 0.3
+
+if (missileIndex == 0) then
+transRight = waveHeight * sin(time * wavesPerSec * 360)
+end
+
+if (missileIndex == 1) then
+transRight = - waveHeight * sin(time * wavesPerSec * 360)
+end
+
+if (missileIndex == 2) then
+transUp = waveHeight * sin(time * wavesPerSec * 360) /2
+end
+
+if (missileIndex == 3) then
+transUp = - waveHeight * sin(time * wavesPerSec * 360) /2
+end"	0	4
+1725	Creature - Magic Sickle	"local angle = 0
+local maxMagnitude = startDistance * .20
+local spinRate = -3600
+
+modelPitch = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+1726	Creature - Summon Harpoon (Skadi)	"local angle = 0
+local maxMagnitude = startDistance * 2
+local spinRate = 1080
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+"	0	1
+1744	Creature - Arcane Swarm (Malygos)	"local angle = 0
+local maxMagnitude = startDistance * 3
+
+transAngle = angle	
+
+if progress < 0.3 then
+	transMag = (1 - (((progress*3.33)-1)^2)) * 15
+	speedScalar = .5
+else
+	transMag = (1 - (progress*1.43) +0.43) * 15
+	speedScalar = 20 * progress * progress * progress
+end
+
+
+if progress <= .3 then
+	transRight = (cos(progress*3000)) * 2 * (1-progress)
+	transUp = (sin(progress*3000)) * 2 * (1-progress)
+end"	0	3
+1764	Always Miss (Random, JZB)	"transRight = progress * ( 5 * rand1)
+transUp = progress * ( 4 * rand2)
+transFront = progress * 10
+
+
+"	0	1
+1784	Creature - Rock Shards (Archavon)	"	
+	modelPitch = -90
+--	scale = progress
+
+--	transRight = (missileIndex * 5) * (1-progress)"	0	1
+1804	Flip Coin, Self	"--[[
+
+--Old script, was based on 
+
+local missileSpeed = 10
+local startSpeed = 20
+local p0 = 0.5
+
+local travelTime = (startDistance / missileSpeed)  -- - 2.5
+local v0 = startSpeed
+local acc = (v0*travelTime + p0) / (travelTime*travelTime)
+
+--tr"	0	1
+1824	Creature - Shadow Crash (Forgotten One)	"local angle = 0
+local maxMagnitude = startDistance * .40
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelRoll = progress * 6000"	0	1
+1825	Engineering - Rocket Turret	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 3
+local maxKickBack = 12
+
+--progress = 1 - progress
+if ( rand1 < 0.5 ) then
+	missileIndex = 1;
+else
+	missileIndex = 2;
+end
+
+transAngle = startAngle + ( missileIndex / 2 * 360) + (time * degreesPerSec)
+transMag = progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+--transUp = distanceToImpactPos - distanceToFirePos"	0	1
+1844	Creature - Ember Shower (Sandoval)	"local angle = 0
+local maxMagnitude = startDistance * .10 + (rand1 * 5)
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelRoll = progress * 3000"	0	1
+1864	Parabola (Very VERY high, -45 to -0) (bunny jump)	"local angle = 0
+local maxMagnitude = startDistance * .90
+modelPitch = -45 + 45 * progress
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+"	0	1
+1865	Parabola (Pitch Spin, Very High)	"local angle = 0
+local maxMagnitude = startDistance * .60
+local spinRate = 720
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+"	0	1
+1884	Multi-Shot (7 Missiles, Rolling, Tight, Drunken)	"-- spread out as the missiles travel
+local outerWheelMag =  progress / 3
+local missileAngle
+
+
+local maxMagnitude = 1.0
+local minSpeedScalar = .8
+local maxSpeedScalar = 1.2
+
+local magnitude = (progress * 1.9) - 1
+magnitude = (1 - (magnitude * mag"	0	7
+1904	Creature - Arcane Swarm (Malygos)	"local angle = 0
+local maxMagnitude = startDistance * 3
+
+transAngle = angle	
+
+if progress < 0.3 then
+	transMag = (1 - (((progress*3.33)-1)^2)) * 15
+	speedScalar = .5
+
+else
+	transMag = (1 - (progress*1.43) +0.43) * 15
+	speedScalar = 20 * progress * progress * progress
+end
+
+
+if progress <= .3 then
+	transRight = (cos(progress*3000)) * 2 * (1-progress)
+	transUp = (sin(progress*3000)) * 2 * (1-progress)
+end"	0	3
+1905	Creature - Solar Flare (Elder Brightleaf)	"local angle = 0
+local maxMagnitude = startDistance * 1
+
+transAngle = angle	
+
+if progress < .3 then	
+transMag = (1 - (((progress*3.33)-1)^2)) * 10
+	speedScalar = .3
+else
+	transMag = (1 - (progress*1.43) +0.33) * 10
+	speedScalar = 20 * progress * progress * progress
+end
+"	0	1
+1924	Spiral + Spin (4 Missiles)	"local spread = 1.2
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 180
+
+transAngle = startAngle + (time * degreesPerSec)
+transMag = spread;
+
+local spinRate = 360
+modelRoll = time * spinRate
+"	0	4
+1964	Spiral Inward (3 Missiles)	"local outerWheelSpinRate = 180 	-- 1 spin / sec
+local outerWheelMag = 2.5			-- 1 yard
+local missileAngle = outerWheelSpinRate * time
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount)
+	missileAngle = missileAngle + anglePerMissile * missileIndex
+end
+
+transFront = outerWheelMag * cos ( missileAngle ) * (1 - progress) * 2
+transRight = outerWheelMag * sin ( missileAngle ) * (1 - progress) * 2
+"	0	3
+1965	Creature - Acivate Construct (Ignis)	"local outerWheelSpinRate = 180 	-- 1 spin / sec
+local outerWheelMag = 2.5			-- 1 yard
+local missileAngle = outerWheelSpinRate * time
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount)
+	missileAngle = missileAngle + anglePerMissile * missileIndex
+end
+
+transFront = outerWheelMag * cos ( missileAngle ) * (1 - progress) * 2 * progress
+transRight = outerWheelMag * sin ( missileAngle ) * (1 - progress) * 2 * progress
+
+
+local angle = 0
+local maxMagnitude = startDistance * .50
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	3
+1984	Creature - Summon Proximity Mines (Mimiron - P1)	"local angle = 0
+local maxMagnitude = startDistance * .8
+local spinRate = 540
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+"	0	1
+1985	Creautre - Rocket Strike (Mimiron)	"local angle = 0
+local maxMagnitude = 20
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+speedScalar = ((progress + .05)^1.5) * startDistance * .2"	0	1
+2004	Creature - Laser Barrage (Mimiron)	"
+	if missileIndex == 1 then
+		transRight = (progress * (rand1 - .50) * 10) + .75
+		transUp = progress * (rand2 - .70) * 10
+	elseif missileIndex == 2 then
+		transRight = (progress * (rand2 - .50) * 10) - .75
+		transUp = progress * (rand3 - .70) * 10
+	else
+		transRight = progress * (rand2 - .50) * 10
+		transUp = progress * ((rand1 - .70) * 10) + .75
+	end
+
+transFront = progress * 3"	0	3
+2024	Forward Spin (fast) + Parabola	"local angle = 0
+local maxMagnitude = startDistance * .15
+local spinRate = 1080
+
+modelPitch = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2025	Creature - Rapid Burst Effect (Mimiron)	"	if missileIndex == 1 then
+		speedScalar = rand1/1.5 + 1
+	elseif missileIndex == 2 then
+		speedScalar = rand2/1.5 + 1
+	else
+		speedScalar = rand3/1.5 + 1
+	end
+
+	if missileIndex == 1 then
+		transRight = progress * (rand1 - .50) + .5
+		transUp = progress * (rand2 - .50)
+	elseif missileIndex == 2 then
+		transRight = progress * (rand2 - .50) - .5
+		transUp = progress * (rand3 - .50)
+	else
+		transRight = progress * (rand2 - .50)
+		transUp = progress * (rand1 - .50) + .5
+	end"	0	3
+2044	Missile - 3		0	3
+2064	Morgan Test	"local angle = 0
+local maxMagnitude = startDistance * 0.5
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+local noise = 2;
+local outerWheelMag = 4 * (progress)
+
+if ( missileIndex > 12 ) then 
+	outerWheelMag = outerWheelMag * 2;
+end
+
+local count = missileCount / 2 
+
+local smallAngle = (360/count ) * missileIndex 
+local transRight = math.cos(smallAngle) * outerWheelMag + rand1*noise ;
+local transFront = math.sin(smallAngle) * outerWheelMag + rand2*noise ;"	0	24
+2084	Creature - Flame Leviathan - Rockets (Spiral)	"local maxHeight = 5 + (startDistance * .08)
+
+local newness = 1 - (progress * progress)
+
+transAngle = (rand1 * 360) + (time * 400)
+
+if progress < 0.05 then
+	transMag = progress * 40
+elseif progress < .1 then
+	transMag = 2
+elseif progress < .433333333 then
+	transMag = 2 * (1 - ((progress - .1) * 3))
+end
+
+local transUp1 = (progress * 3.33) - 1
+transUp1 = (1 - (transUp1 * transUp1)) * maxHeight
+
+local transUp2 = (1.43 - (progress * 1.43)) * maxHeight
+
+if progress < .2 then
+	transUp = transUp1
+elseif progress < .4 then
+	transUp = transUp1 + ((transUp2 - transUp1) * ((progress - .2) * 5))
+else
+	transUp = transUp2
+end
+
+local accel = progress + .23
+speedScalar = .05 + (8 * accel * accel * accel)"	0	1
+2104	Boomerang (Return)	"local angle = -90
+local maxMagnitude = startDistance * .2
+local spinRate = 720
+
+progress = 1 - progress
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelYaw = time * spinRate
+
+
+transFront = distanceToImpactPos - distanceToFirePos
+"	0	1
+2124	Creature - Laser Barrage	"
+	if missileIndex == 1 then
+		transRight = (progress * (rand1 - .50) * 10) + .75
+		transUp = progress * (rand2 - .70) * 10
+	elseif missileIndex == 2 then
+		transRight = (progress * (rand2 - .50) * 10) - .75
+		transUp = progress * (rand3 - .70) * 10
+	else
+		transRight = progress * (rand2 - .50) * 10
+		transUp = progress * ((rand1 - .70) * 10) + .75
+	end
+
+transFront = progress"	0	3
+2144	Creature - Summon Magnetic Core (Mimiron - P3)	"local angle = 0
+local maxMagnitude = startDistance * .4
+local spinRate = 540
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+"	0	1
+2164	Dan\'s Test Motion	transUp = 5	0	1
+2184	Isle of Conquest - Place Seaforium Charge	"local angle = 0
+local maxMagnitude = startDistance * .15
+local spinRate = 1080
+
+modelPitch = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2204	Isle of Conquest - Glaive	"local spinRate = 1080
+
+modelYaw = time * spinRate"	0	1
+2224	Fountain (Flaming Cinder)	"local angle = 0
+local maxMagnitude = startDistance * .5
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transFront = -distanceToFirePos * (1 - progress)"	0	1
+2244	Snake (3 Missiles)	"local waveHeight = .8
+local wavesPerSec = 2
+
+transRight = waveHeight * sin(time * wavesPerSec * 360) * ( 1 - progress ) * 2"	0	3
+2264	NPC - Glaive	"local spinRate = 1080
+
+modelYaw = time * spinRate
+
+local angle = 0
+local maxMagnitude = startDistance * .10
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2284	Isle of Conquest - Blade Salvo (Glaive Thrower)	"modelPitch = 90
+local spinRate = 1080
+
+modelYaw = time * spinRate"	0	1
+2304	Isle of Conquest - Dagger Throw (Generals)	"local spinRate = 1080
+
+modelPitch = time * spinRate"	0	1
+2324	Parabola (2 missiles)	"local angle = 0
+local maxMagnitude = startDistance * .15
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	2
+2344	Parabola (High, Pitch Spin)	"local angle = 0
+local maxMagnitude = startDistance * .3
+local spinRate = 720
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+"	0	1
+2384	Spiral Cyclone JS	"local numSpirals = 2
+local radius = 5 * progress * (rand1 + 0.5)
+
+local curAngle = numSpirals * progress * 360
+
+transFront = (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)
+
+transUp = 2 * progress"	0	2
+2404	Spiral Flat 10yd min JS 	"local numSpirals = 5
+local minRadius = 10
+local radius = minRadius + (10 * progress * (rand1 * 5))
+
+local curAngle = numSpirals * progress * 360
+
+transFront = (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)
+
+transUp = rand2 * 5"	0	3
+2424	Drunken Fountain (5 Missiles)	"local angle = 0
+local maxMagnitude = startDistance * .5
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transFront = -distanceToFirePos * (1 - progress)
+
+local magnitude = transMag * .15
+
+transRight = (sin((rand1 * 1000) + (time * 400)) + cos((rand3 * 1000) + (time * 60))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 300)) + cos((rand1 * 1000) + (time * 100))) * magnitude
+transFront = transFront +
+	(sin((rand3 * 1000) + (time * 300)) + cos((rand2 * 1000) + (time * 100))) * magnitude
+
+speedScalar = 1 - (progress * .5)"	0	5
+2444	Creature - Summon Ice Ring (Arthas Encounter)	"local angle = 0
+local maxMagnitude = startDistance * .8
+--local spinRate = 1080
+
+--transAngle = angle
+--transMag = (progress * 2) - 1
+--transMag = (1 - (transMag * transMag)) * maxMagnitude
+--transUp = progress * 1.1
+transUp = 20 + (progress * -19)
+transFront = 3 + (progress * -3)
+
+--modelPitch = time * spinRate
+"	0	1
+2464	Forward Spin (fast) + Parabola + Grow (1 -> 3)	"local angle = 0
+local maxMagnitude = startDistance * .15
+local spinRate = 1080
+
+modelPitch = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+scale = 1 + 2 * progress"	0	1
+2484	Soul Vortex (10 Missiles - No Kickback)	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 2.5
+local maxKickBack = 0
+
+--progress = 1 - progress
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+--transUp = distanceToImpactPos - distanceToFirePos"	0	10
+2504	Creature - Soul Reaper Effect (Arthas Encounter)	"local outerWheelSpinRate = 180 	-- 1 spin / sec
+local outerWheelMag = 1			-- 1 yard
+local missileAngle = outerWheelSpinRate * time
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount)
+	missileAngle = missileAngle + anglePerMissile * missileIndex
+end
+
+transFront = outerWheelMag * cos ( missileAngle ) * (1 - progress) * 2
+transRight = outerWheelMag * sin ( missileAngle ) * (1 - progress) * 2
+"	0	3
+2524	Parabola (-90 Pitch)	"local angle = 0
+local maxMagnitude = startDistance * .15
+modelPitch = -90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2525	Parabola (90 Pitch)	"local angle = 0
+local maxMagnitude = startDistance * .15
+modelPitch = 90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2526	Parabola (-90 Yaw)	"local angle = 0
+local maxMagnitude = startDistance * .15
+modelYaw = -90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2544	Stinger Missile (always arrive in ~7 sec)	"
+transAngle = 0	
+
+if (time < 7) then
+	speedAbs = distanceToImpactPos / (7 - time)
+else
+	speedAbs = 100000
+end
+
+if progress < 0.4 then
+	transMag = (1 - (((progress*3.33)-1)^2)) * 20
+	speedAbs = speedAbs * 0.4
+elseif progress < 0.9 then
+	transMag = (1 - (progress*1.43) +0.43) * 20
+	speedAbs = speedAbs * (progress^2)
+else
+	transMag = (1 - (progress*1.43) +0.43) * 20
+end
+
+"	0	3
+2564	Spiral + Spin (2 Missiles)	"local spread = 1.2
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 180
+
+transAngle = startAngle + (time * degreesPerSec)
+transMag = spread;
+
+local spinRate = 360
+modelRoll = time * spinRate
+"	0	2
+2584	Fast Spiral + Spin (4 Missiles)	"local spread = .5
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 360
+
+transAngle = startAngle + (time * degreesPerSec)
+transMag = spread;
+
+local spinRate = 360
+modelRoll = time * spinRate
+"	0	4
+2624	Drunken Fountain (1 Missile)	"local angle = 0
+local maxMagnitude = startDistance * .5
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transFront = -distanceToFirePos * (1 - progress)
+
+local magnitude = transMag * .15
+
+transRight = (sin((rand1 * 1000) + (time * 400)) + cos((rand3 * 1000) + (time * 60))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 300)) + cos((rand1 * 1000) + (time * 100))) * magnitude
+transFront = transFront +
+	(sin((rand3 * 1000) + (time * 300)) + cos((rand2 * 1000) + (time * 100))) * magnitude
+
+speedScalar = 1 - (progress * .5)"	0	1
+2644	Creature - Gunship Cannon Fire (Arthas Dungeon)	"transUp = (progress * (rand1 - .5)) * 20
+transRight = (progress * (rand2 - .5)) * 20
+
+"	0	1
+2645	Creature - Ice Bomb (Sindragosa)	"local angle = 0
+local maxMagnitude = 20
+
+local angle = 0
+local maxMagnitude = startDistance * .10
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+speedAbs = totalDistance/5.5"	0	1
+2664	Spiral + Spin	"local spread = 1.2
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 180
+
+transAngle = startAngle + (time * degreesPerSec)
+transMag = spread;
+
+local spinRate = 360
+modelRoll = time * spinRate
+"	0	1
+2684	Icecrown Dungeon - Destroy Wall, Sylvanas	"transUp = ((progress * (rand1 - .5)) * 5) + (progress * 5)
+transRight = (progress * (rand2 - .5)) * 20"	0	1
+2704	Fast Spiral + Spin (1 Missile)	"local spread = .5
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 360
+
+transAngle = startAngle + (time * degreesPerSec)
+transMag = spread;
+
+local spinRate = 360
+modelRoll = time * spinRate
+"	0	1
+2724	Twin Wave - Horizontal - Large	"
+local waveHeight = 5
+local wavesPerSec = 0.7
+
+if (missileIndex == 0) then
+transRight = waveHeight * sin(time * wavesPerSec * 360)
+end
+
+if (missileIndex == 1) then
+transRight = - waveHeight * sin(time * wavesPerSec * 360)
+end"	0	2
+2744	Triple Parabola (Medium)	"local angle = 1
+local maxMagnitude = startDistance * .20
+
+transAngle = angle
+progress = math.fmod(progress * 3, 1)
+transMag = (progress * 2) - 1
+transMag = (.85 - (transMag * transMag)) * maxMagnitude"	0	1
+2764	Stinger Missile (No speed mod)	"
+transAngle = 0	
+
+--speedAbs = startDistance / 7.5
+
+if progress < 0.4 then
+	transMag = (1 - (((progress*3.33)-1)^2)) * 20
+	speedAbs = speedAbs * .5
+else
+	transMag = (1 - (progress*1.43) +0.43) * 20
+	speedAbs = speedAbs * (1.2+progress)^3
+end
+
+"	0	3
+2784	Parabola (Medium)	"local angle = 0
+local maxMagnitude = startDistance * .20
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2804	Forward Spin + Triple Parabola (Low)	"local angle = 1
+local maxMagnitude = startDistance * .20
+local spinRate = 360
+
+
+transAngle = angle
+progress = math.fmod(progress * 3, 1)
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelPitch = time * spinRate"	0	1
+2824	Drunken Fountain (3 Missiles)	"local angle = 0
+local maxMagnitude = startDistance * .5
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transFront = -distanceToFirePos * (1 - progress)
+
+local magnitude = transMag * .15
+
+transRight = (sin((rand1 * 1000) + (time * 400)) + cos((rand3 * 1000) + (time * 60))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 300)) + cos((rand1 * 1000) + (time * 100))) * magnitude
+transFront = transFront +
+	(sin((rand3 * 1000) + (time * 300)) + cos((rand2 * 1000) + (time * 100))) * magnitude
+
+speedScalar = 1 - (progress * .5)"	0	3
+2825	Spiral + Parabola	"local waveHeight = 1
+local wavesPerSec = 2
+local angle = 2
+local maxMagnitude = startDistance * .15
+local spinRate = 720
+
+modelRoll = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2828	Drunken Missiles (1 Missile)	"local maxMagnitude = 1.5
+local minSpeedScalar = .7
+local maxSpeedScalar = 1.5
+
+local magnitude = (progress * 1.9) - 1
+magnitude = 1 - (magnitude * magnitude * magnitude * magnitude)
+
+transRight = (sin((rand1 * 1000) + (time * 1000)) + cos((rand2 * 1000) + (time * 200))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 700)) + cos((rand1 * 1000) + (time * 300))) * magnitude
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)
+"	0	1
+2829	Parabola (Back Spin)	"local angle = 0
+local maxMagnitude = startDistance * .15
+local spinRate = -720
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelYaw = time * spinRate
+"	0	1
+2830	Creature - Nightmares (Green Dragon Encounter)	modelPitch = 90	0	3
+2831	Spiral (Small) Flat	"local radius = (progress * 8)
+
+local curAngle = progress * 90
+
+transFront = (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)"	0	1
+2832	Spiral Vortex (4 Missiles) (Tight, Don\'t Spiral)	"local startAngle = 45
+local degreesPerSec = 0
+local maxMagnitude = 1.75
+local maxKickBack = 5
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+"	0	4
+2833	Festergut - Malleable Ooze (Putricide)	"local throwHeight = 32.5;
+local progressAtFirstBounce = .45;
+local heightOfFirstBounce = 10;
+local progressAtSecondBounce = .75;
+local heightOfSecondBounce = 7;
+local spinRate = 360
+
+modelPitch = time * spinRate
+transUp = throwHeight * progress;
+
+if (progress < progressAtFirstBounce) then
+
+	local normalizedProgress = progress / progressAtFirstBounce;
+	transUp = transUp - ((normalizedProgress * normalizedProgress) * throwHeight);
+
+elseif (progress < progressAtSecondBounce) then
+
+	local normalizedProgress = (progress - progressAtFirstBounce) /
+		(progressAtSecondBounce - progressAtFirstBounce);
+
+	local curHeight = (normalizedProgress * 2) - 1;
+	curHeight = (1 - (curHeight * curHeight)) * heightOfFirstBounce;
+
+	transUp = (transUp - throwHeight) + curHeight;
+
+else
+
+	local normalizedProgress = (progress - progressAtSecondBounce) /
+		(1.0 - progressAtSecondBounce);
+
+	local curHeight = (normalizedProgress * 2) - 1;
+	curHeight = (1 - (curHeight * curHeight)) * heightOfSecondBounce;
+
+	transUp = (transUp - throwHeight) + curHeight;
+
+end"	0	1
+2834	Creature - Broken Frostmourne Soul Missiles (Arthas Enc	"local numSpirals = 5
+local minRadius = 10
+local radius = minRadius + (10 * progress * (rand1 * 2))
+
+local curAngle = numSpirals * progress * -360
+
+transFront = ((sin(curAngle) * radius * rand3)) * progress
+transRight = (cos(curAngle) * radius * rand3) * progress
+
+transUp = (rand2 * 5)* progress
+
+scale = (rand2 + 1) * 2"	0	3
+2835	Random Scale (1->2)	scale = 1 + 1*rand1	0	1
+2836	Creature - Player Wins, Frostmourne Room - Missiles	"local angle = 0
+local maxMagnitude = startDistance * .35
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transFront = -distanceToFirePos * (1 - progress)
+
+local magnitude = transMag * .15
+
+transRight = (sin((rand1 * 1000) + (time * 400)) + cos((rand3 * 1000) + (time * 60))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 300)) + cos((rand1 * 1000) + (time * 100))) * magnitude
+transFront = transFront +
+	(sin((rand3 * 1000) + (time * 300)) + cos((rand2 * 1000) + (time * 100))) * magnitude
+
+speedScalar = 1 - (progress * .5)"	0	3
+2837	Icecrown Raid - Arthas - Frostmoune Breaks	"local angle = 0
+local maxMagnitude = startDistance * .75
+local spinRate = 540
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate *rand1
+modelYaw = time * spinRate
+"	0	1
+2838	Grow (1 -> 15)	scale = 1 + 14 * progress	0	1
+2839	Snake (half amp, rand wave)	"local waveHeight = .2
+local wavesPerSec = 2 + (rand1 * 3)
+
+transRight = waveHeight * sin(time * wavesPerSec * 360) * ( 1 - progress ) * 2"	0	1
+2840	Stinger Missile (always arrive in ~5 sec)	"
+transAngle = 0	
+
+if (time < 5) then
+	speedAbs = distanceToImpactPos / (5 - time)
+else
+	speedAbs = 100000
+end
+
+if progress < 0.4 then
+	transMag = (1 - (((progress*3.33)-1)^2)) * 20
+	speedAbs = speedAbs * 0.4
+elseif progress < 0.9 then
+	transMag = (1 - (progress*1.43) +0.43) * 20
+	speedAbs = speedAbs * (progress^2)
+else
+	transMag = (1 - (progress*1.43) +0.43) * 20
+end
+
+"	0	3
+2841	Creature - Meteor Strike (Halion)	"local angle = 0
+local maxMagnitude = 20
+
+local angle = 0
+local maxMagnitude = startDistance * .10
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+speedAbs = totalDistance/6.5"	0	1
+2842	Fast Spiral + Spin (1 Missile) (+180)	"local spread = .5
+
+local startAngle = 360 * missileIndex / missileCount + 180;
+local degreesPerSec = 360
+
+transAngle = startAngle + (time * degreesPerSec)
+transMag = spread;
+
+local spinRate = 360
+modelRoll = time * spinRate
+"	0	1
+2843	Fast Spiral + Spin (1 Missile) (Tightens) (+180)	"local spread = .5
+
+local startAngle = 360 * missileIndex / missileCount + 180;
+local degreesPerSec = 360
+
+transAngle = startAngle + (time * degreesPerSec)
+transMag = spread * (1-progress);
+
+local pause = 0.2	
+
+if ( progress < pause ) then 
+	transFront = 0;
+else
+	progress = progress - pause + pause * progress
+    transFront = progress*progress*progress
+end
+
+local spinRate = 360
+modelRoll = time * spinRate
+"	0	1
+2844	Fast Spiral + Spin (1 Missile) (Tightens)	"local spread = .5
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 360
+
+transAngle = startAngle + (time * degreesPerSec)
+transMag = spread * (1-progress);
+
+local pause = 0.2
+
+if ( progress < pause ) then 
+	transFront = 0;
+else
+	progress = progress - pause + pause * progress
+    transFront = progress*progress*progress
+end
+
+local spinRate = 360
+modelRoll = time * spinRate
+"	0	1
+2845	Grow (1 -> 10)	scale = 1 + 9 * progress	0	1
+2846	Spiral + Spin (12 Missiles)	"local spread = 1.2
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 180
+
+transAngle = startAngle + (time * degreesPerSec)
+transMag = spread;
+
+local spinRate = 360
+modelRoll = time * spinRate
+"	0	12
+2847	Bubble Blast	"local spread = 1.2
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 360
+
+transAngle = startAngle + (time * degreesPerSec) 
+transMag = spread * missileIndex / missileCount;
+
+local spinRate = 360
+modelRoll = time * spinRate
+
+transFront = distanceToImpactPos * progress * missileIndex / missileCount;
+
+if ( math.fmod(missileIndex,2) == 1 ) then
+    transAngle = transAngle + 180;
+end"	0	24
+2848	Gear Toss	"local spread = 1.2
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 360
+
+transAngle = startAngle  -- + (time * degreesPerSec) 
+transMag = spread * missileIndex / missileCount;
+
+local spinRate = 360
+--modelRoll = time * spinRate
+
+transFront = distanceToImpactPos * progress * missileIndex / missileCount;
+
+if ( math.fmod(missileIndex,2) == 1 ) then
+    transAngle = transAngle + 180;
+end
+
+if ( math.fmod(missileIndex,3) == 1 ) then
+    transAngle = transAngle + 30 * rand1;
+elseif ( math.fmod(missileIndex,3) == 2 ) then
+    transAngle = transAngle + 90 * rand2;
+end"	0	24
+2849	Always Miss (Down)	"transRight = progress * 2
+transUp = progress * -4
+transFront = progress * 20"	0	1
+2850	Fast Spiral + Spin (4 Missile) (Tightens) (+180)	"local spread = .5
+
+local startAngle = 360 * missileIndex / missileCount + 180;
+local degreesPerSec = 360
+
+transAngle = startAngle + (time * degreesPerSec)
+transMag = spread * (1-progress);
+
+local pause = 0.2	
+
+if ( progress < pause ) then 
+	transFront = 0;
+else
+	progress = progress - pause + pause * progress
+    transFront = progress*progress*progress
+end
+
+local spinRate = 360
+modelRoll = time * spinRate
+"	0	4
+2851	Fast Spiral + Spin (4 Missile) (Tightens)	"local spread = .5
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 360
+
+transAngle = startAngle + (time * degreesPerSec)
+transMag = spread * (1-progress);
+
+local pause = 0.2
+
+if ( progress < pause ) then 
+	transFront = 0;
+else
+	progress = progress - pause + pause * progress
+    transFront = progress*progress*progress
+end
+
+local spinRate = 360
+modelRoll = time * spinRate
+"	0	4
+2852	Spiral Opposite	"local spinRate = -720
+
+modelRoll = time * spinRate"	0	1
+2853	Creature - Tsunami (Throne of Tides)	"	scale = (1/(progress+.2))"	0	1
+2854	Parabola (Roll)	"local angle = 0
+local maxMagnitude = startDistance * .10
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelRoll = progress * 6000"	0	1
+2855	Forward Spin (Fast, 2 Missiles)	"local spinRate = 1440
+
+modelPitch = time * spinRate"	0	2
+2856	Creature - Consuming Flames (Dragon Alch)		0	2
+2857	Creature - Throw Blue Bottle (Dragon Alch)	"local angle = 0
+local maxMagnitude = startDistance * .30
+local spinRate = 360
+
+modelPitch = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2858	Accelerated Missile (Faster)	speedScalar = 0.2 + 3 * progress	0	1
+2859	Grow (1 -> 10) and Accelerate	"scale = 1 + 9 * progress
+speedScalar = 0.2 + 3 * progress"	0	1
+2860	Creature - Spikes (Bouncer Encounter)	"
+	modelPitch = (progress * 360) * 2
+
+	modelRoll = 90	
+	modelYaw = 90
+
+	local dist = 60
+
+	if missileIndex == 0 then
+		transFront = progress * -dist
+	elseif missileIndex == 1 then
+		transFront = progress * -dist/2
+		transRight = progress * dist/2
+	elseif missileIndex == 2 then
+		transRight = progress * dist
+	elseif missileIndex == 3 then
+		transFront = progress * dist/2
+		transRight = progress * dist/2
+	elseif missileIndex == 4 then
+		transFront = progress * dist
+	elseif missileIndex == 5 then
+		transFront = progress * dist/2
+		transRight = progress * -dist/2
+	elseif missileIndex == 6 then
+		transRight = progress * -dist
+	elseif missileIndex == 7 then
+		transFront = progress * -dist/2
+		transRight = progress * -dist/2
+	end
+
+	transAngle = 0
+	transMag = progress * ((rand1-.5) * 10)"	0	8
+2861	Always Miss - Random Angle, Miss by 5-10 yd	"transAngle = 360*rand1
+transMag = progress*(5+5*rand2)
+transFront = progress*1.3"	0	1
+2862	Always Miss - Random Angle, Miss by 5-10 yd, Parabola	"local maxMagnitude = startDistance * .15
+transAngle = 360*rand1
+transMag = (5+5*rand2) * progress
+
+transUp = (progress * 2) - 1
+transUp = (1 - (transUp * transUp)) * maxMagnitude
+transFront = 1.3 * progress
+
+"	0	1
+2863	Creature - Magma Erruption Summon Effect (Deepholm)	"local angle = 0
+local maxMagnitude = startDistance * .60
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2864	Mekkatorque-Missiles	"local maxMagnitude = 3
+local minSpeedScalar = .5
+local maxSpeedScalar = 1.2
+
+local magnitude = (progress * 1.9) - 1
+magnitude = 1 - (magnitude * magnitude * magnitude * magnitude)
+
+transRight = (sin((rand1 * 1000) + (time * 1000)) + cos((rand2 * 1000) + (time * 200))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 700)) + cos((rand1 * 1000) + (time * 300))) * magnitude
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)
+
+--stolen from stinger missiles, it starts the missiles higher up
+transAngle = 0	
+
+if progress < 0.4 then
+	transMag = (1 - (((progress*3.33)-1)^2)) * 5
+	speedAbs = speedAbs * .5
+else
+	transMag = (1 - (progress*1.43) +0.43) * 5
+	speedAbs = speedAbs * (1.2+progress)^3
+end"	0	22
+2865	Quest - White Mist Expel	"local startAngle = 0
+local degreesPerSec = 20
+local maxMagnitude = 3
+local maxKickBack = 0
+
+--progress = 1 - progress
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+
+transMag = progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+--transUp = distanceToImpactPos - distanceToFirePos"	0	2
+2866	Quest - Mist Retrieve	"local startAngle = 0
+local degreesPerSec = 20
+local maxMagnitude = 3
+local maxKickBack = 0
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transUp = distanceToImpactPos - (distanceToFirePos +2)
+transMag = 10 * (1-progress) * (1-progress)
+
+transFront = distanceToImpactPos * (1 - progress) * (1 - progress)"	0	1
+2867	Creature - Stalactite	"
+	modelRoll = 270
+	modelYaw = 90
+
+	modelPitch = progress * 180"	0	1
+2868	Drunken Fountain (3 Missiles) (High)	"local angle = 0
+local maxMagnitude = startDistance * 1.5
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transFront = -distanceToFirePos * (1 - progress)
+
+local magnitude = transMag * .15
+
+transRight = (sin((rand1 * 1000) + (time * 400)) + cos((rand3 * 1000) + (time * 60))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 300)) + cos((rand1 * 1000) + (time * 100))) * magnitude
+transFront = transFront +
+	(sin((rand3 * 1000) + (time * 300)) + cos((rand2 * 1000) + (time * 100))) * magnitude
+
+speedScalar = 1 - (progress * .5)"	0	3
+2869	Missile Swarm (Nefarian)	"local magnitude = (progress * 1.9) - 1
+magnitude = 1 - (magnitude * magnitude * magnitude * magnitude)
+
+transRight = (sin((rand1 * 1000) + (time * 100)) + cos((rand2 * 1000) + (time * 200))) * magnitude * (1-progress)
+
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 360
+
+transAngle = startAngle + (time * degreesPerSec)
+transMag = 0.5;
+
+local spinRate = 360
+modelRoll = time * spinRate
+
+
+if missileIndex == 0 then
+	speedScalar = 1.5
+elseif missileIndex == 1 then
+	speedScalar = 1.6
+elseif missileIndex == 2 then
+	speedScalar = 1.7
+else
+	speedScalar = 1.8
+end"	0	4
+2870	Spiral (Nefarian Meteor)	"local outerWheelSpinRate = 360
+local outerWheelMag
+local missileAngle = outerWheelSpinRate * time
+
+if missileIndex == 1 then
+	transUp = 0.75
+	outerWheelMag = 1.1
+	scale = 0.4
+elseif missileIndex == 2 then
+	transUp = 5.5
+	outerWheelMag = 0.3
+	scale = 0.4
+elseif missileIndex == 3 then
+	transUp = 6.8
+	outerWheelMag = 0.4
+	scale = 0.48
+elseif missileIndex == 4 then
+	transUp = 2.5
+	outerWheelMag = 0.7
+	scale = 0.6
+elseif missileIndex == 5 then
+	transUp = 3.5
+	outerWheelMag = 1.25
+	scale = 0.5
+elseif missileIndex == 6 then
+	transUp = 7.4
+	outerWheelMag = 0.2
+	scale = 0.4
+end
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount - rand2)
+	missileAngle = missileAngle + anglePerMissile * missileIndex
+
+	transFront = outerWheelMag * cos ( missileAngle )
+	transRight = outerWheelMag * sin ( missileAngle )
+end
+
+"	0	7
+2871	Creature - Crystal Barrage (Deepholm Dungeon - Ring W	"
+	modelPitch = 90"	0	1
+2872	Always Miss - Left or Right, Miss by 1-2 yd	"transAngle = -90+math.floor(rand1*2)*180
+transMag = progress*(1+1*rand2)
+transFront = progress*1.5"	0	1
+2873	Blow Dart	"local angle = 25
+local maxMagnitude = startDistance * .15
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2874	Forward Spin (Fast)	"local spinRate = 1440
+
+modelPitch = time * spinRate"	0	5
+2875	Deepholm - Stone Spike	"
+
+modelPitch = 90"	0	1
+2876	King Mukla - Barrel Toss	"local angle = 0
+local maxMagnitude = startDistance * .15
+local spinRate = 60
+
+modelPitch = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = math.fmod(modelPitch,360);
+
+transUp = math.sin(modelPitch/180*3.14)*3;
+transFront = math.cos(modelPitch/180*3.14)*3;
+
+-- transUp = math.sin(modelPitch/180)*4;
+
+-- force the missile to always face the impact position
+faceImpactPos = 1;
+
+"	0	1
+2877	Shuriken Toss	"local spread = 1.2
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 360
+
+transAngle = startAngle  -- + (time * degreesPerSec) 
+transMag = spread * missileIndex / missileCount;
+
+local spinRate = 360
+modelRoll = time * spinRate + 360*rand1
+
+transFront = distanceToImpactPos * progress * missileIndex / missileCount;
+
+if ( math.fmod(missileIndex,2) == 1 ) then
+    transAngle = transAngle + 180;
+end
+
+if ( math.fmod(missileIndex,3) == 1 ) then
+    transAngle = transAngle + 30 * rand1;
+elseif ( math.fmod(missileIndex,3) == 2 ) then
+    transAngle = transAngle + 90 * rand2;
+end"	0	24
+2878	Banana Toss	"local spread = 1.2
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 360
+
+transAngle = startAngle  -- + (time * degreesPerSec) 
+transMag = spread * missileIndex / missileCount;
+
+local spinRate = 360
+modelYaw = time * spinRate + 360*rand1
+modelRoll = time * spinRate + 360*rand2
+
+transFront = distanceToImpactPos * progress * missileIndex / missileCount;
+
+if ( math.fmod(missileIndex,2) == 1 ) then
+    transAngle = transAngle + 180;
+end
+
+if ( math.fmod(missileIndex,3) == 1 ) then
+    transAngle = transAngle + 30 * rand1;
+elseif ( math.fmod(missileIndex,3) == 2 ) then
+    transAngle = transAngle + 90 * rand2;
+end"	0	24
+2879	Parabola (Very Very VERY High)	"local angle = 0
+local maxMagnitude = startDistance * 1.4
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2881	Grow (1 -> 2.5)	scale = 1 + (1.5 * progress)	0	1
+2882	Accelerated Missile (Based on Time)	speedScalar = 0.1 + (5 * time * time * time * time)	0	1
+2883	Parabola (Pitch Spin) Grow 1->3	"scale = 1 + 2 * progress
+
+local angle = 0
+local maxMagnitude = startDistance * .15
+local spinRate = 720
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+"	0	1
+2884	Spin (Roll) (Pitch 90)	"
+modelPitch = 90
+
+modelRoll = progress * 600"	0	1
+2885	Spiral Flat JS (Howling Gale 16)	"local numSpirals = 4
+
+if missileIndex == 0 then
+	radius = 5
+elseif missileIndex == 1 then
+	radius = 10
+else
+	radius = 16
+end
+
+local curAngle = numSpirals * progress * 360
+
+transFront = (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)
+
+transUp = rand2 * 5
+
+-- spin them a little so they look good from the side
+modelRoll = 30"	0	3
+2886	Spiral Flat JS (Howling Gale 10)	"local numSpirals = 3
+
+if missileIndex == 1 then
+	radius = 10
+else
+	radius = 5
+end
+
+local curAngle = numSpirals * progress * 360
+
+transFront = (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)
+
+transUp = rand2 * 5
+
+-- spin them a little so they look good from the side
+modelRoll = 30"	0	2
+2887	Spiral Flat JS (Howling Gale 5)	"local numSpirals = 2
+
+radius = 5
+
+local curAngle = numSpirals * progress * 360
+
+transFront = (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)
+
+transUp = rand2 * 5
+
+-- spin them a little so they look good from the side
+modelRoll = 30"	0	1
+2889	Parabola (Roll) (3 Missiles, Grow)	"local angle = 0
+local maxMagnitude = startDistance * .10
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelRoll = progress * 6000
+
+scale = progress"	0	3
+2890	Crystal Upheaval	"    disk = 10;
+	mag = 30 * rand2;
+	angle = 360 * rand1;
+
+	transFront = mag * math.cos(angle);
+	transRight = mag * math.sin(angle);
+    transUp = disk * rand3;
+
+    modelYaw = 360 * time + 180 * missileIndex / missileCount;"	0	20
+2891	Start slow, End Fast, Slow roll based on speed	"local spinRate = 60
+modelRoll = time * spinRate
+speedScalar = 0.1 + 35 * progress * progress
+transUp  = (1.4 - 2 * rand1) * (1 - progress)
+transRight  = (1 - 2 * rand2) * (1 - progress)"	0	1
+2892	Parabola (SPECIAL - UNIQUE - DO NOT REUSE)	"local angle = 0
+local maxMagnitude = startDistance * .60
+
+transUp = (1 - progress) * 50
+transFront = - (1 - progress) * 100
+transRight = (1 - progress) * 100
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+"	0	1
+2893	Parabola (90 Pitch) (High)	"local angle = 0
+local maxMagnitude = startDistance * .35
+modelPitch = 90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2894	Creature - Crystal Storm, Heroic (Slabhide Encounter)	transFront = progress * 30	0	1
+2895	Creature - Crystal Storm (Slabhide Encounter)	modelPitch = -90	0	1
+2896	Creature - Throw Black Bottle (Extra Missile Vis) (Dragon	"local angle = 0
+local maxMagnitude = startDistance * .30
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = 180"	0	1
+2897	Creature - Cursed Bullets (Lord Godfrey Encounter)	"
+	if missileIndex == 1 then
+		transRight = -0.4 * (1-progress)
+		transFront = -1 * (1-progress)
+	end"	0	2
+2898	Grow (1 -> 2.5)(Pitch -90)	"scale = 1 + (1.5 * progress)
+modelPitch = -90"	0	1
+2899	Spiral Swarm (Nefarian Meteor Flat)	"local outerWheelSpinRate = 360
+local outerWheelMag
+local missileAngle = outerWheelSpinRate * time
+
+if missileIndex == 1 then
+	outerWheelMag = 1.1
+	scale = 0.4
+elseif missileIndex == 2 then
+	outerWheelMag = 0.3
+	scale = 0.4
+elseif missileIndex == 3 then
+	outerWheelMag = 0.4
+	scale = 0.48
+elseif missileIndex == 4 then
+	outerWheelMag = 0.7
+	scale = 0.6
+elseif missileIndex == 5 then
+	outerWheelMag = 1.25
+	scale = 0.5
+elseif missileIndex == 6 then
+	outerWheelMag = 0.2
+	scale = 0.4
+end
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount - rand2)
+	missileAngle = missileAngle + anglePerMissile * missileIndex
+
+	transFront = outerWheelMag * cos ( missileAngle )
+	transRight = outerWheelMag * sin ( missileAngle )
+end
+"	0	7
+2900	Left Yaw Spin	"local spinRate = 720
+
+modelYaw = time * spinRate"	0	1
+2901	Parabola (Pitch Spin, Slow Reverse)	"local angle = 0
+local maxMagnitude = startDistance * .15
+local spinRate = -360
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+"	0	1
+2902	Summon Wings of Aviana	"local minSpeedScalar = .7
+local maxSpeedScalar = 1.5
+
+transRight = (sin((rand1 * 1000) + (time * 1000)) + cos((rand2 * 1000) + (time * 200)))
+transFront = (sin((rand2 * 1000) + (time * 700)) + cos((rand1 * 1000) + (time * 300)))
+
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)"	0	9
+2903	Parabola (Very Low)	"local angle = 0
+local maxMagnitude = startDistance * .05
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2904	Test - Explosion (NOT a Missile!)	"local maxMagnitude = 1.5
+local minSpeedScalar = .7
+local maxSpeedScalar = 1.5
+
+local magnitude = (progress * 1.9) - 1
+magnitude = 1 - (magnitude * magnitude * magnitude * magnitude)
+
+transAngle = 90
+transRight = (sin((rand1 * 1000) + (time * 1000)) + cos((rand2 * 1000) + (time * 200))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 700)) + cos((rand1 * 1000) + (time * 300))) * magnitude
+speedScalar = minSpeedScalar + ((maxSpeedScalar - minSpeedScalar) * rand3)
+"	0	8
+2905	Spiral Swarm (Nefarian Meteor Parabola)	"local outerWheelSpinRate = 360
+local outerWheelMag
+local missileAngle = outerWheelSpinRate * time
+
+local angle = 0
+local maxMagnitude = startDistance * .15
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+if missileIndex == 1 then
+	outerWheelMag = 1.1
+	scale = 0.4
+elseif missileIndex == 2 then
+	outerWheelMag = 0.3
+	scale = 0.4
+elseif missileIndex == 3 then
+	outerWheelMag = 0.4
+	scale = 0.48
+elseif missileIndex == 4 then
+	outerWheelMag = 0.7
+	scale = 0.6
+elseif missileIndex == 5 then
+	outerWheelMag = 1.25
+	scale = 0.5
+elseif missileIndex == 6 then
+	outerWheelMag = 0.2
+	scale = 0.4
+end
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount - rand2)
+	missileAngle = missileAngle + anglePerMissile * missileIndex
+
+	transFront = outerWheelMag * cos ( missileAngle )
+	transRight = outerWheelMag * sin ( missileAngle )
+end"	0	7
+2906	Living Meteor (Explosion of Missiles)	"
+	modelPitch = (progress * 360) * 2
+
+	modelRoll = 90	
+	modelYaw = 90
+
+	local dist = 60
+
+
+	if missileIndex == 0 then
+		transFront = progress * -dist
+	elseif missileIndex == 1 then
+		transFront = progress * -dist/2
+		transRight = progress * dist/2
+	elseif missileIndex == 2 then
+		transRight = progress * dist
+	elseif missileIndex == 3 then
+		transFront = progress * dist/2
+		transRight = progress * dist/2
+	elseif missileIndex == 4 then
+		transFront = progress * dist
+	elseif missileIndex == 5 then
+		transFront = progress * dist/2
+		transRight = progress * -dist/2
+	elseif missileIndex == 6 then
+		transRight = progress * -dist
+	elseif missileIndex == 7 then
+		transFront = progress * -dist/2
+		transRight = progress * -dist/2
+	end
+	local angle = 0
+	local maxMagnitude = 10
+
+	transUp = (progress * 2) - 1
+	transUp = (1 - (transUp * transUp)) * maxMagnitude
+"	0	7
+2907	Reverse Direction, Parabola	"
+local angle = 0
+local maxMagnitude = startDistance * .15
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transFront = startDistance - 2 * distanceToFirePos  --this would reverse the direction of the missile"	0	1
+2908	Test - HW	"local angle = 0
+local maxMagnitude = startDistance * .90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2909	Shriek of the Highborne - CRT	"local angle = 0
+local maxMagnitude = startDistance * 3
+
+transAngle = angle	
+
+if progress < 0.3 then
+	transMag = (1 - (((progress*3.33)-1)^2)) * 10
+else
+	transMag = (1 - (progress*1.43) +0.43) * 10
+end
+
+
+if progress <= .3 then
+	transRight = (cos(progress*3000)) * 1 * (1-progress)
+	transUp = (sin(progress*3000)) * 1 * (1-progress)
+end"	0	3
+2910	Parabola (High), Reversed - Experimental	"local angle = 0
+local maxMagnitude = startDistance * .30
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transFront = startDistance - 2 * distanceToFirePos"	0	1
+2913	Spin (Yaw) (Pitch 90)	"
+modelPitch = 90
+
+modelYaw = progress * 600"	0	1
+2914	Grow (1 -> 3) and Rotate	"local spinRate = 90
+scale = 1 + 2 * progress
+modelRoll = time * spinRate"	0	1
+2915	Blue Dragon - Arcane Missile Barrage	"local missileSpread =  (360 / (missileCount)) 
+
+local maxVertical = 4
+local maxHorizontal = 8
+local waitTime = 1
+transUp = sin(missileSpread * missileIndex) * maxVertical * rand1
+transRight = cos(missileSpread * missileIndex) * maxHorizontal * rand2
+
+speedScalar = ((1 - progress) * rand3) + (progress * (missileIndex+1))
+if time > waitTime then
+	if speedScalar < 2 then
+		speedScalar = 3
+	end 
+end
+		
+
+
+	
+
+"	0	10
+2916	Parabola (Pitch and Yaw Spin, Very Low)	"local angle = 0
+local maxMagnitude = startDistance * 0.1
+local spinRateP = 180
+local spinRateY = 45
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+
+modelPitch = time * spinRateP
+modelYaw = time * spinRateY"	0	1
+2917	Drunken Fountain (3 Missiles) (low)	"local angle = 0
+local maxMagnitude = startDistance * .1
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transFront = -distanceToFirePos * (1 - progress)
+
+local magnitude = transMag * .15
+
+transRight = (sin((rand1 * 1000) + (time * 400)) + cos((rand3 * 1000) + (time * 60))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 300)) + cos((rand1 * 1000) + (time * 100))) * magnitude
+transFront = transFront +
+	(sin((rand3 * 1000) + (time * 300)) + cos((rand2 * 1000) + (time * 100))) * magnitude
+
+speedScalar = 1 - (progress * .5)"	0	3
+2918	Spear Thrust	"	speedScalar = 1 - progress
+end"	0	1
+2919	Parabola (Roll Spin, High)	"local angle = 0
+local maxMagnitude = startDistance * .35
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelRoll = progress * 3000"	0	1
+2920	Hagara Stinger Missile	"
+transAngle = 0	
+
+if (time > 7) then
+--	speedAbs = distanceToImpactPos / (7 - time)
+--else
+	speedAbs = 100000
+end
+--
+
+if progress < 0.4 then
+	transMag = (1 - (((progress*3.33)-1)^2)) * 20
+--	speedAbs = speedAbs * 0.4
+elseif progress < 0.9 then
+	transMag = (1 - (progress*1.43) +0.43) * 20
+--	speedAbs = speedAbs * (progress^2)
+else
+	transMag = (1 - (progress*1.43) +0.43) * 20
+end
+
+"	0	3
+2921	Spinning Staff Missile	"local spinRate = 360
+local angle = 90
+local maxMagnitude = startDistance * .1
+
+modelYaw = time * spinRate
+modelRoll = 90
+modelPitch = time * spinRate
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+"	0	1
+2922	Parabola (Roll Spin, Medium)	"local angle = 0
+local maxMagnitude = startDistance * .20
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelRoll = progress * 3000"	0	1
+2923	Spiral Flat (Sha Boss) JS 	"local numSpirals = -4
+local minRadius = 1
+local radius = minRadius + (3 * progress * (rand1 * 1.5))
+
+local curAngle = numSpirals * progress * 360
+
+transFront = (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)
+
+transUp = rand2"	0	5
+2924	Parabola, 4 Missiles in Rapid Succession	"local angle = 0
+local maxMagnitude = startDistance * .50
+local spread = 5
+
+speedScalar = 1 + (missileIndex * .2)
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transUp = (rand2 - 0.5) * spread * progress"	0	4
+2925	Parabola (-180 Pitch)	"local angle = 0
+local maxMagnitude = startDistance * .15
+modelPitch = -180
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2926	Morchok Spike Throw	"local angle = 0
+local maxMagnitude = startDistance * .15
+
+modelPitch = -90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+"	0	1
+2927	Parabola (Roll Spin, Very High)	"local angle = 0
+local maxMagnitude = startDistance * .60
+local spinRate = 360
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelRoll = time * spinRate
+"	0	1
+2928	Parabola (Roll Spin, Very, Very High)	"local angle = 0
+local maxMagnitude = startDistance * .90
+local spinRate = 360
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelRoll = time * spinRate
+"	0	1
+2929	Parabola (Intense Spin, High)	"local angle = 0
+local maxMagnitude = startDistance * .30
+local spinRate = 360
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+modelRoll = time * spinRate * .5
+modelYaw = time * spinRate * .75"	0	1
+2930	Parabola (-90 Pitch, Accelerate)	"local angle = 0
+local maxMagnitude = startDistance * .25
+modelPitch = -90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+speedScalar = .1 + (time*time*time*time*time)/2000"	0	1
+2931	Parabola (Pitch and Yaw Spin, Crazy)	"local angle = 0
+local maxMagnitude = startDistance * 0.35
+local spinRateP = 360
+local spinRateY = 100
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+
+modelPitch = time * spinRateP
+modelYaw = time * spinRateY"	0	1
+2932	Parabola (-180 Pitch)	"local angle = 0
+local maxMagnitude = startDistance * .15
+modelPitch = -180
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2933	Soul Vortex (10 Missiles - No Kickback) Reverse	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 2.5
+local maxKickBack = 0
+
+--progress = 1 - progress
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+transFront = startDistance - 2 * distanceToFirePos  --this would reverse the direction of the missile
+
+--transUp = distanceToImpactPos - distanceToFirePos"	0	10
+2934	Parabola (Pitch Spin, High, 12 Random Size)	"local angle = 0
+local maxMagnitude = startDistance * .30 * (0.8 + 0.4*rand1)
+local spinRate = 720 * (1 - 0.6*rand2)
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+modelYaw = time * spinRate * (rand1-rand3)
+
+scale = 1 + 2*rand2
+speedScalar = 0.8 + 0.4*rand3"	0	12
+2935	Quest - Catch! - Throw Ball	"local angle = 0
+local maxMagnitude = (distanceToImpactPos)
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+local spinRate = 45
+modelPitch = time * spinRate
+
+speedScalar = 1.2"	0	1
+2936	Meteor Strike (15 Yards)	"local magnitude = 15
+
+transUp = magnitude * ( 1 - progress )
+"	0	1
+2937	Meteor Strike (25 Yards)	"local magnitude = 25
+
+transUp = magnitude * ( 1 - progress )
+"	0	1
+2938	Creature - Weapon Toss	"local angle = 0
+local maxMagnitude = startDistance * 0.1
+local spinRateP = 180
+local spinRateY = 10
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+
+modelPitch = time * spinRateP
+modelYaw = time * spinRateY"	0	1
+2941	Ring JS (10-15yd)	"local percentOfCircle = 0.5
+local startAngle = 0
+
+if missileIndex == 0 then
+	radius = 10
+elseif missileIndex == 1 then
+	radius = 10.5
+	startAngle = 60
+elseif missileIndex == 2 then
+	radius = 12
+	startAngle = 120
+elseif missileIndex == 3 then
+	radius = 13
+	startAngle = 180
+elseif missileIndex == 4 then
+	radius = 14.5
+	startAngle = 240
+else
+	radius = 15
+	startAngle = 300
+end
+
+local curAngle = (percentOfCircle * progress * 360) + startAngle
+
+transFront = (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)
+
+transUp = rand2
+
+-- spin them a little so they look good from the side
+modelRoll = 60 * rand3"	0	5
+2942	Drunken Fountain (5 Missiles, High)	"local angle = 0
+local maxMagnitude = startDistance * 1.5
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transFront = -distanceToFirePos * (1 - progress)
+
+local magnitude = transMag * .15
+
+transRight = (sin((rand1 * 1000) + (time * 400)) + cos((rand3 * 1000) + (time * 60))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 300)) + cos((rand1 * 1000) + (time * 100))) * magnitude
+transFront = transFront +
+	(sin((rand3 * 1000) + (time * 300)) + cos((rand2 * 1000) + (time * 100))) * magnitude
+
+speedScalar = 1 - (progress * .5)"	0	5
+2943	Execution Sentence Hammer Strike	"local magnitude = 15
+
+transUp = magnitude * ( 1 - progress )
+transFront = distanceToImpactPos
+faceImpactPos = 1
+-- modelPitch = 270
+"	0	1
+2944	Execution Sentence Hammer Strike visual 2	"local magnitude = 15
+
+transUp = magnitude * ( 1 - progress )
+transFront = distanceToImpactPos
+faceImpactPos = 1
+
+"	0	1
+2945	Warlock - Glyph - Shadow Bolt (A)	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 3
+local maxKickBack = totalDistance / 3
+
+transAngle = startAngle + (120) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+-- Add Upward Arc
+transUp = (progress * 2) - 1
+transUp = (1 - (transUp * transUp)) * startDistance * .15
+
+transFront = transFront + -distanceToFirePos * (1 - progress)"	0	1
+2946	Warlock - Glyph - Shadow Bolt (B)	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 3
+local maxKickBack = totalDistance / 3
+
+transAngle = startAngle + (240) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+-- Add Upward Arc
+transUp = (progress * 2) - 1
+transUp = (1 - (transUp * transUp)) * startDistance * .15
+
+transFront = transFront + -distanceToFirePos * (1 - progress)"	0	1
+2947	Warlock - Glyph - Shadow Bolt (C)	"local startAngle = 0
+local degreesPerSec = 180
+local maxMagnitude = 3
+local maxKickBack = totalDistance / 3
+
+transAngle = startAngle + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+-- Add Upward Arc
+transUp = (progress * 2) - 1
+transUp = (1 - (transUp * transUp)) * startDistance * .15
+
+transFront = transFront + -distanceToFirePos * (1 - progress)"	0	1
+2948	Parabola (Counter-Pitch, Spinning)	"local angle = 0
+local maxMagnitude = startDistance * .30
+
+
+transUp = sin(progress*180)*maxMagnitude
+modelPitch = cos(progress*180)*60
+
+
+
+"	0	1
+2949	Parabola copy	"local angle = 0
+local maxMagnitude = startDistance * .15
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2950	Parabola (U Shape)	"local angle = 180
+local maxMagnitude = startDistance * .6
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = 1 - (transMag * transMag)) * maxMagnitude)"	0	1
+2951	Forward Spin (fast) + Parabola (Very High)	"local angle = 0
+local maxMagnitude = startDistance * .6
+local spinRate = 1080
+
+modelPitch = time * spinRate
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2952	Ring JS Gandling	"local percentOfCircle = 0.75
+local startAngle = 0
+
+if missileIndex == 0 then
+	radius = 9.5 * (1.5-progress)
+elseif missileIndex == 1 then
+	radius = 10 * (1-progress)
+	startAngle = 60
+elseif missileIndex == 2 then
+	radius = 10.5 * (1.5-progress)
+	startAngle = 120
+elseif missileIndex == 3 then
+	radius = 11 * (1.5-progress)
+	startAngle = 180
+elseif missileIndex == 4 then
+	radius = 11.5 * (1.5-progress)
+	startAngle = 240
+else
+	radius = 12 * (1.5-progress)
+	startAngle = 300
+end
+
+local curAngle = (percentOfCircle * progress * 360) + startAngle
+
+transFront = (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)
+
+transUp = -rand2 * 2
+
+-- spin them a little so they look good from the side
+modelRoll = 60 * rand3"	0	6
+2953	Parabola (Spin, Medium)	"local angle = 0
+local maxMagnitude = startDistance * .20
+local spinRate = 720
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate"	0	1
+2954	Drunken Fountain (1 Missile) (Med)	"local angle = 0
+local maxMagnitude = startDistance * 1.2
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transFront = -distanceToFirePos * (1 - progress)
+
+local magnitude = transMag * .15
+
+transRight = (sin((rand1 * 1000) + (time * 400)) + cos((rand3 * 1000) + (time * 60))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 300)) + cos((rand1 * 1000) + (time * 100))) * magnitude
+transFront = transFront +
+	(sin((rand3 * 1000) + (time * 300)) + cos((rand2 * 1000) + (time * 100))) * magnitude
+
+speedScalar = 1 - (progress * .5)"	0	1
+2955	Parabola (High) (Accelerate)	"local angle = 0
+local maxMagnitude = startDistance * .30
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+speedScalar = 0.7 + 2 * progress"	0	1
+2956	Parabola (Grow More)	"local angle = 0
+local maxMagnitude = startDistance * .25
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+scale = progress
+if (progress > 0.75) then
+	scale = scale + 1.5*(progress-0.75)
+end"	0	1
+2957	Warlock - Soul Fire	"local angle = 0
+local maxMagnitude = startDistance * .1
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+local outerWheelSpinRate = 360 	-- 1 spin / sec
+local outerWheelMag = 1.5			-- 1 yard
+local missileAngle = outerWheelSpinRate * time
+
+if ( rand1 > 0.5 ) then
+	missileAngle = missileAngle * -1
+end
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount-1)
+	missileAngle = missileAngle + anglePerMissile * missileIndex
+
+	if ( progress < 0.5 ) then 
+		outerWheelMag = outerWheelMag * 0.5 + progress 
+	else
+		outerWheelMag = outerWheelMag * ( 0.25 + 0.75*(1-progress ))
+	end
+
+	transUp = outerWheelMag * cos ( missileAngle )
+	transRight = outerWheelMag * sin ( missileAngle )
+	transFront = -1.5 + 0.75 * progress
+	scale = 0.25
+else
+	scale = 1
+end
+
+faceImpactPos = 1
+
+
+"	0	4
+2958	Monk Scenario - Panda Weapon Parabola	"local angle = 0
+local maxMagnitude = startDistance * .60
+local spinRate = 1440
+modelPitch = 90
+modelYaw = -90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelYaw = time * spinRate
+"	0	1
+2959	Kramer Arrow Cone Test	"transUp = ((progress * (rand1 - .5)) * 5) + (progress * 5)
+transRight = (progress * (rand2 - .5)) * 20
+
+speedOffset = 1 + missileIndex * .5"	0	20
+2960	Creature - Cleansing Waters Missile	transUp = progress * -2	0	1
+2961	Circle around caster (1 Missile, 4yd)	"local percentOfCircle = 1
+local startAngle = 0
+local radius = 4
+
+if missileIndex == 0 then
+	startAngle = 0
+--elseif missileIndex == 1 then
+--	startAngle = 180
+end
+
+local curAngle = (percentOfCircle * progress * 360) + startAngle
+
+transFront = (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)
+"	0	1
+2962	Multi-Shot (3 Missiles, Slow Spin)	"-- spread out as the missiles travel
+local outerWheelMag = 1.5 * progress
+local missileAngle
+
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount)
+	transAngle = anglePerMissile * missileIndex
+end
+
+modelPitch = progress * 500"	0	3
+2963	Terrie\'s test missile script	"local startAngle = 0
+local degreesPerSec = -180
+local maxMagnitude = 1.2
+local maxKickBack = 3
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+speedScalar = .2 + 3 * progress * progress
+"	0	3
+2964	SZS - Water Splash	"local magnitude = 5
+local angle = 0
+local maxMagnitude = startDistance * .35
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+scale = 1 + 3 * time
+speedScalar = 0.1 + 35 * progress * progress * progress * progress
+transUp = magnitude * ( 1 - progress )"	0	1
+2965	Multi-Shot (7 Missiles)	"-- spread out as the missiles travel
+local outerWheelMag = 2.5 * progress
+local missileAngle
+
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount)
+	transAngle = anglePerMissile * missileIndex
+end
+
+transMag = outerWheelMag
+"	0	7
+2966	Volley (Fountain + Multi Shot)	"local angle = 0
+local maxMagnitude = startDistance * 0.5
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+local noise = 2;
+local outerWheelMag = 4 * (progress)
+
+if ( missileIndex > 12 ) then 
+	outerWheelMag = outerWheelMag * 2;
+end
+
+local count = missileCount / 2 
+
+local smallAngle = (360/count ) * missileIndex 
+local transRight = math.cos(smallAngle) * outerWheelMag + rand1*noise ;
+local transFront = math.sin(smallAngle) * outerWheelMag + rand2*noise ;"	0	24
+2967	Elemental Blast (Missile A)	"local startAngle = 90
+local degreesPerSec = 0
+local maxMagnitude = 1.75
+local maxKickBack = 5
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+"	0	1
+2968	Elemental Blast (Missile B)	"local startAngle = 0
+local degreesPerSec = 0
+local maxMagnitude = 1.75
+local maxKickBack = 5
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+"	0	1
+2969	Elemental Blast (Missile C)	"local startAngle = 270
+local degreesPerSec = 0
+local maxMagnitude = 1.75
+local maxKickBack = 5
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+"	0	1
+2970	Paladin - Denounce	"local angle = 0
+local maxMagnitude = startDistance * .05
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+local outerWheelSpinRate = 360 	-- 1 spin / sec
+local outerWheelMag = 1.5			-- 1 yard
+local missileAngle = outerWheelSpinRate * time
+
+if ( rand1 > 0.5 ) then
+	missileAngle = missileAngle * -1
+end
+
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount-1)
+	missileAngle = missileAngle + anglePerMissile * missileIndex
+
+	if ( progress < 0.5 ) then 
+		outerWheelMag = outerWheelMag * 0.5 + progress 
+	else
+		outerWheelMag = outerWheelMag * ( 0.25 + 0.75*(1-progress ))
+	end
+
+	transUp = outerWheelMag * cos ( missileAngle )
+	transRight = outerWheelMag * sin ( missileAngle )
+	transFront = -1.5 + 0.75 * progress
+	scale = 0.25
+else
+	scale = 1
+end
+
+faceImpactPos = 1
+
+
+"	0	4
+2971	Spin (Pitch 90)	"local spinRate = 90
+
+modelPitch = time * spinRate"	0	1
+2972	Dark Shaman - Shadow Storm Visual - SLG	"local percentOfCircle = 0.5
+local startAngle = 0
+local radius = 12
+
+if missileIndex == 1 then
+	startAngle = 60
+elseif missileIndex == 2 then
+	startAngle = 120
+elseif missileIndex == 3 then
+	startAngle = 180
+elseif missileIndex == 4 then
+	startAngle = 240
+elseif missileIndex == 5 then
+	startAngle = 300
+end
+
+local curAngle = (percentOfCircle * progress * 360) + startAngle
+
+transFront = (sin(curAngle) * radius) 
+transRight = (cos(curAngle) * radius)
+"	0	6
+2973	Parabola (Grow, Pitch -90)	"local angle = 0
+local maxMagnitude = startDistance * .15
+modelPitch = -90
+scale = 1 + (1.5 * progress)
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
+2974	Dread Spray (Shotgun) JS	"-- creates a shotgun spray of missiles for use in cone spells
+-- the missiles will have some randomness to their spread and speed
+-- this version contains special logic for dread spray that allows the missiles near the edges
+-- of the cone to stop in m"	0	10
+2975	Gordoth Intro - Dark Channeling - SLG	"local angle = 0
+local maxMagnitude = startDistance * .5
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+transFront = -distanceToFirePos * (1 - progress)
+
+local magnitude = transMag * .15
+
+transRight = (sin((rand1 * 1000) + (time * 400)) + cos((rand3 * 1000) + (time * 60))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 300)) + cos((rand1 * 1000) + (time * 100))) * magnitude
+transFront = transFront +
+	(sin((rand3 * 1000) + (time * 300)) + cos((rand2 * 1000) + (time * 100))) * magnitude
+
+speedScalar = 1 - (progress * .5)
+"	0	1
+2976	Spin (Roll) - 720	"local spinRate = 720
+
+modelRoll = time * spinRate"	0	1
+2977	Monk - Soothing Mists	"local startAngle = 0
+local degreesPerSec = -180
+local maxMagnitude = 1.2
+local maxKickBack = 3
+
+transAngle = startAngle + ((missileIndex / missileCount) * 360) + (time * degreesPerSec)
+transMag = 1 - progress
+transMag = (transMag * transMag * 2) - 1
+transMag = (1 - (transMag * transMag))
+transFront = transMag * -maxKickBack
+transMag = transMag * maxMagnitude
+
+speedScalar = .2 + 3 * progress * progress"	0	3
+2978	Snake (half amp, rand wave, half freq)	"local waveHeight = 0.3 + (rand2 * 0.2)
+local wavesPerSec = 1.0 + (rand2 * 0.5)
+
+transRight = waveHeight * sin(time * wavesPerSec * 360) * ( 1 - progress ) * 2"	0	1
+2979	Priest - Halo	"local angle = -90
+local maxMagnitude = startDistance * .2
+local spinRate = 720
+
+modelRoll = 90
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelYaw = time * spinRate
+
+
+	local dist = distanceToFirePos
+
+	local a = 1.01 --Smoothness
+	local b = 25 --Horizontal Shift
+	local c = 2 --Horizontal Scale
+	local d = 0.9 --Vertical Scale
+	local e = 0.1 --Vertical Shift
+	local f = 4 --Tightness
+
+	scale = d * math.pow(a, -math.pow((dist-b)/c,f))+e"	0	1
+2981	Priest - Halo Cosmetic	"local radius = (progress * 35)
+
+local curAngle = progress * 90
+if (missileIndex > 0) then
+	local anglePerMissile = 360 / (missileCount - 1)
+	curAngle = curAngle + anglePerMissile * missileIndex
+end
+
+transFront = (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)
+
+
+	local dist = distanceToFirePos
+
+	local a = 1.01 --Smoothness
+	local b = 25 --Horizontal Shift
+	local c = 2 --Horizontal Scale
+	local d = 0.95 --Vertical Scale
+	local e = 0.05 --Vertical Shift
+	local f = 4 --Tightness
+	local g = 0.015 --Linear Scale by Dist
+
+	scale = d * math.pow(a, -math.pow((dist-b)/c,f)) + e + g*dist"	0	32
+2982	Sha of Fear - 3 Missiles in Rapid Succession	"local angle = 0
+local maxMagnitude = startDistance * .2
+local spread = 2
+
+-- lower is closer
+local distBetweenMissiles = 0.1
+
+
+speedScalar = 1 - (missileIndex * distBetweenMissiles)
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+-- missile impact location variance left/right/up/down. don\'t mess with the first impact
+if missileIndex > 0 then
+	transUp = (rand2 - 0.5) * spread * progress
+	transRight = (rand2 - 0.5) * spread * progress
+end
+
+if missileIndex == 0 then
+	scale = 2
+elseif missileIndex == 1 then
+	scale = 1.25
+else
+	scale = 0.75
+end"	0	3
+2983	Circle around caster (1 Missile, 2yd)	"local percentOfCircle = 1
+local startAngle = 0
+local radius = 2
+
+if missileIndex == 0 then
+	startAngle = 0
+--elseif missileIndex == 1 then
+--	startAngle = 180
+end
+
+local curAngle = (percentOfCircle * progress * 360) + startAngle
+
+transFront = (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)
+"	0	1
+2984	Monk - Eminence Heal	"
+transFront = startDistance - 2 * distanceToFirePos  --this would reverse the direction of the missile
+
+local waveHeight = .8
+local wavesPerSec = 2
+
+transRight = waveHeight * sin(time * wavesPerSec * 360) * ( 1 - progress ) * 2"	0	1
+2985	Self-Pitch and Hit	"if time < .1 then transUp = 0 end
+if time <= .5 then 
+	transUp = transUp + .25
+	speedAbs = .1
+	transMag = .1 
+else 
+	local maxMagnitude = startDistance * .1
+	speedAbs = time*30+(time-1)
+	transAngle = 0
+	transMag = (progress * 2) - 1
+	transMag = (1 - (transMag * transMag)) * maxMagnitude
+end
+"	0	1
+2986	Priest - Holy Spread	"local angle = -90
+local maxMagnitude = startDistance * .2
+local spinRate = 720
+
+--modelRoll = 90
+
+--transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+--modelPitch = time * spinRate
+
+if (distanceToFirePos>30) then 
+	scale = 1
+else
+	scale = 0.1 + 0.9*distanceToFirePos/30
+end
+
+--scale = distanceToFirePos/40
+
+--[[
+	local dist = distanceToFirePos
+
+	local a = 1.01 --Smoothness
+	local b = 25 --Horizontal Shift
+	local c = 2 --Horizontal Scale
+	local d = 0.9 --Vertical Scale
+	local e = 0.1 --Vertical Shift
+	local f = 4 --Tightness
+
+	scale = d * math.pow(a, -math.pow((dist-b)/c,f))+e
+--]]"	0	1
+2987	3 Missiles in Rapid Succession	"-- lower is closer
+local distBetweenMissiles = 0.1
+-- spread out as the missiles travel
+local outerWheelMag = 0.5 * progress
+local missileAngle
+
+speedScalar = 1 - (missileIndex * distBetweenMissiles)
+
+if (missileIndex > 0) then
+	local anglePerMis"	0	3
+2988	Rogue - Shuriken Toss	"local spread = 1.2
+
+local startAngle = 360 * missileIndex / missileCount;
+local degreesPerSec = 360
+
+transAngle = startAngle  -- + (time * degreesPerSec) 
+
+transMag = spread * (missileCount - missileIndex) / missileCount;
+
+local spinRate = 360
+modelRoll = time * spinRate + 360*rand1
+
+transFront = distanceToImpactPos * progress * missileIndex / missileCount;
+
+if ( math.fmod(missileIndex,2) == 1 ) then
+    transAngle = transAngle + 180
+end
+
+if ( math.fmod(missileIndex,3) == 1 ) then
+    transAngle = transAngle + 30 * rand1;
+elseif ( math.fmod(missileIndex,3) == 2 ) then
+    transAngle = transAngle + 90 * rand2;
+end"	0	3
+2989	Divine Star	"local waveHeight = -0.3 - (rand2 * 0.2)
+local wavesPerSec = 1.0 + (rand2 * 0.5)
+
+transRight = waveHeight * sin(time * wavesPerSec * 360) * ( 1 - progress ) * 2
+
+
+if (time>1.0) then
+	local expectedProgress = (6/30) + ((time-1)*24/30)
+	local actualProgress = 1-(distanceToImpactPos/totalDistance)
+	local missingProgress = expectedProgress-actualProgress
+	local distanceToCatchUp = missingProgress*totalDistance	
+
+	speedOffset = distanceToCatchUp * 10 * (time-1)
+
+	----Also tried this way and seemed to be slightly off, 
+	----due to it basically being laggy if your speed changes
+	--speedAbs = totalDistance
+end
+"	0	1
+2990	Glaive Toss Left	"local glaiveCurveWidth = 8
+transRight = cos(progress * 90) * (progress * glaiveCurveWidth)
+
+if (startDistance>0) then
+	speedAbs = 18 * (totalDistance / startDistance)
+end"	0	1
+2991	Glaive Toss Right	"local glaiveCurveWidth = -8
+transRight = cos(progress * 90) * (progress * glaiveCurveWidth)
+
+if (startDistance>0) then
+	speedAbs = 18 * (totalDistance / startDistance)
+end
+"	0	1
+2992	Drunken Fountain (3 Missiles - Reverse) 	"local angle = 0
+local maxMagnitude = startDistance * .5
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+--transFront = distanceFromImpactPos* (1-progress)
+--transFront = -distanceToFirePos * (1 - progress)
+transFront = startDistance - 2 * distanceToFirePos 
+
+local magnitude = transMag * .15
+
+transRight = (sin((rand1 * 1000) + (time * 400)) + cos((rand3 * 1000) + (time * 60))) * magnitude
+transUp = (sin((rand2 * 1000) + (time * 300)) + cos((rand1 * 1000) + (time * 100))) * magnitude
+transFront = transFront +
+	(sin((rand3 * 1000) + (time * 300)) + cos((rand2 * 1000) + (time * 100))) * magnitude
+
+speedScalar = 1 - (progress * .5)"	0	3
+2993	Spiral (Small) Flat Reverse	"local radius = (progress * 8)
+
+local curAngle = progress * 90
+
+transFront = startDistance - (sin(curAngle) * radius) - distanceToFirePos
+transRight = (cos(curAngle) * radius)"	0	1
+2994	Glaive Toss Left Return	"local angle = -90
+local maxMagnitude = startDistance * .2
+local spinRate = 720
+
+progress = 1 - progress
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelYaw = time * spinRate
+
+
+transFront = distanceToImpactPos - distanceToFirePos
+"	0	1
+2995	Glaive Toss Right Return	"local angle = -90
+local maxMagnitude = -startDistance * .2
+local spinRate = -720
+
+progress = 1 - progress
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+modelYaw = time * spinRate
+
+
+transFront = distanceToImpactPos - distanceToFirePos
+"	0	1
+2996	Whirling Blade	"local spinRate = 1440
+local modelRoll = 90
+
+local modelYaw = time * spinRate
+
+if (time>1.0) then
+	local expectedProgress = (6/30) + ((time-1)*24/30)
+	local actualProgress = 1-(distanceToImpactPos/totalDistance)
+	local missingProgress = expectedProgress-actualProgress
+	local distanceToCatchUp = missingProgress*totalDistance	
+
+	speedOffset = distanceToCatchUp * 10 * (time-1)
+end
+"	0	1
+2997	Parabola (Pitch Spin Slow, Model Rolled 90)	"local angle = 0
+local maxMagnitude = startDistance * .15
+local spinRate = 360
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+modelRoll = 90
+"	0	1
+2998	Whirling Blade 2	"--local spinRate = 1440
+--local modelRoll = 90
+
+--local modelYaw = time * spinRate
+
+--if missileIndex = 1 then
+--	trans
+	
+
+if (time>1.0) then
+	local expectedProgress = (6/30) + ((time-1)*24/30)
+	local actualProgress = 1-(distanceToImpactPos/tot"	0	2
+2999	Monk - Expel Harm	"local waveHeight = .8
+local wavesPerSec = 2
+
+transRight = waveHeight * sin(time * wavesPerSec * 360) * ( 1 - progress ) * 2"	0	1
+3000	Rogue - Shuriken Toss v2	"-- lower is closer
+local distBetweenMissiles = 0.3
+-- spread out as the missiles travel
+local outerWheelMag = 0.5 * progress
+local missileAngle
+
+speedScalar = 1 + ((missileIndex) * distBetweenMissiles)
+
+if (missileIndex > 0) then
+	local anglePerM"	0	3
+3001	Parabola (Pitch Spin, slow, low, accelerating)	"local angle = 0
+local maxMagnitude = startDistance * .1
+local spinRate = 120
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelPitch = time * spinRate
+
+speedScalar = 0.75 + 0.5 * progress
+"	0	1
+3002	Grow (1 -> 3) and Accelerate	"scale = 1 + 2 * progress
+speedScalar = 0.2 + 3 * progress"	0	1
+3003	Jade Forest - Water Vortex - SLG	"local percentOfCircle = 3
+local startAngle = 0
+local radius = 1.5
+
+
+if missileIndex == 1 then
+	startAngle = 120
+elseif missileIndex == 2 then
+	startAngle = 240
+end
+
+local curAngle = (percentOfCircle * progress * 360) + startAngle
+
+transFront = (sin(curAngle) * radius) 
+transRight = (cos(curAngle) * radius)
+"	0	1
+3004	Grow (0.9 -> 1.5)	scale = 0.9 + (1.3 * progress)	0	1
+3005	Grow (0.8 -> 1.1) copy	scale = 0.8 + (0.5 * progress)	0	1
+3006	Mantid Siege - Blade Rush	"local angle = 0
+local maxMagnitude = startDistance * .30
+local spinRate = 720
+
+transAngle = angle
+transMag = (progress * 2) - 1
+transMag = (1 - (transMag * transMag)) * maxMagnitude
+
+modelRoll = 80
+modelPitch = time * spinRate
+"	0	1
