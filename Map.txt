@@ -1,47 +1,47 @@
-id	iname	type	flags	isPvp	name	linkedZone	hordeIntro	allianceIntro	multimap_id (10)	BattlefieldMapIconScale	ghost_entrance_map	ghost_entrance_x	ghost_entrance_y	timeOfDayOverride	addon	unkTime	maxPlayers	unk400	
-0	"Azeroth"	0	15965	1	"Eastern Kingdoms"	0	""	""	4	1	NaN	0	0	-1	0	0	0	-1
-1	"Kalimdor"	0	15965	1	"Kalimdor"	0	""	""	3	1	NaN	0	0	-1	0	0	0	-1
-13	"test"	0	1555	2	"Testing"	3817	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-25	"ScottTest"	0	1555	2	"Scott Test"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-30	"PVPZone01"	3	1553	1	"Alterac Valley"	0	"Hidden within the Alterac Mountains, Alterac Valley is the home of the Frostwolf clan.  The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
+id	iname	type	flags	isPvp	name	linkedZone	hordeIntro	allianceIntro	multimap_id (10)	BattlefieldMapIconScale	ghost_entrance_map	ghost_entrance_x	ghost_entrance_y	timeOfDayOverride	addon	unkTime	maxPlayers	unk400
+0	Azeroth	0	15965	1	Eastern Kingdoms	0			4	1	NaN	0	0	-1	0	0	0	-1
+1	Kalimdor	0	15965	1	Kalimdor	0			3	1	NaN	0	0	-1	0	0	0	-1
+13	test	0	1555	2	Testing	3817			0	1	NaN	0	0	-1	0	0	0	-1
+25	ScottTest	0	1555	2	Scott Test	0			0	1	NaN	0	0	-1	0	0	0	-1
+30	PVPZone01	3	1553	1	Alterac Valley	0	"Hidden within the Alterac Mountains, Alterac Valley is the home of the Frostwolf clan.  The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
 
 A large-scale battleground, each side attempts to destroy each other\'s tower fortifications and slay the enemy General (Vanndar Stormpike or Drek\'Thar)."	"Hidden within the Alterac Mountains, Alterac Valley is the home of the Frostwolf clan.  The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
 
 A large-scale battleground, each side attempts to destroy each other\'s tower fortifications and slay the enemy General (Vanndar Stormpike or Drek\'Thar)."	104	1	NaN	0	0	-1	0	0	0	-1
-33	"Shadowfang"	1	1565	1	"Shadowfang Keep"	0	""	""	204	1	0	-230.989	1571.57	-1	0	0	10	-1
-34	"StormwindJail"	1	1553	2	"Stormwind Stockade"	717	""	""	194	1	0	-8762.379	848.0103	-1	0	0	10	-1
-35	"StormwindPrison"	0	1555	2	"<unused>StormwindPrison"	717	""	""	23	1	0	-8762.477	848.0491	-1	0	0	0	-1
-36	"DeadminesInstance"	1	1553	1	"Deadmines"	0	""	""	142	1	0	-11207.8	1681.15	-1	0	0	10	-1
-37	"PVPZone02"	0	1555	1	"Azshara Crater"	0	"Crush the Alliance!"	"Defend yourself from the onslaught of the Horde!"	25	1	NaN	0	0	-1	0	0	0	-1
-42	"Collin"	0	1555	2	"Collin\'s Test"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-43	"WailingCaverns"	1	1553	2	"Wailing Caverns"	718	""	""	143	1	1.401298E-45	-751.1312	-2209.24	-1	0	0	10	-1
-44	"Monastery"	1	1555	2	"<unused> Monastery"	0	""	""	42	1	0	2892.413	-811.2413	-1	0	0	10	-1
-47	"RazorfenKraulInstance"	1	1553	1	"Razorfen Kraul"	0	""	""	188	1	1.401298E-45	-4459.449	-1660.212	-1	0	0	10	-1
-48	"Blackfathom"	1	1553	2	"Blackfathom Deeps"	719	""	""	196	1	1.401298E-45	4249.121	748.3871	-1	0	0	10	-1
-70	"Uldaman"	1	1553	2	"Uldaman"	1337	""	""	144	1	0	-6060.182	-2954.997	-1	0	0	10	-1
-90	"GnomeragonInstance"	1	1553	2	"Gnomeregan"	721	""	""	193	1	0	-5162.662	931.5988	-1	0	0	10	-1
-109	"SunkenTemple"	1	1553	2	"Sunken Temple"	1477	""	""	191	1	0	-10291.7	-3987.63	-1	0	0	10	-1
-129	"RazorfenDowns"	1	1553	1	"Razorfen Downs"	0	""	""	145	1	1.401298E-45	-4662.883	-2535.872	-1	0	0	10	-1
-169	"EmeraldDream"	2	1553	1	"Emerald Dream"	0	""	""	0	1	NaN	0	0	-1	0	0	40	-1
-189	"MonasteryInstances"	1	1553	1	"Scarlet Monastery - OLD"	0	""	""	190	1	0	2892.235	-811.2637	-1	0	0	10	-1
-209	"TanarisInstance"	1	1553	1	"Zul\'Farrak"	0	""	""	146	1	1.401298E-45	-6790.577	-2891.278	-1	0	0	10	-1
-229	"BlackRockSpire"	1	1537	2	"Blackrock Spire"	1583	""	""	189	1	0	-7522.527	-1233.042	-1	0	0	10	-1
-230	"BlackrockDepths"	1	1553	2	"Blackrock Depths"	1584	""	""	103	1	0	-7178.095	-928.6395	-1	0	0	5	-1
-249	"OnyxiaLairInstance"	2	34305	2	"Onyxia\'s Lair"	2159	""	""	61	1	1.401298E-45	-4753.313	-3752.421	-1	0	0	40	-1
-269	"CavernsOfTime"	1	1553	1	"Opening of the Dark Portal"	0	""	""	212	1	1.401298E-45	-8750.827	-4193.513	-1	1	0	5	-1
-289	"SchoolofNecromancy"	1	1553	1	"Scholomance OLD"	0	""	""	102	1	0	1274.781	-2552.564	-1	0	0	5	-1
-309	"Zul\'gurub"	1	525841	1	"Ancient Zul\'Gurub"	1977	""	""	161	1	0	-11916.06	-1224.577	-1	0	0	20	-1
-329	"Stratholme"	1	1553	1	"Stratholme"	0	""	""	101	1	0	3392.317	-3378.483	-1	0	0	5	-1
-349	"Mauradon"	1	1553	2	"Maraudon"	2100	""	""	81	1	1.401298E-45	-1432.697	2924.978	-1	0	0	10	-1
-369	"DeeprunTram"	0	1553	2	"Deeprun Tram"	2257	""	""	205	1	0	-8349.224	517.348	-1	0	0	0	-1
-389	"OrgrimmarInstance"	1	1553	2	"Ragefire Chasm"	2437	""	""	195	1	1.401298E-45	1816.756	-4423.372	-1	0	0	10	-1
-409	"MoltenCore"	2	1553	2	"Molten Core"	2717	""	""	192	1	0	-7510.565	-1036.698	-1	0	0	40	-1
-429	"DireMaul"	1	1537	2	"Dire Maul"	2557	""	""	82	1	1.401298E-45	-3908.03	1130	-1	0	0	5	-1
-449	"AlliancePVPBarracks"	0	1553	2	"Alliance PVP Barracks"	2918	""	""	181	1	NaN	0	0	-1	0	0	0	-1
-450	"HordePVPBarracks"	0	1553	2	"Horde PVP Barracks"	2917	""	""	182	1	NaN	0	0	-1	0	0	0	-1
-451	"development"	0	1631	1	"Development Land"	0	""	""	21	1	NaN	0	0	-1	3	0	0	-1
-469	"BlackwingLair"	2	1553	1	"Blackwing Lair"	2677	""	""	141	1	0	-7663.413	-1218.667	-1	0	0	40	-1
-489	"PVPZone03"	3	1553	1	"Warsong Gulch"	3277	"A valley Bordering Ashenvale Forest and the Barrens, Warsong Gulch hosts a constant battle between the Horde and Alliance.
+33	Shadowfang	1	1565	1	Shadowfang Keep	0			204	1	0	-230.989	1571.57	-1	0	0	10	-1
+34	StormwindJail	1	1553	2	Stormwind Stockade	717			194	1	0	-8.762.379	8.480.103	-1	0	0	10	-1
+35	StormwindPrison	0	1555	2	<unused>StormwindPrison	717			23	1	0	-8.762.477	8.480.491	-1	0	0	0	-1
+36	DeadminesInstance	1	1553	1	Deadmines	0			142	1	0	-11207.8	1681.15	-1	0	0	10	-1
+37	PVPZone02	0	1555	1	Azshara Crater	0	Crush the Alliance!	Defend yourself from the onslaught of the Horde!	25	1	NaN	0	0	-1	0	0	0	-1
+42	Collin	0	1555	2	Collin\'s Test	0			0	1	NaN	0	0	-1	0	0	0	-1
+43	WailingCaverns	1	1553	2	Wailing Caverns	718			143	1	1,40E-39	-7.511.312	-2209.24	-1	0	0	10	-1
+44	Monastery	1	1555	2	<unused> Monastery	0			42	1	0	2.892.413	-8.112.413	-1	0	0	10	-1
+47	RazorfenKraulInstance	1	1553	1	Razorfen Kraul	0			188	1	1,40E-39	-4.459.449	-1.660.212	-1	0	0	10	-1
+48	Blackfathom	1	1553	2	Blackfathom Deeps	719			196	1	1,40E-39	4.249.121	7.483.871	-1	0	0	10	-1
+70	Uldaman	1	1553	2	Uldaman	1337			144	1	0	-6.060.182	-2.954.997	-1	0	0	10	-1
+90	GnomeragonInstance	1	1553	2	Gnomeregan	721			193	1	0	-5.162.662	9.315.988	-1	0	0	10	-1
+109	SunkenTemple	1	1553	2	Sunken Temple	1477			191	1	0	-10291.7	-3987.63	-1	0	0	10	-1
+129	RazorfenDowns	1	1553	1	Razorfen Downs	0			145	1	1,40E-39	-4.662.883	-2.535.872	-1	0	0	10	-1
+169	EmeraldDream	2	1553	1	Emerald Dream	0			0	1	NaN	0	0	-1	0	0	40	-1
+189	MonasteryInstances	1	1553	1	Scarlet Monastery - OLD	0			190	1	0	2.892.235	-8.112.637	-1	0	0	10	-1
+209	TanarisInstance	1	1553	1	Zul\'Farrak	0			146	1	1,40E-39	-6.790.577	-2.891.278	-1	0	0	10	-1
+229	BlackRockSpire	1	1537	2	Blackrock Spire	1583			189	1	0	-7.522.527	-1.233.042	-1	0	0	10	-1
+230	BlackrockDepths	1	1553	2	Blackrock Depths	1584			103	1	0	-7.178.095	-9.286.395	-1	0	0	5	-1
+249	OnyxiaLairInstance	2	34305	2	Onyxia\'s Lair	2159			61	1	1,40E-39	-4.753.313	-3.752.421	-1	0	0	40	-1
+269	CavernsOfTime	1	1553	1	Opening of the Dark Portal	0			212	1	1,40E-39	-8.750.827	-4.193.513	-1	1	0	5	-1
+289	SchoolofNecromancy	1	1553	1	Scholomance OLD	0			102	1	0	1.274.781	-2.552.564	-1	0	0	5	-1
+309	Zul\'gurub	1	525841	1	Ancient Zul\'Gurub	1977			161	1	0	-11916.06	-1.224.577	-1	0	0	20	-1
+329	Stratholme	1	1553	1	Stratholme	0			101	1	0	3.392.317	-3.378.483	-1	0	0	5	-1
+349	Mauradon	1	1553	2	Maraudon	2100			81	1	1,40E-39	-1.432.697	2.924.978	-1	0	0	10	-1
+369	DeeprunTram	0	1553	2	Deeprun Tram	2257			205	1	0	-8.349.224	517.348	-1	0	0	0	-1
+389	OrgrimmarInstance	1	1553	2	Ragefire Chasm	2437			195	1	1,40E-39	1.816.756	-4.423.372	-1	0	0	10	-1
+409	MoltenCore	2	1553	2	Molten Core	2717			192	1	0	-7.510.565	-1.036.698	-1	0	0	40	-1
+429	DireMaul	1	1537	2	Dire Maul	2557			82	1	1,40E-39	-3908.03	1130	-1	0	0	5	-1
+449	AlliancePVPBarracks	0	1553	2	Alliance PVP Barracks	2918			181	1	NaN	0	0	-1	0	0	0	-1
+450	HordePVPBarracks	0	1553	2	Horde PVP Barracks	2917			182	1	NaN	0	0	-1	0	0	0	-1
+451	development	0	1631	1	Development Land	0			21	1	NaN	0	0	-1	3	0	0	-1
+469	BlackwingLair	2	1553	1	Blackwing Lair	2677			141	1	0	-7.663.413	-1.218.667	-1	0	0	40	-1
+489	PVPZone03	3	1553	1	Warsong Gulch	3277	"A valley Bordering Ashenvale Forest and the Barrens, Warsong Gulch hosts a constant battle between the Horde and Alliance.
 
 As a 10 vs 10 capture-the-flag battleground, the first faction to capture three flags is victorious.
 
@@ -50,8 +50,8 @@ Eager to aid their allies, members of every race in Azeroth rush to the Gulch to
 As a 10 vs 10 capture-the-flag battleground, the first faction to capture three flags is victorious.
 
 Eager to aid their allies, members of every race in Azeroth rush to the Gulch to lend sword, or spell, to the conflict."	122	1	NaN	0	0	-1	0	0	0	-1
-509	"AhnQiraj"	2	1553	1	"Ruins of Ahn\'Qiraj"	3429	""	""	184	1	1.401298E-45	-8114.464	1526.366	-1	0	68400	20	-1
-529	"PVPZone04"	3	1553	1	"Arathi Basin"	3358	"The Arathi Basin is one of the main staging points of war between the humans and the Forsaken in Azeroth.
+509	AhnQiraj	2	1553	1	Ruins of Ahn\'Qiraj	3429			184	1	1,40E-39	-8.114.464	1.526.366	-1	0	68400	20	-1
+529	PVPZone04	3	1553	1	Arathi Basin	3358	"The Arathi Basin is one of the main staging points of war between the humans and the Forsaken in Azeroth.
 
 Arathi Basin is a 15 vs 15 domination battleground, where each side attempts to control the Stables, Blacksmith, Mine, Lumbermill and Farm for as long as possible.
 
@@ -64,33 +64,33 @@ Arathi Basin is a 15 vs 15 domination battleground, where each side attempts to 
 The League of Arathor seek to reclaim lost lands for their benefactors in Stormwind.
 
 Meanwhile, the Defilers\' elite troopers seek to sever the vital connection between the humans and their dwarven allies to the south."	183	1.25	NaN	0	0	-1	0	0	0	-1
-530	"Expansion01"	0	1553	1	"Outland"	0	""	""	198	1	NaN	0	0	-1	1	0	0	-1
-531	"AhnQirajTemple"	2	1553	1	"Ahn\'Qiraj Temple"	3428	""	""	185	1	1.401298E-45	-8111.724	1526.786	-1	0	0	40	-1
-532	"Karazahn"	2	1553	1	"Karazhan"	3457	""	""	200	1	0	-11110.41	-2004.065	-1	1	0	10	-1
-533	"Stratholme Raid"	2	34321	1	"Naxxramas"	3456	""	""	197	1	NaN	0	0	-1	2	0	25	-1
-534	"HyjalPast"	2	1553	1	"The Battle for Mount Hyjal"	616	""	""	212	1	1.401298E-45	-8178.508	-4182.05	-1	1	0	25	-1
-540	"HellfireMilitary"	1	1553	2	"Hellfire Citadel: The Shattered Halls"	3714	""	""	199	1	7.426882E-43	-306.7582	3064.436	-1	1	0	5	-1
-542	"HellfireDemon"	1	1553	2	"Hellfire Citadel: The Blood Furnace"	3713	""	""	199	1	7.426882E-43	-295.4193	3151.993	-1	1	0	5	-1
-543	"HellfireRampart"	1	67089	1	"Hellfire Citadel: Ramparts"	3562	""	""	199	1	7.426882E-43	-360.0499	3067.896	-1	1	0	5	-1
-544	"HellfireRaid"	2	1553	2	"Magtheridon\'s Lair"	3836	""	""	208	1	7.426882E-43	-330.2339	3106.636	-1	1	0	25	-1
-545	"CoilfangPumping"	1	1553	2	"Coilfang: The Steamvault"	3715	""	""	207	1	7.426882E-43	764.2191	6915.08	-1	1	0	5	-1
-546	"CoilfangMarsh"	1	1553	2	"Coilfang: The Underbog"	3716	""	""	207	1	7.426882E-43	764.6282	6768.073	-1	1	0	5	-1
-547	"CoilfangDraenei"	1	1553	2	"Coilfang: The Slave Pens"	3717	""	""	207	1	7.426882E-43	742.1582	7011.327	-1	1	0	5	-1
-548	"CoilfangRaid"	2	1553	2	"Coilfang: Serpentshrine Cavern"	3607	""	""	207	1	7.426882E-43	775.7864	6865.243	-1	1	0	25	-1
-550	"TempestKeepRaid"	2	1553	2	"Tempest Keep"	3845	""	""	206	1	NaN	0	0	-1	1	0	25	-1
-552	"TempestKeepArcane"	1	1553	2	"Tempest Keep: The Arcatraz"	3848	""	""	206	1	NaN	0	0	-1	1	0	5	-1
-553	"TempestKeepAtrium"	1	1553	2	"Tempest Keep: The Botanica"	3847	""	""	206	1	NaN	0	0	-1	1	0	5	-1
-554	"TempestKeepFactory"	1	1553	2	"Tempest Keep: The Mechanar"	3849	""	""	206	1	NaN	0	0	-1	1	0	5	-1
-555	"AuchindounShadow"	1	1553	2	"Auchindoun: Shadow Labyrinth"	3789	""	""	201	1	7.426882E-43	-3640.688	4943.163	-1	1	0	5	-1
-556	"AuchindounDemon"	1	1553	2	"Auchindoun: Sethekk Halls"	3791	""	""	201	1	7.426882E-43	-3361.863	4665.592	-1	1	0	5	-1
-557	"AuchindounEthereal"	1	1553	2	"Auchindoun: Mana-Tombs"	3792	""	""	201	1	7.426882E-43	-3089.516	4942.756	-1	1	0	5	-1
-558	"AuchindounDraenei"	1	1553	2	"Auchindoun: Auchenai Crypts"	3790	""	""	201	1	7.426882E-43	-3363.44	5156.455	-1	1	0	5	-1
-559	"PVPZone05"	4	1553	1	"Nagrand Arena"	0	""	""	219	1	NaN	0	0	-1	0	0	0	-1
-560	"HillsbradPast"	1	9745	1	"The Escape From Durnholde"	267	""	""	212	1	1.401298E-45	-8309.81	-4061.509	-1	1	0	5	-1
-562	"bladesedgearena"	4	1553	1	"Blade\'s Edge Arena"	3702	""	""	218	1	NaN	0	0	-1	0	0	0	-1
-564	"BlackTemple"	2	1553	1	"Black Temple"	0	""	""	215	1	7.426882E-43	-3644.527	317.2937	-1	1	0	25	-1
-565	"GruulsLair"	2	1553	2	"Gruul\'s Lair"	3923	""	""	213	1	7.426882E-43	3525.453	5144.151	-1	1	0	25	-1
-566	"NetherstormBG"	3	1553	1	"Eye of the Storm"	0	"Hovering high above the ravaged landscape of Netherstorm is the island known as the Eye of the Storm.
+530	Expansion01	0	1553	1	Outland	0			198	1	NaN	0	0	-1	1	0	0	-1
+531	AhnQirajTemple	2	1553	1	Ahn\'Qiraj Temple	3428			185	1	1,40E-39	-8.111.724	1.526.786	-1	0	0	40	-1
+532	Karazahn	2	1553	1	Karazhan	3457			200	1	0	-11110.41	-2.004.065	-1	1	0	10	-1
+533	Stratholme Raid	2	34321	1	Naxxramas	3456			197	1	NaN	0	0	-1	2	0	25	-1
+534	HyjalPast	2	1553	1	The Battle for Mount Hyjal	616			212	1	1,40E-39	-8.178.508	-4182.05	-1	1	0	25	-1
+540	HellfireMilitary	1	1553	2	Hellfire Citadel: The Shattered Halls	3714			199	1	7,43E-37	-3.067.582	3.064.436	-1	1	0	5	-1
+542	HellfireDemon	1	1553	2	Hellfire Citadel: The Blood Furnace	3713			199	1	7,43E-37	-2.954.193	3.151.993	-1	1	0	5	-1
+543	HellfireRampart	1	67089	1	Hellfire Citadel: Ramparts	3562			199	1	7,43E-37	-3.600.499	3.067.896	-1	1	0	5	-1
+544	HellfireRaid	2	1553	2	Magtheridon\'s Lair	3836			208	1	7,43E-37	-3.302.339	3.106.636	-1	1	0	25	-1
+545	CoilfangPumping	1	1553	2	Coilfang: The Steamvault	3715			207	1	7,43E-37	7.642.191	6915.08	-1	1	0	5	-1
+546	CoilfangMarsh	1	1553	2	Coilfang: The Underbog	3716			207	1	7,43E-37	7.646.282	6.768.073	-1	1	0	5	-1
+547	CoilfangDraenei	1	1553	2	Coilfang: The Slave Pens	3717			207	1	7,43E-37	7.421.582	7.011.327	-1	1	0	5	-1
+548	CoilfangRaid	2	1553	2	Coilfang: Serpentshrine Cavern	3607			207	1	7,43E-37	7.757.864	6.865.243	-1	1	0	25	-1
+550	TempestKeepRaid	2	1553	2	Tempest Keep	3845			206	1	NaN	0	0	-1	1	0	25	-1
+552	TempestKeepArcane	1	1553	2	Tempest Keep: The Arcatraz	3848			206	1	NaN	0	0	-1	1	0	5	-1
+553	TempestKeepAtrium	1	1553	2	Tempest Keep: The Botanica	3847			206	1	NaN	0	0	-1	1	0	5	-1
+554	TempestKeepFactory	1	1553	2	Tempest Keep: The Mechanar	3849			206	1	NaN	0	0	-1	1	0	5	-1
+555	AuchindounShadow	1	1553	2	Auchindoun: Shadow Labyrinth	3789			201	1	7,43E-37	-3.640.688	4.943.163	-1	1	0	5	-1
+556	AuchindounDemon	1	1553	2	Auchindoun: Sethekk Halls	3791			201	1	7,43E-37	-3.361.863	4.665.592	-1	1	0	5	-1
+557	AuchindounEthereal	1	1553	2	Auchindoun: Mana-Tombs	3792			201	1	7,43E-37	-3.089.516	4.942.756	-1	1	0	5	-1
+558	AuchindounDraenei	1	1553	2	Auchindoun: Auchenai Crypts	3790			201	1	7,43E-37	-3363.44	5.156.455	-1	1	0	5	-1
+559	PVPZone05	4	1553	1	Nagrand Arena	0			219	1	NaN	0	0	-1	0	0	0	-1
+560	HillsbradPast	1	9745	1	The Escape From Durnholde	267			212	1	1,40E-39	-8309.81	-4.061.509	-1	1	0	5	-1
+562	bladesedgearena	4	1553	1	Blade\'s Edge Arena	3702			218	1	NaN	0	0	-1	0	0	0	-1
+564	BlackTemple	2	1553	1	Black Temple	0			215	1	7,43E-37	-3.644.527	3.172.937	-1	1	0	25	-1
+565	GruulsLair	2	1553	2	Gruul\'s Lair	3923			213	1	7,43E-37	3.525.453	5.144.151	-1	1	0	25	-1
+566	NetherstormBG	3	1553	1	Eye of the Storm	0	"Hovering high above the ravaged landscape of Netherstorm is the island known as the Eye of the Storm.
 
 Eye of the Storm is a 15 vs 15 domination battleground, where each side attempts to control the Mage Tower, Fel Reaver Ruins, Blood Elf Tower, and Draenei Ruins for as long as possible.
 
@@ -103,40 +103,40 @@ Eye of the Storm is a 15 vs 15 domination battleground, where each side attempts
 The draenei seek to claim it due to its proximity to the naaru\'s mysterious vessel, Tempest Keep.
 
 This battlefield is coveted by the blood elves for its rich energy deposits."	210	1	NaN	0	0	-1	0	0	0	-1
-568	"ZulAman"	1	1553	1	"Zul\'Aman"	0	""	""	276	1	7.426882E-43	6851.021	-7989.713	-1	3	0	10	-1
-571	"Northrend"	0	1565	1	"Northrend"	0	""	""	216	1	NaN	0	0	-1	2	0	0	-1
-572	"PVPLordaeron"	4	1553	1	"Ruins of Lordaeron"	0	""	""	217	1	NaN	0	0	-1	0	0	0	-1
-573	"ExteriorTest"	0	1567	1	"ExteriorTest"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-574	"Valgarde70"	1	9757	1	"Utgarde Keep"	0	""	""	220	1	8.001414E-43	1211.759	-4868.422	-1	2	0	5	-1
-575	"UtgardePinnacle"	1	67101	1	"Utgarde Pinnacle"	0	""	""	221	1	8.001414E-43	1232.41	-4860.954	-1	2	0	5	-1
-576	"Nexus70"	1	1553	2	"The Nexus"	4265	""	""	226	1	8.001414E-43	3899.926	6985.436	-1	2	0	5	-1
-578	"Nexus80"	1	1565	1	"The Oculus"	0	""	""	227	1	8.001414E-43	3865.923	6983.94	-1	2	0	5	-1
-580	"SunwellPlateau"	2	1553	1	"The Sunwell"	0	""	""	225	1	7.426882E-43	12551.76	-6774.565	-1	1	0	25	-1
-582	"Transport176244"	0	1553	3	"Transport: Rut\'theran to Auberdine"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-584	"Transport176231"	0	1553	3	"Transport: Menethil to Theramore"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-585	"Sunwell5ManFix"	1	1565	1	"Magister\'s Terrace"	0	""	""	224	1	7.426882E-43	12881.9	-7343.095	-1	1	0	5	-1
-586	"Transport181645"	0	1553	3	"Transport: Exodar to Auberdine"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-587	"Transport177233"	0	1553	3	"Transport: Feathermoon Ferry"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-588	"Transport176310"	0	1553	3	"Transport: Menethil to Auberdine"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-589	"Transport175080"	0	1553	3	"Transport: Orgrimmar to Grom\'Gol"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-590	"Transport176495"	0	1553	3	"Transport: Grom\'Gol to Undercity"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-591	"Transport164871"	0	1553	3	"Transport: Undercity to Orgrimmar"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-592	"Transport186238"	0	1553	3	"Transport: Borean Tundra Test"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-593	"Transport20808"	0	1553	3	"Transport: Booty Bay to Ratchet"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-594	"Transport187038"	0	1553	3	"Transport: Howling Fjord Sister Mercy (Quest)"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-595	"StratholmeCOT"	1	1553	1	"The Culling of Stratholme"	0	""	""	222	1	1.401298E-45	-8756.087	-4457.418	-1	2	0	5	-1
-596	"Transport187263"	0	1553	3	"Transport: Naglfar"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-597	"CraigTest"	0	1759	1	"Craig Test"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-598	"Sunwell5Man"	1	1555	2	"Sunwell Fix (Unused)"	0	""	""	4	1	NaN	0	0	-1	1	0	5	-1
-599	"Ulduar70"	1	1565	1	"Halls of Stone"	0	""	""	230	1	8.001414E-43	8921.793	-966.8065	-1	2	0	5	-1
-600	"DrakTheronKeep"	1	1565	1	"Drak\'Tharon Keep"	0	""	""	228	1	8.001414E-43	4774.583	-2023.049	-1	2	0	5	-1
-601	"Azjol_Uppercity"	1	1565	1	"Azjol-Nerub"	0	""	""	229	1	8.001414E-43	3672.215	2171.275	-1	2	0	5	-1
-602	"Ulduar80"	1	1565	1	"Halls of Lightning"	0	""	""	231	1	8.001414E-43	9185.088	-1386.791	-1	2	0	5	-1
-603	"UlduarRaid"	2	34333	1	"Ulduar"	0	""	""	244	1	8.001414E-43	9359.371	-1115.175	0	2	0	5	-1
-604	"GunDrak"	1	1565	1	"Gundrak"	0	""	""	237	1	8.001414E-43	6708.731	-4654.904	-1	2	0	5	-1
-605	"development_nonweighted"	0	1555	1	"Development Land (non-weighted textures)"	0	""	""	21	1	NaN	0	0	-1	0	0	0	-1
-606	"QA_DVD"	0	1567	1	"QA and DVD"	0	""	""	21	1	NaN	0	0	-1	2	0	0	-1
-607	"NorthrendBG"	3	1565	1	"Strand of the Ancients"	0	"To the south of Dragonblight lies the resting place of a legendary Titan artifact known by the Alliance and Horde to possess critical information regarding the Titans and their methods.
+568	ZulAman	1	1553	1	Zul\'Aman	0			276	1	7,43E-37	6.851.021	-7.989.713	-1	3	0	10	-1
+571	Northrend	0	1565	1	Northrend	0			216	1	NaN	0	0	-1	2	0	0	-1
+572	PVPLordaeron	4	1553	1	Ruins of Lordaeron	0			217	1	NaN	0	0	-1	0	0	0	-1
+573	ExteriorTest	0	1567	1	ExteriorTest	0			0	1	NaN	0	0	-1	2	0	0	-1
+574	Valgarde70	1	9757	1	Utgarde Keep	0			220	1	8,00E-37	1.211.759	-4.868.422	-1	2	0	5	-1
+575	UtgardePinnacle	1	67101	1	Utgarde Pinnacle	0			221	1	8,00E-37	1232.41	-4.860.954	-1	2	0	5	-1
+576	Nexus70	1	1553	2	The Nexus	4265			226	1	8,00E-37	3.899.926	6.985.436	-1	2	0	5	-1
+578	Nexus80	1	1565	1	The Oculus	0			227	1	8,00E-37	3.865.923	6983.94	-1	2	0	5	-1
+580	SunwellPlateau	2	1553	1	The Sunwell	0			225	1	7,43E-37	12551.76	-6.774.565	-1	1	0	25	-1
+582	Transport176244	0	1553	3	Transport: Rut\'theran to Auberdine	0			0	1	NaN	0	0	-1	0	0	0	-1
+584	Transport176231	0	1553	3	Transport: Menethil to Theramore	0			0	1	NaN	0	0	-1	0	0	0	-1
+585	Sunwell5ManFix	1	1565	1	Magister\'s Terrace	0			224	1	7,43E-37	12881.9	-7.343.095	-1	1	0	5	-1
+586	Transport181645	0	1553	3	Transport: Exodar to Auberdine	0			0	1	NaN	0	0	-1	0	0	0	-1
+587	Transport177233	0	1553	3	Transport: Feathermoon Ferry	0			0	1	NaN	0	0	-1	0	0	0	-1
+588	Transport176310	0	1553	3	Transport: Menethil to Auberdine	0			0	1	NaN	0	0	-1	0	0	0	-1
+589	Transport175080	0	1553	3	Transport: Orgrimmar to Grom\'Gol	0			0	1	NaN	0	0	-1	0	0	0	-1
+590	Transport176495	0	1553	3	Transport: Grom\'Gol to Undercity	0			0	1	NaN	0	0	-1	0	0	0	-1
+591	Transport164871	0	1553	3	Transport: Undercity to Orgrimmar	0			0	1	NaN	0	0	-1	0	0	0	-1
+592	Transport186238	0	1553	3	Transport: Borean Tundra Test	0			0	1	NaN	0	0	-1	0	0	0	-1
+593	Transport20808	0	1553	3	Transport: Booty Bay to Ratchet	0			0	1	NaN	0	0	-1	0	0	0	-1
+594	Transport187038	0	1553	3	Transport: Howling Fjord Sister Mercy (Quest)	0			0	1	NaN	0	0	-1	2	0	0	-1
+595	StratholmeCOT	1	1553	1	The Culling of Stratholme	0			222	1	1,40E-39	-8.756.087	-4.457.418	-1	2	0	5	-1
+596	Transport187263	0	1553	3	Transport: Naglfar	0			0	1	NaN	0	0	-1	2	0	0	-1
+597	CraigTest	0	1759	1	Craig Test	0			0	1	NaN	0	0	-1	0	0	0	-1
+598	Sunwell5Man	1	1555	2	Sunwell Fix (Unused)	0			4	1	NaN	0	0	-1	1	0	5	-1
+599	Ulduar70	1	1565	1	Halls of Stone	0			230	1	8,00E-37	8.921.793	-9.668.065	-1	2	0	5	-1
+600	DrakTheronKeep	1	1565	1	Drak\'Tharon Keep	0			228	1	8,00E-37	4.774.583	-2.023.049	-1	2	0	5	-1
+601	Azjol_Uppercity	1	1565	1	Azjol-Nerub	0			229	1	8,00E-37	3.672.215	2.171.275	-1	2	0	5	-1
+602	Ulduar80	1	1565	1	Halls of Lightning	0			231	1	8,00E-37	9.185.088	-1.386.791	-1	2	0	5	-1
+603	UlduarRaid	2	34333	1	Ulduar	0			244	1	8,00E-37	9.359.371	-1.115.175	0	2	0	5	-1
+604	GunDrak	1	1565	1	Gundrak	0			237	1	8,00E-37	6.708.731	-4.654.904	-1	2	0	5	-1
+605	development_nonweighted	0	1555	1	Development Land (non-weighted textures)	0			21	1	NaN	0	0	-1	0	0	0	-1
+606	QA_DVD	0	1567	1	QA and DVD	0			21	1	NaN	0	0	-1	2	0	0	-1
+607	NorthrendBG	3	1565	1	Strand of the Ancients	0	"To the south of Dragonblight lies the resting place of a legendary Titan artifact known by the Alliance and Horde to possess critical information regarding the Titans and their methods.
 
 Strand of the Ancients is a 15 vs 15 battleground, where each side takes a turn attacking and defending the Titan artifact at the southern tip of the island.
 
@@ -147,69 +147,69 @@ Strand of the Ancients is a 15 vs 15 battleground, where each side takes a turn 
 
 
 Prepare yourself for battle, for fate cannot determine success upon this Strand of the Ancients."	238	1	NaN	0	0	-1	0	0	0	-1
-608	"DalaranPrison"	1	1565	1	"Violet Hold"	0	""	""	235	1	8.001414E-43	5689.49	498.0469	-1	2	0	5	-1
-609	"DeathKnightStart"	0	1565	1	"Ebon Hold"	0	""	""	233	1	NaN	0	0	-1	2	0	0	-1
-610	"Transport_Tirisfal _Vengeance_Landing"	0	1553	3	"Transport: Tirisfal to Vengeance Landing"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-612	"Transport_Menethil_Valgarde"	0	1553	3	"Transport: Menethil to Valgarde"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-613	"Transport_Orgrimmar_Warsong_Hold"	0	1553	3	"Transport: Orgrimmar to Warsong Hold"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-614	"Transport_Stormwind_Valiance_Keep"	0	1553	3	"Transport: Stormwind to Valiance Keep"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-615	"ChamberOfAspectsBlack"	2	34333	1	"The Obsidian Sanctum"	0	""	""	239	1	8.001414E-43	3438.153	260.4013	-1	2	0	0	-1
-616	"NexusRaid"	2	34333	1	"The Eye of Eternity"	0	""	""	236	1	8.001414E-43	3869.981	6984.33	-1	2	0	5	-1
-617	"DalaranArena"	4	1565	1	"Dalaran Sewers"	0	""	""	242	1	NaN	0	0	0	0	0	0	-1
-618	"OrgrimmarArena"	4	4195869	1	"The Ring of Valor"	0	""	""	240	1	NaN	0	0	720	0	0	0	-1
-619	"Azjol_LowerCity"	1	1565	1	"Ahn\'kahet: The Old Kingdom"	0	""	""	234	1	8.001414E-43	3641.458	2032.064	-1	2	0	0	-1
-620	"Transport_Moa\'ki_Unu\'pe"	0	1553	3	"Transport: Moa\'ki to Unu\'pe"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-621	"Transport_Moa\'ki_Kamagua"	0	1553	3	"Transport: Moa\'ki to Kamagua"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-622	"Transport192241"	0	1553	3	"Transport: Orgrim\'s Hammer"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-623	"Transport192242"	0	1553	3	"Transport: The Skybreaker"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-624	"WintergraspRaid"	2	34365	1	"Vault of Archavon"	0	""	""	243	1	8.001414E-43	5488.125	2840.334	-1	2	0	0	-1
-627	"unused"	1	1567	1	"unused"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-628	"IsleofConquest"	3	1565	1	"Isle of Conquest"	0	"The Isle of Conquest is a point of strategic importance for the Alliance and Horde campaigns in Northrend, each side determined to secure control of the island.
+608	DalaranPrison	1	1565	1	Violet Hold	0			235	1	8,00E-37	5689.49	4.980.469	-1	2	0	5	-1
+609	DeathKnightStart	0	1565	1	Ebon Hold	0			233	1	NaN	0	0	-1	2	0	0	-1
+610	Transport_Tirisfal _Vengeance_Landing	0	1553	3	Transport: Tirisfal to Vengeance Landing	0			0	1	NaN	0	0	-1	0	0	0	-1
+612	Transport_Menethil_Valgarde	0	1553	3	Transport: Menethil to Valgarde	0			0	1	NaN	0	0	-1	0	0	0	-1
+613	Transport_Orgrimmar_Warsong_Hold	0	1553	3	Transport: Orgrimmar to Warsong Hold	0			0	1	NaN	0	0	-1	0	0	0	-1
+614	Transport_Stormwind_Valiance_Keep	0	1553	3	Transport: Stormwind to Valiance Keep	0			0	1	NaN	0	0	-1	0	0	0	-1
+615	ChamberOfAspectsBlack	2	34333	1	The Obsidian Sanctum	0			239	1	8,00E-37	3.438.153	2.604.013	-1	2	0	0	-1
+616	NexusRaid	2	34333	1	The Eye of Eternity	0			236	1	8,00E-37	3.869.981	6984.33	-1	2	0	5	-1
+617	DalaranArena	4	1565	1	Dalaran Sewers	0			242	1	NaN	0	0	0	0	0	0	-1
+618	OrgrimmarArena	4	4195869	1	The Ring of Valor	0			240	1	NaN	0	0	720	0	0	0	-1
+619	Azjol_LowerCity	1	1565	1	Ahn\'kahet: The Old Kingdom	0			234	1	8,00E-37	3.641.458	2.032.064	-1	2	0	0	-1
+620	Transport_Moa\'ki_Unu\'pe	0	1553	3	Transport: Moa\'ki to Unu\'pe	0			0	1	NaN	0	0	-1	2	0	0	-1
+621	Transport_Moa\'ki_Kamagua	0	1553	3	Transport: Moa\'ki to Kamagua	0			0	1	NaN	0	0	-1	2	0	0	-1
+622	Transport192241	0	1553	3	Transport: Orgrim\'s Hammer	0			0	1	NaN	0	0	-1	2	0	0	-1
+623	Transport192242	0	1553	3	Transport: The Skybreaker	0			0	1	NaN	0	0	-1	2	0	0	-1
+624	WintergraspRaid	2	34365	1	Vault of Archavon	0			243	1	8,00E-37	5.488.125	2.840.334	-1	2	0	0	-1
+627	unused	1	1567	1	unused	0			0	1	NaN	0	0	-1	2	0	0	-1
+628	IsleofConquest	3	1565	1	Isle of Conquest	0	"The Isle of Conquest is a point of strategic importance for the Alliance and Horde campaigns in Northrend, each side determined to secure control of the island.
 
 As a large-scale battleground, each side attempts to wrest control of the Siege Factory, Docks, or Hangar in order to secure access to the enemy stronghold and defeat its general (Halford Wyrmbane or Overlord Agmar)."	"The Isle of Conquest is a point of strategic importance for the Alliance and Horde campaigns in Northrend, each side determined to secure control of the island.
 
 As a large-scale battleground, each side attempts to wrest control of the Siege Factory, Docks, or Hangar in order to secure access to the enemy stronghold and defeat its general (Halford Wyrmbane or Overlord Agmar)."	245	1	NaN	0	0	-1	2	0	0	-1
-631	"IcecrownCitadel"	2	34589	1	"Icecrown Citadel"	0	""	""	250	1	8.001414E-43	5776.922	2065.932	-1	2	0	0	-1
-632	"IcecrownCitadel5Man"	1	1565	1	"The Forge of Souls"	0	""	""	249	1	8.001414E-43	5670.792	2003.629	-1	2	0	0	-1
-637	"AbyssalMaw"	1	1565	1	"Abyssal Maw Exterior"	0	""	""	23	1	NaN	0	0	-1	3	0	0	-1
-638	"Gilneas"	0	1629	1	"Gilneas"	0	""	""	4	1	NaN	0	0	-1	3	0	0	654
-641	"Transport_AllianceAirshipBG"	0	1553	3	"Transport: Alliance Airship BG"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-642	"Transport_HordeAirshipBG"	0	1553	3	"Transport: HordeAirshipBG"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-643	"AbyssalMaw_Interior"	1	17949	1	"Throne of the Tides"	0	""	""	255	1	0	-5585.872	5401.649	-1	3	0	0	-1
-644	"Uldum"	1	1565	1	"Halls of Origination"	0	""	""	256	1	1.401298E-45	-10226	-1837.479	1080	3	0	0	-1
-645	"BlackRockSpire_4_0"	1	1565	1	"Blackrock Caverns"	0	""	""	267	1	0	-7570.245	-1330.684	-1	3	0	0	-1
-646	"Deephome"	0	1629	1	"Deepholm"	0	""	""	268	1	NaN	0	0	-1	3	0	0	-1
-647	"Transport_Orgrimmar_to_Thunderbluff"	0	1553	3	"Transport: Orgrimmar to Thunder Bluff"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-648	"LostIsles"	0	263773	1	"LostIsles"	0	""	""	3	1	NaN	0	0	-1	3	0	0	-1
-649	"ArgentTournamentRaid"	2	34589	1	"Trial of the Crusader"	0	""	""	246	1	8.001414E-43	8515.286	736.1371	-1	2	0	0	-1
-650	"ArgentTournamentDungeon"	1	1565	1	"Trial of the Champion"	0	""	""	247	1	8.001414E-43	8571.435	792.2205	-1	2	0	0	-1
-651	"ElevatorSpawnTest"	0	1555	3	"ElevatorSpawnTest"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-654	"Gilneas2"	0	263709	1	"Gilneas2"	0	""	""	4	1	NaN	0	0	-1	3	0	0	-1
-655	"GilneasPhase1"	0	1629	1	"GilneasPhase1"	0	""	""	0	1	NaN	0	0	-1	3	0	0	654
-656	"GilneasPhase2"	0	1629	1	"GilneasPhase2"	0	""	""	0	1	NaN	0	0	-1	3	0	0	654
-657	"SkywallDungeon"	1	1565	1	"The Vortex Pinnacle"	0	""	""	259	1	1.401298E-45	-11522.49	-2317.934	-1	3	0	0	-1
-658	"QuarryofTears"	1	1565	1	"Pit of Saron"	0	""	""	252	1	8.001414E-43	5592.057	2010.271	-1	2	0	0	-1
-659	"LostIslesPhase1"	0	1565	1	"Lost Isles Volcano Eruption"	0	""	""	3	1	NaN	0	0	-1	3	0	0	648
-660	"Deephomeceiling"	0	1695	1	"Deephome Ceiling"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-661	"LostIslesPhase2"	0	1565	1	"Lost Isles Town in a Box"	0	""	""	0	1	NaN	0	0	-1	3	0	0	648
-662	"Transport197195"	0	1553	3	"Transport: Alliance Vashj\'ir Ship"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-668	"HallsOfReflection"	1	1565	1	"Halls of Reflection"	0	""	""	253	1	8.001414E-43	5628.875	1973.286	-1	2	0	0	-1
-669	"BlackwingDescent"	2	34589	1	"Blackwing Descent"	0	""	""	260	1	0	-7541.768	-1188.832	-1	3	0	0	-1
-670	"GrimBatolDungeon"	1	1565	1	"Grim Batol"	0	""	""	257	1	0	-4047.74	-3446.35	-1	3	0	0	-1
-671	"GrimBatolRaid"	2	34589	1	"The Bastion of Twilight"	0	""	""	266	1	0	-4903.01	-4221.21	-1	3	0	0	-1
-672	"Transport197347"	0	1553	3	"Transport: The Skybreaker (Icecrown Citadel Raid)"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-673	"Transport197348"	0	1553	3	"Transport: Orgrim\'s Hammer (Icecrown Citadel Raid)"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-674	"Transport197349-2"	0	1553	3	"Transport: Ship to Vashj\'ir"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-712	"Transport197349"	0	1553	3	"Transport: The Skybreaker (IC Dungeon)"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-713	"Transport197350"	0	1553	3	"Transport: Orgrim\'s Hammer (IC Dungeon)"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-718	"Transport201834"	0	1537	3	"Trasnport: The Mighty Wind (Icecrown Citadel Raid)"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
-719	"MountHyjalPhase1"	0	132701	1	"Mount Hyjal Phase 1"	0	""	""	3	1	NaN	0	0	-1	0	0	0	1
-720	"Firelands1"	2	2131741	1	"Firelands"	0	""	""	275	1	1.401298E-45	3987.2	-2943.32	720	3	0	0	-1
-721	"Firelands2"	1	1693	1	"Firelands Terrain 2"	0	""	""	0	1	NaN	0	0	720	3	0	0	-1
-723	"Stormwind"	0	1565	1	"Stormwind"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-724	"ChamberofAspectsRed"	2	34589	1	"The Ruby Sanctum"	0	""	""	254	1	8.001414E-43	3608.129	186.8021	-1	2	0	0	-1
-725	"DeepholmeDungeon"	1	1565	1	"The Stonecore"	0	""	""	258	1	9.052388E-43	1031.908	610.2969	-1	3	0	0	-1
-726	"CataclysmCTF"	3	1629	1	"Twin Peaks"	0	"Nestled in the Twilight Highlands, Twin Peaks has flared as a point of contention between the Alliance and Horde.
+631	IcecrownCitadel	2	34589	1	Icecrown Citadel	0			250	1	8,00E-37	5.776.922	2.065.932	-1	2	0	0	-1
+632	IcecrownCitadel5Man	1	1565	1	The Forge of Souls	0			249	1	8,00E-37	5.670.792	2.003.629	-1	2	0	0	-1
+637	AbyssalMaw	1	1565	1	Abyssal Maw Exterior	0			23	1	NaN	0	0	-1	3	0	0	-1
+638	Gilneas	0	1629	1	Gilneas	0			4	1	NaN	0	0	-1	3	0	0	654
+641	Transport_AllianceAirshipBG	0	1553	3	Transport: Alliance Airship BG	0			0	1	NaN	0	0	-1	2	0	0	-1
+642	Transport_HordeAirshipBG	0	1553	3	Transport: HordeAirshipBG	0			0	1	NaN	0	0	-1	2	0	0	-1
+643	AbyssalMaw_Interior	1	17949	1	Throne of the Tides	0			255	1	0	-5.585.872	5.401.649	-1	3	0	0	-1
+644	Uldum	1	1565	1	Halls of Origination	0			256	1	1,40E-39	-10226	-1.837.479	1080	3	0	0	-1
+645	BlackRockSpire_4_0	1	1565	1	Blackrock Caverns	0			267	1	0	-7.570.245	-1.330.684	-1	3	0	0	-1
+646	Deephome	0	1629	1	Deepholm	0			268	1	NaN	0	0	-1	3	0	0	-1
+647	Transport_Orgrimmar_to_Thunderbluff	0	1553	3	Transport: Orgrimmar to Thunder Bluff	0			0	1	NaN	0	0	-1	2	0	0	-1
+648	LostIsles	0	263773	1	LostIsles	0			3	1	NaN	0	0	-1	3	0	0	-1
+649	ArgentTournamentRaid	2	34589	1	Trial of the Crusader	0			246	1	8,00E-37	8.515.286	7.361.371	-1	2	0	0	-1
+650	ArgentTournamentDungeon	1	1565	1	Trial of the Champion	0			247	1	8,00E-37	8.571.435	7.922.205	-1	2	0	0	-1
+651	ElevatorSpawnTest	0	1555	3	ElevatorSpawnTest	0			0	1	NaN	0	0	-1	0	0	0	-1
+654	Gilneas2	0	263709	1	Gilneas2	0			4	1	NaN	0	0	-1	3	0	0	-1
+655	GilneasPhase1	0	1629	1	GilneasPhase1	0			0	1	NaN	0	0	-1	3	0	0	654
+656	GilneasPhase2	0	1629	1	GilneasPhase2	0			0	1	NaN	0	0	-1	3	0	0	654
+657	SkywallDungeon	1	1565	1	The Vortex Pinnacle	0			259	1	1,40E-39	-11522.49	-2.317.934	-1	3	0	0	-1
+658	QuarryofTears	1	1565	1	Pit of Saron	0			252	1	8,00E-37	5.592.057	2.010.271	-1	2	0	0	-1
+659	LostIslesPhase1	0	1565	1	Lost Isles Volcano Eruption	0			3	1	NaN	0	0	-1	3	0	0	648
+660	Deephomeceiling	0	1695	1	Deephome Ceiling	0			0	1	NaN	0	0	-1	3	0	0	-1
+661	LostIslesPhase2	0	1565	1	Lost Isles Town in a Box	0			0	1	NaN	0	0	-1	3	0	0	648
+662	Transport197195	0	1553	3	Transport: Alliance Vashj\'ir Ship	0			0	1	NaN	0	0	-1	3	0	0	-1
+668	HallsOfReflection	1	1565	1	Halls of Reflection	0			253	1	8,00E-37	5.628.875	1.973.286	-1	2	0	0	-1
+669	BlackwingDescent	2	34589	1	Blackwing Descent	0			260	1	0	-7.541.768	-1.188.832	-1	3	0	0	-1
+670	GrimBatolDungeon	1	1565	1	Grim Batol	0			257	1	0	-4047.74	-3446.35	-1	3	0	0	-1
+671	GrimBatolRaid	2	34589	1	The Bastion of Twilight	0			266	1	0	-4903.01	-4221.21	-1	3	0	0	-1
+672	Transport197347	0	1553	3	Transport: The Skybreaker (Icecrown Citadel Raid)	0			0	1	NaN	0	0	-1	2	0	0	-1
+673	Transport197348	0	1553	3	Transport: Orgrim\'s Hammer (Icecrown Citadel Raid)	0			0	1	NaN	0	0	-1	2	0	0	-1
+674	Transport197349-2	0	1553	3	Transport: Ship to Vashj\'ir	0			0	1	NaN	0	0	-1	3	0	0	-1
+712	Transport197349	0	1553	3	Transport: The Skybreaker (IC Dungeon)	0			0	1	NaN	0	0	-1	2	0	0	-1
+713	Transport197350	0	1553	3	Transport: Orgrim\'s Hammer (IC Dungeon)	0			0	1	NaN	0	0	-1	2	0	0	-1
+718	Transport201834	0	1537	3	Trasnport: The Mighty Wind (Icecrown Citadel Raid)	0			0	1	NaN	0	0	-1	2	0	0	-1
+719	MountHyjalPhase1	0	132701	1	Mount Hyjal Phase 1	0			3	1	NaN	0	0	-1	0	0	0	1
+720	Firelands1	2	2131741	1	Firelands	0			275	1	1,40E-39	3987.2	-2943.32	720	3	0	0	-1
+721	Firelands2	1	1693	1	Firelands Terrain 2	0			0	1	NaN	0	0	720	3	0	0	-1
+723	Stormwind	0	1565	1	Stormwind	0			0	1	NaN	0	0	-1	0	0	0	-1
+724	ChamberofAspectsRed	2	34589	1	The Ruby Sanctum	0			254	1	8,00E-37	3.608.129	1.868.021	-1	2	0	0	-1
+725	DeepholmeDungeon	1	1565	1	The Stonecore	0			258	1	9,05E-37	1.031.908	6.102.969	-1	3	0	0	-1
+726	CataclysmCTF	3	1629	1	Twin Peaks	0	"Nestled in the Twilight Highlands, Twin Peaks has flared as a point of contention between the Alliance and Horde.
 
 As a 10 vs 10 capture-the-flag battleground, the first faction to capture three flags is victorious.
 
@@ -218,66 +218,66 @@ Lend your strength as both factions struggle to take control of this critical hi
 As a 10 vs 10 capture-the-flag battleground, the first faction to capture three flags is victorious.
 
 Lend your strength as both factions struggle to take control of this critical high ground!"	262	1	NaN	0	0	-1	3	0	0	-1
-727	"STV_Mine_BG"	3	1565	1	"Silvershard Mines"	0	"This battleground takes place underneath Stranglethorn Vale in an Adventure Co. goblin mine.
+727	STV_Mine_BG	3	1565	1	Silvershard Mines	0	"This battleground takes place underneath Stranglethorn Vale in an Adventure Co. goblin mine.
 
 Silvershard Mines is a 10 vs 10  escort battleground, where each side attempts to control diamond carts until they reach the mine depot."	"This battleground takes place underneath Stranglethorn Vale in an Adventure Co. goblin mine.
 
 Silvershard Mines is a 10 vs 10  escort battleground, where each side attempts to control diamond carts until they reach the mine depot."	182	1	NaN	0	0	-1	4	0	0	-1
-728	"TheBattleforGilneas"	1	1567	1	"The Battle for Gilneas (Old City Map)"	0	"Located in the heart of Gilnean peninsula, the capital city is of vital strategic importance to the Horde\'s operations the Eastern Kingdoms.
+728	TheBattleforGilneas	1	1567	1	The Battle for Gilneas (Old City Map)	0	"Located in the heart of Gilnean peninsula, the capital city is of vital strategic importance to the Horde\'s operations the Eastern Kingdoms.
 
 Long seen by the Forsaken as a natural expansion to their dominion, Sylvanas Windrunner\'s armies are ready to defend their most recent conquest at all costs."	"Driven from their homelands by the Forsaken, Gilneans continue to view this city as their nation\'s rightful capital.
 
 After regrouping in Alliance territories, the people of Gilneas have rallied around King Greymane\'s call to arms and are ready to retake Gilneas City with the support of their new allies."	261	1	NaN	0	0	-1	3	0	0	-1
-730	"MaelstromZone"	0	1629	1	"Maelstrom Zone"	0	""	""	272	1	NaN	0	0	-1	3	0	0	-1
-731	"DesolaceBomb"	0	1629	1	"Stonetalon Bomb"	0	""	""	3	1	NaN	0	0	-1	0	0	0	1
-732	"TolBarad"	0	9821	1	"Tol Barad"	0	""	""	265	1	NaN	0	0	-1	3	0	0	-1
-734	"AhnQirajTerrace"	1	1565	1	"Ahn\'Qiraj Terrace"	0	""	""	184	1	NaN	0	0	-1	2	0	0	-1
-736	"TwilightHighlandsDragonmawPhase"	0	1565	1	"Twilight Highlands Dragonmaw Phase"	0	""	""	0	1	NaN	0	0	-1	0	0	0	0
-738	"Transport200100"	0	1553	3	"Ship to Vashj\'ir (Orgrimmar -> Vashj\'ir)"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-739	"Transport200101"	0	1553	3	"Vashj\'ir Sub - Horde"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-740	"Transport200102"	0	1553	3	"Vashj\'ir Sub - Alliance"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-741	"Transport200103"	0	1553	3	"Twilight Highlands Horde Transport"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-742	"Transport203729"	0	1553	3	"Vashj\'ir Sub - Horde - Circling Abyssal Maw"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-743	"Transport203730"	0	1553	3	"Vashj\'ir Sub - Alliance circling Abyssal Maw"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-746	"UldumPhaseOasis"	0	1629	1	"Uldum Phase Oasis"	0	""	""	0	1	NaN	0	0	-1	0	0	0	1
-747	"Transport 203732"	0	1553	3	"Transport: Deepholm Gunship"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-748	"Transport203858"	0	1537	3	"Transport: Onyxia/Nefarian Elevator"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-749	"Transport203859"	0	1553	3	"Transport: Gilneas Moving Gunship"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-750	"Transport203860"	0	1553	3	"Transport: Gilneas Static Gunship"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-751	"RedgridgeOrcBomb"	0	1629	1	"Redridge - Orc Bomb"	0	""	""	0	1	NaN	0	0	-1	0	0	0	0
-752	"RedridgeBridgePhaseOne"	0	1629	1	"Redridge - Bridge Phase One"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-753	"RedridgeBridgePhaseTwo"	0	1629	1	"Redridge - Bridge Phase Two"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
-754	"SkywallRaid"	2	34589	1	"Throne of the Four Winds"	0	""	""	271	1	1.401298E-45	-11360.6	72.08334	-1	3	0	0	-1
-755	"UldumDungeon"	1	1565	1	"Lost City of the Tol\'vir"	0	""	""	264	1	1.401298E-45	-10686.15	-1308.623	-1	3	0	0	-1
-757	"BaradinHold"	2	36413	1	"Baradin Hold"	0	""	""	269	1	NaN	0	0	-1	3	0	0	-1
-759	"UldumPhasedEntrance"	0	3677	1	"Uldum Phased Entrance"	0	""	""	0	1	NaN	0	0	-1	0	0	0	1
-760	"TwilightHighlandsPhasedEntrance"	0	3677	1	"Twilight Highlands Phased Entrance"	0	""	""	0	1	NaN	0	0	-1	0	0	0	0
-761	"Gilneas_BG_2"	3	3677	1	"The Battle for Gilneas"	0	"As the Greymane wall collapses, the inevitable conflict between the Forsaken and Worgen reaches a new climax.
+730	MaelstromZone	0	1629	1	Maelstrom Zone	0			272	1	NaN	0	0	-1	3	0	0	-1
+731	DesolaceBomb	0	1629	1	Stonetalon Bomb	0			3	1	NaN	0	0	-1	0	0	0	1
+732	TolBarad	0	9821	1	Tol Barad	0			265	1	NaN	0	0	-1	3	0	0	-1
+734	AhnQirajTerrace	1	1565	1	Ahn\'Qiraj Terrace	0			184	1	NaN	0	0	-1	2	0	0	-1
+736	TwilightHighlandsDragonmawPhase	0	1565	1	Twilight Highlands Dragonmaw Phase	0			0	1	NaN	0	0	-1	0	0	0	0
+738	Transport200100	0	1553	3	Ship to Vashj\'ir (Orgrimmar -> Vashj\'ir)	0			0	1	NaN	0	0	-1	3	0	0	-1
+739	Transport200101	0	1553	3	Vashj\'ir Sub - Horde	0			0	1	NaN	0	0	-1	3	0	0	-1
+740	Transport200102	0	1553	3	Vashj\'ir Sub - Alliance	0			0	1	NaN	0	0	-1	3	0	0	-1
+741	Transport200103	0	1553	3	Twilight Highlands Horde Transport	0			0	1	NaN	0	0	-1	3	0	0	-1
+742	Transport203729	0	1553	3	Vashj\'ir Sub - Horde - Circling Abyssal Maw	0			0	1	NaN	0	0	-1	3	0	0	-1
+743	Transport203730	0	1553	3	Vashj\'ir Sub - Alliance circling Abyssal Maw	0			0	1	NaN	0	0	-1	3	0	0	-1
+746	UldumPhaseOasis	0	1629	1	Uldum Phase Oasis	0			0	1	NaN	0	0	-1	0	0	0	1
+747	Transport 203732	0	1553	3	Transport: Deepholm Gunship	0			0	1	NaN	0	0	-1	3	0	0	-1
+748	Transport203858	0	1537	3	Transport: Onyxia/Nefarian Elevator	0			0	1	NaN	0	0	-1	3	0	0	-1
+749	Transport203859	0	1553	3	Transport: Gilneas Moving Gunship	0			0	1	NaN	0	0	-1	3	0	0	-1
+750	Transport203860	0	1553	3	Transport: Gilneas Static Gunship	0			0	1	NaN	0	0	-1	3	0	0	-1
+751	RedgridgeOrcBomb	0	1629	1	Redridge - Orc Bomb	0			0	1	NaN	0	0	-1	0	0	0	0
+752	RedridgeBridgePhaseOne	0	1629	1	Redridge - Bridge Phase One	0			0	1	NaN	0	0	-1	0	0	0	-1
+753	RedridgeBridgePhaseTwo	0	1629	1	Redridge - Bridge Phase Two	0			0	1	NaN	0	0	-1	0	0	0	-1
+754	SkywallRaid	2	34589	1	Throne of the Four Winds	0			271	1	1,40E-39	-11360.6	7.208.334	-1	3	0	0	-1
+755	UldumDungeon	1	1565	1	Lost City of the Tol\'vir	0			264	1	1,40E-39	-10686.15	-1.308.623	-1	3	0	0	-1
+757	BaradinHold	2	36413	1	Baradin Hold	0			269	1	NaN	0	0	-1	3	0	0	-1
+759	UldumPhasedEntrance	0	3677	1	Uldum Phased Entrance	0			0	1	NaN	0	0	-1	0	0	0	1
+760	TwilightHighlandsPhasedEntrance	0	3677	1	Twilight Highlands Phased Entrance	0			0	1	NaN	0	0	-1	0	0	0	0
+761	Gilneas_BG_2	3	3677	1	The Battle for Gilneas	0	"As the Greymane wall collapses, the inevitable conflict between the Forsaken and Worgen reaches a new climax.
 
 The Battle for Gilneas is a 10 vs 10 domination battleground, where each side attempts to control the Mine, Lighthouse, and Waterworks for as long as possible."	"As the Greymane wall collapses, the inevitable conflict between the Forsaken and Worgen reaches a new climax.
 
 The Battle for Gilneas is a 10 vs 10 domination battleground, where each side attempts to control the Mine, Lighthouse, and Waterworks for as long as possible."	270	1	NaN	0	0	1110	0	0	0	-1
-762	"Transport 203861"	0	3585	3	"Twilight Highlands Zeppelin 1"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-763	"Transport 203862"	0	3585	3	"Twilight Highlands Zeppelin 2"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-764	"UldumPhaseWreckedCamp"	0	7773	1	"Uldum - Phase Wrecked Camp"	0	""	""	0	1	NaN	0	0	-1	0	0	0	1
-765	"Transport203863"	0	7681	3	"Krazzworks Attack Zeppelin"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-766	"Transport 2033864"	0	7681	3	"Transport: Gilneas Moving Gunship 02"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-767	"Transport 2033865"	0	7681	3	"Transport: Gilneas Moving Gunship 03"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
-859	"Zul_Gurub5Man"	1	7701	1	"Zul\'Gurub"	0	""	""	161	1	0	-11916.23	-1219.839	720	3	0	0	-1
-860	"NewRaceStartZone"	0	8404509	1	"The Wandering Isle"	0	""	""	289	1	NaN	0	0	960	4	0	0	-1
-861	"FirelandsDailies"	0	2104861	1	"Molten Front"	0	""	""	274	1	NaN	0	0	720	3	0	0	-1
-870	"HawaiiMainLand"	0	8404573	1	"Pandaria"	0	""	""	0	1	NaN	0	0	-1	4	0	0	-1
-930	"ScenarioAlcazIsland"	1	15965	1	"(UNUSED) Scenario: Alcaz Island"	0	""	""	3	1	NaN	0	0	-1	4	0	0	-1
-938	"COTDragonblight"	1	15957	1	"End Time"	0	""	""	286	1	1.401298E-45	-8288.604	-4454.092	0	3	0	0	-1
-939	"COTWarOfTheAncients"	1	7773	1	"Well of Eternity"	0	""	""	287	1	1.401298E-45	-8595.837	-3994.936	-1	3	0	0	-1
-940	"TheHourOfTwilight"	1	15957	1	"Hour of Twilight"	0	""	""	288	1	1.401298E-45	-8291.132	-4590.438	-1	3	0	0	-1
-951	"NexusLegendary"	1	7701	1	"Nexus Legendary"	0	""	""	227	1	8.001414E-43	3899.93	6985.44	-1	3	0	0	-1
-959	"ShadowpanHideout"	1	8404509	1	"Shado-Pan Monastery"	0	""	""	0	1	NaN	0	0	-1	4	0	0	-1
-960	"EastTemple"	1	8404573	1	"Temple of the Jade Serpent"	0	""	""	-1	1	1.21913E-42	957.706	-2473.41	-1	4	0	0	-1
-961	"StormstoutBrewery"	1	8404501	1	"Stormstout Brewery"	0	""	""	0	1	1.21913E-42	-688.7051	1267.454	-1	4	0	0	-1
-962	"TheGreatWall"	1	8396317	1	"Gate of the Setting Sun"	0	""	""	-1	1	1.21913E-42	970.8109	2253.664	0	4	0	0	-1
-967	"DeathwingBack"	2	48989	1	"Dragon Soul"	0	""	""	279	1	1.401298E-45	-8263.276	-4512.688	1080	3	0	0	-1
-968	"EyeoftheStorm2.0"	3	7701	1	"Rated Eye of the Storm"	0	"Hovering high above the ravaged landscape of Netherstorm is the island known as the Eye of the Storm.
+762	Transport 203861	0	3585	3	Twilight Highlands Zeppelin 1	0			0	1	NaN	0	0	-1	3	0	0	-1
+763	Transport 203862	0	3585	3	Twilight Highlands Zeppelin 2	0			0	1	NaN	0	0	-1	3	0	0	-1
+764	UldumPhaseWreckedCamp	0	7773	1	Uldum - Phase Wrecked Camp	0			0	1	NaN	0	0	-1	0	0	0	1
+765	Transport203863	0	7681	3	Krazzworks Attack Zeppelin	0			0	1	NaN	0	0	-1	3	0	0	-1
+766	Transport 2033864	0	7681	3	Transport: Gilneas Moving Gunship 02	0			0	1	NaN	0	0	-1	3	0	0	-1
+767	Transport 2033865	0	7681	3	Transport: Gilneas Moving Gunship 03	0			0	1	NaN	0	0	-1	3	0	0	-1
+859	Zul_Gurub5Man	1	7701	1	Zul\'Gurub	0			161	1	0	-11916.23	-1.219.839	720	3	0	0	-1
+860	NewRaceStartZone	0	8404509	1	The Wandering Isle	0			289	1	NaN	0	0	960	4	0	0	-1
+861	FirelandsDailies	0	2104861	1	Molten Front	0			274	1	NaN	0	0	720	3	0	0	-1
+870	HawaiiMainLand	0	8404573	1	Pandaria	0			0	1	NaN	0	0	-1	4	0	0	-1
+930	ScenarioAlcazIsland	1	15965	1	(UNUSED) Scenario: Alcaz Island	0			3	1	NaN	0	0	-1	4	0	0	-1
+938	COTDragonblight	1	15957	1	End Time	0			286	1	1,40E-39	-8.288.604	-4.454.092	0	3	0	0	-1
+939	COTWarOfTheAncients	1	7773	1	Well of Eternity	0			287	1	1,40E-39	-8.595.837	-3.994.936	-1	3	0	0	-1
+940	TheHourOfTwilight	1	15957	1	Hour of Twilight	0			288	1	1,40E-39	-8.291.132	-4.590.438	-1	3	0	0	-1
+951	NexusLegendary	1	7701	1	Nexus Legendary	0			227	1	8,00E-37	3899.93	6985.44	-1	3	0	0	-1
+959	ShadowpanHideout	1	8404509	1	Shado-Pan Monastery	0			0	1	NaN	0	0	-1	4	0	0	-1
+960	EastTemple	1	8404573	1	Temple of the Jade Serpent	0			-1	1	1,22E-37	957.706	-2473.41	-1	4	0	0	-1
+961	StormstoutBrewery	1	8404501	1	Stormstout Brewery	0			0	1	1,22E-37	-6.887.051	1.267.454	-1	4	0	0	-1
+962	TheGreatWall	1	8396317	1	Gate of the Setting Sun	0			-1	1	1,22E-37	9.708.109	2.253.664	0	4	0	0	-1
+967	DeathwingBack	2	48989	1	Dragon Soul	0			279	1	1,40E-39	-8.263.276	-4.512.688	1080	3	0	0	-1
+968	EyeoftheStorm2.0	3	7701	1	Rated Eye of the Storm	0	"Hovering high above the ravaged landscape of Netherstorm is the island known as the Eye of the Storm.
 
 This battlefield is coveted by the blood elves for its rich energy deposits.
 
@@ -286,42 +286,42 @@ The draenei seek to claim it due to its proximity to the naaru\'s mysterious ves
 The draenei seek to claim it due to its proximity to the naaru\'s mysterious vessel, Tempest Keep.
 
 This battlefield is coveted by the blood elves for its rich energy deposits."	210	1	NaN	0	0	-1	0	0	0	-1
-971	"JadeForestAllianceHubPhase"	0	8396381	1	"Jade Forest Alliance Hub Phase"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	870
-972	"JadeForestBattlefieldPhase"	0	8396381	1	"Jade Forest Battlefield Phase"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	870
-974	"DarkmoonFaire"	0	15893	1	"Darkmoon Faire"	0	""	""	278	1	NaN	0	0	-1	0	0	0	-1
-975	"TurtleShipPhase01"	0	8404573	1	"Turtle Ship Phase 01"	0	""	""	289	1	NaN	0	0	960	4	0	0	860
-976	"TurtleShipPhase02"	0	8404509	1	"Turtle Ship Phase 02"	0	""	""	289	1	NaN	0	0	960	4	0	0	860
-977	"MaelstromDeathwingFight"	1	7709	1	"Maelstrom Deathwing Fight"	0	""	""	-1	1	NaN	0	0	-1	3	0	0	-1
-980	"TolVirArena"	4	3613	1	"Tol\'Viron Arena"	0	""	""	264	1	NaN	0	0	-1	3	0	0	-1
-994	"MoguDungeon"	1	7709	1	"Mogu\'shan Palace"	0	""	""	223	1	NaN	0	0	-1	4	0	0	-1
-995	"MoguInteriorRaid"	1	7709	1	"The Depths [UNUSED]"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-996	"MoguExteriorRaid"	2	9477981	1	"Terrace of Endless Spring"	0	""	""	214	1	NaN	0	0	0	4	0	0	-1
-998	"ValleyOfPower"	3	7709	1	"Temple of Kotmogu"	0	"The Horde and Alliance wage battle for the ancient Mogu artifact that is foretold to hold great powers.
+971	JadeForestAllianceHubPhase	0	8396381	1	Jade Forest Alliance Hub Phase	0			-1	1	NaN	0	0	-1	4	0	0	870
+972	JadeForestBattlefieldPhase	0	8396381	1	Jade Forest Battlefield Phase	0			-1	1	NaN	0	0	-1	4	0	0	870
+974	DarkmoonFaire	0	15893	1	Darkmoon Faire	0			278	1	NaN	0	0	-1	0	0	0	-1
+975	TurtleShipPhase01	0	8404573	1	Turtle Ship Phase 01	0			289	1	NaN	0	0	960	4	0	0	860
+976	TurtleShipPhase02	0	8404509	1	Turtle Ship Phase 02	0			289	1	NaN	0	0	960	4	0	0	860
+977	MaelstromDeathwingFight	1	7709	1	Maelstrom Deathwing Fight	0			-1	1	NaN	0	0	-1	3	0	0	-1
+980	TolVirArena	4	3613	1	Tol\'Viron Arena	0			264	1	NaN	0	0	-1	3	0	0	-1
+994	MoguDungeon	1	7709	1	Mogu\'shan Palace	0			4	1	NaN	0	0	-1	4	0	0	-1
+995	MoguInteriorRaid	1	7709	1	The Depths [UNUSED]	0			-1	1	NaN	0	0	-1	4	0	0	-1
+996	MoguExteriorRaid	2	9477981	1	Terrace of Endless Spring	0			214	1	NaN	0	0	0	4	0	0	-1
+998	ValleyOfPower	3	7709	1	Temple of Kotmogu	0	"The Horde and Alliance wage battle for the ancient Mogu artifact that is foretold to hold great powers.
 
 Temple of Kotmogu is a 10 vs 10 powerball battleground where each side attempts to control the Mogu Artifact for as long as possible in different scoring zones."	"The Horde and Alliance wage battle for the ancient Mogu artifact that is foretold to hold great powers.
 
 Temple of Kotmogu is a 10 vs 10 powerball battleground where each side attempts to control the Mogu Artifact for as long as possible in different scoring zones."	251	1	NaN	0	0	-1	4	0	0	-1
-999	"BFTAllianceScenario"	1	15965	1	"(UNUSED) Scenario: Theramore - Alliance"	0	""	""	3	1	NaN	0	0	0	4	0	0	-1
-1000	"BFTHordeScenario"	1	15965	1	"(UNUSED) Scenario: Theramore - Horde"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1001	"ScarletSanctuaryArmoryAndLibrary"	1	9444957	1	"Scarlet Halls"	0	""	""	190	1	0	2869	-820	-1	4	0	0	-1
-1004	"ScarletMonasteryCathedralGY"	1	9444957	1	"Scarlet Monastery"	0	""	""	190	1	NaN	0	0	-1	4	0	0	-1
-1005	"BrewmasterScenario01"	1	8396381	1	"Scenario: Lightning Lager"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1007	"NewScholomance"	1	8396381	1	"Scholomance"	0	""	""	102	1	0	1274.78	-2552.56	-1	4	0	0	-1
-1008	"MogushanPalace"	2	8437597	1	"Mogu\'shan Vaults"	0	""	""	256	1	1.21913E-42	3982.997	1121.291	-1	4	0	0	-1
-1009	"MantidRaid"	2	8437597	1	"Heart of Fear"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1010	"MistsCTF3"	3	7711	1	"CTF3"	0	"This new map has yet to be created. Horde guys, go beat up those Alliance jerks."	"This new map has yet to be created. Alliance guys, go beat up those Horde jerks."	262	1	NaN	0	0	-1	4	0	0	-1
-1011	"MantidDungeon"	1	9453149	1	"Siege of Niuzao Temple"	0	""	""	207	1	NaN	0	0	-1	4	0	0	-1
-1014	"MonkAreaScenario"	1	9453149	1	"Scenario: Peak of Serenity"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1019	"RuinsOfTheramore"	0	15965	1	"Ruins of Theramore"	0	""	""	3	1	NaN	0	0	-1	4	0	0	1
-1024	"PandaFishingVillageScenario"	1	8404573	1	"Scenario: Greenstone Village"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1028	"MoguRuinsScenario"	1	8404573	1	"(UNUSED) Scenario: Mogu Ruins"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1029	"AncientMoguCryptScenario"	1	8396317	1	"(UNUSED) Scenario: Mogu Crypt"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1030	"AncientMoguCyptDestroyedScenario"	1	7709	1	"Scenario: Crypt of Forgotten Kings"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1031	"ProvingGroundsScenario"	1	8396381	1	"Scenario: Proving Grounds"	0	""	""	0	1	NaN	0	0	-1	4	0	0	-1
-1032	"PetBattleJadeForest"	1	8404573	1	"Pet Battle - Jade Forest"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1035	"ValleyOfPowerScenario"	1	8396381	1	"Scenario: Temple of Katmogu"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1043	"RingOfValorScenario"	0	7773	1	"Hellscream Arena"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1048	"BrewmasterScenario03"	1	8404573	1	"Scenario: Unga Ingoo"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1049	"BlackOxTempleScenario"	1	8404573	1	"(UNUSED) Scenario: Black Ox Temple"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1050	"ScenarioKlaxxiIsland"	1	8404573	1	"Scenario: Tyr\'vess"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
-1051	"ScenarioBrewmaster04"	1	8404573	1	"Scenario: Brewmoon Festival"	0	""	""	-1	1	NaN	0	0	0	4	0	0	-1
+999	BFTAllianceScenario	1	15965	1	(UNUSED) Scenario: Theramore - Alliance	0			3	1	NaN	0	0	0	4	0	0	-1
+1000	BFTHordeScenario	1	15965	1	(UNUSED) Scenario: Theramore - Horde	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1001	ScarletSanctuaryArmoryAndLibrary	1	9444957	1	Scarlet Halls	0			190	1	0	2869	-820	-1	4	0	0	-1
+1004	ScarletMonasteryCathedralGY	1	9444957	1	Scarlet Monastery	0			190	1	NaN	0	0	-1	4	0	0	-1
+1005	BrewmasterScenario01	1	8396381	1	Scenario: Lightning Lager	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1007	NewScholomance	1	8396381	1	Scholomance	0			102	1	0	1274.78	-2552.56	-1	4	0	0	-1
+1008	MogushanPalace	2	8437597	1	Mogu\'shan Vaults	0			256	1	1,22E-37	3.982.997	1.121.291	-1	4	0	0	-1
+1009	MantidRaid	2	8437597	1	Heart of Fear	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1010	MistsCTF3	3	7711	1	CTF3	0	This new map has yet to be created. Horde guys, go beat up those Alliance jerks.	This new map has yet to be created. Alliance guys, go beat up those Horde jerks.	262	1	NaN	0	0	-1	4	0	0	-1
+1011	MantidDungeon	1	9453149	1	Siege of Niuzao Temple	0			207	1	NaN	0	0	-1	4	0	0	-1
+1014	MonkAreaScenario	1	9453149	1	Scenario: Peak of Serenity	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1019	RuinsOfTheramore	0	15965	1	Ruins of Theramore	0			3	1	NaN	0	0	-1	4	0	0	1
+1024	PandaFishingVillageScenario	1	8404573	1	Scenario: Greenstone Village	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1028	MoguRuinsScenario	1	8404573	1	(UNUSED) Scenario: Mogu Ruins	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1029	AncientMoguCryptScenario	1	8396317	1	(UNUSED) Scenario: Mogu Crypt	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1030	AncientMoguCyptDestroyedScenario	1	7709	1	Scenario: Crypt of Forgotten Kings	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1031	ProvingGroundsScenario	1	8396381	1	Scenario: Proving Grounds	0			0	1	NaN	0	0	-1	4	0	0	-1
+1032	PetBattleJadeForest	1	8404573	1	Pet Battle - Jade Forest	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1035	ValleyOfPowerScenario	1	8396381	1	Scenario: Temple of Katmogu	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1043	RingOfValorScenario	0	7773	1	Hellscream Arena	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1048	BrewmasterScenario03	1	8404573	1	Scenario: Unga Ingoo	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1049	BlackOxTempleScenario	1	8404573	1	(UNUSED) Scenario: Black Ox Temple	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1050	ScenarioKlaxxiIsland	1	8404573	1	Scenario: Tyr\'vess	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1051	ScenarioBrewmaster04	1	8404573	1	Scenario: Brewmoon Festival	0			-1	1	NaN	0	0	0	4	0	0	-1

@@ -1,399 +1,401 @@
-m_id	m_dungeonMapId	newField1	m_unkFloat1	m_unkFloat2	m_sectionId	m_instanceId	m_index	newField2	m_name	m_description	
-89	166	756	0.3652697	0.6122755	2010	63	1	-1	"Glubtok"	"In a fit of rage, Glubtok unleashed his potent magical abilities and reduced his ogre mound to ash. Upon hearing of his destructive talents, the Defias hired the massive ogre mage to supervise their laborers as head foreman of the Deadmines."
-90	166	756	0.501996	0.8682636	2020	63	2	-1	"Helix Gearbreaker"	"Formerly a craftsman in the Bilgewater Cartel, Helix was offered a sum eclipsing anything he would ever make as a nameless Horde engineer to ply his trade for the Defias Brotherhood. He was quick to accept the job and renounce his former loyalties... just as any resourceful goblin would."
-91	167	756	0.1247507	0.7589821	3448	63	3	-1	"Foe Reaper 5000"	"Defias engineers have spent many long days perfecting a new harvester model based on the Foe Reaper 4000 unit. Once it is completed, the brotherhood believes this mechanized terror will be able to slice through Stormwind\'s armored soldiers like a scythe through wheat."
-92	167	756	0.6047909	0.3877245	2044	63	4	-1	"Admiral Ripsnarl"	"When James Harrington became afflicted by the worgen curse, he destroyed his loving family and maritime career in one chilling night of bloodlust. Taking on the name Ripsnarl, he fled into Westfall and later agreed to command the Defias Brotherhood\'s fearsome juggernaut."
-93	167	756	0.6047909	0.4550898	2055	63	5	-1	"\"Captain\" Cookie"	"Cookie proclaimed himself captain of the Defias Brotherhood\'s juggernaut following its previous commander\'s death. Although he still performs his official duties as chief cook, anyone who questions the validity of his captain title has been known to come down with a severe case of food poisoning."
-95	167	756	0.6546913	0.4026946	2060	63	6	-2	"Vanessa VanCleef"	"As a young girl, Vanessa witnessed the gruesome death of her father and former Defias Brotherhood leader, Edwin VanCleef. She has since taken up his mantle of leadership, plotting to exact vengeance on Stormwind from the dark corridors of the Defias\'s stronghold in the Deadmines."
-96	142	764	0.6646714	0.732036	2107	64	1	-1	"Baron Ashbury"	"Slain by worgen and raised into undeath by the Forsaken, the traitor Baron Ashbury toys with his foes, keeping them alive so he can inflict maximum pain and suffering."
-97	143	764	0.3043916	0.7739521	2118	64	2	-1	"Baron Silverlaine"	"Baron Silverlaine was master of the keep before it fell to Arugal\'s worgen. Now his cursed spirit calls upon the very wolf-beasts that slaughtered him to punish further trespassers into his home."
-98	142	764	0.2804395	0.5973054	2137	64	3	-1	"Commander Springvale"	"A loyal soldier, the ghost of Commander Springvale haunts the council room, using unholy strikes to avenge his lord, Baron Silverlaine."
-99	145	764	0.5449104	0.5374252	2156	64	4	-1	"Lord Walden"	"Godfrey\'s right-hand man, the arrogant Lord Walden vowed to pay any price, including death, to serve his compatriot. Now among the undead, Walden intends to keep his word, attacking adversaries with ice and venom."
-100	147	764	0.6846315	0.3353293	2164	64	5	-1	"Lord Godfrey"	"Drawing from his past as a Gilnean noble and Forsaken agent, the cunning and resourceful Lord Godfrey wields dual pistols and commands relentless flesh-eating ghouls."
-101	127	767	0.50499	0.2155688	2179	65	1	-1	"Lady Naz\'jar"	"Lady Naz\'jar played a pivotal role in retaking Vashj\'ir from the brutal Kvaldir, earning her Queen Azshara\'s favor. Recently Naz\'jar spearheaded an assault against Neptulon and succeeded in cornering the powerful elemental lord within his throne room."
-102	127	767	0.50499	0.4251497	2189	65	2	-1	"Commander Ulthok, the Festering Prince"	"Ulthok is an incredibly ancient being sent by his Old God masters to aid Lady Naz\'jar with invading the Throne of Tides. Bristling with sinister powers, Ulthok commands legions of his fellow faceless ones in the deepest trenches surrounding Vashj\'ir."
-103	126	767	0.6746514	0.1931137	2194	65	3	-1	"Mindbender Ghur\'sha"	"After his valiant efforts at the Abyssal Breach, Earthen Ring shaman Erunak Stonespeaker was abducted by naga forces and enslaved by Mindbender Ghur\'sha. It is feared that this parasitic aberration has taken full control over Erunak\'s mind, body, and devastating shamanic abilities."
-104	126	767	0.3253496	0.1931137	2204	65	4	-1	"Ozumat"	"Tales of the monstrous kraken that terrorize Azeroth\'s high seas were once relegated to myth... but no longer. By some ill means, the naga have bent Ozumat-the patriarch of all kraken-to their will and unleashed him against Neptulon and his followers."
-105	116	753	0.5	0.7020959	2356	66	1	-1	"Rom\'ogg Bonecrusher"	"One of the rare \"missing link\" ogres on Outland, Rom\'ogg Bonecrusher piqued the Twilight\'s Hammer Cult\'s interest with his merciless treatment of the ogres. He now lords over the Chamber of Incineration, sating his hunger for inflicting torment on others."
-106	117	753	0.2704595	0.1631736	2361	66	2	-1	"Corla, Herald of Twilight"	"Formerly an accomplished Kirin Tor mage, Corla now serves the Twilight\'s Hammer with unwavering devotion. She blesses fellow zealots by harnessing nether dragon essences to transform these believers into menacing twilight drakonid."
-107	117	753	0.4700599	0.6646707	2371	66	3	-1	"Karsh Steelbender"	"The enormous drakonid Karsh Steelbender toils in the Twilight Forge, shaping weapons of war out of rare quicksilver. Although Karsh\'s works are nearly unbreakable under normal circumstances, at high temperatures they become as brittle as rusted iron."
-108	117	753	0.6646714	0.8443115	2378	66	4	-1	"Beauty"	"Beauty\'s past is a tale as old as time, a song as old as rhyme. After Beauty\'s mate, Beast, was slain by heroes in Blackrock Spire, the hound and its four remaining pups joined forces with the Twilight\'s Hammer, intent on punishing the creatures who killed its mate."
-109	117	753	0.6896216	0.507485	2385	66	5	-1	"Ascendant Lord Obsidius"	"For his unyielding devotion and penchant for cruelty, the powerful shaman Dessirik the Depraved was gifted with ascension: a dark ritual that infused him with elemental powers, transforming him into a monstrosity known as Ascendant Lord Obsidius."
-110	125	768	0.6297411	0.5973054	2394	67	1	-1	"Corborus"	"Deathwing enslaved the massive gyreworm Corborus and drove it to unearth the vast amounts of elementium required to forge the Dragon Aspect\'s new plating. With Deathwing\'s departure, however, Corborus has broken loose and now rampages through the Stonecore in blind fury."
-111	125	768	0.3702597	0.4476048	2401	67	2	-1	"Slabhide"	"With his powers as the Aspect of Earth amplified by the Old Gods, Deathwing easily swayed Deepholm\'s stone wyrms into serving the Twilight\'s Hammer. One of the most ambitious of these creatures, Slabhide hopes to earn Deathwing\'s favor by exterminating any intruders brazen enough to enter the Stonecore."
-112	125	768	0.50499	0.2305388	2405	67	3	-1	"Ozruk"	"Ozruk has served as Stonecore\'s guardian since Deepholm\'s creation. It is unknown why Ozruk has remained in the Stonecore, but it has become apparent that the guardian now believes that anyone opposed to Deathwing is a threat to Deepholm, and should therefore be destroyed."
-113	125	768	0.5748506	0.3877245	2411	67	4	-1	"High Priestess Azil"	"High Priestess Azil is one of the few who has survived communing with the Twilight\'s Hammer cult\'s eldritch masters, although little remains of her sanity. She instills terror in lesser cultists so that they will sacrifice themselves without hesitation when their masters command it."
-114	122	769	0.5499004	0.4476048	2419	68	1	-1	"Grand Vizier Ertan"	"Ertan defends the Vortex Pinnacle under the command of her master, Asaad, against any ground-dwellers who dare intrude on the realm. To fulfill her duties, the elemental noble has been granted mastery over the primal forces of lightning and wind."
-115	122	769	0.5199602	0.8218564	2425	68	2	-1	"Altairus"	"The immense storm wyrm Altairus maintains an unyielding vigil over the hovering platforms of the Vortex Pinnacle. The very energies of the storms pulse through this being, and he is said to command the wind currents that buffet the elemental fortress."
-116	122	769	0.3003995	0.3802395	2431	68	3	-1	"Asaad, Caliph of Zephyrs"	"The fearsome elemental Asaad was named guardian of the Vortex Pinnacle by Al\'Akir himself. With Siamat, Lord of the South Wind, imprisoned by the Neferset tol\'vir, Asaad believes he may ascend to the Conclave of Wind if he performs his duties well."
-117	0	747	0.3752497	0.4251497	2437	69	1	-1	"General Husam"	"The titans themselves appointed General Husam as one of Uldum\'s foremost guardians. After Siamat, Lord of the South Wind, cured the Neferset tol\'vir\'s curse of flesh, Husam helmed a rebellion that culminated in the air elemental\'s imprisonment."
-118	0	747	0.6746514	0.724551	2442	69	2	-1	"Lockmaw"	"Amid the Neferset\'s chaotic insurrection against Siamat, the pygmy Augh pilfered whatever treasures he could from the ancient tol\'vir city. Among his race, Augh is respected as much for his cunning as he is for his ferocious pet crocolisk, Lockmaw."
-119	0	747	0.2704595	0.6571857	2455	69	3	-1	"High Prophet Barim"	"High Prophet Barim is the hallowed spiritual leader of the Neferset. Along with General Husam, he rallied his fellow Neferset against Siamat and imprisoned the air elemental. Regardless, some dark force still drives Barim and his followers to terrorize Uldum."
-122	0	747	0.4151698	0.5523952	2474	69	4	-1	"Siamat"	"Purging the Neferset tol\'vir\'s curse of flesh left the fearsome elemental Siamat severely drained. It was during this moment of vulnerability that the tol\'vir struck and magically imprisoned Siamat at the center of their ancient sand-swept city."
-124	119	759	0.5848307	0.6272455	2489	70	1	-1	"Temple Guardian Anhuur"	"In the final days of the Halls of Origination\'s use by titanic forces, Temple Guardian Anhuur was endowed with the willpower needed to wield the Light. Thus empowered, he was charged with judging the purity of those entering the facility."
-125	120	759	0.5	0.492515	2540	70	2	-1	"Earthrager Ptah"	"Outside Earthrager Ptah\'s tomb, the sand is littered with the bones of creatures purified by Anhuur. It is said that Ptah can bend these remains to his will and send them against beings who manage to elude the facility\'s first line of defense."
-126	119	759	0.5598805	0.1407185	2551	70	3	-1	"Anraphet"	"The Anraphet maintenance unit was created to man the inner workings of the Halls of Origination. In the event that the facility is contaminated by foreign entities, Anraphet will access programs designed to annihilate the intruders by any means necessary."
-127	135	759	0.3103796	0.5	2555	70	4	-1	"Isiset, Construct of Magic"	"Isiset serves to regulate the arcane energies contained within, and produced by, the Halls of Origination. Legend has it that this construct has become enraptured with her own arcane mastery and the perfection with which it seemingly endows her."
-128	135	759	0.4750499	0.7470061	2565	70	5	-1	"Ammunae, Construct of Life"	"Although designed to reduce Azeroth to its base elements, the reordering system inside the Halls of Origination also creates new life. To that end, the construct Ammunae regulates the natural energies coursing through the facility to ensure that life will exist on a reforged Azeroth."
-129	135	759	0.6397212	0.492515	2666	70	6	-1	"Setesh, Construct of Destruction"	"Given the purpose of the Halls of Origination, the titans deemed it necessary to create Setesh, a construct who holds sway over the powers of destruction. Should Setesh ever fall to corruption, the results would be disastrous."
-130	135	759	0.4750499	0.2529939	2926	70	7	-1	"Rajh, Construct of Sun"	"Rajh oversees the energies that have both sparked life and snuffed it out in an untold number of his kin. Considered the mightiest of his fellow constructs, Rajh holds the power to unleash the fury of a thousand suns upon Azeroth."
-131	123	757	0.4051898	0.6871258	3353	71	1	-1	"General Umbriss"	"As Azeroth\'s champions and their red dragon allies assault the gates of Grim Batol, the malefic General Umbriss leads the fortress\'s cultist and twilight dragonspawn defenders."
-132	123	757	0.515	0.3	816	71	2	-1	"Forgemaster Throngus"	"A smith for the Twilight\'s Hammer cult, this massive ettin is eager to use the weapons and armor he\'s forged to annihilate intruders."
-133	123	757	0.6946116	0.1931137	3364	71	3	-1	"Drahga Shadowburner"	"This Twilight\'s Hammer courier is on a mission from the Bastion of Twilight. Should heroes overcome his fiery minions, Drahga will reveal a portent of doom for Azeroth\'s defenders."
-134	123	757	0.8562618	0.7470061	3374	71	4	-1	"Erudax, the Duke of Below"	"Deathwing has dispatched one of his greatest lieutenants to discover the secret that several mighty red dragons have died to protect. From the cavernous realm of Deepholm, this faceless general will bring to bear the next generation of draconic power to obliterate those foolish enough to challenge him."
-156	128	758	0.5349303	0.1931137	2959	72	1	-17	"Halfus Wyrmbreaker"	"Imbued with unnatural power and stamina by Cho\'gall, the ettin Halfus Wyrmbreaker captures dragons for use as fodder in the Twilight\'s Hammer\'s rituals. To this end, he has enslaved a behemoth proto-dragon to aid him in hunting down his winged prey."
-157	128	758	0.5399203	0.7844312	2994	72	2	-17	"Theralion and Valiona"	"Magically aged to adulthood, Valiona and Theralion were to be paragons among a new clutch of twilight dragons, leading their brood in scouring Azeroth of life. Instead, they waste their incredible powers constantly bickering and fighting each other."
-158	129	758	0.4251498	0.4550898	3109	72	3	-17	"Ascendant Council"	"As the most powerful Twilight\'s Hammer cultists to be twisted into elemental beings, the Ascendant Council members have long forgotten their existence as mere mortals. From their wicked sanctum, they oversee the selection of new ascension candidates."
-167	129	758	0.7345319	0.7544911	3165	72	4	-17	"Cho\'gall"	"Under Cho\'gall\'s control, the orcish Twilight\'s Hammer clan was transformed into a murderous cult obsessed with the Old Gods and their herald, Deathwing. Extended contact with his dark master has hideously warped both Cho\'gall\'s mind and body."
-168	134	758	0.49002	0.3428143	3226	72	5	-20	"Sinestra"	"Originally Deathwing\'s prime consort, Sinestra created the first twilight dragons, but was later obliterated by one of her terrifying creations. Now a ravaged husk reanimated by insidious magic, Sinestra oversees the creation of new twilight clutches."
-169	131	754	0.6546913	0.5748503	3193	73	1	-17	"Omnotron Defense System"	"The Omnotron Defense System was once touted as the Dark Iron dwarves\' greatest technological marvel. When Nefarian arrived in Blackwing Descent, he repurposed the run-down system to annihilate anyone intruding on his laboratories."
-170	131	754	0.2754495	0.5748503	3310	73	2	-17	"Magmaw"	"Magmaw is a colossal lava worm summoned from the Firelands centuries ago by Ragnaros\' Dark Iron servitors. Nefarian largely considers Magmaw a worrisome pest, but has grown fond of feeding the beast his failed experiments... and servants."
-171	132	754	0.4750499	0.3278443	3072	73	3	-17	"Atramedes"	"Atramedes, or Experiment 25463-D, is a failed attempt to bestow enhanced senses on a black dragon whelp. The toxic salve applied to the broodling robbed him of sight, forcing him to rely on sound and smell for survival. A tragic story... if Atramedes weren\'t so evil."
-172	132	754	0.2455094	0.7020959	3008	73	4	-17	"Chimaeron"	"Terrifying. Ugly. Evil. Kill it."
-173	132	754	0.7145718	0.7020959	2929	73	5	-17	"Maloriak"	"The human Malory was a bright young alchemist until he was kidnapped by Nefarian and fused with the corpse of a dragonspawn. The result-Maloriak-is a bumbling minion who possesses only a dull glimmer of his former intelligence."
-174	132	754	0.48004	0.7020959	3276	73	6	-17	"Nefarian\'s End"	"Deathwing\'s son, Nefarian, gained infamy for his horrifying efforts to create chromatic dragons from the essences of Azeroth\'s various dragonflights. After his death in Blackwing Lair, he was reanimated and charged by Deathwing to continue his insidious endeavors."
-154	271	773	0.4750499	0.260479	3166	74	1	-17	"The Conclave of Wind"	"With Siamat, Lord of the South Wind, imprisoned by the Neferset tol\'vir, Al\'Akir\'s lieutenants are vying to fill the power vacuum that now exists in the Conclave of Wind. The remaining conclave members are Anshal, Lord of the West Wind, whose gales can heal allies or poison enemies; Rohash, Lord of the East Wind, whose tempests can grind the mightiest mountains to dust; and Nezir, Lord of the North Wind, whose frigid storms have claimed more lives than all other cardinal wind lords combined."
-155	271	773	0.4750499	0.5	3021	74	2	-17	"Al\'Akir"	"Gifted with great intelligence and cunning, Al\'Akir the Windlord once served as the foremost tactician in the Old Gods\' horrific armies. In the wake of the Cataclysm, he has aligned with Deathwing and turned his godlike powers against many of the air elementals\' ancient tol\'vir nemeses."
-139	252	752	0.8043925	0.6347306	2602	75	1	-17	"Argaloth"	"Unable to contain the massive pit lord Argaloth in the cells of Dalaran\'s mighty Violet Hold, the magi of the Kirin Tor were left with no choice but to confine the powerful demon beneath Tol Barad."
-140	252	752	0.1556889	0.6317773	2605	75	2	-17	"Occu\'thar"	"This ravenous demon broke free of its cage and gained access to the western wing of the prison, devouring all of the inmates held there. Occu\'thar\'s gluttony resulted in a body too bloated to escape its environs, effectively turning the prison wing into its new holding cell."
-339	252	752	0.479042	0.179641	4120	75	3	-17	"Alizabal, Mistress of Hate"	"The Kirin Tor imprisoned Alizabal in their formidable Violet Hold not long after corrupt magi summoned the shivarra into Azeroth. Despite arcane wards restricting her powers, the demon\'s malicious influence alone caused her guards to murder one another in sudden fits of rage. Her transfer to Baradin Hold prior to the Cataclysm has only aggravated the ruined prison\'s increasingly dire conditions."
-175	0	793	0.5099801	0.5374252	2787	76	1	-1	"High Priest Venoxis"	"Originally sent to kill Hakkar, Venoxis became enslaved to the murderous entity before falling to Azeroth\'s heroes. Through the efforts of the Soulflayer\'s agents, Venoxis has been ripped from the spirit world and ordered to defend Zul\'Gurub with his venomous serpentine minions."
-176	0	793	0.6047909	0.7994013	2610	76	2	-1	"Bloodlord Mandokir"	"The infamous Bloodlord Mandokir died a torturous death before Bloodscalp trolls desecrated his body years ago. Word has now spread that Mandokir walks the jungles of Stranglethorn yet again, using the corpse of the mighty Bloodscalp chieftain Gan\'zulah as a host for his malevolent spirit."
-177	0	793	0.5998008	0.4625748	2504	76	3	-1	"Cache of Madness - Gri\'lek"	"Among the hateful spirits in the Cache of Madness are Gri\'lek, a dire troll stripped of his regenerative abilities by the loa; Renataki, an infamous and sadistic warrior; Hazza\'rah, a seer tormented by dire future visions; and Wushoolay, a mighty combatant bristling with the powers of the storms."
-178	0	793	0.6367	0.4625748	3508	76	4	-1	"Cache of Madness - Hazza\'rah"	"Among the hateful spirits in the Cache of Madness are Gri\'lek, a dire troll stripped of his regenerative abilities by the loa; Renataki, an infamous and sadistic warrior; Hazza\'rah, a seer tormented by dire future visions; and Wushoolay, a mighty combatant bristling with the powers of the storms."
-179	0	793	0.5998008	0.5149701	2501	76	5	-1	"Cache of Madness - Renataki"	"Among the hateful spirits in the Cache of Madness are Gri\'lek, a dire troll stripped of his regenerative abilities by the loa; Renataki, an infamous and sadistic warrior; Hazza\'rah, a seer tormented by dire future visions; and Wushoolay, a mighty combatant bristling with the powers of the storms."
-180	0	793	0.6019053	0.4147114	2498	76	6	-1	"Cache of Madness - Wushoolay"	"Among the hateful spirits in the Cache of Madness are Gri\'lek, a dire troll stripped of his regenerative abilities by the loa; Renataki, an infamous and sadistic warrior; Hazza\'rah, a seer tormented by dire future visions; and Wushoolay, a mighty combatant bristling with the powers of the storms."
-181	0	793	0.48004	0.2005987	2692	76	7	-1	"High Priestess Kilnara"	"When High Priestess Arlokk was killed, the panther loa Bethekk chose her sister, Kilnara, as her new mortal champion. Supporting the recent pact between the Gurubashi and Zandalar tribes, Kilnara has unleashed her savage panther minions on the region\'s unsuspecting denizens."
-184	0	793	0.3173384	0.2455089	2508	76	8	-1	"Zanzil"	"Exiled from the Skullsplitter tribe for turning his fellow trolls into mindless slaves, Zanzil was recently offered a place among the Gurubashi by Jin\'do the Godbreaker in exchange for bolstering Zul\'Gurub\'s forces. It is well-known that his toxic elixirs can even rouse the dead from their graves."
-185	0	793	0.48503	0.3952096	2899	76	9	-1	"Jin\'do the Godbreaker"	"After his defeat in Zul\'Gurub, Jin\'do\'s spirit was tormented by his failure to serve Hakkar\'s wishes. Jin\'do recently found a way back into the world and enslaved the Soulflayer. Bristling with the dread god\'s terrible powers, Jin\'do plans to restore the Gurubashi empire to its former glory."
-186	0	781	0.3552897	0.2305388	2521	77	1	-1	"Akil\'zon"	"As a former shaman of the Amani tribe, Akil\'zon had a preternatural ability when working with the element of air. This talent caught the eye of Hex Lord Malacrass and made finding a host for the trolls\' eagle god an easy task."
-187	0	781	0.4051898	0.7739929	2867	77	2	-1	"Nalorakk"	"Hex Lord Malacrass considered Nalorakk-renowned for both his fearsome rage and savage strength on the battlefield-the ideal vessel for the bear god\'s essence."
-188	0	781	0.5548905	0.7095809	2621	77	3	-1	"Jan\'alai"	"Dragonhawks are deft predators that rend their foes with razor-sharp talons. This mindset and method of attack were also favored by one of the Amani tribe\'s highly skilled rogues, Jan\'alai."
-189	0	781	0.5848307	0.2380239	2804	77	4	-1	"Halazzi"	"The lynxes of Azeroth are vicious hunters that shred their prey with fang and claw. Hex Lord Malacrass mused that it was only right to seal the essence of the lynx god within one of the tribe\'s greatest hunters."
-190	0	781	0.7145718	0.5299401	2706	77	5	-1	"Hex Lord Malacrass"	"Rumored to be the most feared witch doctor of the Amani tribe in decades, Hex Lord Malacrass has done the unthinkable and sealed the essence of several mighty troll animal gods in their strongest champions... keeping the darkest one for himself."
-191	0	781	0.9041933	0.5299401	2875	77	6	-1	"Daakara"	"To fill the power vacuum left from the death of their old warlord, Zul\'jin, the remaining trolls of the Amani tribe chose their favored champion, Daakara the Invincible, to reclaim their lost glory."
-192	0	800	0.2105792	0.3278443	2764	78	1	-17	"Beth\'tilac"	"Matriarch of the Cinderweb Brood, Beth\'tilac and her merciless offspring sate their appetites by sucking the magma and fire from the corpses of elementals. To provide her broodlings with added sustenance, Beth\'tilac has woven a network of incendiary webs throughout her lair to trap unsuspecting prey."
-193	0	800	0.6536933	0.7500001	2526	78	2	-17	"Lord Rhyolith"	"Rhyolith is one of the most ancient elementals in existence, born from the primordial fires that forged Azeroth itself. He is responsible for the creation of new elementals in the Firelands and still possesses a searing hatred of the titans for what he considers monumental arrogance in relocating him."
-194	0	800	0.6437137	0.3802395	2824	78	3	-17	"Alysrazor"	"When Ragnaros\'s forces surged into Mount Hyjal, the green dragon Alysra betrayed her allies and helped liberate the traitorous archdruid Fandral Staghelm. As a reward, she was purified with fire and reborn as a fearsome fire hawk."
-195	0	800	0.4930135	0.4431134	2575	78	4	-17	"Shannox"	"The flamewakers are among the most feared elemental guardians in the Firelands.  Shannox is no exception.  Serving as the chief hunter and kennel master of Ragnaros\'s hell hounds, Shannox patrols the elemental realm with his two most ferocious beasts: Riplimb and Rageface."
-196	0	800	0.4950096	0.3098805	2590	78	5	-17	"Baleroc, the Gatekeeper"	"Baleroc earned a reputation as a merciless combatant during the elemental wars of ancient Azeroth. Now that he is confined to the Firelands, Baleroc\'s sanity has dwindled. Few elementals dare disturb him, fearful that they will become victim to his battle lust."
-197	466	800	0.5099801	0.724551	2911	78	6	-17	"Majordomo Staghelm"	"The loss of his son, Valstann, in the War of the Shifting Sands utterly shattered Fandral Staghelm\'s spirit. Now empowered by Ragnaros as the new Majordomo of the Firelands (replacing the deceased Majordomo Executus) and the leader of the treacherous Druids of the Flame, Fandral seeks to bring ruin to Azeroth rather than live in a world without his beloved child."
-198	466	800	0.5099801	0.1556885	2629	78	7	-17	"Ragnaros"	"Ragnaros, lord of the Firelands, embodies the fury and destruction of the primordial infernos that forged Azeroth itself. Promised the chance to set Azeroth aflame without interference from Neptulon and Therazane, Ragnaros seeks to appease the Old Gods by incinerating the World Tree of Nordrassil."
-340	497	820	0.367197	0.530952	4138	184	1	-1	"Echo of Baine"	"Enraged by his failure to protect the world and, most importantly, the Horde, this time-ravaged shade of Baine Bloodhoof lingers within the ruins of the Obsidian Dragonshrine. Although he\'s still as powerful as the tauren high chieftain from the present, within this shattered future Azeroth, this guilt-ridden echo is little more than a discordant vessel of unquenchable malice and anger."
-285	495	820	0.495389	0.660817	3641	184	2	-1	"Echo of Jaina"	"The tormented fragment of Jaina Proudmoore has been split and infused within the shattered pieces of her staff. To restore balance to the timeways, this echo must be defeated. However, the devastating magical power possessed by the once-proud ruler of Theramore is hardly lost to her time-havocked spectre. In this future Azeroth, she is only divided, and waiting..."
-323	496	820	0.559097	0.392068	3955	184	3	-1	"Echo of Sylvanas"	"Spawned from shattered timeways and cloistered within the Ruby Dragonshrine, a maddened fragment of the Forsaken\'s leader, Sylvanas Windrunner, waits restlessly. Having lost everything and unable to find peace, this tormented echo aches for a chance to unleash her dark fury at anything still living within these barren, time-twisted wastes."
-283	498	820	0.515514	0.433775	3667	184	4	-1	"Echo of Tyrande"	"Once the leader of the night elves and High Priestess of Elune, this time-twisted fragment of Tyrande Whisperwind now wanders the wastes of the desolate future of Azeroth. Enveloped in a perpetual midnight, she has all but lost sight of the comforting light of Elune."
-289	499	820	0.484811	0.323013	3675	184	5	-1	"Murozond"	"Now living outside of time, Murozond was once the great Dragon Aspect Nozdormu the Timeless One. After the titans showed him his own death, the tormented Nozdormu was tricked by the Old Gods into trying to subvert his mortality. As a result, Nozdormu shattered the timeways and created the Infinite Dragonflight... jeopardizing the very future of Azeroth."
-290	0	816	0.237485	0.482577	4164	185	1	-1	"Peroth\'arn"	"Like many of his fellow Highborne, Peroth\'arn swore allegiance to the corrupted Xavius in exchange for gifts of demonic power. 
+m_id	m_dungeonMapId	newField1	m_unkFloat1	m_unkFloat2	m_sectionId	m_instanceId	m_index	newField2	m_name	m_description
+89	166	756	0.3652697	0.6122755	2010	63	1	-1	Glubtok	In a fit of rage, Glubtok unleashed his potent magical abilities and reduced his ogre mound to ash. Upon hearing of his destructive talents, the Defias hired the massive ogre mage to supervise their laborers as head foreman of the Deadmines.
+90	166	756	0.501996	0.8682636	2020	63	2	-1	Helix Gearbreaker	Formerly a craftsman in the Bilgewater Cartel, Helix was offered a sum eclipsing anything he would ever make as a nameless Horde engineer to ply his trade for the Defias Brotherhood. He was quick to accept the job and renounce his former loyalties... just as any resourceful goblin would.
+91	167	756	0.1247507	0.7589821	3448	63	3	-1	Foe Reaper 5000	Defias engineers have spent many long days perfecting a new harvester model based on the Foe Reaper 4000 unit. Once it is completed, the brotherhood believes this mechanized terror will be able to slice through Stormwind\'s armored soldiers like a scythe through wheat.
+92	167	756	0.6047909	0.3877245	2044	63	4	-1	Admiral Ripsnarl	When James Harrington became afflicted by the worgen curse, he destroyed his loving family and maritime career in one chilling night of bloodlust. Taking on the name Ripsnarl, he fled into Westfall and later agreed to command the Defias Brotherhood\'s fearsome juggernaut.
+93	167	756	0.6047909	0.4550898	2055	63	5	-1	"\Captain\"" Cookie"""	Cookie proclaimed himself captain of the Defias Brotherhood\'s juggernaut following its previous commander\'s death. Although he still performs his official duties as chief cook, anyone who questions the validity of his captain title has been known to come down with a severe case of food poisoning.
+95	167	756	0.6546913	0.4026946	2060	63	6	-2	Vanessa VanCleef	As a young girl, Vanessa witnessed the gruesome death of her father and former Defias Brotherhood leader, Edwin VanCleef. She has since taken up his mantle of leadership, plotting to exact vengeance on Stormwind from the dark corridors of the Defias\'s stronghold in the Deadmines.
+96	142	764	0.6646714	0.732036	2107	64	1	-1	Baron Ashbury	Slain by worgen and raised into undeath by the Forsaken, the traitor Baron Ashbury toys with his foes, keeping them alive so he can inflict maximum pain and suffering.
+97	143	764	0.3043916	0.7739521	2118	64	2	-1	Baron Silverlaine	Baron Silverlaine was master of the keep before it fell to Arugal\'s worgen. Now his cursed spirit calls upon the very wolf-beasts that slaughtered him to punish further trespassers into his home.
+98	142	764	0.2804395	0.5973054	2137	64	3	-1	Commander Springvale	A loyal soldier, the ghost of Commander Springvale haunts the council room, using unholy strikes to avenge his lord, Baron Silverlaine.
+99	145	764	0.5449104	0.5374252	2156	64	4	-1	Lord Walden	Godfrey\'s right-hand man, the arrogant Lord Walden vowed to pay any price, including death, to serve his compatriot. Now among the undead, Walden intends to keep his word, attacking adversaries with ice and venom.
+100	147	764	0.6846315	0.3353293	2164	64	5	-1	Lord Godfrey	Drawing from his past as a Gilnean noble and Forsaken agent, the cunning and resourceful Lord Godfrey wields dual pistols and commands relentless flesh-eating ghouls.
+101	127	767	0.50499	0.2155688	2179	65	1	-1	Lady Naz\'jar	Lady Naz\'jar played a pivotal role in retaking Vashj\'ir from the brutal Kvaldir, earning her Queen Azshara\'s favor. Recently Naz\'jar spearheaded an assault against Neptulon and succeeded in cornering the powerful elemental lord within his throne room.
+102	127	767	0.50499	0.4251497	2189	65	2	-1	Commander Ulthok, the Festering Prince	Ulthok is an incredibly ancient being sent by his Old God masters to aid Lady Naz\'jar with invading the Throne of Tides. Bristling with sinister powers, Ulthok commands legions of his fellow faceless ones in the deepest trenches surrounding Vashj\'ir.
+103	126	767	0.6746514	0.1931137	2194	65	3	-1	Mindbender Ghur\'sha	After his valiant efforts at the Abyssal Breach, Earthen Ring shaman Erunak Stonespeaker was abducted by naga forces and enslaved by Mindbender Ghur\'sha. It is feared that this parasitic aberration has taken full control over Erunak\'s mind, body, and devastating shamanic abilities.
+104	126	767	0.3253496	0.1931137	2204	65	4	-1	Ozumat	Tales of the monstrous kraken that terrorize Azeroth\'s high seas were once relegated to myth... but no longer. By some ill means, the naga have bent Ozumat-the patriarch of all kraken-to their will and unleashed him against Neptulon and his followers.
+105	116	753	0.5	0.7020959	2356	66	1	-1	Rom\'ogg Bonecrusher	"One of the rare \missing link\"" ogres on Outland, Rom\'ogg Bonecrusher piqued the Twilight\'s Hammer Cult\'s interest with his merciless treatment of the ogres. He now lords over the Chamber of Incineration, sating his hunger for inflicting torment on others."""
+106	117	753	0.2704595	0.1631736	2361	66	2	-1	Corla, Herald of Twilight	Formerly an accomplished Kirin Tor mage, Corla now serves the Twilight\'s Hammer with unwavering devotion. She blesses fellow zealots by harnessing nether dragon essences to transform these believers into menacing twilight drakonid.
+107	117	753	0.4700599	0.6646707	2371	66	3	-1	Karsh Steelbender	The enormous drakonid Karsh Steelbender toils in the Twilight Forge, shaping weapons of war out of rare quicksilver. Although Karsh\'s works are nearly unbreakable under normal circumstances, at high temperatures they become as brittle as rusted iron.
+108	117	753	0.6646714	0.8443115	2378	66	4	-1	Beauty	Beauty\'s past is a tale as old as time, a song as old as rhyme. After Beauty\'s mate, Beast, was slain by heroes in Blackrock Spire, the hound and its four remaining pups joined forces with the Twilight\'s Hammer, intent on punishing the creatures who killed its mate.
+109	117	753	0.6896216	0.507485	2385	66	5	-1	Ascendant Lord Obsidius	For his unyielding devotion and penchant for cruelty, the powerful shaman Dessirik the Depraved was gifted with ascension: a dark ritual that infused him with elemental powers, transforming him into a monstrosity known as Ascendant Lord Obsidius.
+110	125	768	0.6297411	0.5973054	2394	67	1	-1	Corborus	Deathwing enslaved the massive gyreworm Corborus and drove it to unearth the vast amounts of elementium required to forge the Dragon Aspect\'s new plating. With Deathwing\'s departure, however, Corborus has broken loose and now rampages through the Stonecore in blind fury.
+111	125	768	0.3702597	0.4476048	2401	67	2	-1	Slabhide	With his powers as the Aspect of Earth amplified by the Old Gods, Deathwing easily swayed Deepholm\'s stone wyrms into serving the Twilight\'s Hammer. One of the most ambitious of these creatures, Slabhide hopes to earn Deathwing\'s favor by exterminating any intruders brazen enough to enter the Stonecore.
+112	125	768	0.50499	0.2305388	2405	67	3	-1	Ozruk	Ozruk has served as Stonecore\'s guardian since Deepholm\'s creation. It is unknown why Ozruk has remained in the Stonecore, but it has become apparent that the guardian now believes that anyone opposed to Deathwing is a threat to Deepholm, and should therefore be destroyed.
+113	125	768	0.5748506	0.3877245	2411	67	4	-1	High Priestess Azil	High Priestess Azil is one of the few who has survived communing with the Twilight\'s Hammer cult\'s eldritch masters, although little remains of her sanity. She instills terror in lesser cultists so that they will sacrifice themselves without hesitation when their masters command it.
+114	122	769	0.5499004	0.4476048	2419	68	1	-1	Grand Vizier Ertan	Ertan defends the Vortex Pinnacle under the command of her master, Asaad, against any ground-dwellers who dare intrude on the realm. To fulfill her duties, the elemental noble has been granted mastery over the primal forces of lightning and wind.
+115	122	769	0.5199602	0.8218564	2425	68	2	-1	Altairus	The immense storm wyrm Altairus maintains an unyielding vigil over the hovering platforms of the Vortex Pinnacle. The very energies of the storms pulse through this being, and he is said to command the wind currents that buffet the elemental fortress.
+116	122	769	0.3003995	0.3802395	2431	68	3	-1	Asaad, Caliph of Zephyrs	The fearsome elemental Asaad was named guardian of the Vortex Pinnacle by Al\'Akir himself. With Siamat, Lord of the South Wind, imprisoned by the Neferset tol\'vir, Asaad believes he may ascend to the Conclave of Wind if he performs his duties well.
+117	0	747	0.3752497	0.4251497	2437	69	1	-1	General Husam	The titans themselves appointed General Husam as one of Uldum\'s foremost guardians. After Siamat, Lord of the South Wind, cured the Neferset tol\'vir\'s curse of flesh, Husam helmed a rebellion that culminated in the air elemental\'s imprisonment.
+118	0	747	0.6746514	0.724551	2442	69	2	-1	Lockmaw	Amid the Neferset\'s chaotic insurrection against Siamat, the pygmy Augh pilfered whatever treasures he could from the ancient tol\'vir city. Among his race, Augh is respected as much for his cunning as he is for his ferocious pet crocolisk, Lockmaw.
+119	0	747	0.2704595	0.6571857	2455	69	3	-1	High Prophet Barim	High Prophet Barim is the hallowed spiritual leader of the Neferset. Along with General Husam, he rallied his fellow Neferset against Siamat and imprisoned the air elemental. Regardless, some dark force still drives Barim and his followers to terrorize Uldum.
+122	0	747	0.4151698	0.5523952	2474	69	4	-1	Siamat	Purging the Neferset tol\'vir\'s curse of flesh left the fearsome elemental Siamat severely drained. It was during this moment of vulnerability that the tol\'vir struck and magically imprisoned Siamat at the center of their ancient sand-swept city.
+124	119	759	0.5848307	0.6272455	2489	70	1	-1	Temple Guardian Anhuur	In the final days of the Halls of Origination\'s use by titanic forces, Temple Guardian Anhuur was endowed with the willpower needed to wield the Light. Thus empowered, he was charged with judging the purity of those entering the facility.
+125	120	759	0.5	0.492515	2540	70	2	-1	Earthrager Ptah	Outside Earthrager Ptah\'s tomb, the sand is littered with the bones of creatures purified by Anhuur. It is said that Ptah can bend these remains to his will and send them against beings who manage to elude the facility\'s first line of defense.
+126	119	759	0.5598805	0.1407185	2551	70	3	-1	Anraphet	The Anraphet maintenance unit was created to man the inner workings of the Halls of Origination. In the event that the facility is contaminated by foreign entities, Anraphet will access programs designed to annihilate the intruders by any means necessary.
+127	135	759	0.3103796	0.5	2555	70	4	-1	Isiset, Construct of Magic	Isiset serves to regulate the arcane energies contained within, and produced by, the Halls of Origination. Legend has it that this construct has become enraptured with her own arcane mastery and the perfection with which it seemingly endows her.
+128	135	759	0.4750499	0.7470061	2565	70	5	-1	Ammunae, Construct of Life	Although designed to reduce Azeroth to its base elements, the reordering system inside the Halls of Origination also creates new life. To that end, the construct Ammunae regulates the natural energies coursing through the facility to ensure that life will exist on a reforged Azeroth.
+129	135	759	0.6397212	0.492515	2666	70	6	-1	Setesh, Construct of Destruction	Given the purpose of the Halls of Origination, the titans deemed it necessary to create Setesh, a construct who holds sway over the powers of destruction. Should Setesh ever fall to corruption, the results would be disastrous.
+130	135	759	0.4750499	0.2529939	2926	70	7	-1	Rajh, Construct of Sun	Rajh oversees the energies that have both sparked life and snuffed it out in an untold number of his kin. Considered the mightiest of his fellow constructs, Rajh holds the power to unleash the fury of a thousand suns upon Azeroth.
+131	123	757	0.4051898	0.6871258	3353	71	1	-1	General Umbriss	As Azeroth\'s champions and their red dragon allies assault the gates of Grim Batol, the malefic General Umbriss leads the fortress\'s cultist and twilight dragonspawn defenders.
+132	123	757	0.515	0.3	816	71	2	-1	Forgemaster Throngus	A smith for the Twilight\'s Hammer cult, this massive ettin is eager to use the weapons and armor he\'s forged to annihilate intruders.
+133	123	757	0.6946116	0.1931137	3364	71	3	-1	Drahga Shadowburner	This Twilight\'s Hammer courier is on a mission from the Bastion of Twilight. Should heroes overcome his fiery minions, Drahga will reveal a portent of doom for Azeroth\'s defenders.
+134	123	757	0.8562618	0.7470061	3374	71	4	-1	Erudax, the Duke of Below	Deathwing has dispatched one of his greatest lieutenants to discover the secret that several mighty red dragons have died to protect. From the cavernous realm of Deepholm, this faceless general will bring to bear the next generation of draconic power to obliterate those foolish enough to challenge him.
+139	252	752	0.8043925	0.6347306	2602	75	1	-17	Argaloth	Unable to contain the massive pit lord Argaloth in the cells of Dalaran\'s mighty Violet Hold, the magi of the Kirin Tor were left with no choice but to confine the powerful demon beneath Tol Barad.
+140	252	752	0.1556889	0.6317773	2605	75	2	-17	Occu\'thar	This ravenous demon broke free of its cage and gained access to the western wing of the prison, devouring all of the inmates held there. Occu\'thar\'s gluttony resulted in a body too bloated to escape its environs, effectively turning the prison wing into its new holding cell.
+154	271	773	0.4750499	0.260479	3166	74	1	-17	The Conclave of Wind	"With Siamat, Lord of the South Wind, imprisoned by the Neferset tol\'vir, Al\'Akir\'s lieutenants are vying to fill the power vacuum that now exists in the Conclave of Wind. The remaining conclave members are Anshal, Lord of the West Wind, whose gales can heal allies or poison enemies; Rohash, Lord of the East Wind, whose tempests can grind the mightiest mountains to dust; and Nezir, Lord of the North Wind, whose frigid storms have claimed more lives than all other cardinal wind lords combined."
+155	271	773	0.4750499	0.5	3021	74	2	-17	Al\'Akir	Gifted with great intelligence and cunning, Al\'Akir the Windlord once served as the foremost tactician in the Old Gods\' horrific armies. In the wake of the Cataclysm, he has aligned with Deathwing and turned his godlike powers against many of the air elementals\' ancient tol\'vir nemeses.
+156	128	758	0.5349303	0.1931137	2959	72	1	-17	Halfus Wyrmbreaker	Imbued with unnatural power and stamina by Cho\'gall, the ettin Halfus Wyrmbreaker captures dragons for use as fodder in the Twilight\'s Hammer\'s rituals. To this end, he has enslaved a behemoth proto-dragon to aid him in hunting down his winged prey.
+157	128	758	0.5399203	0.7844312	2994	72	2	-17	Theralion and Valiona	Magically aged to adulthood, Valiona and Theralion were to be paragons among a new clutch of twilight dragons, leading their brood in scouring Azeroth of life. Instead, they waste their incredible powers constantly bickering and fighting each other.
+158	129	758	0.4251498	0.4550898	3109	72	3	-17	Ascendant Council	As the most powerful Twilight\'s Hammer cultists to be twisted into elemental beings, the Ascendant Council members have long forgotten their existence as mere mortals. From their wicked sanctum, they oversee the selection of new ascension candidates.
+167	129	758	0.7345319	0.7544911	3165	72	4	-17	Cho\'gall	Under Cho\'gall\'s control, the orcish Twilight\'s Hammer clan was transformed into a murderous cult obsessed with the Old Gods and their herald, Deathwing. Extended contact with his dark master has hideously warped both Cho\'gall\'s mind and body.
+168	134	758	0.49002	0.3428143	3226	72	5	-20	Sinestra	Originally Deathwing\'s prime consort, Sinestra created the first twilight dragons, but was later obliterated by one of her terrifying creations. Now a ravaged husk reanimated by insidious magic, Sinestra oversees the creation of new twilight clutches.
+169	131	754	0.6546913	0.5748503	3193	73	1	-17	Omnotron Defense System	The Omnotron Defense System was once touted as the Dark Iron dwarves\' greatest technological marvel. When Nefarian arrived in Blackwing Descent, he repurposed the run-down system to annihilate anyone intruding on his laboratories.
+170	131	754	0.2754495	0.5748503	3310	73	2	-17	Magmaw	Magmaw is a colossal lava worm summoned from the Firelands centuries ago by Ragnaros\' Dark Iron servitors. Nefarian largely considers Magmaw a worrisome pest, but has grown fond of feeding the beast his failed experiments... and servants.
+171	132	754	0.4750499	0.3278443	3072	73	3	-17	Atramedes	Atramedes, or Experiment 25463-D, is a failed attempt to bestow enhanced senses on a black dragon whelp. The toxic salve applied to the broodling robbed him of sight, forcing him to rely on sound and smell for survival. A tragic story... if Atramedes weren\'t so evil.
+172	132	754	0.2455094	0.7020959	3008	73	4	-17	Chimaeron	Terrifying. Ugly. Evil. Kill it.
+173	132	754	0.7145718	0.7020959	2929	73	5	-17	Maloriak	The human Malory was a bright young alchemist until he was kidnapped by Nefarian and fused with the corpse of a dragonspawn. The result-Maloriak-is a bumbling minion who possesses only a dull glimmer of his former intelligence.
+174	132	754	0.48004	0.7020959	3276	73	6	-17	Nefarian\'s End	Deathwing\'s son, Nefarian, gained infamy for his horrifying efforts to create chromatic dragons from the essences of Azeroth\'s various dragonflights. After his death in Blackwing Lair, he was reanimated and charged by Deathwing to continue his insidious endeavors.
+175	0	793	0.5099801	0.5374252	2787	76	1	-1	High Priest Venoxis	Originally sent to kill Hakkar, Venoxis became enslaved to the murderous entity before falling to Azeroth\'s heroes. Through the efforts of the Soulflayer\'s agents, Venoxis has been ripped from the spirit world and ordered to defend Zul\'Gurub with his venomous serpentine minions.
+176	0	793	0.6047909	0.7994013	2610	76	2	-1	Bloodlord Mandokir	The infamous Bloodlord Mandokir died a torturous death before Bloodscalp trolls desecrated his body years ago. Word has now spread that Mandokir walks the jungles of Stranglethorn yet again, using the corpse of the mighty Bloodscalp chieftain Gan\'zulah as a host for his malevolent spirit.
+177	0	793	0.5998008	0.4625748	2504	76	3	-1	Cache of Madness - Gri\'lek	"Among the hateful spirits in the Cache of Madness are Gri\'lek, a dire troll stripped of his regenerative abilities by the loa; Renataki, an infamous and sadistic warrior; Hazza\'rah, a seer tormented by dire future visions; and Wushoolay, a mighty combatant bristling with the powers of the storms."
+178	0	793	0.6367	0.4625748	3508	76	4	-1	Cache of Madness - Hazza\'rah	"Among the hateful spirits in the Cache of Madness are Gri\'lek, a dire troll stripped of his regenerative abilities by the loa; Renataki, an infamous and sadistic warrior; Hazza\'rah, a seer tormented by dire future visions; and Wushoolay, a mighty combatant bristling with the powers of the storms."
+179	0	793	0.5998008	0.5149701	2501	76	5	-1	Cache of Madness - Renataki	"Among the hateful spirits in the Cache of Madness are Gri\'lek, a dire troll stripped of his regenerative abilities by the loa; Renataki, an infamous and sadistic warrior; Hazza\'rah, a seer tormented by dire future visions; and Wushoolay, a mighty combatant bristling with the powers of the storms."
+180	0	793	0.6019053	0.4147114	2498	76	6	-1	Cache of Madness - Wushoolay	"Among the hateful spirits in the Cache of Madness are Gri\'lek, a dire troll stripped of his regenerative abilities by the loa; Renataki, an infamous and sadistic warrior; Hazza\'rah, a seer tormented by dire future visions; and Wushoolay, a mighty combatant bristling with the powers of the storms."
+181	0	793	0.48004	0.2005987	2692	76	7	-1	High Priestess Kilnara	When High Priestess Arlokk was killed, the panther loa Bethekk chose her sister, Kilnara, as her new mortal champion. Supporting the recent pact between the Gurubashi and Zandalar tribes, Kilnara has unleashed her savage panther minions on the region\'s unsuspecting denizens.
+184	0	793	0.3173384	0.2455089	2508	76	8	-1	Zanzil	Exiled from the Skullsplitter tribe for turning his fellow trolls into mindless slaves, Zanzil was recently offered a place among the Gurubashi by Jin\'do the Godbreaker in exchange for bolstering Zul\'Gurub\'s forces. It is well-known that his toxic elixirs can even rouse the dead from their graves.
+185	0	793	0.48503	0.3952096	2899	76	9	-1	Jin\'do the Godbreaker	After his defeat in Zul\'Gurub, Jin\'do\'s spirit was tormented by his failure to serve Hakkar\'s wishes. Jin\'do recently found a way back into the world and enslaved the Soulflayer. Bristling with the dread god\'s terrible powers, Jin\'do plans to restore the Gurubashi empire to its former glory.
+186	0	781	0.3552897	0.2305388	2521	77	1	-1	Akil\'zon	As a former shaman of the Amani tribe, Akil\'zon had a preternatural ability when working with the element of air. This talent caught the eye of Hex Lord Malacrass and made finding a host for the trolls\' eagle god an easy task.
+187	0	781	0.4051898	0.7739929	2867	77	2	-1	Nalorakk	Hex Lord Malacrass considered Nalorakk-renowned for both his fearsome rage and savage strength on the battlefield-the ideal vessel for the bear god\'s essence.
+188	0	781	0.5548905	0.7095809	2621	77	3	-1	Jan\'alai	Dragonhawks are deft predators that rend their foes with razor-sharp talons. This mindset and method of attack were also favored by one of the Amani tribe\'s highly skilled rogues, Jan\'alai.
+189	0	781	0.5848307	0.2380239	2804	77	4	-1	Halazzi	The lynxes of Azeroth are vicious hunters that shred their prey with fang and claw. Hex Lord Malacrass mused that it was only right to seal the essence of the lynx god within one of the tribe\'s greatest hunters.
+190	0	781	0.7145718	0.5299401	2706	77	5	-1	Hex Lord Malacrass	Rumored to be the most feared witch doctor of the Amani tribe in decades, Hex Lord Malacrass has done the unthinkable and sealed the essence of several mighty troll animal gods in their strongest champions... keeping the darkest one for himself.
+191	0	781	0.9041933	0.5299401	2875	77	6	-1	Daakara	To fill the power vacuum left from the death of their old warlord, Zul\'jin, the remaining trolls of the Amani tribe chose their favored champion, Daakara the Invincible, to reclaim their lost glory.
+192	0	800	0.2105792	0.3278443	2764	78	1	-17	Beth\'tilac	Matriarch of the Cinderweb Brood, Beth\'tilac and her merciless offspring sate their appetites by sucking the magma and fire from the corpses of elementals. To provide her broodlings with added sustenance, Beth\'tilac has woven a network of incendiary webs throughout her lair to trap unsuspecting prey.
+193	0	800	0.6536933	0.7500001	2526	78	2	-17	Lord Rhyolith	Rhyolith is one of the most ancient elementals in existence, born from the primordial fires that forged Azeroth itself. He is responsible for the creation of new elementals in the Firelands and still possesses a searing hatred of the titans for what he considers monumental arrogance in relocating him.
+194	0	800	0.6437137	0.3802395	2824	78	3	-17	Alysrazor	When Ragnaros\'s forces surged into Mount Hyjal, the green dragon Alysra betrayed her allies and helped liberate the traitorous archdruid Fandral Staghelm. As a reward, she was purified with fire and reborn as a fearsome fire hawk.
+195	0	800	0.4930135	0.4431134	2575	78	4	-17	Shannox	The flamewakers are among the most feared elemental guardians in the Firelands.  Shannox is no exception.  Serving as the chief hunter and kennel master of Ragnaros\'s hell hounds, Shannox patrols the elemental realm with his two most ferocious beasts: Riplimb and Rageface.
+196	0	800	0.4950096	0.3098805	2590	78	5	-17	Baleroc, the Gatekeeper	Baleroc earned a reputation as a merciless combatant during the elemental wars of ancient Azeroth. Now that he is confined to the Firelands, Baleroc\'s sanity has dwindled. Few elementals dare disturb him, fearful that they will become victim to his battle lust.
+197	466	800	0.5099801	0.724551	2911	78	6	-17	Majordomo Staghelm	The loss of his son, Valstann, in the War of the Shifting Sands utterly shattered Fandral Staghelm\'s spirit. Now empowered by Ragnaros as the new Majordomo of the Firelands (replacing the deceased Majordomo Executus) and the leader of the treacherous Druids of the Flame, Fandral seeks to bring ruin to Azeroth rather than live in a world without his beloved child.
+198	466	800	0.5099801	0.1556885	2629	78	7	-17	Ragnaros	Ragnaros, lord of the Firelands, embodies the fury and destruction of the primordial infernos that forged Azeroth itself. Promised the chance to set Azeroth aflame without interference from Neptulon and Therazane, Ragnaros seeks to appease the Old Gods by incinerating the World Tree of Nordrassil.
+283	498	820	0.515514	0.433775	3667	184	4	-1	Echo of Tyrande	Once the leader of the night elves and High Priestess of Elune, this time-twisted fragment of Tyrande Whisperwind now wanders the wastes of the desolate future of Azeroth. Enveloped in a perpetual midnight, she has all but lost sight of the comforting light of Elune.
+285	495	820	0.495389	0.660817	3641	184	2	-1	Echo of Jaina	The tormented fragment of Jaina Proudmoore has been split and infused within the shattered pieces of her staff. To restore balance to the timeways, this echo must be defeated. However, the devastating magical power possessed by the once-proud ruler of Theramore is hardly lost to her time-havocked spectre. In this future Azeroth, she is only divided, and waiting...
+289	499	820	0.484811	0.323013	3675	184	5	-1	Murozond	Now living outside of time, Murozond was once the great Dragon Aspect Nozdormu the Timeless One. After the titans showed him his own death, the tormented Nozdormu was tricked by the Old Gods into trying to subvert his mortality. As a result, Nozdormu shattered the timeways and created the Infinite Dragonflight... jeopardizing the very future of Azeroth.
+290	0	816	0.237485	0.482577	4164	185	1	-1	Peroth\'arn	"Like many of his fellow Highborne, Peroth\'arn swore allegiance to the corrupted Xavius in exchange for gifts of demonic power. 
 
 As a master of fiendish magic and recipient of the satyr curse, Peroth\'arn stands outside Azshara\'s palace in defense of the Burning Legion, ready to destroy those hoping to disrupt the entrance of the Dark Titan, Sargeras, into Azeroth."
-291	0	816	0.463389	0.369625	3968	185	2	-1	"Queen Azshara"	"The songs of Queen Azshara\'s beauty, majesty, and power are too numerous to count, but it was her vanity that drove the Highborne to summon the Burning Legion. She now watches her most trusted magi empower the portal where Sargeras will be brought into Azeroth, content to let multitudes of her servants die in advance of the Dark Titan\'s arrival."
-292	0	816	0.873028	0.482577	3684	185	3	-1	"Mannoroth and Varo\'then"	"Varo\'then, head of Queen Azshara\'s personal guard, and Mannoroth, the pit lord whose blood will corrupt the entire orc race, stand as the last line of defense against those hoping to bar Sargeras\'s entry into Azeroth. Though both Tyrande and Illidan have fought bravely thus far, the fate of Azeroth will be decided at the Well of Eternity\'s very brink."
-321	191	766	0	0	0	186	0	-1	"Arcurion"	"test"
-322	0	819	0.567376	0.277179	3942	186	1	-1	"Arcurion"	"Horde and Alliance assaults against the Twilight\'s Hammer have slaughtered many of the cult\'s fearsome elemental ascendants. One exception is Arcurion, a formidable ice ascendant tasked to slay Thrall and retrieve the Dragon Soul. Should this twisted elemental being succeed, nothing will be able to stop Deathwing from ushering in the Hour of Twilight."
-342	0	819	0.407704	0.509356	4167	186	2	-1	"Asira Dawnslayer"	"Former blade-for-hire Asira Sunbright was initially leery of working for the Twilight\'s Hammer, but the cult\'s generous payments quickly won her over. In time, she succumbed to the corruptive influence of her dark employers, even going so far as to take the name Dawnslayer. As one of the cult\'s deadliest assassins, Asira has been called upon to exterminate Thrall and his comrades."
-341	502	819	0.473824	0.513754	4150	186	3	-1	"Archbishop Benedictus"	"Archbishop Benedictus is the revered leader of the Church of the Holy Light. For years, his wise guidance has been instrumental in seeing humanity through bleak times. Yet beneath his apparent benevolence lies the shocking truth that Benedictus has pledged himself to the eradication of all life on Azeroth through the agency of his dark master... Deathwing."
-311	0	824	0.503996	0.692524	3879	187	1	-1	"Morchok"	"The most powerful elemental still under Deathwing\'s sway, Morchok-once a passive guardian-is now convinced that his only respite will come with Azeroth\'s demise. Morchok rages against the foundation of Wyrmrest Temple, Azeroth\'s last beacon of hope in the Hour of Twilight."
-324	503	824	0.509638	0.530325	3970	187	2	-1	"Warlord Zon\'ozz"	"Countless ages ago, Warlord Zon\'ozz and his soldiers waged endless war against the forces of C\'Thun and Yogg-Saron. Millennia have passed, but the warlord still serves the chaotic might of the Old God N\'Zoth. Deathwing has now unleashed this legendary faceless one to crush the defenders of Wyrmrest Temple."
-325	504	824	0.468265	0.499295	3974	187	3	-1	"Yor\'sahj the Unsleeping"	"Since the fall of the Bastion of Twilight, Yor\'sahj the Unsleeping has eagerly assisted Deathwing, providing the Destroyer with the means to release more faceless ones from their prisons deep beneath the earth. Their numbers are endless and their power is beyond reckoning, and Yor\'sahj intends to reap a grim reward for his faithful service."
-317	505	824	0.527504	0.520451	3912	187	4	-1	"Hagara the Stormbinder"	"Hagara, one of the first students of arcane magic under the Forsaken, showed surprising potential for one who had started learning so late in life. But in her undisciplined attempts to bind elementals into servitude, she was ensnared and twisted by the Windlord, Al\'Akir. Now fiercely loyal to the Twilight\'s Hammer, Hagara binds others for her elemental masters to torment."
-331	0	824	0.500329	0.45809	4247	187	5	-1	"Ultraxion"	"More an abomination of dark energy than a dragon, Ultraxion has spent his short life absorbing the essence of captured nether dragons. Ultraxion is the only twilight dragon Deathwing has praised, and his arrogance is overshadowed only by the crackling energies surging through his twisted form. Loyal to his master, Ultraxion swears to bring about the fall of Wyrmrest Temple."
-332	512	824	0.481521	0.171771	4027	187	6	-1	"Warmaster Blackhorn"	"Though once vast in number, only a few dozen twilight dragons now remain. Astride these hardened survivors are the last vestiges of the Twilight\'s Hammer\'s army: the elite drake riders of Deathwing\'s personal escort. Led by the insidious Warmaster Blackhorn, they move with unholy purpose, driven to protect their dark master."
-318	513	824	0.332957	0.850192	4050	187	7	-1	"Spine of Deathwing"	"When Deathwing first channeled the Dragon Soul\'s power against the other flights, the massive energies that were unleashed threatened to break apart his very body.  Rather than forgo this weapon, he had adamantium plates fused to his scales to hold his body together. Later reinforced with elementium, these plates are now his weakness--the sole vulnerability to Deathwing\'s lethal presence."
-333	514	824	0.478702	0.538485	4040	187	8	-1	"Madness of Deathwing"	"A warped mass of molten hatred and unfathomable power, this formless, mindless horror cannot be stopped. Whatever was left of Neltharion the Earth-Warder is long gone, his mind and soul corrupted and devoured by his Old God masters. All this monstrous being desires is destruction, annihilation, and the end of all things."
-694	136	680	0.69273	0.650206	5961	226	1	-1	"Adarogg"	"nyi"
-695	136	680	0.540467	0.300412	5963	226	2	-1	"Dark Shaman Koranthal"	"nyi"
-696	136	680	0.40878	0.574074	5965	226	3	-1	"Slagmaw"	"nyi"
-697	136	680	0.342936	0.816872	5967	226	4	-1	"Lava Guard Gordoth"	"nyi"
-368	162	688	0.333333	0.60687	4376	227	1	-31	"Ghamoo-Ra"	"Big turtle [PH]"
-436	162	688	0.11194	0.389552	4379	227	2	1	"Lady Sarevess"	"Naga caster boss"
-426	162	688	0.543284	0.564179	4377	227	3	-31	"Gelihast"	"Dual wielding murloc [ph]"
-447	164	688	0.586567	0.308955	4385	227	4	1	"Old Serra\'kis"	"Thresher of the Forgotten Pool."
-437	163	688	0.52388	0.808209	4382	227	5	1	"Twilight Lord Kelris"	"Twilight Orc"
-444	163	688	0.855224	0.864179	4383	227	6	1	"Aku\'mai"	"Three-Headed Hydra"
-369	200	704	0.474044	0.922131	4630	228	1	-29	"High Interrogator Gerstahn"	"NYI"
-370	200	704	0.556011	0.670082	4472	228	2	-29	"Lord Roccor"	"NYI"
-371	200	704	0.535002	0.573466	4626	228	3	-1	"Houndmaster Grebmar"	"NYI"
-372	200	704	0.497785	0.645796	4547	228	4	3	"Ring of Law"	"NYI"
-373	201	704	0.54918	0.94877	4496	228	5	-29	"Pyromancer Loregrain"	"NYI"
-374	200	704	0.564208	0.311475	4476	228	6	-29	"Lord Incendius"	"NYI"
-375	201	704	0.602459	0.659836	4386	228	7	-1	"Warder Stilgiss"	"NYI"
-376	200	704	0.635246	0.211066	4538	228	8	-1	"Fineous Darkvire"	"NYI"
-377	200	704	0.251366	0.534836	4532	228	9	-29	"Bael\'Gar"	"NYI"
-378	201	704	0.363388	0.82377	4508	228	10	-29	"General Angerforge"	"General Angerforge starts with 4 Anvilrage Reservists at his side."
-379	201	704	0.364754	0.651639	4501	228	11	-29	"Golem Lord Argelmach"	"NYI"
-380	201	704	0.505668	0.704778	4494	228	12	3	"Hurley Blackbreath"	"NYI"
-381	201	704	0.458206	0.564745	4504	228	13	3	"Phalanx"	"NYI"
-382	201	704	0.525456	0.625386	4492	228	14	3	"Ribbly Screwspigot"	"NYI"
-383	201	704	0.47722	0.657122	4485	228	15	3	"Plugger Spazzring"	"NYI"
-384	201	704	0.538251	0.485656	4482	228	16	-29	"Ambassador Flamelash"	"NYI"
-385	201	704	0.538251	0.247951	4471	228	17	-29	"The Seven"	"Seven dwarf ghosts [ph]"
-386	201	704	0.796448	0.118852	4480	228	18	-29	"Magmus"	"NYI"
-387	201	704	0.909836	0.118852	4645	228	19	-29	"Emperor Dagran Thaurissan"	"NYI"
-388	208	721	0.386612	0.590164	4523	229	1	-1	"Highlord Omokk"	"NYI"
-389	207	721	0.553279	0.692623	4525	229	2	-1	"Shadow Hunter Vosh\'gajin"	"NYI"
-390	202	721	0.52459	0.545082	4527	229	3	-1	"War Master Voone"	"NYI"
-391	202	721	0.625683	0.737705	4543	229	4	-1	"Mother Smolderweb"	"NYI"
-392	209	721	0.454918	0.557377	4552	229	5	-1	"Urok Doomhowl"	"NYI"
-393	210	721	0.539617	0.844263	4568	229	6	-1	"Quartermaster Zigris"	"NYI"
-394	210	721	0.379781	0.840164	4572	229	7	-1	"Halycon"	"NYI"
-395	210	721	0.394808	0.793032	4584	229	8	-1	"Gizrul the Slavener"	"NYI"
-396	211	721	0.575137	0.60041	4587	229	9	-1	"Overlord Wyrmthalak"	"NYI"
-397	211	721	0.303279	0.266393	4617	229	10	-1	"Pyroguard Emberseer"	"NYI"
-398	211	721	0.36612	0.381148	4625	229	11	-1	"Solakar Flamewreath"	"NYI"
-399	212	721	0.486339	0.245902	4634	229	12	-1	"Warchief Rend Blackhand"	"NYI"
-400	212	721	0.642077	0.319672	4649	229	13	-1	"The Beast"	"NYI"
-401	212	721	0.349727	0.497951	4657	229	14	-1	"General Drakkisath"	"NYI"
-402	267	699	0.575137	0.743852	4655	230	1	-29	"Zevrim Thornhoof"	"NYI"
-403	267	699	0.536885	0.715164	5004	230	2	-1	"Hydrospawn"	"NYI"
-404	266	699	0.438525	0.481557	4994	230	3	-1	"Lethtendris"	"NYI"
-405	267	699	0.56694	0.288934	4921	230	4	-1	"Alzzin the Wildshaper"	"NYI
+291	0	816	0.463389	0.369625	3968	185	2	-1	Queen Azshara	The songs of Queen Azshara\'s beauty, majesty, and power are too numerous to count, but it was her vanity that drove the Highborne to summon the Burning Legion. She now watches her most trusted magi empower the portal where Sargeras will be brought into Azeroth, content to let multitudes of her servants die in advance of the Dark Titan\'s arrival.
+292	0	816	0.873028	0.482577	3684	185	3	-1	Mannoroth and Varo\'then	Varo\'then, head of Queen Azshara\'s personal guard, and Mannoroth, the pit lord whose blood will corrupt the entire orc race, stand as the last line of defense against those hoping to bar Sargeras\'s entry into Azeroth. Though both Tyrande and Illidan have fought bravely thus far, the fate of Azeroth will be decided at the Well of Eternity\'s very brink.
+311	0	824	0.503996	0.692524	3879	187	1	-1	Morchok	The most powerful elemental still under Deathwing\'s sway, Morchok-once a passive guardian-is now convinced that his only respite will come with Azeroth\'s demise. Morchok rages against the foundation of Wyrmrest Temple, Azeroth\'s last beacon of hope in the Hour of Twilight.
+317	505	824	0.527504	0.520451	3912	187	4	-1	Hagara the Stormbinder	Hagara, one of the first students of arcane magic under the Forsaken, showed surprising potential for one who had started learning so late in life. But in her undisciplined attempts to bind elementals into servitude, she was ensnared and twisted by the Windlord, Al\'Akir. Now fiercely loyal to the Twilight\'s Hammer, Hagara binds others for her elemental masters to torment.
+318	513	824	0.332957	0.850192	4050	187	7	-1	Spine of Deathwing	When Deathwing first channeled the Dragon Soul\'s power against the other flights, the massive energies that were unleashed threatened to break apart his very body.  Rather than forgo this weapon, he had adamantium plates fused to his scales to hold his body together. Later reinforced with elementium, these plates are now his weakness--the sole vulnerability to Deathwing\'s lethal presence.
+321	191	766	0	0	0	186	0	-1	Arcurion	test
+322	0	819	0.567376	0.277179	3942	186	1	-1	Arcurion	Horde and Alliance assaults against the Twilight\'s Hammer have slaughtered many of the cult\'s fearsome elemental ascendants. One exception is Arcurion, a formidable ice ascendant tasked to slay Thrall and retrieve the Dragon Soul. Should this twisted elemental being succeed, nothing will be able to stop Deathwing from ushering in the Hour of Twilight.
+323	496	820	0.559097	0.392068	3955	184	3	-1	Echo of Sylvanas	Spawned from shattered timeways and cloistered within the Ruby Dragonshrine, a maddened fragment of the Forsaken\'s leader, Sylvanas Windrunner, waits restlessly. Having lost everything and unable to find peace, this tormented echo aches for a chance to unleash her dark fury at anything still living within these barren, time-twisted wastes.
+324	503	824	0.509638	0.530325	3970	187	2	-1	Warlord Zon\'ozz	Countless ages ago, Warlord Zon\'ozz and his soldiers waged endless war against the forces of C\'Thun and Yogg-Saron. Millennia have passed, but the warlord still serves the chaotic might of the Old God N\'Zoth. Deathwing has now unleashed this legendary faceless one to crush the defenders of Wyrmrest Temple.
+325	504	824	0.468265	0.499295	3974	187	3	-1	Yor\'sahj the Unsleeping	Since the fall of the Bastion of Twilight, Yor\'sahj the Unsleeping has eagerly assisted Deathwing, providing the Destroyer with the means to release more faceless ones from their prisons deep beneath the earth. Their numbers are endless and their power is beyond reckoning, and Yor\'sahj intends to reap a grim reward for his faithful service.
+331	0	824	0.500329	0.45809	4247	187	5	-1	Ultraxion	More an abomination of dark energy than a dragon, Ultraxion has spent his short life absorbing the essence of captured nether dragons. Ultraxion is the only twilight dragon Deathwing has praised, and his arrogance is overshadowed only by the crackling energies surging through his twisted form. Loyal to his master, Ultraxion swears to bring about the fall of Wyrmrest Temple.
+332	512	824	0.481521	0.171771	4027	187	6	-1	Warmaster Blackhorn	Though once vast in number, only a few dozen twilight dragons now remain. Astride these hardened survivors are the last vestiges of the Twilight\'s Hammer\'s army: the elite drake riders of Deathwing\'s personal escort. Led by the insidious Warmaster Blackhorn, they move with unholy purpose, driven to protect their dark master.
+333	514	824	0.478702	0.538485	4040	187	8	-1	Madness of Deathwing	A warped mass of molten hatred and unfathomable power, this formless, mindless horror cannot be stopped. Whatever was left of Neltharion the Earth-Warder is long gone, his mind and soul corrupted and devoured by his Old God masters. All this monstrous being desires is destruction, annihilation, and the end of all things.
+335	228	728	0	0	4072	313	4	-1	Sha of Doubt	PH
+339	252	752	0.479042	0.179641	4120	75	3	-17	Alizabal, Mistress of Hate	The Kirin Tor imprisoned Alizabal in their formidable Violet Hold not long after corrupt magi summoned the shivarra into Azeroth. Despite arcane wards restricting her powers, the demon\'s malicious influence alone caused her guards to murder one another in sudden fits of rage. Her transfer to Baradin Hold prior to the Cataclysm has only aggravated the ruined prison\'s increasingly dire conditions.
+340	497	820	0.367197	0.530952	4138	184	1	-1	Echo of Baine	Enraged by his failure to protect the world and, most importantly, the Horde, this time-ravaged shade of Baine Bloodhoof lingers within the ruins of the Obsidian Dragonshrine. Although he\'s still as powerful as the tauren high chieftain from the present, within this shattered future Azeroth, this guilt-ridden echo is little more than a discordant vessel of unquenchable malice and anger.
+341	502	819	0.473824	0.513754	4150	186	3	-1	Archbishop Benedictus	Archbishop Benedictus is the revered leader of the Church of the Holy Light. For years, his wise guidance has been instrumental in seeing humanity through bleak times. Yet beneath his apparent benevolence lies the shocking truth that Benedictus has pledged himself to the eradication of all life on Azeroth through the agency of his dark master... Deathwing.
+342	0	819	0.407704	0.509356	4167	186	2	-1	Asira Dawnslayer	Former blade-for-hire Asira Sunbright was initially leery of working for the Twilight\'s Hammer, but the cult\'s generous payments quickly won her over. In time, she succumbed to the corruptive influence of her dark employers, even going so far as to take the name Dawnslayer. As one of the cult\'s deadliest assassins, Asira has been called upon to exterminate Thrall and his comrades.
+368	162	688	0.333333	0.60687	4376	227	1	-31	Ghamoo-Ra	Big turtle [PH]
+369	200	704	0.474044	0.922131	4630	228	1	3	High Interrogator Gerstahn	NYI
+370	200	704	0.556011	0.670082	4472	228	2	3	Lord Roccor	NYI
+371	200	704	0.535002	0.573466	4626	228	3	-1	Houndmaster Grebmar	NYI
+372	200	704	0.497785	0.645796	4547	228	4	3	Ring of Law	NYI
+373	201	704	0.54918	0.94877	4496	228	5	-29	Pyromancer Loregrain	NYI
+374	200	704	0.564208	0.311475	4476	228	6	3	Lord Incendius	NYI
+375	201	704	0.602459	0.659836	4386	228	7	-1	Warder Stilgiss	NYI
+376	200	704	0.635246	0.211066	4538	228	8	-1	Fineous Darkvire	NYI
+377	200	704	0.251366	0.534836	4532	228	9	3	Bael\'Gar	NYI
+378	201	704	0.363388	0.82377	4508	228	10	3	General Angerforge	General Angerforge starts with 4 Anvilrage Reservists at his side.
+379	201	704	0.364754	0.651639	4501	228	11	3	Golem Lord Argelmach	NYI
+380	201	704	0.505668	0.704778	4494	228	12	3	Hurley Blackbreath	NYI
+381	201	704	0.458206	0.564745	4504	228	13	3	Phalanx	NYI
+382	201	704	0.525456	0.625386	4492	228	14	3	Ribbly Screwspigot	NYI
+383	201	704	0.47722	0.657122	4485	228	15	3	Plugger Spazzring	NYI
+384	201	704	0.538251	0.485656	4482	228	16	-29	Ambassador Flamelash	NYI
+385	201	704	0.538251	0.247951	4471	228	17	3	The Seven	Seven dwarf ghosts [ph]
+386	201	704	0.796448	0.118852	4480	228	18	-29	Magmus	NYI
+387	201	704	0.909836	0.118852	4645	228	19	3	Emperor Dagran Thaurissan	NYI
+388	208	721	0.386612	0.590164	4523	229	1	-1	Highlord Omokk	NYI
+389	207	721	0.553279	0.692623	4525	229	2	-1	Shadow Hunter Vosh\'gajin	NYI
+390	202	721	0.52459	0.545082	4527	229	3	-1	War Master Voone	NYI
+391	207	721	0.620736	0.741415	4543	229	4	-1	Mother Smolderweb	NYI
+392	209	721	0.454918	0.557377	4552	229	5	-1	Urok Doomhowl	NYI
+393	210	721	0.539617	0.844263	4568	229	6	-1	Quartermaster Zigris	NYI
+394	210	721	0.379781	0.840164	4572	229	7	-1	Halycon	NYI
+395	210	721	0.394808	0.793032	4584	229	8	-1	Gizrul the Slavener	NYI
+396	211	721	0.575137	0.60041	4587	229	9	-1	Overlord Wyrmthalak	NYI
+397	211	721	0.303279	0.266393	4617	229	10	-1	Pyroguard Emberseer	NYI
+398	211	721	0.36612	0.381148	4625	229	11	-1	Solakar Flamewreath	NYI
+399	212	721	0.486339	0.245902	4634	229	12	-1	Warchief Rend Blackhand	NYI
+400	212	721	0.642077	0.319672	4649	229	13	-1	The Beast	NYI
+401	212	721	0.349727	0.497951	4657	229	14	-1	General Drakkisath	NYI
+402	267	699	0.575137	0.743852	4655	230	1	3	Zevrim Thornhoof	NYI
+403	267	699	0.536885	0.715164	5004	230	2	-1	Hydrospawn	NYI
+404	266	699	0.438525	0.481557	4994	230	3	-1	Lethtendris	NYI
+405	267	699	0.56694	0.288934	4921	230	4	-1	Alzzin the Wildshaper	"NYI
 Alzzin the Wildshaper begins the encounter in Satyr form but can change his form to either a Dire Wolf or a Tree."
-406	263	699	0.336066	0.536885	4913	230	5	-1	"Tendris Warpwood"	"NYI"
-407	263	699	0.203552	0.77664	4906	230	6	-1	"Illyanna Ravenoak"	"NYI"
-408	264	699	0.338798	0.45082	4836	230	7	-1	"Magister Kalendris"	"NYI"
-409	265	699	0.349727	0.57582	4822	230	8	-1	"Immol\'thar"	"NYI"
-410	265	699	0.622951	0.231557	4752	230	9	-1	"Prince Tortheldrin"	"NYI"
-411	262	699	0.695355	0.760246	4740	230	10	-1	"Guard Mol\'dar"	"NYI"
-412	262	699	0.612022	0.692623	4734	230	11	-1	"Stomper Kreeg"	"NYI"
-413	262	699	0.494536	0.780738	4725	230	12	-29	"Guard Fengus"	"NYI"
-414	262	699	0.266393	0.571721	4716	230	13	-29	"Guard Slip\'kik"	"NYI"
-415	262	699	0.318306	0.506148	4705	230	14	-29	"Captain Kromcrush"	"NYI"
-416	262	699	0.318306	0.268443	4673	230	15	-29	"Cho\'Rush the Observer"	"NYI"
-417	262	699	0.318306	0.268443	4666	230	16	-1	"King Gordok"	"NYI"
-419	168	691	0.778688	0.670082	4690	231	1	-1	"Grubbis"	"NYI"
-420	169	691	0.759563	0.465164	4691	231	2	-1	"Viscous Fallout"	"nyi"
-421	169	691	0.243169	0.684426	4692	231	3	-1	"Electrocutioner 6000"	"NYI"
-418	170	691	0.431694	0.883197	4670	231	4	-1	"Crowd Pummeler 9-60"	"NYI"
-422	172	691	0.311475	0.303279	4702	231	5	-1	"Mekgineer Thermaplugg"	"NYI"
-423	256	750	0.362022	0.0983607	4709	232	1	-1	"Noxxion"	"NYI"
-424	256	750	0.166667	0.344262	4713	232	2	-1	"Razorlash"	"nyi"
-425	256	750	0.509563	0.530738	4721	232	3	-1	"Tinkerer Gizlock"	"nyi"
-427	256	750	0.378415	0.704918	4730	232	4	-1	"Lord Vyletongue"	"nyi"
-428	257	750	0.245902	0.143443	4745	232	5	-1	"Celebras the Cursed"	"NYI"
-429	257	750	0.40847	0.487705	4749	232	6	-1	"Landslide"	"nyi"
-430	257	750	0.413934	0.817623	4757	232	7	-1	"Rotgrip"	"nyi"
-431	257	750	0.258197	0.788934	4759	232	8	-1	"Princess Theradras"	"nyi"
-432	150	760	0.594262	0.340164	4763	233	1	-1	"Tuten\'kash"	"nyi"
-433	150	760	0.860656	0.467213	4767	233	2	-1	"Mordresh Fire Eye"	"NYI"
-434	150	760	0.342896	0.668033	4769	233	3	-1	"Glutton"	"nyi"
-435	150	760	0.445355	0.604508	4772	233	4	-1	"Amnennar the Coldbringer"	"nyi"
-438	149	761	0.872951	0.422131	4776	234	1	-1	"Death Speaker Jargba"	"nyi"
-439	149	761	0.801913	0.516393	4778	234	2	-1	"Aggem Thorncurse"	"nyi"
-440	149	761	0.571038	0.305328	4781	234	3	-1	"Overlord Ramtusk"	"nyi"
-441	149	761	0.0806012	0.688525	4786	234	4	-1	"Agathelos the Raging"	"nyi"
-442	149	761	0.217213	0.313525	4790	234	5	-1	"Charlga Razorflank"	"nyi"
-443	155	765	0.605191	0.313524	4794	236	1	-1	"Hearthsinger Forresten"	"nyi"
-445	155	765	0.499999	0.178279	4799	236	2	-1	"Timmy the Cruel"	"nyi"
-446	155	765	0.0478142	0.506148	4807	236	3	-1	"Willey Hopebreaker"	"nyi"
-448	155	765	0.277323	0.754099	4808	236	4	-1	"Instructor Galford"	"nyi"
-449	155	765	0.204918	0.821721	4828	236	5	-1	"Balnazzar"	"nyi"
-450	155	765	0.734973	0.204918	4833	236	6	-1	"The Unforgiven"	"nyi"
-451	156	765	0.745902	0.469262	4841	236	7	-1	"Baroness Anastari"	"nyi"
-452	156	765	0.572404	0.461065	4845	236	8	-1	"Nerub\'enkan"	"nyi"
-453	156	765	0.674864	0.227459	4851	236	9	-1	"Maleki the Pallid"	"nyi"
-454	156	765	0.56694	0.161885	4855	236	10	-1	"Magistrate Barthilas"	"nyi"
-455	156	765	0.456284	0.198771	4859	236	11	-1	"Ramstein the Gorger"	"nyi"
-456	156	765	0.386612	0.20082	4862	236	12	-1	"Lord Aurius Rivendare"	"nyi"
-457	176	687	0.243169	0.459016	4903	237	1	-1	"Avatar of Hakkar"	"nyi"
-458	176	687	0.760929	0.459016	4934	237	2	-1	"Jammal\'an the Prophet"	"nyi"
-459	176	687	0.504098	0.452869	6114	237	3	-1	"Wardens of the Dream"	"nyi"
-463	176	687	0.670765	0.877049	4950	237	7	-1	"Shade of Eranikus"	"nyi"
-464	165	690	0.218579	0.262295	4811	238	1	-1	"Hogger"	"nyi"
-465	165	690	0.784153	0.452869	4814	238	2	-1	"Lord Overheat"	"nyi"
-466	165	690	0.497268	0.221312	4817	238	3	-1	"Randolph Moloch"	"nyi"
-467	171	692	0.534153	0.72541	4820	239	1	-1	"Revelosh"	"nyi"
-468	171	692	0.584699	0.920082	4869	239	2	-1	"The Lost Dwarves (HORDE ONLY)"	"nyi"
-469	171	692	0.372951	0.739754	4876	239	3	-1	"Ironaya"	"nyi"
-470	171	692	0.47541	0.440574	4879	239	4	-1	"Ancient Stone Keeper"	"nyi"
-471	171	692	0.26776	0.327869	4880	239	5	-1	"Galgann Firehammer"	"nyi"
-472	171	692	0.219945	0.256148	4886	239	6	-1	"Grimlok"	"nyi"
-473	180	692	0.553279	0.504098	4894	239	7	-1	"Archaedas"	"nyi"
-474	28	749	0.306011	0.430328	4954	240	1	-1	"Lady Anacondra"	"nyi"
-476	28	749	0.191257	0.395492	4965	240	2	-1	"Lord Pythas"	"nyi"
-475	28	749	0.166667	0.567623	4958	240	3	-1	"Lord Cobrahn"	"nyi"
-477	28	749	0.385246	0.360656	4969	240	4	-1	"Kresh"	"nyi"
-478	28	749	0.622951	0.743853	4970	240	5	-1	"Skum"	"nyi"
-479	28	749	0.61612	0.538935	4971	240	6	-1	"Lord Serpentis"	"nyi"
-480	28	749	0.554645	0.465164	4974	240	7	-1	"Verdan the Everliving"	"nyi"
-481	28	749	0.345628	0.137295	4975	240	8	-1	"Mutanus the Devourer"	"nyi"
-482	0	686	0.336212	0.44841	4978	241	1	-1	"Hydromancer Velratha"	"nyi"
-483	0	686	0.280942	0.382783	4981	241	2	-1	"Ghaz\'rilla"	"nyi"
-484	0	686	0.646175	0.276639	4986	241	3	-1	"Antu\'sul"	"nyi"
-485	0	686	0.531421	0.262295	5005	241	4	-1	"Theka the Martyr"	"nyi"
-486	0	686	0.442623	0.17623	5011	241	5	-1	"Witch Doctor Zum\'rah"	"nyi"
-487	0	686	0.296448	0.17418	5019	241	6	-1	"Nekrum Gutchewer and Shadow Priest Sezz\'ziz"	"nyi"
-489	0	686	0.422131	0.329918	5025	241	8	-1	"Chief Ukorz Sandscalp"	"nyi"
-659	151	763	0.755721	0.54731	5524	246	1	-1	"Instructor Chillheart"	""
-663	191	766	0	0	5532	246	2	3	"Jandice Barov"	"PH After years of being ignored in the basement of Scholomance, Jandice has returned. She has been doing quite a bit of study in the field of Arcana."
-665	191	766	0	0	5552	246	3	3	"Rattlegore"	"PH"
-666	191	766	0	0	5558	246	4	3	"Lilian Voss"	"PH"
-684	191	766	0	0	5795	246	5	3	"Darkmaster Gandling"	"The Darkmaster attacks players with Incinerate and Immolate and periodically assigns one a Harsh Lesson, sending the player to a side room to fight Expired Test Subjects. When a tank or healer is sent, Gandling channels Rise!"
-523	215	722	0.463115	0.680327	5038	247	1	-1	"Shirrak the Dead Watcher"	"nyi"
-524	215	722	0.739071	0.508196	5042	247	2	-1	"Exarch Maladaar"	"nyi"
-527	219	797	0.729508	0.313525	5049	248	1	-1	"Watchkeeper Gargolmar"	"nyi"
-528	219	797	0.39071	0.204918	5057	248	2	-1	"Omor the Unscarred"	"nyi"
-529	219	797	0.355191	0.827869	5064	248	3	-1	"Vazruden the Herald"	"nyi"
-530	237	798	0.424864	0.223361	5078	249	1	-1	"Selin Fireheart"	"nyi"
-531	237	798	0.8347	0.264344	5082	249	2	-1	"Vexallus"	"nyi"
-532	236	798	0.397541	0.557377	5090	249	3	-1	"Priestess Delrissa"	"nyi"
-533	236	798	0.0860656	0.502049	5166	249	4	-1	"Kael\'thas Sunstrider"	"nyi"
-534	238	732	0.479508	0.297131	5188	250	1	-1	"Pandemonius"	"nyi"
-535	238	732	0.609289	0.741804	5191	250	2	-1	"Tavarok"	"nyi"
-536	238	732	0.356557	0.608607	5194	250	3	-2	"Yor"	"nyi"
-537	238	732	0.32377	0.491803	5196	250	4	-1	"Nexus-Prince Shaffar"	"nyi"
-538	0	734	0.754098	0.661885	5205	251	1	-1	"Lieutenant Drake"	"nyi"
-539	0	734	0.691257	0.696721	5210	251	2	-1	"Captain Skarloc"	"nyi"
-540	0	734	0.508197	0.319672	5225	251	3	-1	"Epoch Hunter"	"nyi"
-541	216	723	0.487705	0.680328	5230	252	1	-1	"Darkweaver Syth"	"nyi"
-542	217	723	0.326503	0.545082	5248	252	2	-2	"Anzu"	"nyi"
-543	217	723	0.326503	0.276639	5256	252	3	-1	"Talon King Ikiss"	"nyi"
-544	218	724	0.218579	0.395492	5261	253	1	-1	"Ambassador Hellmaw"	"nyi"
-545	218	724	0.26776	0.704918	5263	253	2	-1	"Blackheart the Inciter"	"nyi"
-546	218	724	0.531421	0.540983	5266	253	3	-1	"Grandmaster Vorpil"	"nyi"
-547	218	724	0.808743	0.391393	5272	253	4	-1	"Murmur"	"nyi"
-548	233	731	0.592896	0.243853	5279	254	1	-1	"Zereketh the Unbound"	"nyi"
-549	234	731	0.363388	0.782787	5283	254	2	-1	"Dalliah the Doomsayer"	"nyi"
-550	234	731	0.199454	0.786885	5291	254	3	-1	"Wrath-Scryer Soccothrates"	"nyi"
-551	235	731	0.61612	0.307377	5298	254	4	-1	"Harbinger Skyriss"	"nyi"
-552	0	733	0.45082	0.620901	5336	255	1	-1	"Chrono Lord Deja"	"nyi"
-553	0	733	0.54918	0.618853	5340	255	2	-1	"Temporus"	"nyi"
-554	0	733	0.480874	0.745902	5344	255	3	-1	"Aeonus"	"nyi"
-555	221	725	0.386612	0.418033	5356	256	1	-1	"The Maker"	"nyi"
-556	221	725	0.43306	0.219262	5367	256	2	-1	"Broggok"	"nyi"
-557	221	725	0.583333	0.411885	5382	256	3	-1	"Keli\'dan the Breaker"	"nyi"
-558	230	729	0.442623	0.233607	5401	257	1	-1	"Commander Sarannis"	"nyi"
-559	230	729	0.241803	0.227459	5418	257	2	-1	"High Botanist Freywinn"	"nyi"
-560	230	729	0.0737704	0.481557	5460	257	3	-1	"Thorngrin the Tender"	"nyi"
-561	230	729	0.340164	0.862706	5463	257	4	-1	"Laj"	"nyi"
-562	230	729	0.342896	0.368853	5476	257	5	-1	"Warp Splinter"	"nyi"
-563	231	730	0.513661	0.315574	5479	258	1	-1	"Mechano-Lord Capacitus"	"nyi"
-564	232	730	0.478142	0.202869	5484	258	2	-1	"Nethermancer Sepethrea"	"nyi"
-565	232	730	0.271858	0.610656	5489	258	3	-1	"Pathaleon the Calculator"	"nyi"
-566	222	710	0.333333	0.620902	5497	259	1	-1	"Grand Warlock Nethekurse"	"nyi"
-728	222	710	0.296846	0.146568	6216	259	2	-1	"Blood Guard Porung"	"nyi"
-568	222	710	0.54235	0.342213	5893	259	3	-1	"Warbringer O\'mrogg"	"nyi"
-569	222	710	0.673497	0.545082	5898	259	4	-1	"Warchief Kargath Bladefist"	"nyi"
-570	228	728	0.490437	0.270492	5902	260	1	-1	"Mennu the Betrayer"	"nyi"
-571	228	728	0.580601	0.405738	5907	260	2	-1	"Rokmar the Crackler"	"nyi"
-572	228	728	0.821038	0.768442	5977	260	3	-1	"Quagmirran"	"nyi"
-573	226	727	0.54235	0.137295	5982	261	1	-1	"Hydromancer Thespia"	"nyi"
-574	226	727	0.34153	0.819672	5996	261	2	-1	"Mekgineer Steamrigger"	"nyi"
-575	226	727	0.759563	0.436475	6001	261	3	-1	"Warlord Kalithresh"	"nyi"
-576	223	726	0.693989	0.89959	6006	262	1	-1	"Hungarfen"	"nyi"
-577	223	726	0.786885	0.288935	6009	262	2	-1	"Ghaz\'an"	"nyi"
-578	223	726	0.4153	0.241803	6013	262	3	-1	"Swamplord Musel\'ek"	"nyi"
-579	223	726	0.247268	0.456967	6036	262	4	-1	"The Black Stalker"	"nyi"
-580	50	522	0.696721	0.270492	6041	271	1	-1	"Elder Nadox"	"nyi"
-581	50	522	0.631147	0.495901	6050	271	2	-1	"Prince Taldaram"	"nyi"
-582	50	522	0.48224	0.72541	6055	271	3	-1	"Jedoga Shadowseeker"	"nyi"
-583	50	522	0.672131	0.786885	6060	271	4	-2	"Amanitar"	""
-584	50	522	0.236339	0.504098	6067	271	5	-1	"Herald Volazj"	"nyi"
-585	49	533	0.501366	0.45082	6073	272	1	-1	"Krik\'thir the Gatewatcher"	"nyi"
-586	48	533	0.431694	0.594262	6351	272	2	-1	"Hadronox"	"nyi"
-587	47	533	0.621585	0.487705	6355	272	3	-1	"Anub\'arak"	"nyi"
-588	37	534	0.565574	0.182377	6370	273	1	-1	"Trollgore"	"nyi"
-589	37	534	0.702186	0.479508	6375	273	2	-1	"Novos the Summoner"	"nyi"
-590	37	534	0.612022	0.862705	6390	273	3	-1	"King Dred"	"nyi"
-591	38	534	0.476776	0.133197	6396	273	4	-1	"The Prophet Tharon\'ja"	"nyi"
-592	36	530	0.539617	0.485656	6411	274	1	-1	"Slad\'ran"	"nyi"
-593	36	530	0.465847	0.655737	6418	274	2	-1	"Drakkari Colossus"	"nyi"
-594	36	530	0.393442	0.489754	0	274	3	-1	"Moorabi (needs abilities)"	"nyi"
-595	36	530	0.251366	0.704918	0	274	4	-2	"Eck the Ferocious (needs abilities)"	"nyi"
-596	36	530	0.465847	0.270492	0	274	5	-1	"Gal\'darah (needs abilities)"	"nyi"
-597	54	525	0.435792	0.372951	0	275	1	-1	"General Bjarngrim (needs abilities)"	"nyi"
-598	55	525	0.377049	0.209017	0	275	2	-1	"Volkhan (needs abilities)"	"nyi"
-599	55	525	0.614754	0.77459	0	275	3	-1	"Ionar (needs abilities)"	"nyi"
-600	55	525	0.189891	0.522541	0	275	4	-1	"Loken (needs abilities)"	"nyi"
-601	102	603	0.352459	0.75	0	276	1	-1	"Falric (needs abilities)"	"nyi"
-602	102	603	0.434426	0.627049	0	276	2	-1	"Marwyn (needs abilities)"	"nyi"
-603	102	603	0.105191	0.27459	0	276	3	-1	"Escape from Arthas (needs abilities)"	"nyi"
-604	53	526	0.401639	0.604508	0	277	1	-1	"Krystallus (needs abilities)"	"nyi"
-605	53	526	0.502732	0.862705	0	277	2	-1	"Maiden of Grief (needs abilities)"	"nyi"
-606	53	526	0.845629	0.760246	0	277	3	-1	"Tribunal of Ages (needs abilities and creature)"	"nyi"
-607	53	526	0.497268	0.137295	0	277	4	-1	"Sjonnir the Ironshaper (needs abilities)"	"nyi"
-608	0	602	0.680328	0.553278	0	278	1	-1	"Forgemaster Garfrost (needs abilities)"	"nyi"
-609	0	602	0.47541	0.397541	0	278	2	-1	"Ick & Krick (needs abilities)"	"nyi"
-610	0	602	0.441257	0.266394	0	278	3	-1	"Scourgelord Tyrannus (needs abilities)"	"nyi"
-611	34	521	0.56694	0.592213	0	279	1	-1	"Meathook (needs abilities)"	"nyi"
-612	34	521	0.59153	0.401638	0	279	2	-1	"Salram the Fleshcrafter (needs abilities)"	"nyi"
-613	34	521	0.65847	0.258197	0	279	3	-1	"Chrono-Lord Epoch (needs abilities)"	"nyi"
-614	34	521	0.325136	0.459016	0	279	4	-1	"Mal\'ganis (needs abilities)"	"nyi"
-615	101	601	0.435793	0.495902	0	280	1	-1	"Bronjahm (needs abilities)"	"nyi"
-616	101	601	0.434426	0.120902	0	280	2	-1	"Devourer of Souls (needs abilities)"	"nyi"
-617	25	520	0.187159	0.506146	0	281	1	-2	"Frozen Commander (needs abilities)"	"nyi"
-618	25	520	0.275956	0.39959	0	281	2	-1	"Grand Magus Telestra (needs abilities)"	"nyi"
-619	25	520	0.620218	0.221312	0	281	3	-1	"Anomalus (needs abilities)"	"nyi"
-620	25	520	0.562842	0.727459	0	281	4	-1	"Ormorok the Tree-Shaper (needs abilities)"	"nyi"
-621	25	520	0.362022	0.67418	0	281	5	-1	"Keristrasza (needs abilities)"	"nyi"
-622	42	528	0.491803	0.762295	0	282	1	-1	"Drakos the Interrogator (needs abilities)"	"nyi"
-623	43	528	0.461749	0.192623	0	282	2	-1	"Varos Cloudstrider (needs abilities)"	"nyi"
-624	45	528	0.70765	0.27459	0	282	3	-1	"Mage-Lord Urom (needs abilities)"	"nyi"
-625	46	528	0.469945	0.209016	0	282	4	-1	"Ley-Guardian Eregos (needs abilities)"	"nyi"
-626	52	536	0.275956	0.622951	0	283	1	-1	"Erekem (needs abilities)"	"nyi"
-627	52	536	0.678962	0.528688	0	283	2	-1	"Moragg (needs abilities)"	"nyi"
-628	52	536	0.556011	0.403688	0	283	3	-1	"Ichoron (needs abilities)"	"nyi"
-629	52	536	0.330601	0.452869	0	283	4	-1	"Xevozz (needs abilities)"	"nyi"
-630	52	536	0.618852	0.75	0	283	5	-1	"Lavanthor (needs abilities)"	"nyi"
-631	52	536	0.271858	0.336066	0	283	6	-1	"Zuramat the Obliterator (needs abilities)"	"nyi"
-632	52	536	0.45082	0.551229	0	283	7	-1	"Cyanigosa (needs abilities)"	"nyi"
-633	96	542	0.512295	0.526639	0	284	1	-1	"Grand Champions (Alliance) (needs abilities)"	"nyi"
-634	96	542	0.512295	0.526639	0	284	2	-1	"Grand Champions (Horde) (needs abilities)"	"nyi"
-635	96	542	0.513661	0.52459	0	284	3	-1	"Eadric the Pure (needs abilities)"	"nyi"
-636	96	542	0.512295	0.528688	0	284	4	-1	"Argent Confessor Paletress (needs abilities)"	"nyi"
-637	96	542	0.513661	0.526639	0	284	5	-1	"The Black Knight (needs abilities)"	"nyi"
-638	1	523	0.289618	0.627049	0	285	1	-1	"Prince Keleseth (needs abilities)"	"nyi"
-639	2	523	0.587431	0.620901	0	285	2	-1	"Skarvold & Dalronn (needs abilities)"	"nyi"
-640	41	523	0.724043	0.381148	0	285	3	-1	"Ingvar the Plunderer (needs abilities)"	"nyi"
-641	39	524	0.363388	0.706967	0	286	1	-1	"Svala Sorrowgrave (needs abilities)"	"nyi"
-642	40	524	0.606558	0.688525	0	286	2	-1	"Gortok Palehoof (needs abilities)"	"nyi"
-643	40	524	0.684426	0.362705	0	286	3	-1	"Skadi the Ruthless (needs abilities)"	"nyi"
-644	40	524	0.415301	0.534836	0	286	4	-1	"King Ymiron (needs abilities)"	"nyi"
-668	191	766	0	0	5586	302	1	3	"Ook-Ook"	"PH"
-669	191	766	0	0	5590	302	2	3	"Hoptallus"	"PH"
-670	191	766	0	0	5595	302	3	3	"Yan-Zhu the Uncasked"	"PH"
-655	191	766	0	0	5390	303	1	-1	"Saboteur Kip\'tilak"	"PH"
-675	191	766	0	0	5642	303	2	-1	"Striker Ga\'dok"	"PH"
-676	191	766	0	0	5666	303	3	-1	"Commander Ri\'mok"	"PH"
-649	191	766	0	0	5034	303	4	-1	"Raigonn"	"PH"
-660	639	871	0.548038	0.288227	5606	311	1	-1	"Houndmaster Braun"	"PH"
-654	640	871	0.618823	0.447748	5376	311	2	-1	"Armsmaster Harlan"	"PH"
-656	640	871	0.393775	0.156292	5395	311	2	-1	"Flameweaver Koegler"	"Ashamed of their past, the Scarlet Crusade has tasked Flameweaver Koegler to erase any past transgressions of the Crusade, which involves burning the pages of history."
-673	191	766	0	0	5621	312	1	-1	"Gu Cloudstrike"	"PH"
-657	191	766	0	0	5435	312	2	-1	"Master Snowdrift"	"PH"
-685	191	766	0	0	5810	312	3	3	"Sha of Violence"	"PH"
-686	191	766	0	0	5827	312	4	-1	"Taran Zhu"	"PH"
-672	191	766	0	0	5612	313	1	-1	"Wise Mari"	"Sha-corrupted Waterspeaker. PH"
-664	191	766	0	0	5536	313	2	3	"Lorewalker Stonestep"	"The sha have infested the library of the Temple of the Jade Serpent. They have taken form of the various characters of Pandaren lore. You must defeat them in order to bring peace to the ancient library."
-658	191	766	0	0	5501	313	3	-1	"Liu Flameheart"	"PH"
-335	228	728	0	0	4072	313	4	-1	"Sha of Doubt"	"PH"
-688	641	874	0.262048	0.456325	5862	316	1	-1	"Thalnos the Soulrender"	"PH"
-671	648	874	0.493976	0.524096	5600	316	2	-1	"Brother Korloff"	""
-674	648	874	0.490964	0.804217	5635	316	3	3	"High Inquisitor Whitemane"	"PH"
-679	132	754	0.2455094	0.7020959	5691	317	1	-1	"The Stone Guard"	"PH"
-689	191	766	0	0	5871	317	2	-1	"Feng the Accursed"	"PH"
-682	132	754	0.2455094	0.7020959	5739	317	3	-1	"Gara\'jal the Spiritbinder"	""
-687	191	766	0	0	5835	317	3	-1	"The Spirit Kings"	"PH"
-726	191	766	0	0	6171	317	5	-1	"Elegon"	"Celestial dragon encounter. [PH]"
-677	110	604	0.500329	0.45809	5670	317	6	-1	"Will of the Emperor"	"[PH] They are hard as a rock and mean as a fist made of smaller fists."
-683	191	766	0	0	5818	320	1	-1	"Protectors of the Endless"	"[PH] Fish full of Sha"
-742	191	766	0	0	6310	320	2	-1	"Nalomoni"	"[PH]"
-729	191	766	0	0	6219	320	3	-1	"Lei Shi"	"Lei Shi casts Spray instead of attacking normally. She periodically casts Hide and Get Away! At specific health values she casts Protect and summons Animated Protectors to defend her."
-709	191	766	0	0	6086	320	4	-1	"Sha of Fear"	"*Face your fears in up to 3 epic battles!
+406	263	699	0.336066	0.536885	4913	230	5	-1	Tendris Warpwood	NYI
+407	263	699	0.203552	0.77664	4906	230	6	-1	Illyanna Ravenoak	NYI
+408	264	699	0.338798	0.45082	4836	230	7	-1	Magister Kalendris	NYI
+409	265	699	0.349727	0.57582	4822	230	8	-1	Immol\'thar	NYI
+410	265	699	0.622951	0.231557	4752	230	9	-1	Prince Tortheldrin	NYI
+411	262	699	0.695355	0.760246	4740	230	10	-1	Guard Mol\'dar	NYI
+412	262	699	0.612022	0.692623	4734	230	11	-1	Stomper Kreeg	NYI
+413	262	699	0.494536	0.780738	4725	230	12	-29	Guard Fengus	NYI
+414	262	699	0.266393	0.571721	4716	230	13	-29	Guard Slip\'kik	NYI
+415	262	699	0.318306	0.506148	4705	230	14	3	Captain Kromcrush	NYI
+416	262	699	0.319542	0.303693	4673	230	15	3	Cho\'Rush the Observer	NYI
+417	262	699	0.319544	0.229482	4666	230	16	-1	King Gordok	NYI
+418	170	691	0.431694	0.883197	4670	231	4	-1	Crowd Pummeler 9-60	NYI
+419	168	691	0.778688	0.670082	4690	231	1	-1	Grubbis	NYI
+420	169	691	0.759563	0.465164	4691	231	2	-1	Viscous Fallout	nyi
+421	169	691	0.243169	0.684426	4692	231	3	-1	Electrocutioner 6000	NYI
+422	172	691	0.311475	0.303279	4702	231	5	-1	Mekgineer Thermaplugg	NYI
+423	256	750	0.362022	0.0983607	4709	232	1	-1	Noxxion	NYI
+424	256	750	0.166667	0.344262	4713	232	2	-1	Razorlash	nyi
+425	256	750	0.509563	0.530738	4721	232	3	-1	Tinkerer Gizlock	nyi
+426	162	688	0.543284	0.564179	4377	227	3	-31	Gelihast	Dual wielding murloc [ph]
+427	256	750	0.378415	0.704918	4730	232	4	-1	Lord Vyletongue	nyi
+428	257	750	0.245902	0.143443	4745	232	5	-1	Celebras the Cursed	NYI
+429	257	750	0.40847	0.487705	4749	232	6	-1	Landslide	nyi
+430	257	750	0.413934	0.817623	4757	232	7	-1	Rotgrip	nyi
+431	257	750	0.258197	0.788934	4759	232	8	-1	Princess Theradras	nyi
+432	150	760	0.594262	0.340164	4763	233	1	-1	Tuten\'kash	nyi
+433	150	760	0.860656	0.467213	4767	233	2	-1	Mordresh Fire Eye	NYI
+434	150	760	0.342896	0.668033	4769	233	3	-1	Glutton	nyi
+435	150	760	0.445355	0.604508	4772	233	4	-1	Amnennar the Coldbringer	nyi
+436	162	688	0.11194	0.389552	4379	227	2	1	Lady Sarevess	Naga caster boss
+437	163	688	0.52388	0.808209	4382	227	5	1	Twilight Lord Kelris	Twilight Orc
+438	149	761	0.872951	0.422131	4776	234	1	-1	Death Speaker Jargba	nyi
+439	149	761	0.801913	0.516393	4778	234	2	-1	Aggem Thorncurse	nyi
+440	149	761	0.571038	0.305328	4781	234	3	-1	Overlord Ramtusk	nyi
+441	149	761	0.0806012	0.688525	4786	234	4	-1	Agathelos the Raging	nyi
+442	149	761	0.217213	0.313525	4790	234	5	-1	Charlga Razorflank	nyi
+443	155	765	0.605191	0.313524	4794	236	1	-1	Hearthsinger Forresten	nyi
+444	163	688	0.855224	0.864179	4383	227	6	1	Aku\'mai	Three-Headed Hydra
+445	155	765	0.499999	0.178279	4799	236	2	-1	Timmy the Cruel	nyi
+446	155	765	0.0478142	0.506148	4807	236	4	-1	Willey Hopebreaker	nyi
+447	164	688	0.586567	0.308955	4385	227	4	1	Old Serra\'kis	Thresher of the Forgotten Pool.
+448	155	765	0.277323	0.754099	4808	236	5	-1	Instructor Galford	nyi
+449	155	765	0.204918	0.821721	4828	236	6	-1	Balnazzar	nyi
+450	155	765	0.734973	0.204918	4833	236	7	-1	The Unforgiven	nyi
+451	156	765	0.745902	0.469262	4841	236	8	-1	Baroness Anastari	nyi
+452	156	765	0.572404	0.461065	4845	236	9	-1	Nerub\'enkan	nyi
+453	156	765	0.674864	0.227459	4851	236	10	-1	Maleki the Pallid	nyi
+454	156	765	0.56694	0.161885	4855	236	11	-1	Magistrate Barthilas	nyi
+455	156	765	0.456284	0.198771	4859	236	12	-1	Ramstein the Gorger	nyi
+456	156	765	0.386612	0.20082	4862	236	13	-1	Lord Aurius Rivendare	nyi
+457	176	687	0.243169	0.459016	4903	237	1	-1	Avatar of Hakkar	nyi
+458	176	687	0.760929	0.459016	4934	237	2	-1	Jammal\'an the Prophet	nyi
+459	176	687	0.499151	0.870309	6114	237	3	-1	Wardens of the Dream	nyi
+463	176	687	0.670765	0.877049	4950	237	7	-1	Shade of Eranikus	nyi
+464	165	690	0.218579	0.262295	4811	238	1	-1	Hogger	nyi
+465	165	690	0.784153	0.452869	4814	238	2	-1	Lord Overheat	nyi
+466	165	690	0.497268	0.221312	4817	238	3	-1	Randolph Moloch	nyi
+467	171	692	0.534153	0.72541	4820	239	1	-1	Revelosh	nyi
+468	171	692	0.584699	0.920082	4869	239	2	-1	The Lost Dwarves (HORDE ONLY)	nyi
+469	171	692	0.372951	0.739754	4876	239	3	-1	Ironaya	nyi
+470	171	692	0.47541	0.440574	4879	239	5	-1	Ancient Stone Keeper	nyi
+471	171	692	0.26776	0.327869	4880	239	6	-1	Galgann Firehammer	nyi
+472	171	692	0.219945	0.256148	4886	239	7	-1	Grimlok	nyi
+473	180	692	0.553279	0.504098	4894	239	8	-1	Archaedas	nyi
+474	28	749	0.306011	0.430328	4954	240	1	-1	Lady Anacondra	nyi
+475	28	749	0.166667	0.567623	4958	240	3	-1	Lord Cobrahn	nyi
+476	28	749	0.191257	0.395492	4965	240	2	-1	Lord Pythas	nyi
+477	28	749	0.385246	0.360656	4969	240	4	-1	Kresh	nyi
+478	28	749	0.622951	0.743853	4970	240	5	-1	Skum	nyi
+479	28	749	0.61612	0.538935	4971	240	6	-1	Lord Serpentis	nyi
+480	28	749	0.554645	0.465164	4974	240	7	-1	Verdan the Everliving	nyi
+481	28	749	0.345628	0.137295	4975	240	8	-1	Mutanus the Devourer	nyi
+482	0	686	0.336212	0.44841	4978	241	1	-1	Hydromancer Velratha	nyi
+483	0	686	0.280942	0.382783	4981	241	2	-1	Ghaz\'rilla	nyi
+484	0	686	0.646175	0.276639	4986	241	3	-1	Antu\'sul	nyi
+485	0	686	0.531421	0.262295	5005	241	4	-1	Theka the Martyr	nyi
+486	0	686	0.442623	0.17623	5011	241	5	-1	Witch Doctor Zum\'rah	nyi
+487	0	686	0.296448	0.17418	5019	241	6	-1	Nekrum Gutchewer and Shadow Priest Sezz\'ziz	nyi
+489	0	686	0.422131	0.329918	5025	241	8	-1	Chief Ukorz Sandscalp	nyi
+523	215	722	0.463115	0.680327	5038	247	1	-1	Shirrak the Dead Watcher	nyi
+524	215	722	0.739071	0.508196	5042	247	2	-1	Exarch Maladaar	nyi
+527	219	797	0.729508	0.313525	5049	248	1	-1	Watchkeeper Gargolmar	nyi
+528	219	797	0.39071	0.204918	5057	248	2	-1	Omor the Unscarred	nyi
+529	219	797	0.355191	0.827869	5064	248	3	-1	Vazruden the Herald	nyi
+530	237	798	0.424864	0.223361	5078	249	1	-1	Selin Fireheart	nyi
+531	237	798	0.8347	0.264344	5082	249	2	-1	Vexallus	nyi
+532	236	798	0.397541	0.557377	5090	249	3	-1	Priestess Delrissa	nyi
+533	236	798	0.0860656	0.502049	5166	249	4	-1	Kael\'thas Sunstrider	nyi
+534	238	732	0.479508	0.297131	5188	250	1	-1	Pandemonius	nyi
+535	238	732	0.609289	0.741804	5191	250	2	-1	Tavarok	nyi
+536	238	732	0.356557	0.608607	5194	250	3	-2	Yor	nyi
+537	238	732	0.32377	0.491803	5196	250	4	-1	Nexus-Prince Shaffar	nyi
+538	0	734	0.754098	0.661885	5205	251	1	-1	Lieutenant Drake	nyi
+539	0	734	0.691257	0.696721	5210	251	2	-1	Captain Skarloc	nyi
+540	0	734	0.508197	0.319672	5225	251	3	-1	Epoch Hunter	nyi
+541	216	723	0.487705	0.680328	5230	252	1	-1	Darkweaver Syth	nyi
+542	217	723	0.326503	0.545082	5248	252	2	-2	Anzu	nyi
+543	217	723	0.326503	0.276639	5256	252	3	-1	Talon King Ikiss	nyi
+544	218	724	0.218579	0.395492	5261	253	1	-1	Ambassador Hellmaw	nyi
+545	218	724	0.26776	0.704918	5263	253	2	-1	Blackheart the Inciter	nyi
+546	218	724	0.531421	0.540983	5266	253	3	-1	Grandmaster Vorpil	nyi
+547	218	724	0.808743	0.391393	5272	253	4	-1	Murmur	nyi
+548	233	731	0.592896	0.243853	5279	254	1	-1	Zereketh the Unbound	nyi
+549	234	731	0.363388	0.782787	5283	254	2	-1	Dalliah the Doomsayer	nyi
+550	234	731	0.199454	0.786885	5291	254	3	-1	Wrath-Scryer Soccothrates	nyi
+551	235	731	0.61612	0.307377	5298	254	4	-1	Harbinger Skyriss	nyi
+552	0	733	0.45082	0.620901	5336	255	1	-1	Chrono Lord Deja	nyi
+553	0	733	0.54918	0.618853	5340	255	2	-1	Temporus	nyi
+554	0	733	0.480874	0.745902	5344	255	3	-1	Aeonus	nyi
+555	221	725	0.386612	0.418033	5356	256	1	-1	The Maker	nyi
+556	221	725	0.43306	0.219262	5367	256	2	-1	Broggok	nyi
+557	221	725	0.583333	0.411885	5382	256	3	-1	Keli\'dan the Breaker	nyi
+558	230	729	0.442623	0.233607	5401	257	1	-1	Commander Sarannis	nyi
+559	230	729	0.241803	0.227459	5418	257	2	-1	High Botanist Freywinn	nyi
+560	230	729	0.0737704	0.481557	5460	257	3	-1	Thorngrin the Tender	nyi
+561	230	729	0.340164	0.862706	5463	257	4	-1	Laj	nyi
+562	230	729	0.342896	0.368853	5476	257	5	-1	Warp Splinter	nyi
+563	231	730	0.513661	0.315574	5479	258	1	-1	Mechano-Lord Capacitus	nyi
+564	232	730	0.478142	0.202869	5484	258	2	-1	Nethermancer Sepethrea	nyi
+565	232	730	0.271858	0.610656	5489	258	3	-1	Pathaleon the Calculator	nyi
+566	222	710	0.333333	0.620902	5497	259	1	-1	Grand Warlock Nethekurse	nyi
+568	222	710	0.54235	0.342213	5893	259	3	-1	Warbringer O\'mrogg	nyi
+569	222	710	0.673497	0.545082	5898	259	4	-1	Warchief Kargath Bladefist	nyi
+570	228	728	0.490437	0.270492	5902	260	1	-1	Mennu the Betrayer	nyi
+571	228	728	0.580601	0.405738	5907	260	2	-1	Rokmar the Crackler	nyi
+572	228	728	0.821038	0.768442	5977	260	3	-1	Quagmirran	nyi
+573	226	727	0.54235	0.137295	5982	261	1	-1	Hydromancer Thespia	nyi
+574	226	727	0.34153	0.819672	5996	261	2	-1	Mekgineer Steamrigger	nyi
+575	226	727	0.759563	0.436475	6001	261	3	-1	Warlord Kalithresh	nyi
+576	223	726	0.693989	0.89959	6006	262	1	-1	Hungarfen	nyi
+577	223	726	0.786885	0.288935	6009	262	2	-1	Ghaz\'an	nyi
+578	223	726	0.4153	0.241803	6013	262	3	-1	Swamplord Musel\'ek	nyi
+579	223	726	0.247268	0.456967	6036	262	4	-1	The Black Stalker	nyi
+580	50	522	0.696721	0.270492	6041	271	1	-1	Elder Nadox	nyi
+581	50	522	0.631147	0.495901	6050	271	2	-1	Prince Taldaram	nyi
+582	50	522	0.48224	0.72541	6055	271	3	-1	Jedoga Shadowseeker	nyi
+583	50	522	0.672131	0.786885	6060	271	4	-2	Amanitar	
+584	50	522	0.236339	0.504098	6067	271	5	-1	Herald Volazj	nyi
+585	49	533	0.501366	0.45082	6073	272	1	-1	Krik\'thir the Gatewatcher	nyi
+586	48	533	0.431694	0.594262	6351	272	2	-1	Hadronox	nyi
+587	47	533	0.621585	0.487705	6355	272	3	-1	Anub\'arak	nyi
+588	37	534	0.565574	0.182377	6370	273	1	-1	Trollgore	nyi
+589	37	534	0.702186	0.479508	6375	273	2	-1	Novos the Summoner	nyi
+590	37	534	0.612022	0.862705	6390	273	3	-1	King Dred	nyi
+591	38	534	0.476776	0.133197	6396	273	4	-1	The Prophet Tharon\'ja	nyi
+592	36	530	0.539617	0.485656	6411	274	1	-1	Slad\'ran	nyi
+593	36	530	0.465847	0.655737	6418	274	2	-1	Drakkari Colossus	nyi
+594	36	530	0.393442	0.489754	0	274	3	-1	Moorabi (needs abilities)	nyi
+595	36	530	0.251366	0.704918	0	274	4	-2	Eck the Ferocious (needs abilities)	nyi
+596	36	530	0.465847	0.270492	0	274	5	-1	Gal\'darah (needs abilities)	nyi
+597	54	525	0.435792	0.372951	0	275	1	-1	General Bjarngrim (needs abilities)	nyi
+598	55	525	0.377049	0.209017	0	275	2	-1	Volkhan (needs abilities)	nyi
+599	55	525	0.614754	0.77459	0	275	3	-1	Ionar (needs abilities)	nyi
+600	55	525	0.189891	0.522541	0	275	4	-1	Loken (needs abilities)	nyi
+601	102	603	0.352459	0.75	0	276	1	-1	Falric (needs abilities)	nyi
+602	102	603	0.434426	0.627049	0	276	2	-1	Marwyn (needs abilities)	nyi
+603	102	603	0.105191	0.27459	0	276	3	-1	Escape from Arthas (needs abilities)	nyi
+604	53	526	0.401639	0.604508	0	277	1	-1	Krystallus (needs abilities)	nyi
+605	53	526	0.502732	0.862705	0	277	2	-1	Maiden of Grief (needs abilities)	nyi
+606	53	526	0.845629	0.760246	0	277	3	-1	Tribunal of Ages (needs abilities and creature)	nyi
+607	53	526	0.497268	0.137295	0	277	4	-1	Sjonnir the Ironshaper (needs abilities)	nyi
+608	0	602	0.680328	0.553278	0	278	1	-1	Forgemaster Garfrost (needs abilities)	nyi
+609	0	602	0.47541	0.397541	0	278	2	-1	Ick & Krick (needs abilities)	nyi
+610	0	602	0.441257	0.266394	0	278	3	-1	Scourgelord Tyrannus (needs abilities)	nyi
+611	34	521	0.56694	0.592213	0	279	1	-1	Meathook (needs abilities)	nyi
+612	34	521	0.59153	0.401638	0	279	2	-1	Salram the Fleshcrafter (needs abilities)	nyi
+613	34	521	0.65847	0.258197	0	279	3	-1	Chrono-Lord Epoch (needs abilities)	nyi
+614	34	521	0.325136	0.459016	0	279	4	-1	Mal\'ganis (needs abilities)	nyi
+615	101	601	0.435793	0.495902	0	280	1	-1	Bronjahm (needs abilities)	nyi
+616	101	601	0.434426	0.120902	0	280	2	-1	Devourer of Souls (needs abilities)	nyi
+617	25	520	0.187159	0.506146	0	281	1	-2	Frozen Commander (needs abilities)	nyi
+618	25	520	0.275956	0.39959	0	281	2	-1	Grand Magus Telestra (needs abilities)	nyi
+619	25	520	0.620218	0.221312	0	281	3	-1	Anomalus (needs abilities)	nyi
+620	25	520	0.562842	0.727459	0	281	4	-1	Ormorok the Tree-Shaper (needs abilities)	nyi
+621	25	520	0.362022	0.67418	0	281	5	-1	Keristrasza (needs abilities)	nyi
+622	42	528	0.491803	0.762295	0	282	1	-1	Drakos the Interrogator (needs abilities)	nyi
+623	43	528	0.461749	0.192623	0	282	2	-1	Varos Cloudstrider (needs abilities)	nyi
+624	45	528	0.70765	0.27459	0	282	3	-1	Mage-Lord Urom (needs abilities)	nyi
+625	46	528	0.469945	0.209016	0	282	4	-1	Ley-Guardian Eregos (needs abilities)	nyi
+626	52	536	0.275956	0.622951	0	283	1	-1	Erekem (needs abilities)	nyi
+627	52	536	0.678962	0.528688	0	283	2	-1	Moragg (needs abilities)	nyi
+628	52	536	0.556011	0.403688	0	283	3	-1	Ichoron (needs abilities)	nyi
+629	52	536	0.330601	0.452869	0	283	4	-1	Xevozz (needs abilities)	nyi
+630	52	536	0.618852	0.75	0	283	5	-1	Lavanthor (needs abilities)	nyi
+631	52	536	0.271858	0.336066	0	283	6	-1	Zuramat the Obliterator (needs abilities)	nyi
+632	52	536	0.45082	0.551229	0	283	7	-1	Cyanigosa (needs abilities)	nyi
+633	96	542	0.512295	0.526639	0	284	1	-1	Grand Champions (Alliance) (needs abilities)	nyi
+634	96	542	0.512295	0.526639	0	284	2	-1	Grand Champions (Horde) (needs abilities)	nyi
+635	96	542	0.513661	0.52459	0	284	3	-1	Eadric the Pure (needs abilities)	nyi
+636	96	542	0.512295	0.528688	0	284	4	-1	Argent Confessor Paletress (needs abilities)	nyi
+637	96	542	0.513661	0.526639	0	284	5	-1	The Black Knight (needs abilities)	nyi
+638	1	523	0.289618	0.627049	0	285	1	-1	Prince Keleseth (needs abilities)	nyi
+639	2	523	0.587431	0.620901	0	285	2	-1	Skarvold & Dalronn (needs abilities)	nyi
+640	41	523	0.724043	0.381148	0	285	3	-1	Ingvar the Plunderer (needs abilities)	nyi
+641	39	524	0.363388	0.706967	0	286	1	-1	Svala Sorrowgrave (needs abilities)	nyi
+642	40	524	0.606558	0.688525	0	286	2	-1	Gortok Palehoof (needs abilities)	nyi
+643	40	524	0.684426	0.362705	0	286	3	-1	Skadi the Ruthless (needs abilities)	nyi
+644	40	524	0.415301	0.534836	0	286	4	-1	King Ymiron (needs abilities)	nyi
+649	191	766	0	0	5034	303	4	-1	Raigonn	PH
+654	640	871	0.618823	0.447748	5376	311	2	-1	Armsmaster Harlan	PH
+655	191	766	0	0	5390	303	1	-1	Saboteur Kip\'tilak	PH
+656	640	871	0.393775	0.156292	5395	311	2	-1	Flameweaver Koegler	Ashamed of their past, the Scarlet Crusade has tasked Flameweaver Koegler to erase any past transgressions of the Crusade, which involves burning the pages of history.
+657	191	766	0	0	5435	312	2	-1	Master Snowdrift	PH
+658	191	766	0	0	5501	313	3	-1	Liu Flameheart	PH
+659	151	763	0.755721	0.54731	5524	246	1	-1	Instructor Chillheart	
+660	639	871	0.548038	0.288227	5606	311	1	-1	Houndmaster Braun	PH
+663	191	766	0	0	5532	246	2	3	Jandice Barov	PH After years of being ignored in the basement of Scholomance, Jandice has returned. She has been doing quite a bit of study in the field of Arcana.
+664	191	766	0	0	5536	313	2	3	Lorewalker Stonestep	The sha have infested the library of the Temple of the Jade Serpent. They have taken form of the various characters of Pandaren lore. You must defeat them in order to bring peace to the ancient library.
+665	191	766	0	0	5552	246	3	3	Rattlegore	PH
+666	191	766	0	0	5558	246	4	3	Lilian Voss	PH
+668	191	766	0	0	5586	302	1	3	Ook-Ook	PH
+669	191	766	0	0	5590	302	2	3	Hoptallus	PH
+670	191	766	0	0	5595	302	3	3	Yan-Zhu the Uncasked	PH
+671	648	874	0.493976	0.524096	5600	316	2	-1	Brother Korloff	
+672	191	766	0	0	5612	313	1	-1	Wise Mari	Sha-corrupted Waterspeaker. PH
+673	191	766	0	0	5621	312	1	-1	Gu Cloudstrike	PH
+674	648	874	0.490964	0.804217	5635	316	3	3	High Inquisitor Whitemane	PH
+675	191	766	0	0	5642	303	2	-1	Striker Ga\'dok	PH
+676	191	766	0	0	5666	303	3	-1	Commander Ri\'mok	PH
+677	110	604	0.500329	0.45809	5670	317	6	-1	Will of the Emperor	[PH] They are hard as a rock and mean as a fist made of smaller fists.
+679	132	754	0.2455094	0.7020959	5691	317	1	-1	The Stone Guard	PH
+682	132	754	0.2455094	0.7020959	5739	317	3	-1	Gara\'jal the Spiritbinder	
+683	191	766	0	0	5818	320	1	-1	Protectors of the Endless	[PH] Fish full of Sha
+684	191	766	0	0	5795	246	5	3	Darkmaster Gandling	The Darkmaster attacks players with Incinerate and Immolate and periodically assigns one a Harsh Lesson, sending the player to a side room to fight Expired Test Subjects. When a tank or healer is sent, Gandling channels Rise!
+685	191	766	0	0	5810	312	3	3	Sha of Violence	PH
+686	191	766	0	0	5827	312	4	-1	Taran Zhu	PH
+687	191	766	0	0	5835	317	3	-1	The Spirit Kings	PH
+688	641	874	0.262048	0.456325	5862	316	1	-1	Thalnos the Soulrender	PH
+689	191	766	0	0	5871	317	2	-1	Feng the Accursed	PH
+690	191	766	0	0	5911	321	2	-1	Gekkan	[PH] Leader of the Glintrok clan, Gekkan is an expert at rallying his subordinates and never travels without an entourage.
+691	0	747	0.819691	0.45809	5937	322	1	-1	Sha of Anger	[PH] He\'s really mad...
+692	191	766	0	0	5955	324	3	-1	General Pa\'valak	
+693	191	766	0	0	5957	324	1	-1	Vizier Jin\'bak	PH
+694	136	680	0.69273	0.650206	5961	226	1	-1	Adarogg	nyi
+695	136	680	0.540467	0.300412	5963	226	2	-1	Dark Shaman Koranthal	nyi
+696	136	680	0.40878	0.574074	5965	226	3	-1	Slagmaw	nyi
+697	136	680	0.342936	0.816872	5967	226	4	-1	Lava Guard Gordoth	nyi
+698	191	766	0	0	5970	321	3	3	Xin the Weaponmaster	PH
+708	191	766	0	0	6015	321	0	-1	Trial of the King	PH
+709	191	766	0	0	6086	320	4	-1	Sha of Fear	"*Face your fears in up to 3 epic battles!
 *Become the Champion of the Light!
 *Waffles not included."
-708	191	766	0	0	6015	321	0	-1	"Trial of the King"	"PH"
-690	191	766	0	0	5911	321	2	-1	"Gekkan"	"[PH] Leader of the Glintrok clan, Gekkan is an expert at rallying his subordinates and never travels without an entourage."
-698	191	766	0	0	5970	321	3	3	"Xin the Weaponmaster"	"PH"
-691	0	747	0.819691	0.45809	5937	322	1	-1	"Sha of Anger"	"[PH] He\'s really mad..."
-725	0	747	0.819691	0.45809	6141	322	1	-1	"Salyis\' Warband"	"[PH] What if we just put cannons on everything?"
-693	191	766	0	0	5957	324	1	-1	"Vizier Jin\'bak"	"PH"
-738	191	766	0	0	6274	324	2	-1	"Commander Vo\'jak"	"A veteran of the mantid army, Commander Vo\'jak stands defending the rear of the siege. PH"
-692	191	766	0	0	5955	324	3	-1	"General Pa\'valak"	""
-727	191	766	0	0	6204	324	4	-1	"Wing Leader Ner\'onok"	"PH"
-744	191	766	0	0	6345	330	0	-1	"Blade Lord Ta\'yak"	"The martial grandmaster of the Mantid empire, he has no equal with the blade. His role is now to teach young mantid warriors the combat arts of the Mantid. He truly enjoys matching blades with opponents, and has a very odd and even temper. Heï¿½s the kind of opponent that analyzes and determines the weakness of an opponent, and only then strikes. Heï¿½s very patient, doesnï¿½t fluster, and waits for the perfect opportunity."
-745	191	766	0	0	6424	330	1	-1	"Imperial Vizier Zor\'lok"	"Not just a fanclub member, the fanclub _president_"
-713	0	747	0.819691	0.45809	6122	330	4	-1	"Garalon"	"[PH] LOL LOOK AT HIS TINY WINGS"
-741	191	766	0	0	6328	330	4	-1	"Wind Lord Mel\'jarak"	"nyi"
-737	191	766	0	0	6243	330	5	-1	"Amber-Shaper Un\'sok"	"Mantid vivimancer [PH]"
-743	191	766	0	0	6336	330	6	-1	"Grand Empress Shek\'zeer"	"PH - Not Complete"
+713	0	747	0.819691	0.45809	6122	330	4	-1	Garalon	[PH] LOL LOOK AT HIS TINY WINGS
+725	0	747	0.819691	0.45809	6141	322	1	-1	Salyis\' Warband	[PH] What if we just put cannons on everything?
+726	191	766	0	0	6171	317	5	-1	Elegon	Celestial dragon encounter. [PH]
+727	191	766	0	0	6204	324	4	-1	Wing Leader Ner\'onok	PH
+728	222	710	0.296846	0.146568	6216	259	2	-1	Blood Guard Porung	nyi
+729	191	766	0	0	6219	320	3	-1	Lei Shi	Lei Shi casts Spray instead of attacking normally. She periodically casts Hide and Get Away! At specific health values she casts Protect and summons Animated Protectors to defend her.
+737	191	766	0	0	6243	330	5	-1	Amber-Shaper Un\'sok	Mantid vivimancer [PH]
+738	191	766	0	0	6274	324	2	-1	Commander Vo\'jak	A veteran of the mantid army, Commander Vo\'jak stands defending the rear of the siege. PH
+741	191	766	0	0	6328	330	4	-1	Wind Lord Mel\'jarak	nyi
+742	191	766	0	0	6310	320	2	-1	Nalomoni	[PH]
+743	191	766	0	0	6336	330	6	-1	Grand Empress Shek\'zeer	PH - Not Complete
+744	191	766	0	0	6345	330	0	-1	Blade Lord Ta\'yak	The martial grandmaster of the Mantid empire, he has no equal with the blade. His role is now to teach young mantid warriors the combat arts of the Mantid. He truly enjoys matching blades with opponents, and has a very odd and even temper. He´?¢s the kind of opponent that analyzes and determines the weakness of an opponent, and only then strikes. He´?¢s very patient, doesn´?¢t fluster, and waits for the perfect opportunity.
+745	191	766	0	0	6424	330	1	-1	Imperial Vizier Zor\'lok	Not just a fanclub member, the fanclub _president_
+748	171	692	0.289425	0.597403	6448	239	4	-1	Obsidian Sentinel	nyi
+749	155	765	0.29932	0.411874	6452	236	3	-1	Commander Malor	

@@ -1,4 +1,4 @@
-m_ID	m_faction	m_flags	m_factionGroup	m_friendGroup	m_enemyGroup	m_enemies_1	m_enemies_2	m_enemies_3	m_enemies_4	m_friend_1	m_friend_2	m_friend_3	m_friend_4	
+m_ID	m_faction	m_flags	m_factionGroup	m_friendGroup	m_enemyGroup	m_enemies_1	m_enemies_2	m_enemies_3	m_enemies_4	m_friend_1	m_friend_2	m_friend_3	m_friend_4
 1	1	72	3	2	12	0	0	0	0	0	0	0	0
 2	2	72	5	4	10	0	0	0	0	0	0	0	0
 3	3	72	3	2	12	0	0	0	0	0	0	0	0
@@ -1114,3 +1114,5 @@ m_ID	m_faction	m_flags	m_factionGroup	m_friendGroup	m_enemyGroup	m_enemies_1	m_e
 2575	28	0	0	0	0	973	0	0	0	148	28	0	0
 2576	28	1	0	0	0	973	0	0	0	148	28	0	0
 2577	1145	32	0	0	15	67	469	14	0	0	0	0	0
+2578	1268	33	8	8	1	1269	1270	974	973	1268	0	0	0
+2579	1268	32	8	8	1	1269	1270	974	973	1268	0	0	0
