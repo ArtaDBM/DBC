@@ -18,3 +18,6 @@ id	name
 38	"Goblin Binary"
 39	"Gilnean"
 40	"Goblin"
+42	"Pandaren"
+43	"Pandaren"
+44	"Pandaren"

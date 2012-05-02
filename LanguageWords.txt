@@ -1,4 +1,4 @@
-Id	LanguagesID	Text	
+field0	field1	field2	
 1	1	"A"
 2	1	"N"
 3	1	"G"
@@ -1744,3 +1744,9 @@ Id	LanguagesID	Text
 1757	40	"nibbityfuzhips"
 1758	40	"bobnobblepapkap"
 1759	40	"hikkitybippl"
+1762	43	"Om"
+1763	43	"Nom"
+1764	42	"Om"
+1765	42	"Nom"
+1766	44	"Om"
+1767	44	"Nom"

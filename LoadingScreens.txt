@@ -1,4 +1,4 @@
-Id	Name	Path	hasWideScreen	
+Id	Name	Path	HasWideScreen	
 3	"Kalimdor"	"Interface\Glues\LoadingScreens\loadscreenkalimdor2.blp"	1
 4	"Azeroth"	"Interface\Glues\LoadingScreens\loadscreeneasternkingdom2.blp"	1
 21	"InstanceCave"	"Interface\Glues\LoadingScreens\LoadScreenCave.blp"	0
@@ -113,8 +113,10 @@ Id	Name	Path	hasWideScreen
 274	"InstanceFirelands"	"Interface\Glues\LoadingScreens\loadscreenfirelands.blp"	0
 275	"InstanceFirelandsRaid"	"Interface\Glues\LoadingScreens\loadscreenfirelandsraid.blp"	0
 276	"InstanceZulAman2"	"Interface\Glues\LoadingScreens\loadscreenzulaman2.blp"	0
+277	"InstanceDarkmoonIsland"	"Interface\Glues\LoadingScreens\loadscreendarkmoonisland.blp"	0
 278	"InstanceDarkmoonIsland"	"Interface\Glues\LoadingScreens\loadscreendarkmoonisland.blp"	0
 279	"InstanceDeathwingRaid"	"Interface\Glues\LoadingScreens\loadscreendeathwingraid.blp"	0
 286	"InstanceEndTime"	"Interface\Glues\LoadingScreens\loadscreenendtime.blp"	0
 287	"InstanceWellofEternity"	"Interface\Glues\LoadingScreens\loadscreenwellofeternity.blp"	0
 288	"InstanceHourofTwilight"	"Interface\Glues\LoadingScreens\loadscreenhouroftwilight.blp"	0
+289	"InstanceWanderingIsle"	"Interface\Glues\LoadingScreens\loadscreenwanderingisle.blp"	0

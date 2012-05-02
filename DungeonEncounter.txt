@@ -58,7 +58,6 @@ field0	field1	field2	field3	field4	field5	field6	field7
 436	129	0	2000	2	"Glutton"	0	0
 437	129	0	3000	3	"Amnennar the Coldbringer"	0	0
 444	189	0	0	0	"Interrogator Vishas"	0	0
-445	189	0	1000	1	"Bloodmage Thalnos"	0	0
 446	189	0	2000	2	"Houndmaster Loksey"	0	0
 447	189	0	3000	3	"Arcanist Doan"	0	0
 448	189	0	4000	4	"Herod"	0	0
@@ -137,8 +136,8 @@ field0	field1	field2	field3	field4	field5	field6	field7
 793	309	0	9000	9	"Hakkar"	0	0
 473	329	0	1000	1	"Hearthsinger Forresten"	0	0
 474	329	0	2000	2	"Timmy the Cruel"	0	0
+476	329	0	2500	4	"Commander Malor"	0	0
 475	329	0	3000	3	"Willey Hopebreaker"	0	0
-476	329	0	4000	4	"Commander Malor"	0	0
 477	329	0	5000	5	"Instructor Galford"	0	0
 478	329	0	6000	6	"Balnazzar"	0	0
 472	329	0	6500	0	"The Unforgiven"	0	0
@@ -156,10 +155,10 @@ field0	field1	field2	field3	field4	field5	field6	field7
 426	349	0	4000	4	"Landslide"	0	0
 428	349	0	6000	6	"Rotgrip"	0	0
 429	349	0	7000	7	"Princess Theradras"	0	0
-430	389	0	0	0	"Oggleflint"	0	0
-432	389	0	2000	2	"Jergosh the Invoker"	0	0
-433	389	0	3000	3	"Bazzalan"	0	0
-431	389	0	4000	1	"Taragaman the Hungerer"	0	0
+1443	389	-1	0	0	"Adjules"	38759	0
+1444	389	-1	1000	1	"Dark Shaman Koranthal"	42101	0
+1445	389	-1	2000	2	"Magnaw"	38773	0
+1446	389	-1	3000	3	"Lieutenant Gordoth"	42100	0
 663	409	0	0	0	"Lucifron"	13031	0
 664	409	0	1000	1	"Magmadar"	10193	0
 665	409	0	2000	2	"Gehennas"	13030	0
@@ -608,6 +607,21 @@ field0	field1	field2	field3	field4	field5	field6	field7
 1337	940	-1	0	0	"Arcurion"	39397	0
 1340	940	-1	500	2	"Asira Dawnslayer"	38995	0
 1339	940	-1	1000	1	"Archbishop Benedictus"	38991	0
+1303	959	-1	0	0	"Gu Cloudstrike"	39489	0
+1304	959	-1	1000	1	"Master Snowdrift"	0	0
+1305	959	-1	2000	2	"Sha of Violence"	18083	0
+1306	959	-1	3000	3	"Taran Zhu"	27920	0
+1418	960	-1	-1000	3	"Wise Mari"	41125	0
+1416	960	-1	1000	1	"Liu Flameheart"	39487	0
+1417	960	-1	2000	2	"Lorewalker Stonestep"	0	0
+1439	960	-1	3000	0	"Sha of Doubt"	40904	0
+1412	961	-1	0	0	"Ook-Ook"	39498	0
+1413	961	-1	1000	1	"Hoptallus"	40339	0
+1414	961	-1	2000	2	"Yan-Zhu the Uncasked"	40825	0
+1397	962	-1	0	0	"Saboteur Kip\'tilak"	11097	0
+1405	962	-1	1000	1	"Strike Ga\'dok"	0	0
+1406	962	-1	2000	2	"Commander Ri\'mok"	0	0
+1419	962	-1	3000	3	"Raigonn"	0	0
 1292	967	-1	-1000	1	"Morchok"	34255	0
 1294	967	-1	-500	2	"Warlord Zon\'ozz"	39138	0
 1295	967	-1	-250	3	"Yor\'sahj the Unsleeping"	32501	0
@@ -616,3 +630,27 @@ field0	field1	field2	field3	field4	field5	field6	field7
 1298	967	-1	-31	6	"Warmaster Blackhorn"	39399	0
 1291	967	-1	0	0	"Spine of Deathwing"	35361	0
 1299	967	-1	1000	7	"Madness of Deathwing"	40087	0
+1442	994	-1	-1000	2	"Mogu Clan Leaders"	42059	0
+1440	994	-1	0	0	"Gekkan"	41920	0
+1441	994	-1	1000	1	"King Everything"	41987	0
+1409	996	-1	0	0	"Jinyu Council (PH)"	41503	0
+1431	996	-1	1000	1	"Sha of Fear"	41772	0
+1422	1001	-1	-1000	2	"Houndmaster Braun"	42264	0
+1421	1001	-1	-500	1	"Armsmaster Harlan"	40293	0
+1420	1001	-1	0	0	"Flameweaver Koegler"	40597	0
+1399	1004	0	0	0	"Brother Korlof"	0	0
+1423	1004	-1	0	0	"Thalnos the Soulrender"	0	0
+1424	1004	-1	1000	1	"Brother Korlof"	0	0
+1402	1004	0	2000	2	"Commander Durand"	0	0
+1425	1004	-1	2000	2	"Commander Durand"	0	0
+1426	1007	-1	0	0	"Instructor Chillheart"	40301	0
+1427	1007	-1	1000	1	"Jandice Barov"	40639	0
+1428	1007	-1	2000	2	"Rattlegore"	31092	0
+1429	1007	-1	3000	3	"Lilian Voss"	40256	0
+1430	1007	-1	4000	4	"Darkmaster Gandling"	0	0
+1395	1008	-1	-1000	1	"The Stone Guard"	41155	0
+1390	1008	-1	0	0	"Feng the Accursed"	41192	3957
+1434	1008	-1	500	3	"Gara\'jal the Spiritbinder"	41256	0
+1436	1008	-1	2000	4	"Four Kings"	41812	0
+1407	1008	-1	3000	2	"Will of the Emperor"	41391	0
+1447	1011	-1	0	0	"Mantid General [PH]"	42105	0

@@ -1,5 +1,5 @@
-Id	State0WMO	State0ImpactEffectDoodadSet	State0AmbientDoodadSet	State1WMO	State1DestrctionDoodadSet	State1ImpactEffectDoodadSet	State1AmbientDoodadSet	State2WMO	State2DestrctionDoodadSet	State2ImpactEffectDoodadSet	State2AmbientDoodadSet	State3WMO	State3InitDoodadSet	State3AmbientDoodadSet	field15	field16	field17	field18	field19	field20	field21	field22	field23	25	8459	
-0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Id	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	field11	field12	field13	field14	field15	field16	field17	field18	field19	field20	field21	field22	field23	
+25	8459	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
 26	628	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0
 27	7541	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0
 28	7552	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0
@@ -23,7 +23,7 @@ Id	State0WMO	State0ImpactEffectDoodadSet	State0AmbientDoodadSet	State1WMO	State1
 46	8250	0	0	0	8246	1	1	1	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0
 47	8250	0	0	0	8246	1	1	1	0	0	0	0	0	0	0	0	18	0	0	0	1	0	0
 48	8251	0	0	0	8249	1	1	1	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0
-49	8251	0	0	0	8249	1	1	1	0	0	0	0	0	0	0	0	20	0	0	0	1	0	0
+49	8251	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	1	0	0
 50	8387	0	0	0	8387	0	0	0	0	8386	1	0	0	0	0	0	21	0	8	0	1	0	0
 51	8593	0	0	0	8593	0	0	0	0	8591	1	0	0	0	0	0	0	0	2	0	0	0	0
 52	8593	0	0	0	8593	0	0	0	0	8591	1	0	0	0	0	0	0	0	4	0	0	0	0
@@ -81,6 +81,7 @@ Id	State0WMO	State0ImpactEffectDoodadSet	State0AmbientDoodadSet	State1WMO	State1
 138	10697	0	0	0	10698	1	0	0	0	0	0	0	0	0	10699	1	0	0	0	0	0	0	0
 140	10469	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 141	10640	0	0	0	10727	1	2	0	0	10572	1	0	0	0	0	0	0	0	8	0	1	4	0
+145	7709	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
 146	10882	0	0	0	0	0	0	0	0	10886	1	0	0	0	0	0	0	0	8	0	1	4	0
 147	9150	0	0	0	0	0	0	0	0	11094	0	0	0	0	0	0	0	0	8	0	1	4	0
 148	9151	0	0	0	0	0	0	0	0	11094	0	0	0	0	0	0	0	0	8	0	1	4	0

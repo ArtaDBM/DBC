@@ -5,16 +5,14 @@ id	iname	type	flags	unk4	isPvp	name	linkedZone	hordeIntro	allianceIntro	multimap
 25	"ScottTest"	0	1555	2	0	"Scott Test"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
 30	"PVPZone01"	3	1553	1	1	"Alterac Valley"	0	"Hidden within the Alterac Mountains, Alterac Valley is the home of the Frostwolf clan.  The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
 
-A large-scale battleground, each side attempts to destroy each other\'s tower fortifications and slay the enemy General (Vanndar Stormpike or Drek\'Thar).
-"	"Hidden within the Alterac Mountains, Alterac Valley is the home of the Frostwolf clan.  The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
+A large-scale battleground, each side attempts to destroy each other\'s tower fortifications and slay the enemy General (Vanndar Stormpike or Drek\'Thar)."	"Hidden within the Alterac Mountains, Alterac Valley is the home of the Frostwolf clan.  The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
 
-A large-scale battleground, each side attempts to destroy each other\'s tower fortifications and slay the enemy General (Vanndar Stormpike or Drek\'Thar).
-"	104	1	NaN	0	0	-1	0	0	0	-1
+A large-scale battleground, each side attempts to destroy each other\'s tower fortifications and slay the enemy General (Vanndar Stormpike or Drek\'Thar)."	104	1	NaN	0	0	-1	0	0	0	-1
 33	"Shadowfang"	1	1565	1	0	"Shadowfang Keep"	0	""	""	204	1	0	-230.989	1571.57	-1	0	0	10	-1
 34	"StormwindJail"	1	1553	2	0	"Stormwind Stockade"	717	""	""	194	1	0	-8762.379	848.0103	-1	0	0	10	-1
 35	"StormwindPrison"	0	1555	2	0	"<unused>StormwindPrison"	717	""	""	23	1	0	-8762.477	848.0491	-1	0	0	0	-1
 36	"DeadminesInstance"	1	1553	1	0	"Deadmines"	0	""	""	142	1	0	-11207.8	1681.15	-1	0	0	10	-1
-37	"PVPZone02"	0	1553	1	1	"Azshara Crater"	0	"Crush the Alliance!"	"Defend yourself from the onslaught of the Horde!"	25	1	NaN	0	0	-1	0	0	0	-1
+37	"PVPZone02"	0	1555	1	1	"Azshara Crater"	0	"Crush the Alliance!"	"Defend yourself from the onslaught of the Horde!"	25	1	NaN	0	0	-1	0	0	0	-1
 42	"Collin"	0	1555	2	0	"Collin\'s Test"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1
 43	"WailingCaverns"	1	1553	2	0	"Wailing Caverns"	718	""	""	143	1	1.401298E-45	-751.1312	-2209.24	-1	0	0	10	-1
 44	"Monastery"	1	1555	2	0	"<unused> Monastery"	0	""	""	42	1	0	2892.413	-811.2413	-1	0	0	10	-1
@@ -25,13 +23,13 @@ A large-scale battleground, each side attempts to destroy each other\'s tower fo
 109	"SunkenTemple"	1	1553	2	0	"Sunken Temple"	1477	""	""	191	1	0	-10291.7	-3987.63	-1	0	0	10	-1
 129	"RazorfenDowns"	1	1553	1	0	"Razorfen Downs"	0	""	""	145	1	1.401298E-45	-4662.883	-2535.872	-1	0	0	10	-1
 169	"EmeraldDream"	2	1553	1	0	"Emerald Dream"	0	""	""	0	1	NaN	0	0	-1	0	0	40	-1
-189	"MonasteryInstances"	1	1553	1	0	"Scarlet Monastery"	0	""	""	190	1	0	2892.235	-811.2637	-1	0	0	10	-1
+189	"MonasteryInstances"	1	1553	1	0	"Scarlet Monastery - OLD"	0	""	""	190	1	0	2892.235	-811.2637	-1	0	0	10	-1
 209	"TanarisInstance"	1	1553	1	0	"Zul\'Farrak"	0	""	""	146	1	1.401298E-45	-6790.577	-2891.278	-1	0	0	10	-1
 229	"BlackRockSpire"	1	1537	2	0	"Blackrock Spire"	1583	""	""	189	1	0	-7522.527	-1233.042	-1	0	0	10	-1
 230	"BlackrockDepths"	1	1553	2	0	"Blackrock Depths"	1584	""	""	103	1	0	-7178.095	-928.6395	-1	0	0	5	-1
 249	"OnyxiaLairInstance"	2	34305	2	0	"Onyxia\'s Lair"	2159	""	""	61	1	1.401298E-45	-4753.313	-3752.421	-1	0	0	40	-1
 269	"CavernsOfTime"	1	1553	1	0	"Opening of the Dark Portal"	0	""	""	212	1	1.401298E-45	-8750.827	-4193.513	-1	1	0	5	-1
-289	"SchoolofNecromancy"	1	1553	1	0	"Scholomance"	0	""	""	102	1	0	1274.781	-2552.564	-1	0	0	5	-1
+289	"SchoolofNecromancy"	1	1553	1	0	"Scholomance OLD"	0	""	""	102	1	0	1274.781	-2552.564	-1	0	0	5	-1
 309	"Zul\'gurub"	1	525841	1	0	"Ancient Zul\'Gurub"	1977	""	""	161	1	0	-11916.06	-1224.577	-1	0	0	20	-1
 329	"Stratholme"	1	1553	1	0	"Stratholme"	0	""	""	101	1	0	3392.317	-3378.483	-1	0	0	5	-1
 349	"Mauradon"	1	1553	2	0	"Maraudon"	2100	""	""	81	1	1.401298E-45	-1432.697	2924.978	-1	0	0	10	-1
@@ -47,23 +45,21 @@ A large-scale battleground, each side attempts to destroy each other\'s tower fo
 
 As a 10 vs 10 capture-the-flag battleground, the first faction to capture three flags is victorious.
 
-Eager to aid their allies, members of every race in Azeroth rush to the Gulch to lend sword, or spell, to the conflict.
-"	"A valley Bordering Ashenvale Forest and the Barrens, Warsong Gulch hosts a constant battle between the Horde and Alliance.
+Eager to aid their allies, members of every race in Azeroth rush to the Gulch to lend sword, or spell, to the conflict."	"A valley Bordering Ashenvale Forest and the Barrens, Warsong Gulch hosts a constant battle between the Horde and Alliance.
 
 As a 10 vs 10 capture-the-flag battleground, the first faction to capture three flags is victorious.
 
-Eager to aid their allies, members of every race in Azeroth rush to the Gulch to lend sword, or spell, to the conflict.
-"	122	1	NaN	0	0	-1	0	0	0	-1
+Eager to aid their allies, members of every race in Azeroth rush to the Gulch to lend sword, or spell, to the conflict."	122	1	NaN	0	0	-1	0	0	0	-1
 509	"AhnQiraj"	2	1553	1	0	"Ruins of Ahn\'Qiraj"	3429	""	""	184	1	1.401298E-45	-8114.464	1526.366	-1	0	68400	20	-1
 529	"PVPZone04"	3	1553	1	1	"Arathi Basin"	3358	"The Arathi Basin is one of the main staging points of war between the humans and the Forsaken in Azeroth.
 
-The Defiler\'s elite troopers seek to sever the vital connection between the humans and their dwarven allies to the south.
+The Defilers\' elite troopers seek to sever the vital connection between the humans and their dwarven allies to the south.
 
 Meanwhile, the League of Arathor seek to reclaim lost lands for their benefactors in Stormwind."	"The Arathi Basin is one of the main staging points of war between the humans and the Forsaken in Azeroth.
 
 The League of Arathor seek to reclaim lost lands for their benefactors in Stormwind.
 
-Meanwhile, the Defiler\'s elite troopers seek to sever the vital connection between the humans and their dwarven allies to the south."	183	1.25	NaN	0	0	-1	0	0	0	-1
+Meanwhile, the Defilers\' elite troopers seek to sever the vital connection between the humans and their dwarven allies to the south."	183	1.25	NaN	0	0	-1	0	0	0	-1
 530	"Expansion01"	0	1553	1	0	"Outland"	0	""	""	198	1	NaN	0	0	-1	1	0	0	-1
 531	"AhnQirajTemple"	2	1553	1	0	"Ahn\'Qiraj Temple"	3428	""	""	185	1	1.401298E-45	-8111.724	1526.786	-1	0	0	40	-1
 532	"Karazahn"	2	1553	1	0	"Karazhan"	3457	""	""	200	1	0	-11110.41	-2004.065	-1	1	0	10	-1
@@ -162,11 +158,9 @@ Prepare yourself for battle, for fate cannot determine success upon this Strand 
 627	"unused"	1	1567	1	0	"unused"	0	""	""	0	1	NaN	0	0	-1	2	0	0	-1
 628	"IsleofConquest"	3	1565	1	1	"Isle of Conquest"	0	"The Isle of Conquest is a point of strategic importance for the Alliance and Horde campaigns in Northrend, each side determined to secure control of the island.
 
-As a large-scale battleground, each side attempts to wrest control of the Siege Factory, Docks, or Hangar in order to secure access to the enemy stronghold and defeat its general (Halford Wyrmbane or Overlord Agmar).
-"	"The Isle of Conquest is a point of strategic importance for the Alliance and Horde campaigns in Northrend, each side determined to secure control of the island.
+As a large-scale battleground, each side attempts to wrest control of the Siege Factory, Docks, or Hangar in order to secure access to the enemy stronghold and defeat its general (Halford Wyrmbane or Overlord Agmar)."	"The Isle of Conquest is a point of strategic importance for the Alliance and Horde campaigns in Northrend, each side determined to secure control of the island.
 
-As a large-scale battleground, each side attempts to wrest control of the Siege Factory, Docks, or Hangar in order to secure access to the enemy stronghold and defeat its general (Halford Wyrmbane or Overlord Agmar).
-"	245	1	NaN	0	0	-1	2	0	0	-1
+As a large-scale battleground, each side attempts to wrest control of the Siege Factory, Docks, or Hangar in order to secure access to the enemy stronghold and defeat its general (Halford Wyrmbane or Overlord Agmar)."	245	1	NaN	0	0	-1	2	0	0	-1
 631	"IcecrownCitadel"	2	34589	1	0	"Icecrown Citadel"	0	""	""	250	1	8.001414E-43	5776.922	2065.932	-1	2	0	0	-1
 632	"IcecrownCitadel5Man"	1	1565	1	0	"The Forge of Souls"	0	""	""	249	1	8.001414E-43	5670.792	2003.629	-1	2	0	0	-1
 637	"AbyssalMaw"	1	1565	1	0	"Abyssal Maw Exterior"	0	""	""	23	1	NaN	0	0	-1	3	0	0	-1
@@ -211,15 +205,13 @@ As a large-scale battleground, each side attempts to wrest control of the Siege 
 
 As a 10 vs 10 capture-the-flag battleground, the first faction to capture three flags is victorious.
 
-Lend your strength as both factions struggle to take control of this critical high ground!
-"	"Nestled in the Twilight Highlands, Twin Peaks has flared as a point of contention between the Alliance and Horde.
+Lend your strength as both factions struggle to take control of this critical high ground!"	"Nestled in the Twilight Highlands, Twin Peaks has flared as a point of contention between the Alliance and Horde.
 
 As a 10 vs 10 capture-the-flag battleground, the first faction to capture three flags is victorious.
 
-Lend your strength as both factions struggle to take control of this critical high ground!
-"	262	1	NaN	0	0	-1	3	0	0	-1
-727	"STV_Mine_BG"	1	1567	1	0	"STV Diamond Mine BG"	0	""	""	182	1	NaN	0	0	-1	3	0	0	-1
-728	"TheBattleforGilneas"	1	1567	1	1	"The Battle for Gilneas (Old City Map)"	0	"Located in the heart of Gilnean peninsula, the capital city is of vital strategic importance to the Horde\'s operations the Eastern Kingdoms.
+Lend your strength as both factions struggle to take control of this critical high ground!"	262	1	NaN	0	0	-1	3	0	0	-1
+727	"STV_Mine_BG"	3	1565	1	1	"STV Diamond Mine BG"	0	"Goblins with diamonds."	"Goblins with diamonds."	182	1	NaN	0	0	-1	4	0	0	-1
+728	"TheBattleforGilneas"	1	1567	1	0	"The Battle for Gilneas (Old City Map)"	0	"Located in the heart of Gilnean peninsula, the capital city is of vital strategic importance to the Horde\'s operations the Eastern Kingdoms.
 
 Long seen by the Forsaken as a natural expansion to their dominion, Sylvanas Windrunner\'s armies are ready to defend their most recent conquest at all costs."	"Driven from their homelands by the Forsaken, Gilneans continue to view this city as their nation\'s rightful capital.
 
@@ -250,11 +242,9 @@ After regrouping in Alliance territories, the people of Gilneas have rallied aro
 760	"TwilightHighlandsPhasedEntrance"	0	3677	1	0	"Twilight Highlands Phased Entrance"	0	""	""	0	1	NaN	0	0	-1	0	0	0	0
 761	"Gilneas_BG_2"	3	3677	1	1	"The Battle for Gilneas"	0	"As the Greymane wall collapses, the inevitable conflict between the Forsaken and Worgen reaches a new climax.
 
-The Battle for Gilneas is a 10 vs 10 domination battleground, where each side attempts to control the Mine, Lighthouse, and Waterworks for as long as possible.
-"	"As the Greymane wall collapses, the inevitable conflict between the Forsaken and Worgen reaches a new climax.
+The Battle for Gilneas is a 10 vs 10 domination battleground, where each side attempts to control the Mine, Lighthouse, and Waterworks for as long as possible."	"As the Greymane wall collapses, the inevitable conflict between the Forsaken and Worgen reaches a new climax.
 
-The Battle for Gilneas is a 10 vs 10 domination battleground, where each side attempts to control the Mine, Lighthouse, and Waterworks for as long as possible.
-"	270	1	NaN	0	0	1110	0	0	0	-1
+The Battle for Gilneas is a 10 vs 10 domination battleground, where each side attempts to control the Mine, Lighthouse, and Waterworks for as long as possible."	270	1	NaN	0	0	1110	0	0	0	-1
 762	"Transport 203861"	0	3585	3	0	"Twilight Highlands Zeppelin 1"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
 763	"Transport 203862"	0	3585	3	0	"Twilight Highlands Zeppelin 2"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
 764	"UldumPhaseWreckedCamp"	0	7773	1	0	"Uldum - Phase Wrecked Camp"	0	""	""	0	1	NaN	0	0	-1	0	0	0	1
@@ -262,12 +252,18 @@ The Battle for Gilneas is a 10 vs 10 domination battleground, where each side at
 766	"Transport 2033864"	0	7681	3	0	"Transport: Gilneas Moving Gunship 02"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
 767	"Transport 2033865"	0	7681	3	0	"Transport: Gilneas Moving Gunship 03"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
 859	"Zul_Gurub5Man"	1	7701	1	0	"Zul\'Gurub"	0	""	""	161	1	0	-11916.23	-1219.839	720	3	0	0	-1
+860	"NewRaceStartZone"	0	8404509	1	0	"The Wandering Isle"	0	""	""	289	1	NaN	0	0	960	4	0	0	-1
 861	"FirelandsDailies"	0	2104861	1	0	"Molten Front"	0	""	""	274	1	NaN	0	0	720	3	0	0	-1
-930	"ScenarioAlcazIsland"	1	7703	1	0	"Scenario: Alcaz Island"	0	""	""	3	1	NaN	0	0	-1	3	0	0	-1
+870	"HawaiiMainLand"	0	8404573	1	0	"Pandaria"	0	""	""	0	1	NaN	0	0	-1	4	0	0	-1
+930	"ScenarioAlcazIsland"	1	15965	1	0	"Scenario: Alcaz Island"	0	""	""	3	1	NaN	0	0	-1	4	0	0	-1
 938	"COTDragonblight"	1	15957	1	0	"End Time"	0	""	""	286	1	1.401298E-45	-8288.604	-4454.092	0	3	0	0	-1
 939	"COTWarOfTheAncients"	1	7773	1	0	"Well of Eternity"	0	""	""	287	1	1.401298E-45	-8595.837	-3994.936	-1	3	0	0	-1
 940	"TheHourOfTwilight"	1	15957	1	0	"Hour of Twilight"	0	""	""	288	1	1.401298E-45	-8291.132	-4590.438	-1	3	0	0	-1
 951	"NexusLegendary"	1	7701	1	0	"Nexus Legendary"	0	""	""	227	1	8.001414E-43	3899.93	6985.44	-1	3	0	0	-1
+959	"ShadowpanHideout"	1	8404509	1	0	"Shado-Pan Monastery"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
+960	"EastTemple"	1	8404573	1	0	"Temple of the Jade Serpent"	0	""	""	-1	1	1.21913E-42	957.706	-2473.41	-1	4	0	0	-1
+961	"StormstoutBrewery"	1	8404501	1	0	"Stormstout Brewery"	0	""	""	0	1	1.21913E-42	-688.7051	1267.454	-1	4	0	0	-1
+962	"TheGreatWall"	1	8396317	1	0	"Gate of the Setting Sun"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
 967	"DeathwingBack"	2	48989	1	0	"Dragon Soul"	0	""	""	279	1	1.401298E-45	-8263.276	-4512.688	1080	3	0	0	-1
 968	"EyeoftheStorm2.0"	3	7701	1	1	"Rated Eye of the Storm"	0	"Hovering high above the ravaged landscape of Netherstorm is the island known as the Eye of the Storm.
 
@@ -278,6 +274,33 @@ The draenei seek to claim it due to its proximity to the naaru\'s mysterious ves
 The draenei seek to claim it due to its proximity to the naaru\'s mysterious vessel, Tempest Keep.
 
 This battlefield is coveted by the blood elves for its rich energy deposits."	210	1	NaN	0	0	-1	0	0	0	-1
+971	"JadeForestAllianceHubPhase"	0	8396381	1	0	"Jade Forest Alliance Hub Phase"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	870
+972	"JadeForestBattlefieldPhase"	0	8396381	1	0	"Jade Forest Battlefield Phase"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	870
 974	"DarkmoonFaire"	0	15893	1	0	"Darkmoon Faire"	0	""	""	278	1	NaN	0	0	-1	0	0	0	-1
+975	"TurtleShipPhase01"	0	8404573	1	0	"Turtle Ship Phase 01"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	860
+976	"TurtleShipPhase02"	0	8404509	1	0	"Turtle Ship Phase 02"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	860
 977	"MaelstromDeathwingFight"	1	7709	1	0	"Maelstrom Deathwing Fight"	0	""	""	-1	1	NaN	0	0	-1	3	0	0	-1
-980	"TolVirArena"	0	15967	1	0	"Tol\'Vir Arena"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
+980	"TolVirArena"	4	15967	1	0	"Tol\'Vir Arena"	0	""	""	0	1	NaN	0	0	-1	3	0	0	-1
+994	"MoguDungeon"	1	7709	1	0	"Mogu\'shan Palace"	0	""	""	223	1	NaN	0	0	-1	4	0	0	-1
+995	"MoguInteriorRaid"	1	7709	1	0	"The Depths [UNUSED]"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
+996	"MoguExteriorRaid"	2	9444957	1	0	"Terrace of Endless Spring"	0	""	""	214	1	NaN	0	0	-1	4	0	0	-1
+998	"ValleyOfPower"	3	7709	1	1	"Valley of Power"	0	"The Horde and Alliance wage battle for the ancient Mogu artifact that is foretold to hold great powers."	"The Horde and Alliance wage battle for the ancient Mogu artifact that is foretold to hold great powers."	251	1	NaN	0	0	-1	4	0	0	-1
+999	"BFTAllianceScenario"	0	15965	1	0	"The Battle For Theramore - Alliance (Scenario)"	0	""	""	3	1	NaN	0	0	0	4	0	0	-1
+1000	"BFTHordeScenario"	0	15965	1	0	"The Battle For Theramore - Horde (Scenario)"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
+1001	"ScarletSanctuaryArmoryAndLibrary"	1	9444957	1	0	"Scarlet Halls"	0	""	""	190	1	NaN	0	0	-1	4	0	0	-1
+1004	"ScarletMonasteryCathedralGY"	1	9444957	1	0	"Scarlet Monastery"	0	""	""	190	1	NaN	0	0	-1	4	0	0	-1
+1005	"BrewmasterScenario01"	1	8396381	1	0	"Brewmaster Scenario 01"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
+1007	"NewScholomance"	1	8396381	1	0	"Scholomance"	0	""	""	102	1	0	1274.78	-2552.56	-1	4	0	0	-1
+1008	"MogushanPalace"	2	8437597	1	0	"Mogu\'shan Vaults"	0	""	""	256	1	1.21913E-42	3982.997	1121.291	-1	4	0	0	-1
+1009	"MantidRaid"	1	7709	1	0	"Heart of Fear"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
+1010	"MistsCTF3"	3	7711	1	1	"CTF3"	0	"This new map has yet to be created. Horde guys, go beat up those Alliance jerks."	"This new map has yet to be created. Alliance guys, go beat up those Horde jerks."	262	1	NaN	0	0	-1	4	0	0	-1
+1011	"MantidDungeon"	1	9453149	1	0	"Siege of Niuzao Temple"	0	""	""	207	1	NaN	0	0	-1	4	0	0	-1
+1014	"MonkAreaScenario"	1	9453149	1	0	"Monk Scenario"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
+1019	"RuinsOfTheramore"	0	15965	1	0	"Ruins of Theramore"	0	""	""	3	1	NaN	0	0	-1	4	0	0	1
+1024	"PandaFishingVillageScenario"	1	8404573	1	0	"Panda Fishing Village - Scenario"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
+1028	"MoguRuinsScenario"	1	8404573	1	0	"Jade Forest - Mogu Ruins - Scenario"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
+1029	"AncientMoguCryptScenario"	1	7709	1	0	"Ancient Mogu Crypt - Scenario"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
+1030	"AncientMoguCyptDestroyedScenario"	1	7709	1	0	"Ancient Mogu Cypt (Destroyed) - Scenario"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
+1031	"ProvingGroundsScenario"	1	8396381	1	0	"Proving Grounds - Scenario"	0	""	""	0	1	NaN	0	0	-1	4	0	0	-1
+1032	"PetBattleJadeForest"	1	8404573	1	0	"Pet Battle - Jade Forest"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1
+1035	"ValleyOfPowerScenario"	0	8396381	1	0	"Valley Of Power - Scenario"	0	""	""	-1	1	NaN	0	0	-1	4	0	0	-1

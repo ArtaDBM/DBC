@@ -1,4 +1,4 @@
-id	map	blobID?	name	field4	
+Id	Map	BlobID?	Name	field4	
 9	0	54097	"Ironband\'s Excavation Site"	177
 10	0	54124	"Ironbeard\'s Tomb"	177
 12	0	54126	"Whelgar\'s Excavation Site"	177
@@ -185,3 +185,50 @@ id	map	blobID?	name	field4
 589	571	60369	"Sands of Nasam"	177
 615	0	60442	"Terrorweb Tunnel Digsite"	177
 617	0	60444	"Plaguewood Digsite"	177
+918	870	66767	"Tiger\'s Wood Digsite"	177
+923	870	66784	"Chun Tian Digsite"	177
+928	870	66789	"Shrine of the Dawn Digsite"	177
+934	870	66795	"Ruins of Gan Shi Digsite"	177
+936	870	66817	"Emperor\'s Omen Digsite"	177
+938	870	66854	"The Arboretum Digsite"	177
+941	870	66890	"Thunderwood Digsite"	177
+949	870	66911	"Mogu TEMPLATE Digsite"	177
+951	870	66913	"Pandaren TEMPLATE Digsite"	177
+955	870	66917	"Singing Marshes Digsite"	177
+957	870	66919	"North Great Wall Digsite"	177
+961	870	66923	"South Great Wall Digsite"	177
+963	870	66925	"Torjari Pit Digsite"	177
+967	870	66929	"Hidden Pass Digsite"	177
+971	870	66933	"Paoquan Hollow Digsite"	177
+973	870	66935	"North Fruited Fields Digsite"	177
+977	870	66939	"South Fruited Fields Digsite"	177
+979	870	66941	"Pools of Purity Digsite"	177
+981	870	66943	"Fallsong Village Digsite"	177
+983	870	66945	"Ruins of Korja Digsite"	177
+987	870	66949	"Krasarang Wilds Digsite"	177
+989	870	66951	"Lost Dynasty Digsite"	177
+991	870	66953	"East Ruins of Dojan Digsite"	177
+993	870	66955	"West Ruins of Dojan Digsite"	177
+995	870	66957	"North Temple of the Red Crane Digsite"	177
+999	870	66961	"Zhu Province Digsite"	177
+1003	870	66965	"Valley of Kings Digsite"	177
+1005	870	66967	"Gate to Golden Valley Digsite"	177
+1007	870	66969	"Snow Covered Hills Digsite"	177
+1009	870	66971	"East Snow Covered Hills Digsite"	177
+1011	870	66973	"Remote Village Digsite"	177
+1015	870	66979	"Destroyed Village Digsite"	177
+1017	870	66983	"Old Village Digsite"	177
+1019	870	66985	"Grumblepaw Ranch Digsite"	177
+1021	870	66987	"Chow Farmstead Digsite"	177
+1023	870	66989	"West Old Village Digsite"	177
+1025	870	66991	"Small Gate Digsite"	177
+1029	870	67005	"Kun-Lai Peak Digsite"	177
+1033	870	67021	"Town Digsite"	177
+1035	870	67023	"Gong of Hope Digsite"	177
+1037	870	67025	"Great Bridge Digsite"	177
+1039	870	67027	"Orchard Digsite"	177
+1043	870	67031	"Jade Temple Grounds Digsite"	177
+1045	870	67033	"South Orchard Digsite"	177
+1047	870	67035	"Den of Sorrow Digsite"	177
+1049	870	67037	"Shrine Meadow Digsite"	177
+1051	870	67039	"Veridian Grove Digsite"	177

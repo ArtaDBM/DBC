@@ -1,4 +1,4 @@
-id	parent	name	order
+id	parent	name	order	
 92	-1	"General"	1
 123	122	"Arenas"	1
 130	1	"Character"	1
@@ -76,6 +76,7 @@ id	parent	name	order
 15070	96	"Cataclysm"	5
 15080	15076	"Professions"	5
 15083	15079	"Cataclysm Dungeon"	5
+15114	201	"Pandaria"	5
 162	155	"Brewfest"	6
 169	-1	"Professions"	6
 14807	1	"Dungeons & Raids"	6
@@ -84,20 +85,25 @@ id	parent	name	order
 15068	168	"Cataclysm Raid"	6
 15087	15079	"Cataclysm Raid"	6
 15089	15076	"Reputation"	6
+15110	96	"Pandaria"	6
+15113	97	"Pandaria"	6
 132	1	"Skills"	7
 158	155	"Hallow\'s End"	7
 201	-1	"Reputation"	7
 14901	95	"Wintergrasp"	7
 15093	15076	"Guild Feats of Strength"	7
 15096	14807	"Cataclysm"	7
+15106	168	"Pandaria Dungeon"	7
 134	1	"Travel"	8
 155	-1	"World Events"	8
 14981	155	"Pilgrim\'s Bounty"	8
 15003	95	"Isle of Conquest"	8
+15107	168	"Pandaria Raid"	8
 81	-1	"Feats of Strength"	9
 131	1	"Social"	9
 156	155	"Winter Veil"	9
 15073	95	"Battle for Gilneas"	9
+15115	168	"Dungeon Challenges"	9
 21	1	"Player vs. Player"	10
 14941	155	"Argent Tournament"	10
 15074	95	"Twin Peaks"	10
@@ -106,3 +112,4 @@ id	parent	name	order
 15075	95	"Tol Barad"	11
 15101	155	"Darkmoon Faire"	11
 15092	95	"Rated Battleground"	12
+15117	-1	"Pet Battles"	12

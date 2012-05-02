@@ -1,4 +1,4 @@
-id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	HordeIcon0%	AllianceIcon	AllianceIcon50%	AllianceIcon0%	factionID	X	Y	Z	continentID	area	Name	Description	flags	worldState	worldMapLink	
+id	importance	normalIcon	normalIcon50%	normalIcon0%	hordeIcon	hordeIcon50%	hordeIcon0%	AllianceIcon	AllianceIcon50%	AllianceIcon0%	factionID	X	Y	Z	continentID	area	name	description	flags	worldstate	worldMapLink	
 792	2	5	0	0	0	0	0	0	0	0	0	234.85	-2127.76	0	525	47	"Aerie Peak"	""	0	0	0
 1032	0	7	0	0	0	0	0	0	0	0	0	-4817.79	-2666.7	0	516	838	"Algaz Station"	""	0	0	0
 2592	2	5	0	0	0	0	0	0	0	0	0	1537.479	-1596.34	0	525	28	"Andorhal"	""	0	0	0
@@ -12,12 +12,12 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1010	0	7	0	0	0	0	0	0	0	0	0	-1194.05	-2119.16	0	516	1858	"Boulderfist Outpost"	""	0	0	0
 2	2	7	0	0	0	0	0	0	0	0	0	2249.85	278.414	0	517	159	"Brill"	""	0	0	0
 1018	0	7	0	0	0	0	0	0	0	0	0	2483.98	-5183.79	0	516	2271	"Browman Mill"	""	0	0	0
-2431	0	46	7	0	0	0	0	0	0	0	0	-8635.6	795.168	0	935	1519	"Cathedral Square"	""	5401	0	0
+2431	0	46	7	0	0	0	0	0	0	0	0	-8635.6	795.168	0	935	1519	"Cathedral Square"	""	5401	15089	0
 1307	2	7	0	0	0	0	0	0	0	0	0	921.054	-1421.46	0	517	197	"Chillwind Camp"	""	0	0	0
 2626	2	5	0	0	0	0	0	0	0	0	0	-7924.009	-1918.425	0	525	46	"Chiselgrip"	""	0	0	0
 2585	1	7	0	0	0	0	0	0	0	0	0	-4840.495	-4821.499	0	517	4922	"Crushblow"	""	0	0	0
 2590	3	7	0	0	0	0	0	0	0	0	0	-6876.415	6009.471	0	517	5146	"Darkbreak Cove"	""	0	0	0
-2704	0	181	0	0	0	0	0	0	0	0	0	-9548.009	90.97396	0	29	12	"Darkmoon Faire"	""	6078	0	0
+2704	0	181	0	0	0	0	0	0	0	0	0	-9548.009	90.97396	0	29	12	"Darkmoon Faire"	""	6078	15184	0
 3	3	5	0	0	0	0	0	0	0	0	0	-10564.7	-1170.65	0	525	10	"Darkshire"	""	0	0	0
 1288	0	7	0	0	0	0	0	0	0	0	0	-10572	-1841.05	0	516	2697	"Deadwind Ravine"	""	0	0	0
 4	3	7	0	0	0	0	0	0	0	0	0	1879.83	1588.2	0	517	154	"Deathknell"	""	0	0	0
@@ -42,7 +42,7 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1033	0	7	0	0	0	0	0	0	0	0	0	-4055	-3448.54	0	516	1038	"Grim Batol"	""	0	0	0
 41	3	5	0	0	0	0	0	0	0	0	83	-12378.4	185.734	0	525	33	"Grom\'gol Base Camp"	""	0	0	0
 1011	0	7	0	0	0	0	0	0	0	0	0	-11112.2	-2335.63	0	516	2561	"Grosh\'gok Compound"	""	0	0	0
-2473	0	46	7	0	0	0	0	0	0	0	0	-4703.6	-1217.26	0	934	1537	"Hall of Explorers"	""	5457	0	0
+2473	0	46	7	0	0	0	0	0	0	0	0	-4703.6	-1217.26	0	934	1537	"Hall of Explorers"	""	5457	15136	0
 25	2	5	0	0	0	0	0	0	0	0	83	-991.57	-3528.34	0	525	45	"Hammerfall"	""	0	0	0
 2573	0	5	0	0	0	0	0	0	0	0	0	-13272.82	728.3663	0	0	33	"Hardwrench Hideaway"	""	0	0	0
 2578	3	5	0	0	0	0	0	0	0	0	0	-4812.708	-6678.292	0	525	4922	"Highbank"	""	0	0	0
@@ -65,13 +65,13 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 227	0	3	0	0	0	0	0	0	0	0	0	-9389.26	458.427	0	516	92	"Mirror Lake"	""	0	0	0
 1683	0	7	0	0	0	0	0	0	0	0	0	-10854.8	-4093.43	0	517	300	"Misty Reed Post"	""	0	0	0
 12	3	7	0	0	0	0	0	0	0	0	0	-11017.1	1510.17	0	517	20	"Moonbrook"	""	0	0	0
-2474	0	46	7	0	0	0	0	0	0	0	0	-4645.04	-944.885	0	934	1537	"Mystic Ward"	""	5458	0	0
+2474	0	46	7	0	0	0	0	0	0	0	0	-4645.04	-944.885	0	934	1537	"Mystic Ward"	""	5458	15147	0
 2560	2	5	0	0	0	0	0	0	0	0	0	-10994.64	-3435.795	0	525	4	"Nethergarde Keep"	""	0	0	0
 2557	3	5	0	0	0	0	0	0	0	0	83	-6764.01	-2433.285	0	525	3	"New Kargath"	""	0	0	0
 1016	0	7	0	0	0	0	0	0	0	0	0	2046.11	1829.45	0	516	154	"Night Web\'s Hollow"	""	0	0	0
 13	3	7	0	0	0	0	0	0	0	0	0	-8896.16	-179.328	0	517	24	"Northshire Abbey"	""	0	0	0
 954	0	7	0	0	0	0	0	0	0	0	0	-9067.35	-333.965	0	516	24	"Northshire Vineyards"	""	0	0	0
-2429	0	46	7	0	0	0	0	0	0	0	0	-8722.51	417.172	0	935	1519	"Old Town"	""	5399	0	0
+2429	0	46	7	0	0	0	0	0	0	0	0	-8722.51	417.172	0	935	1519	"Old Town"	""	5399	15087	0
 14	3	7	0	0	0	0	0	0	0	0	0	-10752.5	310.433	0	517	94	"Raven Hill"	""	0	0	0
 24	2	5	0	0	0	0	0	0	0	0	84	-1251.05	-2526.81	0	525	320	"Refuge Pointe"	""	0	0	0
 956	0	7	0	0	0	0	0	0	0	0	0	-8674.12	-2290.05	0	516	996	"Render\'s Rock"	""	0	0	0
@@ -94,7 +94,7 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 2575	1	7	0	0	0	0	0	0	0	0	0	340.6684	-4128.128	0	517	47	"Stormfeather Outpost"	""	0	0	0
 16	3	6	0	0	0	0	0	0	0	0	0	-8678.426	729.6007	0	541	12	"Stormwind City"	""	0	0	0
 2110	0	7	0	0	0	0	0	0	0	0	0	-8573.47	990.095	0	0	4253	"Stormwind Harbor"	"Harbor Entrance"	0	0	0
-2434	0	46	7	0	0	0	0	0	0	0	0	-8503.96	1011.85	0	935	1519	"Stormwind Harbor"	""	5402	0	0
+2434	0	46	7	0	0	0	0	0	0	0	0	-8503.96	1011.85	0	935	1519	"Stormwind Harbor"	""	5402	15091	0
 2562	3	7	0	0	0	0	0	0	0	0	0	-12706.02	-2873.431	0	517	4	"Surwich"	""	0	0	0
 2593	1	7	0	0	0	0	0	0	0	0	0	-2871.995	-1493.771	0	517	11	"Swiftgear Station"	""	0	0	0
 23	2	5	0	0	0	0	0	0	0	0	0	-27.0354	-900.562	0	525	267	"Tarren Mill"	""	0	0	0
@@ -102,15 +102,15 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 2591	3	7	0	0	0	0	0	0	0	0	0	-6549.031	6126.409	0	517	5146	"Tenebrous Cavern"	""	0	0	0
 1017	0	7	0	0	0	0	0	0	0	0	0	3035.33	-2773.9	0	516	2627	"Terrorweb Tunnel"	""	0	0	0
 2576	2	5	0	0	0	0	0	0	0	0	0	1712.175	-751.5295	0	525	85	"The Bulwark"	""	0	0	0
-2475	0	46	7	0	0	0	0	0	0	0	0	-4930.1	-943.351	0	934	1537	"The Commons"	""	5459	0	0
-2430	0	46	7	0	0	0	0	0	0	0	0	-8444.19	595.262	0	935	1519	"The Dwarven District"	""	5404	0	0
-2476	0	46	7	0	0	0	0	0	0	0	0	-4639.32	-1098.48	0	934	1537	"The Forlorn Cavern"	""	5460	0	0
-2477	0	46	7	0	0	0	0	0	0	0	0	-4818.28	-1090.15	0	934	1537	"The Great Forge"	""	5461	0	0
+2475	0	46	7	0	0	0	0	0	0	0	0	-4930.1	-943.351	0	934	1537	"The Commons"	""	5459	15137	0
+2430	0	46	7	0	0	0	0	0	0	0	0	-8444.19	595.262	0	935	1519	"The Dwarven District"	""	5404	15088	0
+2476	0	46	7	0	0	0	0	0	0	0	0	-4639.32	-1098.48	0	934	1537	"The Forlorn Cavern"	""	5460	15174	0
+2477	0	46	7	0	0	0	0	0	0	0	0	-4818.28	-1090.15	0	934	1537	"The Great Forge"	""	5461	15144	0
 2572	1	7	0	0	0	0	0	0	0	0	0	-10110.46	-2804.26	0	517	8	"The Harborage"	""	0	0	0
 2581	1	7	0	0	0	0	0	0	0	0	0	-2743.804	-6410.026	0	517	4922	"The Krazzworks"	""	0	0	0
-2433	0	46	7	0	0	0	0	0	0	0	0	-8979.6	874.806	0	935	1519	"The Mage Quarter"	""	5400	0	0
-2478	0	46	7	0	0	0	0	0	0	0	0	-4983.07	-1220.4	0	934	1537	"The Military Ward"	""	5462	0	0
-2432	0	46	7	0	0	0	0	0	0	0	0	-8756.01	1106.16	0	935	1519	"The Park"	""	5403	0	0
+2433	0	46	7	0	0	0	0	0	0	0	0	-8979.6	874.806	0	935	1519	"The Mage Quarter"	""	5400	15090	0
+2478	0	46	7	0	0	0	0	0	0	0	0	-4983.07	-1220.4	0	934	1537	"The Military Ward"	""	5462	15178	0
+2432	0	46	7	0	0	0	0	0	0	0	0	-8756.01	1106.16	0	935	1519	"The Park"	""	5403	15175	0
 17	2	5	0	0	0	0	0	0	0	0	0	508.073	1619.02	0	525	130	"The Sepulcher"	""	0	0	0
 1014	0	7	0	0	0	0	0	0	0	0	0	-1778.21	-1513.16	0	516	324	"The Tower of Arathor"	""	0	0	0
 1551	0	7	0	0	0	0	0	0	0	0	0	2249.61	-2389.63	0	0	198	"The Weeping Cave"	""	0	0	0
@@ -118,12 +118,12 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1508	0	7	0	0	0	0	0	0	0	0	0	-6513.68	-1142.76	0	516	1442	"Thorium Point"	""	0	0	0
 2583	2	7	0	0	0	0	0	0	0	0	0	-3201.318	-5029.646	0	517	4922	"Thundermar"	""	0	0	0
 955	0	7	0	0	0	0	0	0	0	0	0	-9281.33	-3318.81	0	516	1000	"Tower of Ilgalar"	""	0	0	0
-2428	0	46	7	0	0	0	0	0	0	0	0	-8839.79	614.043	0	935	1519	"Trade District"	""	5398	0	0
+2428	0	46	7	0	0	0	0	0	0	0	0	-8839.79	614.043	0	935	1519	"Trade District"	""	5398	15086	0
 2588	3	7	0	0	0	0	0	0	0	0	0	-6608.521	4285.433	0	517	5146	"Tranquil Wash"	""	0	0	0
 1027	0	7	0	0	0	0	0	0	0	0	0	-6092.01	-3179.35	0	516	1897	"Uldaman"	""	0	0	0
-1698	3	41	0	0	0	0	0	0	0	0	0	-11456.9	-2981.41	0	152	4	"Under Attack"	"Blasted Lands"	2261	0	0
-1699	3	41	0	0	0	0	0	0	0	0	0	-7741.19	-2722.21	0	152	46	"Under Attack"	"Burning Steppes"	2262	0	0
-1701	3	41	0	0	0	0	0	0	0	0	0	2414.5	-3919.26	0	152	139	"Under Attack"	"Eastern Plaguelands"	2264	0	0
+1698	3	41	0	0	0	0	0	0	0	0	0	-11456.9	-2981.41	0	152	4	"Under Attack"	"Blasted Lands"	2261	14865	0
+1699	3	41	0	0	0	0	0	0	0	0	0	-7741.19	-2722.21	0	152	46	"Under Attack"	"Burning Steppes"	2262	14869	0
+1701	3	41	0	0	0	0	0	0	0	0	0	2414.5	-3919.26	0	152	139	"Under Attack"	"Eastern Plaguelands"	2264	14871	0
 18	4	6	0	0	0	0	0	0	0	0	0	1594.339	240.2882	0	541	85	"Undercity"	""	0	0	0
 709	0	7	0	0	0	0	0	0	0	0	0	969.176	-1825.52	0	516	197	"Uther\'s Tomb"	""	0	0	0
 1703	0	7	0	0	0	0	0	0	0	0	0	908.754	1255.63	0	516	227	"Valgan\'s Field"	""	0	0	0
@@ -185,14 +185,14 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1228	0	7	0	0	0	0	0	0	0	0	0	1543.57	70.1338	1.401298E-45	516	461	"Cragpool Lake"	""	0	0	0
 1108	0	7	0	0	0	0	0	0	0	0	0	-5086.21	-1919.44	1.401298E-45	516	2097	"Darkcloud Pinnacle"	""	0	0	0
 1088	0	7	0	0	0	0	0	0	0	0	0	-2829.79	-2722.81	1.401298E-45	516	496	"Darkmist Cavern"	""	0	0	0
-2705	0	181	0	0	0	0	0	0	0	0	0	-1524.851	176.7622	1.401298E-45	29	215	"Darkmoon Faire"	""	6078	0	0
+2705	0	181	0	0	0	0	0	0	0	0	0	-1524.851	176.7622	1.401298E-45	29	215	"Darkmoon Faire"	""	6078	15184	0
 38	3	6	0	0	0	0	0	0	0	0	84	9951.75	2254.5	1.401298E-45	541	141	"Darnassus"	""	0	0	0
 1239	0	7	0	0	0	0	0	0	0	0	0	1702.45	-3150.99	1.401298E-45	516	434	"Demon Fall Canyon"	""	0	0	0
 2614	3	5	0	0	0	0	0	0	0	0	0	-3253.825	-1725.438	1.401298E-45	525	4709	"Desolation Hold"	""	0	0	0
 37	3	7	0	0	0	0	0	0	0	0	84	9787.99	949.897	1.401298E-45	517	5481	"Dolanaar"	""	0	0	0
 2605	1	7	0	0	0	0	0	0	0	0	0	-3168.969	1909.273	1.401298E-45	517	357	"Dreamer\'s Rest"	""	0	0	0
 1214	0	7	0	0	0	0	0	0	0	0	0	5718.83	-4507.31	1.401298E-45	516	2245	"Dun Mandarr"	""	0	0	0
-2435	0	48	7	0	0	0	0	0	0	0	0	-1072.98	-281.852	1.401298E-45	934	1638	"Elder Rise"	""	5414	0	0
+2435	0	48	7	0	0	0	0	0	0	0	0	-1072.98	-281.852	1.401298E-45	934	1638	"Elder Rise"	""	5414	15092	0
 1095	0	7	0	0	0	0	0	0	0	0	0	-4987.73	-3832.99	1.401298E-45	516	511	"Emberstrife\'s Den"	""	0	0	0
 794	3	5	0	0	0	0	0	0	0	0	0	6723.46	-4662.5	1.401298E-45	525	618	"Everlook"	""	0	0	0
 1235	0	7	0	0	0	0	0	0	0	0	0	2231.21	-2222.91	1.401298E-45	516	428	"Falfarren River"	""	0	0	0
@@ -212,7 +212,7 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 2597	1	7	0	0	0	0	0	0	0	0	0	3015.771	-514.8507	1.401298E-45	517	331	"Hellscream\'s Watch"	""	0	0	0
 708	0	7	0	0	0	0	0	0	0	0	0	3556.64	-6232.79	1.401298E-45	516	1227	"Hetaera\'s Clutch"	""	0	0	0
 2612	1	7	0	0	0	0	0	0	0	0	0	-442.1649	-1475.08	1.401298E-45	517	4709	"Honor\'s Stand"	""	0	0	0
-2436	0	48	7	0	0	0	0	0	0	0	0	-1457.86	-88.8611	1.401298E-45	934	1638	"Hunter Rise"	""	5415	0	0
+2436	0	48	7	0	0	0	0	0	0	0	0	-1457.86	-88.8611	1.401298E-45	934	1638	"Hunter Rise"	""	5415	15093	0
 2611	1	7	0	0	0	0	0	0	0	0	0	-789.2674	-1568.986	1.401298E-45	517	4709	"Hunter\'s Hill"	""	0	0	0
 1114	0	7	0	0	0	0	0	0	0	0	0	-5848.05	-3412.38	1.401298E-45	516	2303	"Ironstone Camp"	""	0	0	0
 1219	0	7	0	0	0	0	0	0	0	0	0	6481.87	-1571	1.401298E-45	516	1767	"Irontree Cavern"	""	0	0	0
@@ -238,7 +238,7 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1094	0	7	0	0	0	0	0	0	0	0	0	-4698.06	-3720.58	1.401298E-45	516	511	"Onyxia\'s Lair"	""	0	0	0
 33	3	6	0	0	0	0	0	0	0	0	83	1381.77	-4371.16	1.401298E-45	541	14	"Orgrimmar"	""	0	0	0
 1690	0	7	0	0	0	0	0	0	0	0	0	-7586.17	226.396	1.401298E-45	516	2744	"Ortell\'s Hideout"	""	0	0	0
-2438	0	48	7	0	0	0	0	0	0	0	0	-1058.27	194.363	1.401298E-45	934	1638	"Pools of Vision"	""	5417	0	0
+2438	0	48	7	0	0	0	0	0	0	0	0	-1058.27	194.363	1.401298E-45	934	1638	"Pools of Vision"	""	5417	15140	0
 1168	0	7	0	0	0	0	0	0	0	0	0	-3842.71	1738.94	1.401298E-45	516	1119	"Rage Scar Hold"	""	0	0	0
 2622	3	5	0	0	0	0	0	0	0	0	0	-9440.91	-958.6354	1.401298E-45	525	5034	"Ramkahen"	""	0	0	0
 39	3	5	0	0	0	0	0	0	0	0	0	-951.364	-3680.07	1.401298E-45	525	392	"Ratchet"	""	0	0	0
@@ -248,10 +248,10 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1216	0	7	0	0	0	0	0	0	0	0	0	2195.67	-6438.33	1.401298E-45	516	1256	"Rethress Sanctum"	""	0	0	0
 1109	0	7	0	0	0	0	0	0	0	0	0	-5466.71	-1636.27	1.401298E-45	516	483	"Roguefeather Den"	""	0	0	0
 1169	0	7	0	0	0	0	0	0	0	0	0	-4852.91	3616.63	1.401298E-45	516	1117	"Ruins of Solarsal"	""	0	0	0
-1724	0	42	0	0	0	0	0	0	0	0	0	-6548.72	1150.51	1.401298E-45	646	1377	"Sandworm!"	"A Silithyst beast has surfaced"	2322	0	0
-1725	0	42	0	0	0	0	0	0	0	0	0	-7786.01	978.815	1.401298E-45	646	1377	"Sandworm!"	"A Silithyst beast has surfaced"	2323	0	0
-1726	0	42	0	0	0	0	0	0	0	0	0	-7463.3	1411.7	1.401298E-45	646	1377	"Sandworm!"	"A Silithyst beast has surfaced"	2324	0	0
-1727	0	42	0	0	0	0	0	0	0	0	0	-7377.08	447.046	1.401298E-45	646	1377	"Sandworm!"	"A Silithyst beast has surfaced"	2325	0	0
+1724	0	42	0	0	0	0	0	0	0	0	0	-6548.72	1150.51	1.401298E-45	646	1377	"Sandworm!"	"A Silithyst beast has surfaced"	2322	15019	0
+1725	0	42	0	0	0	0	0	0	0	0	0	-7786.01	978.815	1.401298E-45	646	1377	"Sandworm!"	"A Silithyst beast has surfaced"	2323	14906	0
+1726	0	42	0	0	0	0	0	0	0	0	0	-7463.3	1411.7	1.401298E-45	646	1377	"Sandworm!"	"A Silithyst beast has surfaced"	2324	14913	0
+1727	0	42	0	0	0	0	0	0	0	0	0	-7377.08	447.046	1.401298E-45	646	1377	"Sandworm!"	"A Silithyst beast has surfaced"	2325	15194	0
 1211	0	7	0	0	0	0	0	0	0	0	0	3705.1	-6043.45	1.401298E-45	516	1227	"Scalebeard\'s Cave"	""	0	0	0
 2624	3	5	0	0	0	0	0	0	0	0	0	-10676.9	1052.095	1.401298E-45	525	5034	"Schnottz\'s Landing"	""	0	0	0
 1150	0	7	0	0	0	0	0	0	0	0	0	-1407.87	1493.13	1.401298E-45	516	602	"Scrabblescrew\'s Camp"	""	0	0	0
@@ -267,7 +267,7 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1513	0	7	0	0	0	0	0	0	0	0	0	1462.48	-1858.93	1.401298E-45	516	422	"Silverwing Grove"	""	0	0	0
 1240	0	7	0	0	0	0	0	0	0	0	0	1776.64	-2065.15	1.401298E-45	516	422	"Silverwing Outpost"	""	0	0	0
 1227	0	7	0	0	0	0	0	0	0	0	0	515.845	624.05	1.401298E-45	516	2541	"Sishir Canyon"	""	0	0	0
-2437	0	48	7	0	0	0	0	0	0	0	0	-974.498	283.786	1.401298E-45	934	1638	"Spirit Rise"	""	5416	0	0
+2437	0	48	7	0	0	0	0	0	0	0	0	-974.498	283.786	1.401298E-45	934	1638	"Spirit Rise"	""	5416	15094	0
 1471	3	5	0	0	0	0	0	0	0	0	0	2286.41	-2564.67	1.401298E-45	525	331	"Splintertree Post"	""	0	0	0
 1112	0	7	0	0	0	0	0	0	0	0	0	-5065.61	-2367.61	1.401298E-45	516	481	"Splithoof Hold"	""	0	0	0
 1688	0	7	0	0	0	0	0	0	0	0	0	-6517.49	97.5554	1.401298E-45	516	3426	"Staghelm Point"	""	0	0	0
@@ -285,12 +285,12 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 2619	1	7	0	0	0	0	0	0	0	0	0	2127.559	1592.045	1.401298E-45	517	406	"Thal\'darah Overlook"	""	0	0	0
 45	3	5	0	0	0	0	0	0	0	0	84	-4510.03	-779.474	1.401298E-45	0	489	"Thalanaar"	""	0	0	0
 912	0	7	0	0	0	0	0	0	0	0	0	10316.4	1200.62	1.401298E-45	516	266	"The Cleft"	""	0	0	0
-2481	0	48	7	0	0	0	0	0	0	0	0	1773.42	-4336.81	1.401298E-45	934	1637	"The Cleft of Shadow"	""	5465	0	0
+2481	0	48	7	0	0	0	0	0	0	0	0	1773.42	-4336.81	1.401298E-45	934	1637	"The Cleft of Shadow"	""	5465	15227	0
 35	3	5	0	0	0	0	0	0	0	0	83	-455.9	-2652.15	1.401298E-45	525	17	"The Crossroads"	""	0	0	0
 32	3	7	0	0	0	0	0	0	0	0	83	-604.098	-4202.92	1.401298E-45	517	364	"The Den"	""	0	0	0
 1241	0	7	0	0	0	0	0	0	0	0	0	1776.23	-2678.36	1.401298E-45	516	422	"The Dor\'Danil Barrow Den"	""	0	0	0
-2482	0	48	7	0	0	0	0	0	0	0	0	1841.67	-4519.81	1.401298E-45	934	1637	"The Drag"	""	5466	0	0
-2500	0	48	7	0	0	0	0	0	0	0	0	1581.96	-4204.51	1.401298E-45	934	1637	"The Goblim Slums"	""	5463	0	0
+2482	0	48	7	0	0	0	0	0	0	0	0	1841.67	-4519.81	1.401298E-45	934	1637	"The Drag"	""	5466	15138	0
+2500	0	48	7	0	0	0	0	0	0	0	0	1581.96	-4204.51	1.401298E-45	934	1637	"The Goblim Slums"	""	5463	15139	0
 1213	0	7	0	0	0	0	0	0	0	0	0	6426.76	-4304.99	1.401298E-45	516	2251	"The Ruins of Kel\'Theril"	""	0	0	0
 1232	0	7	0	0	0	0	0	0	0	0	0	3493.89	-119.601	1.401298E-45	516	413	"The Ruins of Ordil\'Aran"	""	0	0	0
 1472	0	7	0	0	0	0	0	0	0	0	0	-7066.79	731.852	1.401298E-45	516	3425	"The Swarming Pillar"	""	0	0	0
@@ -300,7 +300,7 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1113	0	7	0	0	0	0	0	0	0	0	0	-5213.85	-2794.53	1.401298E-45	516	481	"The Weathered Nook"	""	0	0	0
 791	3	5	0	0	0	0	0	0	0	0	0	-3680.17	-4388.51	1.401298E-45	525	15	"Theramore Isle"	""	0	0	0
 29	3	6	0	0	0	0	0	0	0	0	83	-1205.41	29.4214	1.401298E-45	541	215	"Thunder Bluff"	""	0	0	0
-2439	0	48	7	0	0	0	0	0	0	0	0	-1197.69	30.8854	1.401298E-45	934	1638	"Thunder Bluff"	""	5413	0	0
+2439	0	48	7	0	0	0	0	0	0	0	0	-1197.69	30.8854	1.401298E-45	934	1638	"Thunder Bluff"	""	5413	15145	0
 1092	0	7	0	0	0	0	0	0	0	0	0	-4300.98	-4062.71	1.401298E-45	516	511	"Tidefury Cove"	""	0	0	0
 1212	0	7	0	0	0	0	0	0	0	0	0	6900.63	-2298.18	1.401298E-45	516	2246	"Timbermaw Hold"	""	0	0	0
 1218	0	7	0	0	0	0	0	0	0	0	0	6817.78	-2097.68	1.401298E-45	516	1762	"Timbermaw Hold"	""	0	0	0
@@ -310,9 +310,9 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1172	0	7	0	0	0	0	0	0	0	0	0	-6740.04	1636.32	1.401298E-45	516	3098	"Twilight Post"	""	0	0	0
 1689	0	7	0	0	0	0	0	0	0	0	0	-6310.14	136.591	1.401298E-45	516	3426	"Twilight\'s Run"	""	0	0	0
 1107	0	7	0	0	0	0	0	0	0	0	0	-9635.41	-2787.2	1.401298E-45	516	990	"Uldum"	""	0	0	0
-1696	3	41	0	0	0	0	0	0	0	0	0	6519.57	-4117.1	1.401298E-45	152	-1	"Under Attack"	"Winterspring"	2259	0	0
-1697	3	41	0	0	0	0	0	0	0	0	0	3366.79	-6226.81	1.401298E-45	152	-1	"Under Attack"	"Azshara"	2260	0	0
-1700	3	41	0	0	0	0	0	0	0	0	0	-8277.12	-3484.09	1.401298E-45	152	-1	"Under Attack"	"Tanaris Desert"	2263	0	0
+1696	3	41	0	0	0	0	0	0	0	0	0	6519.57	-4117.1	1.401298E-45	152	-1	"Under Attack"	"Winterspring"	2259	15037	0
+1697	3	41	0	0	0	0	0	0	0	0	0	3366.79	-6226.81	1.401298E-45	152	-1	"Under Attack"	"Azshara"	2260	15002	0
+1700	3	41	0	0	0	0	0	0	0	0	0	-8277.12	-3484.09	1.401298E-45	152	-1	"Under Attack"	"Tanaris Desert"	2263	14870	0
 1151	0	7	0	0	0	0	0	0	0	0	0	-2251.19	1513.55	1.401298E-45	516	602	"Valley of Bones"	""	0	0	0
 1567	0	7	0	0	0	0	0	0	0	0	0	-6404.33	-292.647	1.401298E-45	516	2738	"Valor\'s Rest"	""	0	0	0
 1047	0	7	0	0	0	0	0	0	0	0	0	-1501.49	-1036.19	1.401298E-45	516	820	"Venture Co. Mine"	""	0	0	0
@@ -329,110 +329,110 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1174	0	7	0	0	0	0	0	0	0	0	0	-4915.81	199.275	1.401298E-45	516	1101	"Woodpaw Hills"	""	0	0	0
 1237	0	7	0	0	0	0	0	0	0	0	0	2936.56	-2822.67	1.401298E-45	516	430	"Xavian"	""	0	0	0
 1234	3	5	0	0	0	0	0	0	0	0	0	3362.22	1010.16	1.401298E-45	525	414	"Zoram\'gar Outpost"	""	0	0	0
-1102	0	2	0	0	0	0	0	0	0	0	0	-946.912	-195.454	4.203895E-44	644	0	"Coldtooth Mine"	"Horde Controlled"	1356	0	0
-1358	0	3	0	0	0	0	0	0	0	0	0	-948.309	-193.286	4.203895E-44	644	0	"Coldtooth Mine"	"Alliance Controlled"	1355	0	0
-1359	0	1	0	0	0	0	0	0	0	0	0	-948.542	-193.079	4.203895E-44	644	0	"Coldtooth Mine"	"Kobold Controlled"	1357	0	0
+1102	0	2	0	0	0	0	0	0	0	0	0	-946.912	-195.454	4.203895E-44	644	0	"Coldtooth Mine"	"Horde Controlled"	1356	15185	0
+1358	0	3	0	0	0	0	0	0	0	0	0	-948.309	-193.286	4.203895E-44	644	0	"Coldtooth Mine"	"Alliance Controlled"	1355	14874	0
+1359	0	1	0	0	0	0	0	0	0	0	0	-948.542	-193.079	4.203895E-44	644	0	"Coldtooth Mine"	"Kobold Controlled"	1357	14940	0
 1328	0	7	0	0	0	0	0	0	0	0	0	693.095	-19.197	4.203895E-44	516	0	"Dun Baldar"	""	0	0	0
-1250	0	11	0	0	0	0	0	0	0	0	0	668.04	-128.176	4.203895E-44	644	0	"Dun Baldar North Bunker"	"Alliance Controlled"	1362	0	0
-1352	0	6	0	0	0	0	0	0	0	0	0	678.076	-137.378	4.203895E-44	644	-1	"Dun Baldar North Bunker"	"Destroyed"	1371	0	0
-1353	0	9	0	0	0	0	0	0	0	0	0	678.437	-137.095	4.203895E-44	644	0	"Dun Baldar North Bunker"	"In Conflict"	1375	0	0
-1354	0	12	0	0	0	0	0	0	0	0	0	678.371	-137.14	4.203895E-44	644	0	"Dun Baldar North Bunker"	"In Conflict"	1379	0	0
-1249	0	11	0	0	0	0	0	0	0	0	0	571.535	-80.543	4.203895E-44	644	0	"Dun Baldar South Bunker"	"Alliance Controlled"	1361	0	0
-1355	0	6	0	0	0	0	0	0	0	0	0	557.858	-88.1394	4.203895E-44	644	-1	"Dun Baldar South Bunker"	"Destroyed"	1370	0	0
-1356	0	9	0	0	0	0	0	0	0	0	0	557.849	-88.2827	4.203895E-44	644	0	"Dun Baldar South Bunker"	"In Conflict"	1374	0	0
-1357	0	12	0	0	0	0	0	0	0	0	0	557.752	-88.2432	4.203895E-44	644	0	"Dun Baldar South Bunker"	"In Conflict"	1378	0	0
-1255	0	10	0	0	0	0	0	0	0	0	0	-1302.65	-305.886	4.203895E-44	644	-1	"East Frostwolf Tower"	"Horde Controlled"	1383	0	0
-1362	0	6	0	0	0	0	0	0	0	0	0	-1301.22	-306.564	4.203895E-44	644	5481	"East Frostwolf Tower"	"Destroyed"	1366	0	0
-1363	0	9	0	0	0	0	0	0	0	0	0	-1301.4	-307.196	4.203895E-44	644	-1	"East Frostwolf Tower"	"In Conflict"	1388	0	0
-1364	0	12	0	0	0	0	0	0	0	0	0	-1301.47	-307.241	4.203895E-44	644	-1	"East Frostwolf Tower"	"In Conflict"	1393	0	0
-1210	0	13	0	0	0	0	0	0	0	0	0	-1083.31	-307.402	4.203895E-44	644	0	"Frostwolf Graveyard"	"Horde Controlled"	1338	0	0
-1368	0	15	0	0	0	0	0	0	0	0	0	-1083.54	-307.433	4.203895E-44	644	0	"Frostwolf Graveyard"	"Alliance Controlled"	1337	0	0
-1369	0	4	0	0	0	0	0	0	0	0	0	-1083.49	-307.617	4.203895E-44	644	-1	"Frostwolf Graveyard"	"In Conflict"	1339	0	0
-1370	0	14	0	0	0	0	0	0	0	0	0	-1083.67	-307.436	4.203895E-44	644	0	"Frostwolf Graveyard"	"In Conflict"	1340	0	0
+1250	0	11	0	0	0	0	0	0	0	0	0	668.04	-128.176	4.203895E-44	644	0	"Dun Baldar North Bunker"	"Alliance Controlled"	1362	15229	0
+1352	0	6	0	0	0	0	0	0	0	0	0	678.076	-137.378	4.203895E-44	644	-1	"Dun Baldar North Bunker"	"Destroyed"	1371	15187	0
+1353	0	9	0	0	0	0	0	0	0	0	0	678.437	-137.095	4.203895E-44	644	0	"Dun Baldar North Bunker"	"In Conflict"	1375	15007	0
+1354	0	12	0	0	0	0	0	0	0	0	0	678.371	-137.14	4.203895E-44	644	0	"Dun Baldar North Bunker"	"In Conflict"	1379	15059	0
+1249	0	11	0	0	0	0	0	0	0	0	0	571.535	-80.543	4.203895E-44	644	0	"Dun Baldar South Bunker"	"Alliance Controlled"	1361	15021	0
+1355	0	6	0	0	0	0	0	0	0	0	0	557.858	-88.1394	4.203895E-44	644	-1	"Dun Baldar South Bunker"	"Destroyed"	1370	15188	0
+1356	0	9	0	0	0	0	0	0	0	0	0	557.849	-88.2827	4.203895E-44	644	0	"Dun Baldar South Bunker"	"In Conflict"	1374	14939	0
+1357	0	12	0	0	0	0	0	0	0	0	0	557.752	-88.2432	4.203895E-44	644	0	"Dun Baldar South Bunker"	"In Conflict"	1378	14873	0
+1255	0	10	0	0	0	0	0	0	0	0	0	-1302.65	-305.886	4.203895E-44	644	-1	"East Frostwolf Tower"	"Horde Controlled"	1383	15064	0
+1362	0	6	0	0	0	0	0	0	0	0	0	-1301.22	-306.564	4.203895E-44	644	5481	"East Frostwolf Tower"	"Destroyed"	1366	15076	0
+1363	0	9	0	0	0	0	0	0	0	0	0	-1301.4	-307.196	4.203895E-44	644	-1	"East Frostwolf Tower"	"In Conflict"	1388	14875	0
+1364	0	12	0	0	0	0	0	0	0	0	0	-1301.47	-307.241	4.203895E-44	644	-1	"East Frostwolf Tower"	"In Conflict"	1393	15075	0
+1210	0	13	0	0	0	0	0	0	0	0	0	-1083.31	-307.402	4.203895E-44	644	0	"Frostwolf Graveyard"	"Horde Controlled"	1338	14953	0
+1368	0	15	0	0	0	0	0	0	0	0	0	-1083.54	-307.433	4.203895E-44	644	0	"Frostwolf Graveyard"	"Alliance Controlled"	1337	15230	0
+1369	0	4	0	0	0	0	0	0	0	0	0	-1083.49	-307.617	4.203895E-44	644	-1	"Frostwolf Graveyard"	"In Conflict"	1339	15068	0
+1370	0	14	0	0	0	0	0	0	0	0	0	-1083.67	-307.436	4.203895E-44	644	0	"Frostwolf Graveyard"	"In Conflict"	1340	14886	0
 1103	0	7	0	0	0	0	0	0	0	0	0	-1369.01	-225.37	4.203895E-44	516	0	"Frostwolf Keep"	""	0	0	0
-1351	0	13	0	0	0	0	0	0	0	0	0	-1415.05	-305.986	4.203895E-44	644	0	"Frostwolf Relief Hut"	"Horde Controlled"	1330	0	0
-1371	0	15	0	0	0	0	0	0	0	0	0	-1414.93	-305.602	4.203895E-44	644	0	"Frostwolf Relief Hut"	"Alliance Controlled"	1329	0	0
-1372	0	14	0	0	0	0	0	0	0	0	0	-1414.79	-306.018	4.203895E-44	644	0	"Frostwolf Relief Hut"	"In Conflict"	1332	0	0
-1373	0	4	0	0	0	0	0	0	0	0	0	-1414.89	-306.056	4.203895E-44	644	0	"Frostwolf Relief Hut"	"In Conflict"	1331	0	0
+1351	0	13	0	0	0	0	0	0	0	0	0	-1415.05	-305.986	4.203895E-44	644	0	"Frostwolf Relief Hut"	"Horde Controlled"	1330	15073	0
+1371	0	15	0	0	0	0	0	0	0	0	0	-1414.93	-305.602	4.203895E-44	644	0	"Frostwolf Relief Hut"	"Alliance Controlled"	1329	15231	0
+1372	0	14	0	0	0	0	0	0	0	0	0	-1414.79	-306.018	4.203895E-44	644	0	"Frostwolf Relief Hut"	"In Conflict"	1332	14834	0
+1373	0	4	0	0	0	0	0	0	0	0	0	-1414.89	-306.056	4.203895E-44	644	0	"Frostwolf Relief Hut"	"In Conflict"	1331	14993	0
 1101	0	7	0	0	0	0	0	0	0	0	0	-537.807	-168.363	4.203895E-44	516	0	"Iceblood Garrison"	""	0	0	0
-1349	0	13	0	0	0	0	0	0	0	0	0	-531.316	-405.584	4.203895E-44	644	0	"Iceblood Graveyard"	"Horde Controlled"	1347	0	0
-1374	0	15	0	0	0	0	0	0	0	0	0	-531.344	-405.273	4.203895E-44	644	0	"Iceblood Graveyard"	"Alliance Controlled"	1346	0	0
-1375	0	4	0	0	0	0	0	0	0	0	0	-531.402	-405.326	4.203895E-44	644	0	"Iceblood Graveyard"	"In Conflict"	1348	0	0
-1376	0	14	0	0	0	0	0	0	0	0	0	-531.425	-405.326	4.203895E-44	644	0	"Iceblood Graveyard"	"In Conflict"	1349	0	0
-1252	0	10	0	0	0	0	0	0	0	0	0	-562.172	-273.554	4.203895E-44	644	-1	"Iceblood Tower"	"Horde Controlled"	1385	0	0
-1377	0	6	0	0	0	0	0	0	0	0	0	-560.3	-271.439	4.203895E-44	644	-1	"Iceblood Tower"	"Destroyed"	1368	0	0
-1378	0	12	0	0	0	0	0	0	0	0	0	-560.261	-271.528	4.203895E-44	644	-1	"Iceblood Tower"	"In Conflict"	1395	0	0
-1379	0	9	0	0	0	0	0	0	0	0	0	-560.376	-271.281	4.203895E-44	644	-1	"Iceblood Tower"	"In Conflict"	1390	0	0
-1251	0	11	0	0	0	0	0	0	0	0	0	217.425	-359.764	4.203895E-44	644	0	"Icewing Bunker"	"Alliance Controlled"	1363	0	0
-1380	0	6	0	0	0	0	0	0	0	0	0	209.101	-367.837	4.203895E-44	644	-1	"Icewing Bunker"	"Destroyed"	1372	0	0
-1381	0	9	0	0	0	0	0	0	0	0	0	208.785	-367.938	4.203895E-44	644	0	"Icewing Bunker"	"In Conflict"	1376	0	0
-1382	0	12	0	0	0	0	0	0	0	0	0	209.023	-368.034	4.203895E-44	644	0	"Icewing Bunker"	"In Conflict"	1380	0	0
+1349	0	13	0	0	0	0	0	0	0	0	0	-531.316	-405.584	4.203895E-44	644	0	"Iceblood Graveyard"	"Horde Controlled"	1347	14872	0
+1374	0	15	0	0	0	0	0	0	0	0	0	-531.344	-405.273	4.203895E-44	644	0	"Iceblood Graveyard"	"Alliance Controlled"	1346	15020	0
+1375	0	4	0	0	0	0	0	0	0	0	0	-531.402	-405.326	4.203895E-44	644	0	"Iceblood Graveyard"	"In Conflict"	1348	14829	0
+1376	0	14	0	0	0	0	0	0	0	0	0	-531.425	-405.326	4.203895E-44	644	0	"Iceblood Graveyard"	"In Conflict"	1349	15039	0
+1252	0	10	0	0	0	0	0	0	0	0	0	-562.172	-273.554	4.203895E-44	644	-1	"Iceblood Tower"	"Horde Controlled"	1385	15081	0
+1377	0	6	0	0	0	0	0	0	0	0	0	-560.3	-271.439	4.203895E-44	644	-1	"Iceblood Tower"	"Destroyed"	1368	15080	0
+1378	0	12	0	0	0	0	0	0	0	0	0	-560.261	-271.528	4.203895E-44	644	-1	"Iceblood Tower"	"In Conflict"	1395	14954	0
+1379	0	9	0	0	0	0	0	0	0	0	0	-560.376	-271.281	4.203895E-44	644	-1	"Iceblood Tower"	"In Conflict"	1390	15061	0
+1251	0	11	0	0	0	0	0	0	0	0	0	217.425	-359.764	4.203895E-44	644	0	"Icewing Bunker"	"Alliance Controlled"	1363	15186	0
+1380	0	6	0	0	0	0	0	0	0	0	0	209.101	-367.837	4.203895E-44	644	-1	"Icewing Bunker"	"Destroyed"	1372	14909	0
+1381	0	9	0	0	0	0	0	0	0	0	0	208.785	-367.938	4.203895E-44	644	0	"Icewing Bunker"	"In Conflict"	1376	15054	0
+1382	0	12	0	0	0	0	0	0	0	0	0	209.023	-368.034	4.203895E-44	644	0	"Icewing Bunker"	"In Conflict"	1380	14887	0
 1569	0	7	0	0	0	0	0	0	0	0	0	276.056	61.1517	4.203895E-44	516	2959	"Icewing Cavern"	""	0	0	0
-1099	0	3	0	0	0	0	0	0	0	0	0	793.751	-330.197	4.203895E-44	644	0	"Irondeep Mine"	"Alliance Controlled"	1358	0	0
-1383	0	2	0	0	0	0	0	0	0	0	0	801.661	-330.015	4.203895E-44	644	0	"Irondeep Mine"	"Horde Controlled"	1359	0	0
-1384	0	1	0	0	0	0	0	0	0	0	0	801.41	-330.128	4.203895E-44	644	0	"Irondeep Mine"	"Trogg Controlled"	1360	0	0
-1550	0	4	0	0	0	0	0	0	0	0	0	451.372	-127.12	4.203895E-44	644	-1	"Pre-alliance POI test"	""	1665	0	0
-1209	0	13	0	0	0	0	0	0	0	0	0	-202.695	-112.569	4.203895E-44	644	0	"Snowfall Graveyard"	"Horde Controlled"	1342	0	0
-1386	0	15	0	0	0	0	0	0	0	0	0	-202.963	-112.575	4.203895E-44	644	0	"Snowfall Graveyard"	"Alliance Controlled"	1341	0	0
-1387	0	14	0	0	0	0	0	0	0	0	0	-203.153	-112.587	4.203895E-44	644	0	"Snowfall Graveyard"	"In Conflict"	1344	0	0
-1388	0	4	0	0	0	0	0	0	0	0	0	-203.09	-112.598	4.203895E-44	644	0	"Snowfall Graveyard"	"In Conflict"	1343	0	0
-1682	0	8	0	0	0	0	0	0	0	0	0	-202.932	-112.716	4.203895E-44	644	-1	"Snowfall Graveyard"	"Uncontrolled"	1966	0	0
-1347	0	11	0	0	0	0	0	0	0	0	0	-160.17	-454.107	4.203895E-44	644	0	"Stonehearth Bunker"	"Alliance Controlled"	1364	0	0
-1389	0	6	0	0	0	0	0	0	0	0	0	-160.264	-454.198	4.203895E-44	644	-1	"Stonehearth Bunker"	"Destroyed"	1373	0	0
-1390	0	9	0	0	0	0	0	0	0	0	0	-160.169	-454.076	4.203895E-44	644	0	"Stonehearth Bunker"	"In Conflict"	1377	0	0
-1391	0	12	0	0	0	0	0	0	0	0	0	-160.403	-454.183	4.203895E-44	644	0	"Stonehearth Bunker"	"In Conflict"	1381	0	0
-1350	0	15	0	0	0	0	0	0	0	0	0	65.9825	-415.573	4.203895E-44	644	0	"Stonehearth Graveyard"	"Alliance Controlled"	1302	0	0
-1392	0	13	0	0	0	0	0	0	0	0	0	65.9149	-415.562	4.203895E-44	644	0	"Stonehearth Graveyard"	"Horde Controlled"	1301	0	0
-1393	0	4	0	0	0	0	0	0	0	0	0	65.8907	-415.551	4.203895E-44	644	0	"Stonehearth Graveyard"	"In Conflict"	1304	0	0
-1394	0	14	0	0	0	0	0	0	0	0	0	65.8889	-415.616	4.203895E-44	644	0	"Stonehearth Graveyard"	"In Conflict"	1303	0	0
+1099	0	3	0	0	0	0	0	0	0	0	0	793.751	-330.197	4.203895E-44	644	0	"Irondeep Mine"	"Alliance Controlled"	1358	14882	0
+1383	0	2	0	0	0	0	0	0	0	0	0	801.661	-330.015	4.203895E-44	644	0	"Irondeep Mine"	"Horde Controlled"	1359	14835	0
+1384	0	1	0	0	0	0	0	0	0	0	0	801.41	-330.128	4.203895E-44	644	0	"Irondeep Mine"	"Trogg Controlled"	1360	15018	0
+1550	0	4	0	0	0	0	0	0	0	0	0	451.372	-127.12	4.203895E-44	644	-1	"Pre-alliance POI test"	""	1665	14857	0
+1209	0	13	0	0	0	0	0	0	0	0	0	-202.695	-112.569	4.203895E-44	644	0	"Snowfall Graveyard"	"Horde Controlled"	1342	14959	0
+1386	0	15	0	0	0	0	0	0	0	0	0	-202.963	-112.575	4.203895E-44	644	0	"Snowfall Graveyard"	"Alliance Controlled"	1341	14856	0
+1387	0	14	0	0	0	0	0	0	0	0	0	-203.153	-112.587	4.203895E-44	644	0	"Snowfall Graveyard"	"In Conflict"	1344	15189	0
+1388	0	4	0	0	0	0	0	0	0	0	0	-203.09	-112.598	4.203895E-44	644	0	"Snowfall Graveyard"	"In Conflict"	1343	14836	0
+1682	0	8	0	0	0	0	0	0	0	0	0	-202.932	-112.716	4.203895E-44	644	-1	"Snowfall Graveyard"	"Uncontrolled"	1966	14925	0
+1347	0	11	0	0	0	0	0	0	0	0	0	-160.17	-454.107	4.203895E-44	644	0	"Stonehearth Bunker"	"Alliance Controlled"	1364	15038	0
+1389	0	6	0	0	0	0	0	0	0	0	0	-160.264	-454.198	4.203895E-44	644	-1	"Stonehearth Bunker"	"Destroyed"	1373	14984	0
+1390	0	9	0	0	0	0	0	0	0	0	0	-160.169	-454.076	4.203895E-44	644	0	"Stonehearth Bunker"	"In Conflict"	1377	15032	0
+1391	0	12	0	0	0	0	0	0	0	0	0	-160.403	-454.183	4.203895E-44	644	0	"Stonehearth Bunker"	"In Conflict"	1381	15190	0
+1350	0	15	0	0	0	0	0	0	0	0	0	65.9825	-415.573	4.203895E-44	644	0	"Stonehearth Graveyard"	"Alliance Controlled"	1302	15056	0
+1392	0	13	0	0	0	0	0	0	0	0	0	65.9149	-415.562	4.203895E-44	644	0	"Stonehearth Graveyard"	"Horde Controlled"	1301	15208	0
+1393	0	4	0	0	0	0	0	0	0	0	0	65.8907	-415.551	4.203895E-44	644	0	"Stonehearth Graveyard"	"In Conflict"	1304	14933	0
+1394	0	14	0	0	0	0	0	0	0	0	0	65.8889	-415.616	4.203895E-44	644	0	"Stonehearth Graveyard"	"In Conflict"	1303	14896	0
 1100	0	7	0	0	0	0	0	0	0	0	0	1.66764	-292.675	4.203895E-44	516	0	"Stonehearth Outpost"	""	0	0	0
-1348	0	15	0	0	0	0	0	0	0	0	0	640.261	-18.6661	4.203895E-44	644	0	"Stormpike Aid Station"	"Alliance Controlled"	1325	0	0
-1395	0	13	0	0	0	0	0	0	0	0	0	641.501	-17.3997	4.203895E-44	644	0	"Stormpike Aid Station"	"Horde Controlled"	1327	0	0
-1396	0	4	0	0	0	0	0	0	0	0	0	640.908	-18.1867	4.203895E-44	644	0	"Stormpike Aid Station"	"In Conflict"	1326	0	0
-1397	0	14	0	0	0	0	0	0	0	0	0	640.699	-18.1078	4.203895E-44	644	0	"Stormpike Aid Station"	"In Conflict"	1328	0	0
-1208	0	15	0	0	0	0	0	0	0	0	0	666.927	-305.544	4.203895E-44	644	0	"Stormpike Graveyard"	"Alliance Controlled"	1333	0	0
-1398	0	13	0	0	0	0	0	0	0	0	0	666.642	-305.542	4.203895E-44	644	0	"Stormpike Graveyard"	"Horde Controlled"	1334	0	0
-1399	0	4	0	0	0	0	0	0	0	0	0	666.699	-305.533	4.203895E-44	644	0	"Stormpike Graveyard"	"In Conflict"	1335	0	0
-1400	0	14	0	0	0	0	0	0	0	0	0	666.571	-305.432	4.203895E-44	644	0	"Stormpike Graveyard"	"In Conflict"	1336	0	0
-1254	0	10	0	0	0	0	0	0	0	0	0	-760.664	-347.326	4.203895E-44	644	-1	"Tower Point"	"Horde Controlled"	1384	0	0
-1405	0	6	0	0	0	0	0	0	0	0	0	-759.186	-348.19	4.203895E-44	644	-1	"Tower Point"	"Destroyed"	1367	0	0
-1406	0	12	0	0	0	0	0	0	0	0	0	-759.141	-348.12	4.203895E-44	644	-1	"Tower Point"	"In Conflict"	1394	0	0
-1407	0	9	0	0	0	0	0	0	0	0	0	-759.266	-348.044	4.203895E-44	644	-1	"Tower Point"	"In Conflict"	1389	0	0
-1527	0	10	0	0	0	0	0	0	0	0	0	-1297.9	-266.613	4.203895E-44	644	-1	"West Frostwolf Tower"	"Horde Controlled"	1382	0	0
-1528	0	6	0	0	0	0	0	0	0	0	0	-1297.92	-266.629	4.203895E-44	644	-1	"West Frostwolf Tower"	"Destroyed"	1365	0	0
-1529	0	12	0	0	0	0	0	0	0	0	0	-1298.02	-266.508	4.203895E-44	644	-1	"West Frostwolf Tower"	"In Conflict"	1392	0	0
-1530	0	9	0	0	0	0	0	0	0	0	0	-1298.09	-266.702	4.203895E-44	644	-1	"West Frostwolf Tower"	"In Conflict"	1387	0	0
+1348	0	15	0	0	0	0	0	0	0	0	0	640.261	-18.6661	4.203895E-44	644	0	"Stormpike Aid Station"	"Alliance Controlled"	1325	14864	0
+1395	0	13	0	0	0	0	0	0	0	0	0	641.501	-17.3997	4.203895E-44	644	0	"Stormpike Aid Station"	"Horde Controlled"	1327	15191	0
+1396	0	4	0	0	0	0	0	0	0	0	0	640.908	-18.1867	4.203895E-44	644	0	"Stormpike Aid Station"	"In Conflict"	1326	14994	0
+1397	0	14	0	0	0	0	0	0	0	0	0	640.699	-18.1078	4.203895E-44	644	0	"Stormpike Aid Station"	"In Conflict"	1328	15034	0
+1208	0	15	0	0	0	0	0	0	0	0	0	666.927	-305.544	4.203895E-44	644	0	"Stormpike Graveyard"	"Alliance Controlled"	1333	14966	0
+1398	0	13	0	0	0	0	0	0	0	0	0	666.642	-305.542	4.203895E-44	644	0	"Stormpike Graveyard"	"Horde Controlled"	1334	14897	0
+1399	0	4	0	0	0	0	0	0	0	0	0	666.699	-305.533	4.203895E-44	644	0	"Stormpike Graveyard"	"In Conflict"	1335	15074	0
+1400	0	14	0	0	0	0	0	0	0	0	0	666.571	-305.432	4.203895E-44	644	0	"Stormpike Graveyard"	"In Conflict"	1336	14944	0
+1254	0	10	0	0	0	0	0	0	0	0	0	-760.664	-347.326	4.203895E-44	644	-1	"Tower Point"	"Horde Controlled"	1384	15132	0
+1405	0	6	0	0	0	0	0	0	0	0	0	-759.186	-348.19	4.203895E-44	644	-1	"Tower Point"	"Destroyed"	1367	14922	0
+1406	0	12	0	0	0	0	0	0	0	0	0	-759.141	-348.12	4.203895E-44	644	-1	"Tower Point"	"In Conflict"	1394	14914	0
+1407	0	9	0	0	0	0	0	0	0	0	0	-759.266	-348.044	4.203895E-44	644	-1	"Tower Point"	"In Conflict"	1389	14995	0
+1527	0	10	0	0	0	0	0	0	0	0	0	-1297.9	-266.613	4.203895E-44	644	-1	"West Frostwolf Tower"	"Horde Controlled"	1382	14839	0
+1528	0	6	0	0	0	0	0	0	0	0	0	-1297.92	-266.629	4.203895E-44	644	-1	"West Frostwolf Tower"	"Destroyed"	1365	14991	0
+1529	0	12	0	0	0	0	0	0	0	0	0	-1298.02	-266.508	4.203895E-44	644	-1	"West Frostwolf Tower"	"In Conflict"	1392	15052	0
+1530	0	9	0	0	0	0	0	0	0	0	0	-1298.09	-266.702	4.203895E-44	644	-1	"West Frostwolf Tower"	"In Conflict"	1387	14838	0
 1568	0	7	0	0	0	0	0	0	0	0	0	-1436.1	-455.651	4.203895E-44	516	2978	"Wildpaw Cavern"	""	0	0	0
 20	0	1	0	0	0	0	0	0	0	0	0	-448.982	-1028.22	5.184804E-44	1	0	"Alliance"	""	0	0	0
 21	0	1	0	0	0	0	0	0	0	0	0	-669.134	-483.289	5.184804E-44	1	0	"Horde"	""	0	0	0
-1614	0	26	0	0	0	0	0	0	0	0	0	988.933	1012.57	7.412869E-43	644	-1	"Blacksmith"	"Uncontrolled"	1846	0	0
-1615	0	28	0	0	0	0	0	0	0	0	0	988.697	1012.58	7.412869E-43	644	-1	"Blacksmith"	"Alliance Controlled"	1782	0	0
-1616	0	30	0	0	0	0	0	0	0	0	0	988.937	1012.34	7.412869E-43	644	-1	"Blacksmith"	"Horde Controlled"	1783	0	0
-1617	0	27	0	0	0	0	0	0	0	0	0	988.94	1012.11	7.412869E-43	644	-1	"Blacksmith"	"In Conflict"	1784	0	0
-1618	0	29	0	0	0	0	0	0	0	0	0	988.693	1012.81	7.412869E-43	644	-1	"Blacksmith"	"In Conflict"	1785	0	0
-1629	0	31	0	0	0	0	0	0	0	0	0	824.262	826.35	7.412869E-43	644	-1	"Farm"	"Uncontrolled"	1845	0	0
-1630	0	33	0	0	0	0	0	0	0	0	0	824.011	826.546	7.412869E-43	644	-1	"Farm"	"Alliance Controlled"	1772	0	0
-1631	0	35	0	0	0	0	0	0	0	0	0	823.875	826.557	7.412869E-43	644	-1	"Farm"	"Horde Controlled"	1773	0	0
-1632	0	32	0	0	0	0	0	0	0	0	0	824.015	826.696	7.412869E-43	644	-1	"Farm"	"In Conflict"	1774	0	0
-1633	0	34	0	0	0	0	0	0	0	0	0	823.875	826.418	7.412869E-43	644	-1	"Farm"	"In Conflict"	1775	0	0
-1624	0	16	0	0	0	0	0	0	0	0	0	1178.22	822.509	7.412869E-43	644	-1	"Gold Mine"	"Uncontrolled"	1843	0	0
-1625	0	18	0	0	0	0	0	0	0	0	0	1177.99	822.883	7.412869E-43	644	-1	"Gold Mine"	"Alliance Controlled"	1787	0	0
-1626	0	20	0	0	0	0	0	0	0	0	0	1178.35	822.88	7.412869E-43	644	-1	"Gold Mine"	"Horde Controlled"	1788	0	0
-1627	0	17	0	0	0	0	0	0	0	0	0	1178.07	822.847	7.412869E-43	644	-1	"Gold Mine"	"In Conflict"	1789	0	0
-1628	0	19	0	0	0	0	0	0	0	0	0	1178.15	822.624	7.412869E-43	644	-1	"Gold Mine"	"In Conflict"	1790	0	0
-1619	0	21	0	0	0	0	0	0	0	0	0	813.067	1182.09	7.412869E-43	644	-1	"Lumber Mill"	"Uncontrolled"	1844	0	0
-1620	0	23	0	0	0	0	0	0	0	0	0	813.073	1182.07	7.412869E-43	644	-1	"Lumber Mill"	"Alliance Controlled"	1792	0	0
-1621	0	25	0	0	0	0	0	0	0	0	0	812.747	1182.13	7.412869E-43	644	-1	"Lumber Mill"	"Horde Controlled"	1793	0	0
-1622	0	22	0	0	0	0	0	0	0	0	0	812.705	1182.26	7.412869E-43	644	-1	"Lumber Mill"	"In Conflict"	1794	0	0
-1623	0	24	0	0	0	0	0	0	0	0	0	812.715	1182.26	7.412869E-43	644	-1	"Lumber Mill"	"In Conflict"	1795	0	0
-1609	0	36	0	0	0	0	0	0	0	0	0	1180.92	1185.77	7.412869E-43	644	-1	"Stables"	"Uncontrolled"	1842	0	0
-1610	0	38	0	0	0	0	0	0	0	0	0	1181.56	1185.58	7.412869E-43	644	-1	"Stables"	"Alliance Controlled"	1767	0	0
-1611	0	40	0	0	0	0	0	0	0	0	0	1181.56	1185.74	7.412869E-43	644	-1	"Stables"	"Horde Controlled"	1768	0	0
-1612	0	37	0	0	0	0	0	0	0	0	0	1181.51	1185.65	7.412869E-43	644	-1	"Stables"	"In Conflict"	1769	0	0
-1613	0	39	0	0	0	0	0	0	0	0	0	1181.54	1185.6	7.412869E-43	644	-1	"Stables"	"In Conflict"	1770	0	0
+1614	0	26	0	0	0	0	0	0	0	0	0	988.933	1012.57	7.412869E-43	644	-1	"Blacksmith"	"Uncontrolled"	1846	15192	0
+1615	0	28	0	0	0	0	0	0	0	0	0	988.697	1012.58	7.412869E-43	644	-1	"Blacksmith"	"Alliance Controlled"	1782	14946	0
+1616	0	30	0	0	0	0	0	0	0	0	0	988.937	1012.34	7.412869E-43	644	-1	"Blacksmith"	"Horde Controlled"	1783	14957	0
+1617	0	27	0	0	0	0	0	0	0	0	0	988.94	1012.11	7.412869E-43	644	-1	"Blacksmith"	"In Conflict"	1784	14998	0
+1618	0	29	0	0	0	0	0	0	0	0	0	988.693	1012.81	7.412869E-43	644	-1	"Blacksmith"	"In Conflict"	1785	14958	0
+1629	0	31	0	0	0	0	0	0	0	0	0	824.262	826.35	7.412869E-43	644	-1	"Farm"	"Uncontrolled"	1845	15078	0
+1630	0	33	0	0	0	0	0	0	0	0	0	824.011	826.546	7.412869E-43	644	-1	"Farm"	"Alliance Controlled"	1772	15079	0
+1631	0	35	0	0	0	0	0	0	0	0	0	823.875	826.557	7.412869E-43	644	-1	"Farm"	"Horde Controlled"	1773	15063	0
+1632	0	32	0	0	0	0	0	0	0	0	0	824.015	826.696	7.412869E-43	644	-1	"Farm"	"In Conflict"	1774	14842	0
+1633	0	34	0	0	0	0	0	0	0	0	0	823.875	826.418	7.412869E-43	644	-1	"Farm"	"In Conflict"	1775	15066	0
+1624	0	16	0	0	0	0	0	0	0	0	0	1178.22	822.509	7.412869E-43	644	-1	"Gold Mine"	"Uncontrolled"	1843	14999	0
+1625	0	18	0	0	0	0	0	0	0	0	0	1177.99	822.883	7.412869E-43	644	-1	"Gold Mine"	"Alliance Controlled"	1787	15193	0
+1626	0	20	0	0	0	0	0	0	0	0	0	1178.35	822.88	7.412869E-43	644	-1	"Gold Mine"	"Horde Controlled"	1788	15053	0
+1627	0	17	0	0	0	0	0	0	0	0	0	1178.07	822.847	7.412869E-43	644	-1	"Gold Mine"	"In Conflict"	1789	15077	0
+1628	0	19	0	0	0	0	0	0	0	0	0	1178.15	822.624	7.412869E-43	644	-1	"Gold Mine"	"In Conflict"	1790	14963	0
+1619	0	21	0	0	0	0	0	0	0	0	0	813.067	1182.09	7.412869E-43	644	-1	"Lumber Mill"	"Uncontrolled"	1844	14997	0
+1620	0	23	0	0	0	0	0	0	0	0	0	813.073	1182.07	7.412869E-43	644	-1	"Lumber Mill"	"Alliance Controlled"	1792	14908	0
+1621	0	25	0	0	0	0	0	0	0	0	0	812.747	1182.13	7.412869E-43	644	-1	"Lumber Mill"	"Horde Controlled"	1793	15133	0
+1622	0	22	0	0	0	0	0	0	0	0	0	812.705	1182.26	7.412869E-43	644	-1	"Lumber Mill"	"In Conflict"	1794	15067	0
+1623	0	24	0	0	0	0	0	0	0	0	0	812.715	1182.26	7.412869E-43	644	-1	"Lumber Mill"	"In Conflict"	1795	14905	0
+1609	0	36	0	0	0	0	0	0	0	0	0	1180.92	1185.77	7.412869E-43	644	-1	"Stables"	"Uncontrolled"	1842	14837	0
+1610	0	38	0	0	0	0	0	0	0	0	0	1181.56	1185.58	7.412869E-43	644	-1	"Stables"	"Alliance Controlled"	1767	15084	0
+1611	0	40	0	0	0	0	0	0	0	0	0	1181.56	1185.74	7.412869E-43	644	-1	"Stables"	"Horde Controlled"	1768	14910	0
+1612	0	37	0	0	0	0	0	0	0	0	0	1181.51	1185.65	7.412869E-43	644	-1	"Stables"	"In Conflict"	1769	14955	0
+1613	0	39	0	0	0	0	0	0	0	0	0	1181.54	1185.6	7.412869E-43	644	-1	"Stables"	"In Conflict"	1770	14956	0
 2074	3	5	0	0	0	0	0	0	0	0	0	-2958.41	3971.65	7.426882E-43	525	3684	"Allerian Stronghold"	""	0	0	0
-1904	0	45	0	0	0	0	0	0	0	0	0	374.129	6229.92	7.426882E-43	647	3521	"Alliance Field Scout"	""	2656	0	0
-1905	0	43	0	0	0	0	0	0	0	0	0	374.146	6229.91	7.426882E-43	647	3521	"Alliance Field Scout"	""	2655	0	0
+1904	0	45	0	0	0	0	0	0	0	0	0	374.129	6229.92	7.426882E-43	647	3521	"Alliance Field Scout"	""	2656	15195	0
+1905	0	43	0	0	0	0	0	0	0	0	0	374.146	6229.91	7.426882E-43	647	3521	"Alliance Field Scout"	""	2655	14877	0
 2078	3	5	0	0	0	0	0	0	0	0	0	-3042.85	804.584	7.426882E-43	525	3754	"Altar of Sha\'tar"	""	0	0	0
 1809	0	7	0	0	0	0	0	0	0	0	0	7638.25	-7310.51	7.426882E-43	516	3510	"Amani Catacombs"	""	0	0	0
 1811	0	7	0	0	0	0	0	0	0	0	0	6857.14	-7680.32	7.426882E-43	516	3508	"Amani Pass"	""	0	0	0
@@ -450,9 +450,9 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1940	3	5	0	0	0	0	0	0	0	0	0	-1990.97	-11866.2	7.426882E-43	525	3584	"Blood Watch"	""	0	0	0
 1840	0	7	0	0	0	0	0	0	0	0	0	-2496.43	-12216.7	7.426882E-43	516	3600	"Bristlelimb Enclave"	""	0	0	0
 1780	0	7	0	0	0	0	0	0	0	0	0	-4588.5	-11603.5	7.426882E-43	516	3571	"Bristlelimb Village"	""	0	0	0
-1844	0	6	0	0	0	0	0	0	0	0	0	-466.044	3467.61	7.426882E-43	647	3483	"Broken Hill"	"Neutral"	2485	0	0
-1845	0	11	0	0	0	0	0	0	0	0	0	-465.609	3467.81	7.426882E-43	647	3483	"Broken Hill"	"Alliance Controlled"	2483	0	0
-1846	0	10	0	0	0	0	0	0	0	0	0	-465.397	3467.81	7.426882E-43	647	3483	"Broken Hill"	"Horde Controlled"	2484	0	0
+1844	0	6	0	0	0	0	0	0	0	0	0	-466.044	3467.61	7.426882E-43	647	3483	"Broken Hill"	"Neutral"	2485	14970	0
+1845	0	11	0	0	0	0	0	0	0	0	0	-465.609	3467.81	7.426882E-43	647	3483	"Broken Hill"	"Alliance Controlled"	2483	14992	0
+1846	0	10	0	0	0	0	0	0	0	0	0	-465.397	3467.81	7.426882E-43	647	3483	"Broken Hill"	"Horde Controlled"	2484	15072	0
 2062	3	5	0	0	0	0	0	0	0	0	0	-237.101	5519.13	7.426882E-43	525	3565	"Cenarion Refuge"	""	0	0	0
 1722	0	7	0	0	0	0	0	0	0	0	0	500.537	3850.62	7.426882E-43	0	3555	"Clan Post"	""	0	0	0
 2021	0	7	0	0	0	0	0	0	0	0	0	567.344	6943.26	7.426882E-43	516	3905	"Coilfang Reservoir"	""	0	0	0
@@ -462,9 +462,9 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1711	0	7	0	0	0	0	0	0	0	0	0	6494.17	-6367.48	7.426882E-43	0	3500	"Deatholme"	""	0	0	0
 1719	0	7	0	0	0	0	0	0	0	0	0	-1105.52	4200.52	7.426882E-43	0	3556	"Den of Haal\'esh"	""	0	0	0
 2018	0	7	0	0	0	0	0	0	0	0	0	9335.37	-7884.4	7.426882E-43	516	3481	"Duskwither Spire"	""	0	0	0
-1901	0	11	0	0	0	0	0	0	0	0	0	341.394	6833.16	7.426882E-43	647	3521	"East Beacon"	"Alliance Controlled"	2650	0	0
-1902	0	10	0	0	0	0	0	0	0	0	0	341.234	6833.17	7.426882E-43	647	3521	"East Beacon"	"Horde Controlled"	2651	0	0
-1903	0	6	0	0	0	0	0	0	0	0	0	341.409	6833.08	7.426882E-43	647	3521	"East Beacon"	""	2652	0	0
+1901	0	11	0	0	0	0	0	0	0	0	0	341.394	6833.16	7.426882E-43	647	3521	"East Beacon"	"Alliance Controlled"	2650	15060	0
+1902	0	10	0	0	0	0	0	0	0	0	0	341.234	6833.17	7.426882E-43	647	3521	"East Beacon"	"Horde Controlled"	2651	14961	0
+1903	0	6	0	0	0	0	0	0	0	0	0	341.409	6833.08	7.426882E-43	647	3521	"East Beacon"	""	2652	15050	0
 1822	0	7	0	0	0	0	0	0	0	0	0	8742.78	-7105.38	7.426882E-43	516	3467	"East Sanctum"	""	0	0	0
 1792	0	7	0	0	0	0	0	0	0	0	0	-3284.43	-12901	7.426882E-43	516	3564	"Emberglade"	""	0	0	0
 2068	3	5	0	0	0	0	0	0	0	0	0	2990.17	5470.22	7.426882E-43	525	3951	"Evergrove"	""	0	0	0
@@ -478,16 +478,17 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1783	0	7	0	0	0	0	0	0	0	0	0	-4583.14	-12879.8	7.426882E-43	16	3577	"Geezle\'s Camp"	""	0	0	0
 2015	0	7	0	0	0	0	0	0	0	0	0	9050.31	-5844.63	7.426882E-43	516	3460	"Golden Strand"	""	0	0	0
 2019	0	7	0	0	0	0	0	0	0	0	0	8732.59	-5701.58	7.426882E-43	516	3460	"Golden Strand"	""	0	0	0
-1920	0	31	0	0	0	0	0	0	0	0	0	-1573.7	7942.06	7.426882E-43	645	3518	"Halaa"	""	2671	0	0
-1921	0	35	0	0	0	0	0	0	0	0	0	-1573.61	7942.09	7.426882E-43	645	3518	"Halaa"	"Horde Controlled"	2672	0	0
-1922	0	33	0	0	0	0	0	0	0	0	0	-1573.6	7942.03	7.426882E-43	645	3518	"Halaa"	"Alliance Controlled"	2673	0	0
-1923	0	32	0	0	0	0	0	0	0	0	0	-1573.6	7942.06	7.426882E-43	645	3518	"Halaa"	""	2676	0	0
-1924	0	34	0	0	0	0	0	0	0	0	0	-1573.68	7942	7.426882E-43	645	3518	"Halaa"	""	2677	0	0
+1920	0	31	0	0	0	0	0	0	0	0	0	-1573.7	7942.06	7.426882E-43	645	3518	"Halaa"	""	2671	14951	0
+1921	0	35	0	0	0	0	0	0	0	0	0	-1573.61	7942.09	7.426882E-43	645	3518	"Halaa"	"Horde Controlled"	2672	14964	0
+1922	0	33	0	0	0	0	0	0	0	0	0	-1573.6	7942.03	7.426882E-43	645	3518	"Halaa"	"Alliance Controlled"	2673	14952	0
+1923	0	32	0	0	0	0	0	0	0	0	0	-1573.6	7942.06	7.426882E-43	645	3518	"Halaa"	""	2676	14967	0
+1924	0	34	0	0	0	0	0	0	0	0	0	-1573.68	7942	7.426882E-43	645	3518	"Halaa"	""	2677	14968	0
 1718	0	7	0	0	0	0	0	0	0	0	0	-315.158	3099.17	7.426882E-43	0	-1	"Hellfire Citadel"	""	0	0	0
 1714	3	5	0	0	0	0	0	0	0	0	0	-715.967	2670.63	7.426882E-43	541	3538	"Honor Hold"	""	0	0	0
-1906	0	45	0	0	0	0	0	0	0	0	0	296.583	7820.33	7.426882E-43	647	3521	"Horde Field Scout"	""	2657	0	0
-1907	0	44	0	0	0	0	0	0	0	0	0	296.632	7820.35	7.426882E-43	647	3521	"Horde Field Scout"	""	2658	0	0
+1906	0	45	0	0	0	0	0	0	0	0	0	296.583	7820.33	7.426882E-43	647	3521	"Horde Field Scout"	""	2657	15211	0
+1907	0	44	0	0	0	0	0	0	0	0	0	296.632	7820.35	7.426882E-43	647	3521	"Horde Field Scout"	""	2658	14943	0
 1813	0	7	0	0	0	0	0	0	0	0	0	7168.21	-6615.66	7.426882E-43	516	3502	"Howling Ziggurat"	""	0	0	0
+2737	0	177	0	0	0	0	0	0	0	0	0	-2031.63	4928.087	7.426882E-43	4287	3519	"Marcio\'s Test POI"	"Very interesting!"	0	13873	0
 1789	0	7	0	0	0	0	0	0	0	0	0	-3300.91	-12730.9	7.426882E-43	516	3578	"Menagerie Wreckage"	""	0	0	0
 1800	0	7	0	0	0	0	0	0	0	0	0	-5065.18	-11067.8	7.426882E-43	516	3566	"Moonwing Den"	""	0	0	0
 1833	0	7	0	0	0	0	0	0	0	0	0	-2415.29	-11295.7	7.426882E-43	516	3592	"Nazzivian"	""	0	0	0
@@ -515,31 +516,31 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1787	0	7	0	0	0	0	0	0	0	0	0	-3390.31	-11887	7.426882E-43	516	3575	"Silting Shore"	""	0	0	0
 1797	0	7	0	0	0	0	0	0	0	0	0	-4386.85	-13595.1	7.426882E-43	516	3528	"Silverline Lake"	""	0	0	0
 1704	3	6	0	0	0	0	0	0	0	0	0	9504.23	-7297.86	7.426882E-43	541	3487	"Silvermoon City"	""	0	0	0
-1925	0	6	0	0	0	0	0	0	0	0	0	-3082.84	5329.92	7.426882E-43	647	3519	"Spirit Tower"	""	2681	0	0
-1926	0	11	0	0	0	0	0	0	0	0	0	-3082.89	5329.91	7.426882E-43	647	3519	"Spirit Tower"	"Alliance Controlled"	2683	0	0
-1927	0	10	0	0	0	0	0	0	0	0	0	-3082.88	5329.91	7.426882E-43	647	3519	"Spirit Tower"	"Horde Controlled"	2682	0	0
-1928	0	6	0	0	0	0	0	0	0	0	0	-2944.75	4788.92	7.426882E-43	647	3519	"Spirit Tower"	""	2686	0	0
-1929	0	11	0	0	0	0	0	0	0	0	0	-2944.78	4788.99	7.426882E-43	647	3519	"Spirit Tower"	"Alliance Controlled"	2684	0	0
-1930	0	10	0	0	0	0	0	0	0	0	0	-2944.75	4789.01	7.426882E-43	647	3519	"Spirit Tower"	"Horde Controlled"	2685	0	0
-1931	0	6	0	0	0	0	0	0	0	0	0	-3170.13	4438.59	7.426882E-43	647	3519	"Spirit Tower"	""	2690	0	0
-1932	0	11	0	0	0	0	0	0	0	0	0	-3170.17	4438.58	7.426882E-43	647	3519	"Spirit Tower"	"Alliance Controlled"	2688	0	0
-1933	0	10	0	0	0	0	0	0	0	0	0	-3170.19	4438.55	7.426882E-43	647	3519	"Spirit Tower"	"Horde Controlled"	2689	0	0
-1934	0	6	0	0	0	0	0	0	0	0	0	-3601.07	4533.99	7.426882E-43	647	3519	"Spirit Tower"	""	2696	0	0
-1935	0	11	0	0	0	0	0	0	0	0	0	-3600.99	4533.97	7.426882E-43	647	3519	"Spirit Tower"	"Alliance Controlled"	2694	0	0
-1936	0	10	0	0	0	0	0	0	0	0	0	-3601.06	4533.97	7.426882E-43	647	3519	"Spirit Tower"	"Horde Controlled"	2695	0	0
-1937	0	6	0	0	0	0	0	0	0	0	0	-3807.71	4896.94	7.426882E-43	647	3519	"Spirit Tower"	""	2693	0	0
-1938	0	11	0	0	0	0	0	0	0	0	0	-3807.66	4896.9	7.426882E-43	647	3519	"Spirit Tower"	"Alliance Controlled"	2691	0	0
-1939	0	10	0	0	0	0	0	0	0	0	0	-3807.7	4896.87	7.426882E-43	647	3519	"Spirit Tower"	"Horde Controlled"	2692	0	0
+1925	0	6	0	0	0	0	0	0	0	0	0	-3082.84	5329.92	7.426882E-43	647	3519	"Spirit Tower"	""	2681	14938	0
+1926	0	11	0	0	0	0	0	0	0	0	0	-3082.89	5329.91	7.426882E-43	647	3519	"Spirit Tower"	"Alliance Controlled"	2683	14960	0
+1927	0	10	0	0	0	0	0	0	0	0	0	-3082.88	5329.91	7.426882E-43	647	3519	"Spirit Tower"	"Horde Controlled"	2682	14921	0
+1928	0	6	0	0	0	0	0	0	0	0	0	-2944.75	4788.92	7.426882E-43	647	3519	"Spirit Tower"	""	2686	15022	0
+1929	0	11	0	0	0	0	0	0	0	0	0	-2944.78	4788.99	7.426882E-43	647	3519	"Spirit Tower"	"Alliance Controlled"	2684	14876	0
+1930	0	10	0	0	0	0	0	0	0	0	0	-2944.75	4789.01	7.426882E-43	647	3519	"Spirit Tower"	"Horde Controlled"	2685	15023	0
+1931	0	6	0	0	0	0	0	0	0	0	0	-3170.13	4438.59	7.426882E-43	647	3519	"Spirit Tower"	""	2690	15024	0
+1932	0	11	0	0	0	0	0	0	0	0	0	-3170.17	4438.58	7.426882E-43	647	3519	"Spirit Tower"	"Alliance Controlled"	2688	15031	0
+1933	0	10	0	0	0	0	0	0	0	0	0	-3170.19	4438.55	7.426882E-43	647	3519	"Spirit Tower"	"Horde Controlled"	2689	15213	0
+1934	0	6	0	0	0	0	0	0	0	0	0	-3601.07	4533.99	7.426882E-43	647	3519	"Spirit Tower"	""	2696	15025	0
+1935	0	11	0	0	0	0	0	0	0	0	0	-3600.99	4533.97	7.426882E-43	647	3519	"Spirit Tower"	"Alliance Controlled"	2694	15000	0
+1936	0	10	0	0	0	0	0	0	0	0	0	-3601.06	4533.97	7.426882E-43	647	3519	"Spirit Tower"	"Horde Controlled"	2695	14986	0
+1937	0	6	0	0	0	0	0	0	0	0	0	-3807.71	4896.94	7.426882E-43	647	3519	"Spirit Tower"	""	2693	14987	0
+1938	0	11	0	0	0	0	0	0	0	0	0	-3807.66	4896.9	7.426882E-43	647	3519	"Spirit Tower"	"Alliance Controlled"	2691	14996	0
+1939	0	10	0	0	0	0	0	0	0	0	0	-3807.7	4896.87	7.426882E-43	647	3519	"Spirit Tower"	"Horde Controlled"	2692	15026	0
 2059	3	5	0	0	0	0	0	0	0	0	0	233.297	8498.02	7.426882E-43	525	3649	"Sporeggar"	""	0	0	0
 1788	0	7	0	0	0	0	0	0	0	0	0	-3354.12	-12348.4	7.426882E-43	516	3572	"Stillpine Hold"	""	0	0	0
 1826	0	7	0	0	0	0	0	0	0	0	0	9215.16	-7211.67	7.426882E-43	516	3470	"Stillwhisper Pond"	""	0	0	0
 2073	3	5	0	0	0	0	0	0	0	0	0	-2643.03	4416.87	7.426882E-43	525	3683	"Stonebreaker Hold"	""	0	0	0
-2098	0	0	0	0	0	0	0	0	0	0	0	12683.2	-6957.78	7.426882E-43	516	4080	"Sun\'s Reach Armory"	"Held by the enemy"	3414	0	0
-2099	0	0	0	0	0	0	0	0	0	0	0	12683.3	-6957.8	7.426882E-43	516	4080	"Sun\'s Reach Armory"	"Shattered Sun Offensive"	3415	0	0
-2100	0	0	0	0	0	0	0	0	0	0	0	12825.6	-7015.24	7.426882E-43	516	4080	"Sun\'s Reach Harbor"	"Held by the enemy"	3416	0	0
-2101	0	0	0	0	0	0	0	0	0	0	0	12825.7	-7015.17	7.426882E-43	516	4080	"Sun\'s Reach Harbor"	"Shattered Sun Offensive"	3417	0	0
-2096	0	0	0	0	0	0	0	0	0	0	0	12787.3	-6885.54	7.426882E-43	516	4080	"Sun\'s Reach Sanctum"	"Held by the enemy"	3418	0	0
-2097	0	0	0	0	0	0	0	0	0	0	0	12787.4	-6885.6	7.426882E-43	516	4080	"Sun\'s Reach Sanctum"	"Shattered Sun Offensive"	3419	0	0
+2098	0	0	0	0	0	0	0	0	0	0	0	12683.2	-6957.78	7.426882E-43	516	4080	"Sun\'s Reach Armory"	"Held by the enemy"	3414	14916	0
+2099	0	0	0	0	0	0	0	0	0	0	0	12683.3	-6957.8	7.426882E-43	516	4080	"Sun\'s Reach Armory"	"Shattered Sun Offensive"	3415	14917	0
+2100	0	0	0	0	0	0	0	0	0	0	0	12825.6	-7015.24	7.426882E-43	516	4080	"Sun\'s Reach Harbor"	"Held by the enemy"	3416	14918	0
+2101	0	0	0	0	0	0	0	0	0	0	0	12825.7	-7015.17	7.426882E-43	516	4080	"Sun\'s Reach Harbor"	"Shattered Sun Offensive"	3417	14919	0
+2096	0	0	0	0	0	0	0	0	0	0	0	12787.3	-6885.54	7.426882E-43	516	4080	"Sun\'s Reach Sanctum"	"Held by the enemy"	3418	14915	0
+2097	0	0	0	0	0	0	0	0	0	0	0	12787.4	-6885.6	7.426882E-43	516	4080	"Sun\'s Reach Sanctum"	"Shattered Sun Offensive"	3419	15198	0
 1802	0	7	0	0	0	0	0	0	0	0	0	7988.71	-7299.7	7.426882E-43	516	3489	"Suncrown Village"	""	0	0	0
 1708	0	7	0	0	0	0	0	0	0	0	0	8760.85	-6099.67	7.426882E-43	0	3461	"Sunsail Anchorage"	""	0	0	0
 1706	0	7	0	0	0	0	0	0	0	0	0	10251.2	-6243.67	7.426882E-43	0	3431	"Sunstrider Isle"	""	0	0	0
@@ -554,13 +555,13 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 2020	0	7	0	0	0	0	0	0	0	0	0	8433.61	-7008.6	7.426882E-43	516	3482	"The Dead Scar"	""	0	0	0
 1785	3	6	0	0	0	0	0	0	0	0	0	-4007.31	-11873.6	7.426882E-43	541	3557	"The Exodar"	""	0	0	0
 1836	0	7	0	0	0	0	0	0	0	0	0	-1220.49	-11143.2	7.426882E-43	516	3596	"The Hidden Reef"	""	0	0	0
-1841	0	6	0	0	0	0	0	0	0	0	0	-199.731	3466.6	7.426882E-43	647	3483	"The Overlook"	"Neutral"	2482	0	0
-1842	0	11	0	0	0	0	0	0	0	0	0	-199.628	3466.98	7.426882E-43	647	3483	"The Overlook"	"Alliance Controlled"	2480	0	0
-1843	0	10	0	0	0	0	0	0	0	0	0	-199.434	3467.1	7.426882E-43	647	3483	"The Overlook"	"Horde Controlled"	2481	0	0
+1841	0	6	0	0	0	0	0	0	0	0	0	-199.731	3466.6	7.426882E-43	647	3483	"The Overlook"	"Neutral"	2482	14969	0
+1842	0	11	0	0	0	0	0	0	0	0	0	-199.628	3466.98	7.426882E-43	647	3483	"The Overlook"	"Alliance Controlled"	2480	14945	0
+1843	0	10	0	0	0	0	0	0	0	0	0	-199.434	3467.1	7.426882E-43	647	3483	"The Overlook"	"Horde Controlled"	2481	14990	0
 1790	0	7	0	0	0	0	0	0	0	0	0	-3811.64	-13374.7	7.426882E-43	516	3561	"The Sacred Grove"	""	0	0	0
-1847	0	6	0	0	0	0	0	0	0	0	0	-291.268	3702.61	7.426882E-43	647	3483	"The Stadium"	"Neutral"	2472	0	0
-1848	0	11	0	0	0	0	0	0	0	0	0	-290.921	3702.59	7.426882E-43	647	3483	"The Stadium"	"Alliance Controlled"	2471	0	0
-1849	0	10	0	0	0	0	0	0	0	0	0	-290.818	3702.22	7.426882E-43	647	3483	"The Stadium"	"Horde Controlled"	2470	0	0
+1847	0	6	0	0	0	0	0	0	0	0	0	-291.268	3702.61	7.426882E-43	647	3483	"The Stadium"	"Neutral"	2472	14971	0
+1848	0	11	0	0	0	0	0	0	0	0	0	-290.921	3702.59	7.426882E-43	647	3483	"The Stadium"	"Alliance Controlled"	2471	14828	0
+1849	0	10	0	0	0	0	0	0	0	0	0	-290.818	3702.22	7.426882E-43	647	3483	"The Stadium"	"Horde Controlled"	2470	14972	0
 1716	0	7	0	0	0	0	0	0	0	0	0	-250.472	1029.01	7.426882E-43	0	3539	"The Stair of Destiny"	""	0	0	0
 2070	3	5	0	0	0	0	0	0	0	0	0	4119.72	2995.7	7.426882E-43	525	3738	"The Stormspire"	""	0	0	0
 1707	0	7	0	0	0	0	0	0	0	0	0	10339.4	-6393.8	7.426882E-43	0	-1	"The Sunspire"	""	0	0	0
@@ -575,16 +576,16 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 2034	3	5	0	0	0	0	0	0	0	0	0	1917.5	5566.59	7.426882E-43	525	3918	"Toshley\'s Station"	""	0	0	0
 1794	0	7	0	0	0	0	0	0	0	0	0	-5081.78	-11265.1	7.426882E-43	516	3579	"Traitor\'s Cove"	""	0	0	0
 1713	2	5	0	0	0	0	0	0	0	0	0	7567.08	-6818.75	7.426882E-43	525	3488	"Tranquillien"	""	0	0	0
-1897	0	8	0	0	0	0	0	0	0	0	0	246.488	7084.32	7.426882E-43	647	3521	"Twinspire Graveyard"	""	2647	0	0
-1898	0	15	0	0	0	0	0	0	0	0	0	246.489	7084.33	7.426882E-43	647	3521	"Twinspire Graveyard"	"Alliance Controlled"	2648	0	0
-1899	0	13	0	0	0	0	0	0	0	0	0	246.491	7084.32	7.426882E-43	647	3521	"Twinspire Graveyard"	"Horde Controlled"	2649	0	0
+1897	0	8	0	0	0	0	0	0	0	0	0	246.488	7084.32	7.426882E-43	647	3521	"Twinspire Graveyard"	""	2647	14983	0
+1898	0	15	0	0	0	0	0	0	0	0	0	246.489	7084.33	7.426882E-43	647	3521	"Twinspire Graveyard"	"Alliance Controlled"	2648	15209	0
+1899	0	13	0	0	0	0	0	0	0	0	0	246.491	7084.32	7.426882E-43	647	3521	"Twinspire Graveyard"	"Horde Controlled"	2649	15041	0
 2024	0	7	0	0	0	0	0	0	0	0	0	-325.616	5702.5	7.426882E-43	516	3655	"Umbrafen Lake"	""	0	0	0
 2025	0	7	0	0	0	0	0	0	0	0	0	-712.157	5700.55	7.426882E-43	516	3655	"Umbrafen Lake"	""	0	0	0
 1815	0	7	0	0	0	0	0	0	0	0	0	7208.95	-6247.08	7.426882E-43	516	3505	"Underlight Mines"	""	0	0	0
 1786	0	7	0	0	0	0	0	0	0	0	0	-4257.04	-11424.7	7.426882E-43	516	3574	"Valaar\'s Berth"	""	0	0	0
-1894	0	11	0	0	0	0	0	0	0	0	0	374.82	7333.08	7.426882E-43	647	3521	"West Beacon"	"Alliance Controlled"	2644	0	0
-1895	0	10	0	0	0	0	0	0	0	0	0	374.83	7333.08	7.426882E-43	647	3521	"West Beacon"	"Horde Controlled"	2645	0	0
-1896	0	6	0	0	0	0	0	0	0	0	0	374.813	7333.08	7.426882E-43	647	3521	"West Beacon"	""	2646	0	0
+1894	0	11	0	0	0	0	0	0	0	0	0	374.82	7333.08	7.426882E-43	647	3521	"West Beacon"	"Alliance Controlled"	2644	15062	0
+1895	0	10	0	0	0	0	0	0	0	0	0	374.83	7333.08	7.426882E-43	647	3521	"West Beacon"	"Horde Controlled"	2645	14989	0
+1896	0	6	0	0	0	0	0	0	0	0	0	374.813	7333.08	7.426882E-43	647	3521	"West Beacon"	""	2646	15049	0
 1824	0	7	0	0	0	0	0	0	0	0	0	9100.33	-6223.32	7.426882E-43	516	3466	"West Sanctum"	""	0	0	0
 2076	3	5	0	0	0	0	0	0	0	0	0	-3995.69	2186.96	7.426882E-43	525	3745	"Wildhammer Stronghold"	""	0	0	0
 1791	0	7	0	0	0	0	0	0	0	0	0	-3768.73	-11465.4	7.426882E-43	516	3580	"Wildwind Peak"	""	0	0	0
@@ -592,54 +593,54 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 1816	0	7	0	0	0	0	0	0	0	0	0	7260.98	-5936.89	7.426882E-43	516	3491	"Windrunner Village"	""	0	0	0
 1831	0	7	0	0	0	0	0	0	0	0	0	-2220.94	-12324.7	7.426882E-43	516	3590	"Wrathscale Lair"	""	0	0	0
 1779	0	7	0	0	0	0	0	0	0	0	0	-4959.96	-11815.9	7.426882E-43	516	3570	"Wrathscale Point"	""	0	0	0
-1908	0	47	0	0	0	0	0	0	0	0	0	-1656.53	7733.27	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2659	0	0
-1909	0	48	0	0	0	0	0	0	0	0	0	-1656.64	7733.22	7.426882E-43	647	3518	"Wyvern Camp"	"Horde Controlled"	2660	0	0
-1910	0	46	0	0	0	0	0	0	0	0	0	-1656.65	7733.18	7.426882E-43	647	3518	"Wyvern Camp"	"Alliance Controlled"	2661	0	0
-1911	0	47	0	0	0	0	0	0	0	0	0	-1512.81	8135.79	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2667	0	0
-1912	0	46	0	0	0	0	0	0	0	0	0	-1512.88	8135.7	7.426882E-43	647	3518	"Wyvern Camp"	"Alliance Controlled"	2666	0	0
-1913	0	48	0	0	0	0	0	0	0	0	0	-1512.85	8135.71	7.426882E-43	647	3518	"Wyvern Camp"	"Horde Controlled"	2665	0	0
-1914	0	47	0	0	0	0	0	0	0	0	0	-1817.36	8038.34	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2670	0	0
-1915	0	48	0	0	0	0	0	0	0	0	0	-1817.4	8038.21	7.426882E-43	647	3518	"Wyvern Camp"	"Horde Controlled"	2668	0	0
-1916	0	46	0	0	0	0	0	0	0	0	0	-1817.37	8038.18	7.426882E-43	647	3518	"Wyvern Camp"	"Alliance Controlled"	2669	0	0
-1917	0	47	0	0	0	0	0	0	0	0	0	-1387.35	7781.24	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2662	0	0
-1918	0	46	0	0	0	0	0	0	0	0	0	-1387.23	7781.24	7.426882E-43	647	3518	"Wyvern Camp"	"Alliance Controlled"	2664	0	0
-1919	0	48	0	0	0	0	0	0	0	0	0	-1387.35	7781.25	7.426882E-43	647	3518	"Wyvern Camp"	"Horde Controlled"	2663	0	0
-1963	0	49	0	0	0	0	0	0	0	0	0	-1817.41	8038.24	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2760	0	0
-1964	0	49	0	0	0	0	0	0	0	0	0	-1512.78	8135.72	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2761	0	0
-1965	0	49	0	0	0	0	0	0	0	0	0	-1387.29	7781.21	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2762	0	0
-1966	0	49	0	0	0	0	0	0	0	0	0	-1656.66	7733.23	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2763	0	0
+1908	0	47	0	0	0	0	0	0	0	0	0	-1656.53	7733.27	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2659	14947	0
+1909	0	48	0	0	0	0	0	0	0	0	0	-1656.64	7733.22	7.426882E-43	647	3518	"Wyvern Camp"	"Horde Controlled"	2660	14948	0
+1910	0	46	0	0	0	0	0	0	0	0	0	-1656.65	7733.18	7.426882E-43	647	3518	"Wyvern Camp"	"Alliance Controlled"	2661	14920	0
+1911	0	47	0	0	0	0	0	0	0	0	0	-1512.81	8135.79	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2667	15036	0
+1912	0	46	0	0	0	0	0	0	0	0	0	-1512.88	8135.7	7.426882E-43	647	3518	"Wyvern Camp"	"Alliance Controlled"	2666	14962	0
+1913	0	48	0	0	0	0	0	0	0	0	0	-1512.85	8135.71	7.426882E-43	647	3518	"Wyvern Camp"	"Horde Controlled"	2665	14904	0
+1914	0	47	0	0	0	0	0	0	0	0	0	-1817.36	8038.34	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2670	14949	0
+1915	0	48	0	0	0	0	0	0	0	0	0	-1817.4	8038.21	7.426882E-43	647	3518	"Wyvern Camp"	"Horde Controlled"	2668	15212	0
+1916	0	46	0	0	0	0	0	0	0	0	0	-1817.37	8038.18	7.426882E-43	647	3518	"Wyvern Camp"	"Alliance Controlled"	2669	14941	0
+1917	0	47	0	0	0	0	0	0	0	0	0	-1387.35	7781.24	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2662	15055	0
+1918	0	46	0	0	0	0	0	0	0	0	0	-1387.23	7781.24	7.426882E-43	647	3518	"Wyvern Camp"	"Alliance Controlled"	2664	15196	0
+1919	0	48	0	0	0	0	0	0	0	0	0	-1387.35	7781.25	7.426882E-43	647	3518	"Wyvern Camp"	"Horde Controlled"	2663	14950	0
+1963	0	49	0	0	0	0	0	0	0	0	0	-1817.41	8038.24	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2760	15005	0
+1964	0	49	0	0	0	0	0	0	0	0	0	-1512.78	8135.72	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2761	15006	0
+1965	0	49	0	0	0	0	0	0	0	0	0	-1387.29	7781.21	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2762	14988	0
+1966	0	49	0	0	0	0	0	0	0	0	0	-1656.66	7733.23	7.426882E-43	647	3518	"Wyvern Camp"	"Uncontrolled"	2763	15035	0
 2058	3	5	0	0	0	0	0	0	0	0	0	256.993	7853.89	7.426882E-43	525	3645	"Zabra\'jin"	""	0	0	0
 1810	0	7	0	0	0	0	0	0	0	0	0	6909.73	-7378.86	7.426882E-43	516	3517	"Zeb\'Nowa"	""	0	0	0
 1803	0	7	0	0	0	0	0	0	0	0	0	8014.57	-7793.08	7.426882E-43	516	3512	"Zeb\'Sora"	""	0	0	0
 1806	0	7	0	0	0	0	0	0	0	0	0	7371.75	-7805.6	7.426882E-43	516	3516	"Zeb\'Tela"	""	0	0	0
 1821	0	7	0	0	0	0	0	0	0	0	0	8445.3	-7596.97	7.426882E-43	516	3475	"Zeb\'Watha"	""	0	0	0
-1941	0	6	0	0	0	0	0	0	0	0	0	2048.922	1393.585	7.931349E-43	655	3820	"Blood Elf Tower"	"Uncontrolled"	2722	0	0
-1942	0	11	0	0	0	0	0	0	0	0	0	2048.646	1393.821	7.931349E-43	655	3820	"Blood Elf Tower"	"Alliance Controlled"	2723	0	0
-1943	0	10	0	0	0	0	0	0	0	0	0	2048.29	1394.215	7.931349E-43	655	3820	"Blood Elf Tower"	"Horde Controlled"	2724	0	0
-1959	0	9	0	0	0	0	0	0	0	0	0	2048.205	1393.28	7.931349E-43	655	3820	"Blood Elf Tower"	"In Conflict"	2735	0	0
-1960	0	12	0	0	0	0	0	0	0	0	0	2048.035	1393.944	7.931349E-43	655	3820	"Blood Elf Tower"	"In Conflict"	2736	0	0
-1950	0	6	0	0	0	0	0	0	0	0	0	2302.85	1388.07	7.931349E-43	655	3820	"Draenei Ruins"	"Uncontrolled"	2731	0	0
-1951	0	11	0	0	0	0	0	0	0	0	0	2302.86	1388.07	7.931349E-43	655	3820	"Draenei Ruins"	"Alliance Controlled"	2732	0	0
-1952	0	10	0	0	0	0	0	0	0	0	0	2302.85	1388.07	7.931349E-43	655	3820	"Draenei Ruins"	"Horde Controlled"	2733	0	0
-1953	0	9	0	0	0	0	0	0	0	0	0	2302.84	1388.07	7.931349E-43	655	3820	"Draenei Ruins"	"In Conflict"	2738	0	0
-1954	0	12	0	0	0	0	0	0	0	0	0	2302.85	1388.07	7.931349E-43	655	3820	"Draenei Ruins"	"In Conflict"	2737	0	0
-1944	0	6	0	0	0	0	0	0	0	0	0	2026.33	1749.76	7.931349E-43	655	3820	"Fel Reaver Ruins"	"Uncontrolled"	2725	0	0
-1945	0	11	0	0	0	0	0	0	0	0	0	2026.35	1749.75	7.931349E-43	655	3820	"Fel Reaver Ruins"	"Alliance Controlled"	2726	0	0
-1946	0	10	0	0	0	0	0	0	0	0	0	2026.35	1749.75	7.931349E-43	655	3820	"Fel Reaver Ruins"	"Horde Controlled"	2727	0	0
-1957	0	9	0	0	0	0	0	0	0	0	0	2026.35	1749.76	7.931349E-43	655	3820	"Fel Reaver Ruins"	"In Conflict"	2739	0	0
-1958	0	12	0	0	0	0	0	0	0	0	0	2026.34	1749.76	7.931349E-43	655	3820	"Fel Reaver Ruins"	"In Conflict"	2740	0	0
-1947	0	6	0	0	0	0	0	0	0	0	0	2284.889	1731.115	7.931349E-43	655	3820	"Mage Tower"	"Uncontrolled"	2728	0	0
-1948	0	11	0	0	0	0	0	0	0	0	0	2284.788	1731.396	7.931349E-43	655	3820	"Mage Tower"	"Alliance Controlled"	2730	0	0
-1949	0	10	0	0	0	0	0	0	0	0	0	2284.955	1731.224	7.931349E-43	655	3820	"Mage Tower"	"Horde Controlled"	2729	0	0
-1955	0	9	0	0	0	0	0	0	0	0	0	2284.696	1731.42	7.931349E-43	655	3820	"Mage Tower"	"In Conflict"	2741	0	0
-1956	0	12	0	0	0	0	0	0	0	0	0	2284.849	1731.509	7.931349E-43	655	3820	"Mage Tower"	"In Conflict"	2742	0	0
-1962	0	45	0	0	0	0	0	0	0	0	0	2174.5	1569.48	7.931349E-43	647	3820	"Netherstorm Flag"	"Not Controlled"	2757	0	0
-2697	0	45	0	0	0	0	0	0	0	0	0	2174.5	1569.48	7.931349E-43	647	5799	"Netherstorm Flag"	"Not Controlled"	5950	0	0
+1941	0	6	0	0	0	0	0	0	0	0	0	2048.922	1393.585	7.931349E-43	655	3820	"Blood Elf Tower"	"Uncontrolled"	2722	15027	0
+1942	0	11	0	0	0	0	0	0	0	0	0	2048.646	1393.821	7.931349E-43	655	3820	"Blood Elf Tower"	"Alliance Controlled"	2723	15070	0
+1943	0	10	0	0	0	0	0	0	0	0	0	2048.29	1394.215	7.931349E-43	655	3820	"Blood Elf Tower"	"Horde Controlled"	2724	15214	0
+1959	0	9	0	0	0	0	0	0	0	0	0	2048.205	1393.28	7.931349E-43	655	3820	"Blood Elf Tower"	"In Conflict"	2735	15003	0
+1960	0	12	0	0	0	0	0	0	0	0	0	2048.035	1393.944	7.931349E-43	655	3820	"Blood Elf Tower"	"In Conflict"	2736	15004	0
+1950	0	6	0	0	0	0	0	0	0	0	0	2302.85	1388.07	7.931349E-43	655	3820	"Draenei Ruins"	"Uncontrolled"	2731	14884	0
+1951	0	11	0	0	0	0	0	0	0	0	0	2302.86	1388.07	7.931349E-43	655	3820	"Draenei Ruins"	"Alliance Controlled"	2732	15030	0
+1952	0	10	0	0	0	0	0	0	0	0	0	2302.85	1388.07	7.931349E-43	655	3820	"Draenei Ruins"	"Horde Controlled"	2733	14942	0
+1953	0	9	0	0	0	0	0	0	0	0	0	2302.84	1388.07	7.931349E-43	655	3820	"Draenei Ruins"	"In Conflict"	2738	14866	0
+1954	0	12	0	0	0	0	0	0	0	0	0	2302.85	1388.07	7.931349E-43	655	3820	"Draenei Ruins"	"In Conflict"	2737	15058	0
+1944	0	6	0	0	0	0	0	0	0	0	0	2026.33	1749.76	7.931349E-43	655	3820	"Fel Reaver Ruins"	"Uncontrolled"	2725	15071	0
+1945	0	11	0	0	0	0	0	0	0	0	0	2026.35	1749.75	7.931349E-43	655	3820	"Fel Reaver Ruins"	"Alliance Controlled"	2726	15197	0
+1946	0	10	0	0	0	0	0	0	0	0	0	2026.35	1749.75	7.931349E-43	655	3820	"Fel Reaver Ruins"	"Horde Controlled"	2727	15215	0
+1957	0	9	0	0	0	0	0	0	0	0	0	2026.35	1749.76	7.931349E-43	655	3820	"Fel Reaver Ruins"	"In Conflict"	2739	14843	0
+1958	0	12	0	0	0	0	0	0	0	0	0	2026.34	1749.76	7.931349E-43	655	3820	"Fel Reaver Ruins"	"In Conflict"	2740	14868	0
+1947	0	6	0	0	0	0	0	0	0	0	0	2284.889	1731.115	7.931349E-43	655	3820	"Mage Tower"	"Uncontrolled"	2728	15028	0
+1948	0	11	0	0	0	0	0	0	0	0	0	2284.788	1731.396	7.931349E-43	655	3820	"Mage Tower"	"Alliance Controlled"	2730	15033	0
+1949	0	10	0	0	0	0	0	0	0	0	0	2284.955	1731.224	7.931349E-43	655	3820	"Mage Tower"	"Horde Controlled"	2729	15029	0
+1955	0	9	0	0	0	0	0	0	0	0	0	2284.696	1731.42	7.931349E-43	655	3820	"Mage Tower"	"In Conflict"	2741	14867	0
+1956	0	12	0	0	0	0	0	0	0	0	0	2284.849	1731.509	7.931349E-43	655	3820	"Mage Tower"	"In Conflict"	2742	14885	0
+1962	0	45	0	0	0	0	0	0	0	0	0	2174.5	1569.48	7.931349E-43	647	3820	"Netherstorm Flag"	"Not Controlled"	2757	15057	0
+2697	0	45	0	0	0	0	0	0	0	0	0	2174.5	1569.48	7.931349E-43	647	5799	"Netherstorm Flag"	"Not Controlled"	5950	15183	0
 2301	3	5	0	0	0	0	0	0	0	0	0	3830.9	1580.96	8.001414E-43	525	4165	"Agmar\'s Hammer"	""	0	0	0
 2311	3	5	0	0	0	0	0	0	0	0	0	3415.69	-2788	8.001414E-43	525	4204	"Amberpine Lodge"	""	0	0	0
 2308	3	5	0	0	0	0	0	0	0	0	0	4497.92	5727.56	8.001414E-43	525	4122	"Bor\'gorok Outpost"	""	0	0	0
-2266	0	8	8	8	13	13	13	15	15	15	0	5102.12	3463.95	8.001414E-43	2951	4197	"Broken Temple Graveyard"	""	3700	0	1330
-2153	0	65	66	67	68	69	70	71	72	73	0	4961.23	3384.18	8.001414E-43	903	4197	"Broken Temple Vehicle Workshop"	""	3700	0	0
+2266	0	8	8	8	13	13	13	15	15	15	0	5102.12	3463.95	8.001414E-43	2951	4197	"Broken Temple Graveyard"	""	3700	14881	0
+2153	0	65	66	67	68	69	70	71	72	73	0	4961.23	3384.18	8.001414E-43	903	4197	"Broken Temple Vehicle Workshop"	""	3700	14881	0
 2319	3	5	0	0	0	0	0	0	0	0	0	6953.43	-1653.6	8.001414E-43	525	4422	"Brunnhildar Village"	""	0	0	0
 2312	3	5	0	0	0	0	0	0	0	0	0	3855.81	-4524.73	8.001414E-43	525	4211	"Camp Oneqwah"	""	0	0	0
 2318	3	5	0	0	0	0	0	0	0	0	0	7795.98	-2885.31	8.001414E-43	525	4441	"Camp Tunka\'lo"	""	0	0	0
@@ -648,13 +649,13 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 2323	3	5	0	0	0	0	0	0	0	0	0	6410.24	441.831	8.001414E-43	525	4580	"Crusaders\' Pinnacle"	""	0	0	0
 2317	4	6	0	0	0	0	0	0	0	0	0	5805.22	639.992	8.001414E-43	669	4395	"Dalaran"	""	0	0	0
 2138	3	5	0	0	0	0	0	0	0	0	0	7424.22	4187.86	8.001414E-43	1	4467	"Death\'s Rise"	""	0	0	0
-2151	0	65	66	67	68	69	70	71	72	73	0	4360.35	2352.27	8.001414E-43	903	4197	"Eastspark Vehicle Workshop"	""	3703	0	0
+2151	0	65	66	67	68	69	70	71	72	73	0	4360.35	2352.27	8.001414E-43	903	4197	"Eastspark Vehicle Workshop"	""	3703	14844	0
 2307	3	5	0	0	0	0	0	0	0	0	0	4158.73	5281.77	8.001414E-43	525	4108	"Fizzcrank Airstrip"	""	0	0	0
-2143	0	6	54	55	10	52	53	11	50	51	0	4458.95	1944.13	8.001414E-43	903	4197	"Flamewatch Tower"	""	3706	0	0
+2143	0	6	54	55	10	52	53	11	50	51	0	4458.95	1944.13	8.001414E-43	903	4197	"Flamewatch Tower"	""	3706	14859	0
 2089	3	5	0	0	0	0	0	0	0	0	0	2448.53	-5114.01	8.001414E-43	525	4003	"Fort Wildervar"	""	0	0	0
-2268	0	8	8	8	13	13	13	15	15	15	0	5538.38	2894.84	8.001414E-43	2951	4197	"Fortress Graveyard"	""	3773	0	1285
-2149	0	65	66	67	68	69	70	71	72	73	0	5389.97	2712.18	8.001414E-43	903	4197	"Fortress Vehicle Workshop (E)"	""	3699	0	0
-2150	0	65	66	67	68	69	70	71	72	73	0	5390.88	2979.48	8.001414E-43	903	4197	"Fortress Vehicle Workshop (W)"	""	3698	0	0
+2268	0	8	8	8	13	13	13	15	15	15	0	5538.38	2894.84	8.001414E-43	2951	4197	"Fortress Graveyard"	""	3773	14894	0
+2149	0	65	66	67	68	69	70	71	72	73	0	5389.97	2712.18	8.001414E-43	903	4197	"Fortress Vehicle Workshop (E)"	""	3699	14879	0
+2150	0	65	66	67	68	69	70	71	72	73	0	5390.88	2979.48	8.001414E-43	903	4197	"Fortress Vehicle Workshop (W)"	""	3698	14880	0
 2321	3	5	0	0	0	0	0	0	0	0	0	6680.32	-231.676	8.001414E-43	525	4428	"Frosthold"	""	0	0	0
 2322	3	5	0	0	0	0	0	0	0	0	0	7857.19	-749.898	8.001414E-43	525	4429	"Grom\'arsh Crash-Site"	""	0	0	0
 2320	3	5	0	0	0	0	0	0	0	0	0	6124.23	-1061.87	8.001414E-43	525	4418	"K3"	""	0	0	0
@@ -662,50 +663,50 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 2302	3	5	0	0	0	0	0	0	0	0	0	2780.97	878.934	8.001414E-43	525	4152	"Moa\'ki Harbor"	""	0	0	0
 2316	3	5	0	0	0	0	0	0	0	0	0	5565.21	5757.52	8.001414E-43	525	4284	"Nesingwary Base Camp"	""	0	0	0
 2088	3	5	0	0	0	0	0	0	0	0	0	407.822	-4599.75	8.001414E-43	525	3991	"New Agamand"	""	0	0	0
-2199	0	101	0	0	0	0	0	0	0	0	0	5048.52	2847.42	8.001414E-43	903	4197	"PvP Activity Detected"	""	3723	0	0
-2200	0	101	0	0	0	0	0	0	0	0	0	4484.44	2826.67	8.001414E-43	903	4197	"PvP Activity Detected"	""	3724	0	0
-2201	0	101	0	0	0	0	0	0	0	0	0	4763.67	2881.21	8.001414E-43	903	4197	"PvP Activity Detected"	""	3725	0	0
-2203	0	101	0	0	0	0	0	0	0	0	0	5052.91	3192.65	8.001414E-43	903	4197	"PvP Activity Detected"	""	3729	0	0
-2205	0	101	0	0	0	0	0	0	0	0	0	4812.1	3304.64	8.001414E-43	903	4197	"PvP Activity Detected"	""	3730	0	0
-2206	0	101	0	0	0	0	0	0	0	0	0	4730.25	2414.65	8.001414E-43	903	4197	"PvP Activity Detected"	""	3727	0	0
-2207	0	101	0	0	0	0	0	0	0	0	0	5018.89	2578.16	8.001414E-43	903	4197	"PvP Activity Detected"	""	3726	0	0
-2208	0	101	0	0	0	0	0	0	0	0	0	4493.03	3337.28	8.001414E-43	903	4197	"PvP Activity Detected"	""	3731	0	0
-2209	0	101	0	0	0	0	0	0	0	0	0	4497.72	2326.91	8.001414E-43	903	4197	"PvP Activity Detected"	""	3728	0	0
-2210	0	101	0	0	0	0	0	0	0	0	0	5010.88	2701.46	8.001414E-43	903	4197	"PvP Activity Detected"	""	3739	0	0
-2211	0	101	0	0	0	0	0	0	0	0	0	4821.56	2618.59	8.001414E-43	903	4197	"PvP Activity Detected"	""	3740	0	0
-2212	0	101	0	0	0	0	0	0	0	0	0	4450.37	2529.12	8.001414E-43	903	4197	"PvP Activity Detected"	""	3741	0	0
-2213	0	101	0	0	0	0	0	0	0	0	0	4516.68	2087.62	8.001414E-43	903	4197	"PvP Activity Detected"	""	3738	0	0
-2214	0	101	0	0	0	0	0	0	0	0	0	4774.63	2045.92	8.001414E-43	903	4197	"PvP Activity Detected"	""	3737	0	0
-2215	0	101	0	0	0	0	0	0	0	0	0	4402.92	3090.83	8.001414E-43	903	4197	"PvP Activity Detected"	""	3742	0	0
-2216	0	101	0	0	0	0	0	0	0	0	0	4789.57	3074.77	8.001414E-43	903	4197	"PvP Activity Detected"	""	3743	0	0
-2217	0	101	0	0	0	0	0	0	0	0	0	5046.72	3024.94	8.001414E-43	903	4197	"PvP Activity Detected"	""	3744	0	0
-2218	0	101	0	0	0	0	0	0	0	0	0	4400.1	3479.49	8.001414E-43	903	4197	"PvP Activity Detected"	""	3745	0	0
-2219	0	101	0	0	0	0	0	0	0	0	0	4558.4	3490.13	8.001414E-43	903	4197	"PvP Activity Detected"	""	3746	0	0
-2220	0	101	0	0	0	0	0	0	0	0	0	4837.71	3456.31	8.001414E-43	903	4197	"PvP Activity Detected"	""	3747	0	0
-2221	0	101	0	0	0	0	0	0	0	0	0	5085.96	3437.93	8.001414E-43	903	4197	"PvP Activity Detected"	""	3748	0	0
-2247	0	101	0	0	0	0	0	0	0	0	0	5217.2	2842.45	8.001414E-43	903	4197	"PvP Activity Detected"	""	3774	0	0
-2248	0	101	0	0	0	0	0	0	0	0	0	5214.84	3011.21	8.001414E-43	903	4197	"PvP Activity Detected"	""	3775	0	0
-2249	0	101	0	0	0	0	0	0	0	0	0	5213.37	2684.88	8.001414E-43	903	4253	"PvP Activity Detected"	""	3776	0	0
-2250	0	101	0	0	0	0	0	0	0	0	0	5339.85	2700.9	8.001414E-43	903	4197	"PvP Activity Detected"	""	3777	0	0
-2251	0	101	0	0	0	0	0	0	0	0	0	5338.95	2841.39	8.001414E-43	903	4197	"PvP Activity Detected"	""	3778	0	0
-2252	0	101	0	0	0	0	0	0	0	0	0	5336.29	2978.43	8.001414E-43	903	4197	"PvP Activity Detected"	""	3779	0	0
-2253	0	101	0	0	0	0	0	0	0	0	0	4481.82	1993.34	8.001414E-43	903	4197	"PvP Activity Detected"	""	3794	0	0
-2254	0	101	0	0	0	0	0	0	0	0	0	4403.42	2349.1	8.001414E-43	903	4197	"PvP Activity Detected"	""	3791	0	0
-2255	0	101	0	0	0	0	0	0	0	0	0	4446.22	2820.74	8.001414E-43	903	4197	"PvP Activity Detected"	""	3795	0	0
-2256	0	101	0	0	0	0	0	0	0	0	0	4530.66	3584.57	8.001414E-43	903	4197	"PvP Activity Detected"	""	3793	0	0
-2257	0	101	0	0	0	0	0	0	0	0	0	4394.79	3294.74	8.001414E-43	903	4197	"PvP Activity Detected"	""	3792	0	0
-2258	0	101	0	0	0	0	0	0	0	0	0	4946.42	3331.67	8.001414E-43	903	4197	"PvP Activity Detected"	""	3788	0	0
-2259	0	101	0	0	0	0	0	0	0	0	0	4932.31	2440.47	8.001414E-43	903	4197	"PvP Activity Detected"	""	3790	0	0
-2260	0	101	0	0	0	0	0	0	0	0	0	4860.4	2023.33	8.001414E-43	903	4197	"PvP Activity Detected"	""	3797	0	0
-2261	0	101	0	0	0	0	0	0	0	0	0	4310.33	1810.36	8.001414E-43	903	4197	"PvP Activity Detected"	""	3798	0	0
-2262	0	101	0	0	0	0	0	0	0	0	0	4489.01	4028.89	8.001414E-43	903	4197	"PvP Activity Detected"	""	3799	0	0
-2263	0	101	0	0	0	0	0	0	0	0	0	4696.33	3806.99	8.001414E-43	903	4197	"PvP Activity Detected"	""	3796	0	0
-2141	0	6	54	55	10	52	53	11	50	51	0	4556.98	3623.77	8.001414E-43	903	4197	"Shadowsight Tower"	""	3704	0	0
-2270	0	8	8	8	13	13	13	15	15	15	0	4318.94	2408	8.001414E-43	2951	4197	"Southeast Graveyard"	""	3703	0	1333
-2269	0	8	8	8	13	13	13	15	15	15	0	4336.28	3234.63	8.001414E-43	2951	4197	"Southwest Graveyard"	""	3702	0	1334
+2199	0	101	0	0	0	0	0	0	0	0	0	5048.52	2847.42	8.001414E-43	903	4197	"PvP Activity Detected"	""	3723	14899	0
+2200	0	101	0	0	0	0	0	0	0	0	0	4484.44	2826.67	8.001414E-43	903	4197	"PvP Activity Detected"	""	3724	14926	0
+2201	0	101	0	0	0	0	0	0	0	0	0	4763.67	2881.21	8.001414E-43	903	4197	"PvP Activity Detected"	""	3725	14890	0
+2203	0	101	0	0	0	0	0	0	0	0	0	5052.91	3192.65	8.001414E-43	903	4197	"PvP Activity Detected"	""	3729	14911	0
+2205	0	101	0	0	0	0	0	0	0	0	0	4812.1	3304.64	8.001414E-43	903	4197	"PvP Activity Detected"	""	3730	14912	0
+2206	0	101	0	0	0	0	0	0	0	0	0	4730.25	2414.65	8.001414E-43	903	4197	"PvP Activity Detected"	""	3727	14827	0
+2207	0	101	0	0	0	0	0	0	0	0	0	5018.89	2578.16	8.001414E-43	903	4197	"PvP Activity Detected"	""	3726	14845	0
+2208	0	101	0	0	0	0	0	0	0	0	0	4493.03	3337.28	8.001414E-43	903	4197	"PvP Activity Detected"	""	3731	14895	0
+2209	0	101	0	0	0	0	0	0	0	0	0	4497.72	2326.91	8.001414E-43	903	4197	"PvP Activity Detected"	""	3728	14846	0
+2210	0	101	0	0	0	0	0	0	0	0	0	5010.88	2701.46	8.001414E-43	903	4197	"PvP Activity Detected"	""	3739	15016	0
+2211	0	101	0	0	0	0	0	0	0	0	0	4821.56	2618.59	8.001414E-43	903	4197	"PvP Activity Detected"	""	3740	14979	0
+2212	0	101	0	0	0	0	0	0	0	0	0	4450.37	2529.12	8.001414E-43	903	4197	"PvP Activity Detected"	""	3741	15008	0
+2213	0	101	0	0	0	0	0	0	0	0	0	4516.68	2087.62	8.001414E-43	903	4197	"PvP Activity Detected"	""	3738	15217	0
+2214	0	101	0	0	0	0	0	0	0	0	0	4774.63	2045.92	8.001414E-43	903	4197	"PvP Activity Detected"	""	3737	14891	0
+2215	0	101	0	0	0	0	0	0	0	0	0	4402.92	3090.83	8.001414E-43	903	4197	"PvP Activity Detected"	""	3742	14841	0
+2216	0	101	0	0	0	0	0	0	0	0	0	4789.57	3074.77	8.001414E-43	903	4197	"PvP Activity Detected"	""	3743	15201	0
+2217	0	101	0	0	0	0	0	0	0	0	0	5046.72	3024.94	8.001414E-43	903	4197	"PvP Activity Detected"	""	3744	14975	0
+2218	0	101	0	0	0	0	0	0	0	0	0	4400.1	3479.49	8.001414E-43	903	4197	"PvP Activity Detected"	""	3745	14848	0
+2219	0	101	0	0	0	0	0	0	0	0	0	4558.4	3490.13	8.001414E-43	903	4197	"PvP Activity Detected"	""	3746	14927	0
+2220	0	101	0	0	0	0	0	0	0	0	0	4837.71	3456.31	8.001414E-43	903	4197	"PvP Activity Detected"	""	3747	15042	0
+2221	0	101	0	0	0	0	0	0	0	0	0	5085.96	3437.93	8.001414E-43	903	4197	"PvP Activity Detected"	""	3748	14849	0
+2247	0	101	0	0	0	0	0	0	0	0	0	5217.2	2842.45	8.001414E-43	903	4197	"PvP Activity Detected"	""	3774	14900	0
+2248	0	101	0	0	0	0	0	0	0	0	0	5214.84	3011.21	8.001414E-43	903	4197	"PvP Activity Detected"	""	3775	14901	0
+2249	0	101	0	0	0	0	0	0	0	0	0	5213.37	2684.88	8.001414E-43	903	4253	"PvP Activity Detected"	""	3776	14902	0
+2250	0	101	0	0	0	0	0	0	0	0	0	5339.85	2700.9	8.001414E-43	903	4197	"PvP Activity Detected"	""	3777	14903	0
+2251	0	101	0	0	0	0	0	0	0	0	0	5338.95	2841.39	8.001414E-43	903	4197	"PvP Activity Detected"	""	3778	15043	0
+2252	0	101	0	0	0	0	0	0	0	0	0	5336.29	2978.43	8.001414E-43	903	4197	"PvP Activity Detected"	""	3779	15015	0
+2253	0	101	0	0	0	0	0	0	0	0	0	4481.82	1993.34	8.001414E-43	903	4197	"PvP Activity Detected"	""	3794	14831	0
+2254	0	101	0	0	0	0	0	0	0	0	0	4403.42	2349.1	8.001414E-43	903	4197	"PvP Activity Detected"	""	3791	14930	0
+2255	0	101	0	0	0	0	0	0	0	0	0	4446.22	2820.74	8.001414E-43	903	4197	"PvP Activity Detected"	""	3795	15044	0
+2256	0	101	0	0	0	0	0	0	0	0	0	4530.66	3584.57	8.001414E-43	903	4197	"PvP Activity Detected"	""	3793	15218	0
+2257	0	101	0	0	0	0	0	0	0	0	0	4394.79	3294.74	8.001414E-43	903	4197	"PvP Activity Detected"	""	3792	15045	0
+2258	0	101	0	0	0	0	0	0	0	0	0	4946.42	3331.67	8.001414E-43	903	4197	"PvP Activity Detected"	""	3788	15046	0
+2259	0	101	0	0	0	0	0	0	0	0	0	4932.31	2440.47	8.001414E-43	903	4197	"PvP Activity Detected"	""	3790	14931	0
+2260	0	101	0	0	0	0	0	0	0	0	0	4860.4	2023.33	8.001414E-43	903	4197	"PvP Activity Detected"	""	3797	14976	0
+2261	0	101	0	0	0	0	0	0	0	0	0	4310.33	1810.36	8.001414E-43	903	4197	"PvP Activity Detected"	""	3798	14978	0
+2262	0	101	0	0	0	0	0	0	0	0	0	4489.01	4028.89	8.001414E-43	903	4197	"PvP Activity Detected"	""	3799	15047	0
+2263	0	101	0	0	0	0	0	0	0	0	0	4696.33	3806.99	8.001414E-43	903	4197	"PvP Activity Detected"	""	3796	14932	0
+2141	0	6	54	55	10	52	53	11	50	51	0	4556.98	3623.77	8.001414E-43	903	4197	"Shadowsight Tower"	""	3704	14858	0
+2270	0	8	8	8	13	13	13	15	15	15	0	4318.94	2408	8.001414E-43	2951	4197	"Southeast Graveyard"	""	3703	14844	0
+2269	0	8	8	8	13	13	13	15	15	15	0	4336.28	3234.63	8.001414E-43	2951	4197	"Southwest Graveyard"	""	3702	14907	0
 2300	3	5	0	0	0	0	0	0	0	0	0	3495.58	1993.21	8.001414E-43	525	4158	"Stars\' Rest"	""	0	0	0
-2265	0	8	8	8	13	13	13	15	15	15	0	5105.61	2300.68	8.001414E-43	2951	4197	"Sunken Ring Graveyard"	""	3701	0	1329
-2154	0	65	66	67	68	69	70	71	72	73	0	4942.82	2390.43	8.001414E-43	903	4197	"Sunken Ring Vehicle Workshop"	""	3701	0	0
+2265	0	8	8	8	13	13	13	15	15	15	0	5105.61	2300.68	8.001414E-43	2951	4197	"Sunken Ring Graveyard"	""	3701	14889	0
+2154	0	65	66	67	68	69	70	71	72	73	0	4942.82	2390.43	8.001414E-43	903	4197	"Sunken Ring Vehicle Workshop"	""	3701	14889	0
 2306	3	5	0	0	0	0	0	0	0	0	0	3445.23	4111	8.001414E-43	525	4037	"Taunka\'le Village"	""	0	0	0
 2314	3	5	0	0	0	0	0	0	0	0	0	5450.08	-2575.08	8.001414E-43	525	4275	"The Argent Stand"	""	0	0	0
 2139	3	5	0	0	0	0	0	0	0	0	0	8428.89	2707.51	8.001414E-43	525	4477	"The Shadow Vault"	""	0	0	0
@@ -717,174 +718,195 @@ id	importance	NormalIcon	NormalIcon50%	NormalIcon0%	HordeIcon	HordeIcon50%	Horde
 2304	3	5	0	0	0	0	0	0	0	0	0	2837.43	6186.49	8.001414E-43	525	4129	"Warsong Hold"	""	0	0	0
 2313	3	5	0	0	0	0	0	0	0	0	0	4554.15	-4213.86	8.001414E-43	525	4159	"Westfall Brigade Encampment"	""	0	0	0
 2084	3	5	0	0	0	0	0	0	0	0	0	1386.61	-3247.23	8.001414E-43	525	3998	"Westguard Keep"	""	0	0	0
-2152	0	65	66	67	68	69	70	71	72	73	0	4355.01	3308.44	8.001414E-43	903	4197	"Westspark Vehicle Workshop"	""	3702	0	0
-2142	0	6	54	55	10	52	53	11	50	51	0	4397.97	2822.6	8.001414E-43	903	4197	"Winter\'s Edge Tower"	""	3705	0	0
+2152	0	65	66	67	68	69	70	71	72	73	0	4355.01	3308.44	8.001414E-43	903	4197	"Westspark Vehicle Workshop"	""	3702	14907	0
+2142	0	6	54	55	10	52	53	11	50	51	0	4397.97	2822.6	8.001414E-43	903	4197	"Winter\'s Edge Tower"	""	3705	14863	0
 2309	3	5	0	0	0	0	0	0	0	0	0	3780.27	-734.763	8.001414E-43	525	4177	"Wintergarde Keep"	""	0	0	0
-2264	0	48	46	101	0	0	0	0	0	0	0	5121.38	2845.14	8.001414E-43	424	4197	"Wintergrasp"	"Control of Wintergrasp"	3804	0	0
-2246	0	74	75	76	77	78	79	80	81	82	0	5394.58	2841.49	8.001414E-43	903	4197	"Wintergrasp Fortress"	""	3773	0	0
-2229	0	74	75	76	77	78	79	80	81	82	0	5162.54	2841.25	8.001414E-43	1927	4197	"Wintergrasp Fortress Gate"	""	3763	0	0
-2146	0	6	54	55	10	52	53	11	50	51	0	5279.47	2632.11	8.001414E-43	903	4197	"Wintergrasp Fortress Tower (NE)"	""	3712	0	0
-2147	0	6	54	55	10	52	53	11	50	51	0	5280.07	3046.51	8.001414E-43	903	4197	"Wintergrasp Fortress Tower (NW)"	""	3711	0	0
-2145	0	6	54	55	10	52	53	11	50	51	0	5164.64	2747.98	8.001414E-43	903	4197	"Wintergrasp Fortress Tower (SE)"	""	3714	0	0
-2144	0	6	54	55	10	52	53	11	50	51	0	5161.26	2934.32	8.001414E-43	903	4197	"Wintergrasp Fortress Tower (SW)"	""	3713	0	0
-2222	0	92	93	94	95	96	97	98	99	100	0	5372.89	3047.3	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3749	0	0
-2223	0	92	93	94	95	96	97	98	99	100	0	5331.85	3046.55	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3750	0	0
-2224	0	83	84	85	86	87	88	89	90	91	0	5280.8	2995.93	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3751	0	0
-2225	0	83	84	85	86	87	88	89	90	91	0	5279.13	2954.81	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3752	0	0
-2226	0	92	93	94	95	96	97	98	99	100	0	5255.6	2934.08	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3753	0	0
-2227	0	92	93	94	95	96	97	98	99	100	0	5216.08	2933.99	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3754	0	0
-2228	0	83	84	85	86	87	88	89	90	91	0	5162.25	2882.84	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3755	0	0
-2230	0	83	84	85	86	87	88	89	90	91	0	5163.71	2798.72	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3756	0	0
-2231	0	92	93	94	95	96	97	98	99	100	0	5215.36	2747.99	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3757	0	0
-2232	0	92	93	94	95	96	97	98	99	100	0	5256.52	2747.55	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3758	0	0
-2233	0	83	84	85	86	87	88	89	90	91	0	5279.76	2725.12	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3759	0	0
-2234	0	83	84	85	86	87	88	89	90	91	0	5279.45	2683.91	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3760	0	0
-2235	0	92	93	94	95	96	97	98	99	100	0	5330.66	2630.69	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3761	0	0
-2236	0	92	93	94	95	96	97	98	99	100	0	5372.93	2630.77	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3762	0	0
-2237	0	92	93	94	95	96	97	98	99	100	0	5386.46	2909.89	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3764	0	0
-2238	0	92	93	94	95	96	97	98	99	100	0	5343.39	2909.19	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3765	0	0
-2239	0	92	93	94	95	96	97	98	99	100	0	5300.49	2909.33	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3766	0	0
-2240	0	83	84	85	86	87	88	89	90	91	0	5279.34	2883.16	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3767	0	0
-2241	0	83	84	85	86	87	88	89	90	91	0	5280.86	2840.4	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3768	0	0
-2242	0	83	84	85	86	87	88	89	90	91	0	5280.32	2798.61	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3769	0	0
-2243	0	92	93	94	95	96	97	98	99	100	0	5302.01	2771.67	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3770	0	0
-2244	0	92	93	94	95	96	97	98	99	100	0	5343.66	2771.01	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3771	0	0
-2245	0	92	93	94	95	96	97	98	99	100	0	5384.4	2772.53	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3772	0	0
+2264	0	48	46	101	0	0	0	0	0	0	0	5121.38	2845.14	8.001414E-43	424	4197	"Wintergrasp"	"Control of Wintergrasp"	3804	15048	0
+2246	0	74	75	76	77	78	79	80	81	82	0	5394.58	2841.49	8.001414E-43	903	4197	"Wintergrasp Fortress"	""	3773	14894	0
+2229	0	74	75	76	77	78	79	80	81	82	0	5162.54	2841.25	8.001414E-43	1927	4197	"Wintergrasp Fortress Gate"	""	3763	14985	0
+2146	0	6	54	55	10	52	53	11	50	51	0	5279.47	2632.11	8.001414E-43	903	4197	"Wintergrasp Fortress Tower (NE)"	""	3712	15082	0
+2147	0	6	54	55	10	52	53	11	50	51	0	5280.07	3046.51	8.001414E-43	903	4197	"Wintergrasp Fortress Tower (NW)"	""	3711	15051	0
+2145	0	6	54	55	10	52	53	11	50	51	0	5164.64	2747.98	8.001414E-43	903	4197	"Wintergrasp Fortress Tower (SE)"	""	3714	14830	0
+2144	0	6	54	55	10	52	53	11	50	51	0	5161.26	2934.32	8.001414E-43	903	4197	"Wintergrasp Fortress Tower (SW)"	""	3713	14981	0
+2222	0	92	93	94	95	96	97	98	99	100	0	5372.89	3047.3	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3749	15012	0
+2223	0	92	93	94	95	96	97	98	99	100	0	5331.85	3046.55	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3750	14850	0
+2224	0	83	84	85	86	87	88	89	90	91	0	5280.8	2995.93	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3751	14851	0
+2225	0	83	84	85	86	87	88	89	90	91	0	5279.13	2954.81	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3752	15010	0
+2226	0	92	93	94	95	96	97	98	99	100	0	5255.6	2934.08	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3753	15011	0
+2227	0	92	93	94	95	96	97	98	99	100	0	5216.08	2933.99	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3754	15017	0
+2228	0	83	84	85	86	87	88	89	90	91	0	5162.25	2882.84	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3755	15202	0
+2230	0	83	84	85	86	87	88	89	90	91	0	5163.71	2798.72	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3756	14852	0
+2231	0	92	93	94	95	96	97	98	99	100	0	5215.36	2747.99	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3757	14928	0
+2232	0	92	93	94	95	96	97	98	99	100	0	5256.52	2747.55	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3758	14888	0
+2233	0	83	84	85	86	87	88	89	90	91	0	5279.76	2725.12	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3759	14892	0
+2234	0	83	84	85	86	87	88	89	90	91	0	5279.45	2683.91	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3760	14973	0
+2235	0	92	93	94	95	96	97	98	99	100	0	5330.66	2630.69	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3761	14853	0
+2236	0	92	93	94	95	96	97	98	99	100	0	5372.93	2630.77	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3762	14854	0
+2237	0	92	93	94	95	96	97	98	99	100	0	5386.46	2909.89	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3764	15013	0
+2238	0	92	93	94	95	96	97	98	99	100	0	5343.39	2909.19	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3765	14855	0
+2239	0	92	93	94	95	96	97	98	99	100	0	5300.49	2909.33	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3766	15014	0
+2240	0	83	84	85	86	87	88	89	90	91	0	5279.34	2883.16	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3767	14929	0
+2241	0	83	84	85	86	87	88	89	90	91	0	5280.86	2840.4	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3768	14974	0
+2242	0	83	84	85	86	87	88	89	90	91	0	5280.32	2798.61	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3769	14840	0
+2243	0	92	93	94	95	96	97	98	99	100	0	5302.01	2771.67	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3770	15009	0
+2244	0	92	93	94	95	96	97	98	99	100	0	5343.66	2771.01	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3771	14893	0
+2245	0	92	93	94	95	96	97	98	99	100	0	5384.4	2772.53	8.001414E-43	391	4197	"Wintergrasp Fortress Wall"	""	3772	14878	0
 2298	3	5	0	0	0	0	0	0	0	0	0	3546.8	273.257	8.001414E-43	525	4161	"Wyrmrest Temple"	""	0	0	0
 2315	3	5	0	0	0	0	0	0	0	0	0	5764.67	-3563.47	8.001414E-43	525	4323	"Zim\'Torga"	""	0	0	0
-2106	0	45	0	0	0	0	0	0	0	0	0	2279.17	1138.86	8.337726E-43	903	4100	"Elder\'s Square Gate"	"Elder\'s Square Gate"	3581	0	0
-2107	0	45	0	0	0	0	0	0	0	0	0	2184.28	1236.69	8.337726E-43	903	4100	"Festival Lane Gate"	"Festival Lane Gate"	3582	0	0
-2109	0	45	0	0	0	0	0	0	0	0	0	2122.57	1354.61	8.337726E-43	903	4100	"King\'s Square Fountain"	"King\'s Square Fountain"	3583	0	0
-2108	0	45	0	0	0	0	0	0	0	0	0	2225.75	1331.91	8.337726E-43	903	4100	"Market Row Gate"	"Market Row Gate"	3584	0	0
-2105	0	45	0	0	0	0	0	0	0	0	0	2355.44	1195.52	8.337726E-43	903	4100	"Town Hall"	"Town Hall"	3585	0	0
-2332	0	10	52	53	6	0	0	0	0	0	0	-79.7775	89.057	8.44983E-43	903	4445	"Tower of Flames"	"Provides power to Mimiron\'s Inferno"	4195	0	0
-2333	0	10	52	53	6	0	0	0	0	0	0	82.2553	-392.476	8.44983E-43	903	4445	"Tower of Frost"	"Provides power to Hodir\'s Fury"	4196	0	0
-2331	0	10	52	53	6	0	0	0	0	0	0	-223.332	-299.08	8.44983E-43	903	4273	"Tower of Life"	"Supplies power to Freya\'s Ward"	4053	0	0
-2334	0	10	52	53	6	0	0	0	0	0	0	341.266	317.85	8.44983E-43	903	4445	"Tower of Storms"	"Provides power to Thorim\'s Hammer"	4197	0	0
-2128	0	46	0	0	0	0	0	0	0	0	0	794.854	-108.89	8.505882E-43	959	4384	"Alliance Defense"	""	3630	0	0
-2292	0	80	81	82	77	78	79	74	75	76	0	881.703	-108.355	8.505882E-43	959	4384	"Chamber of Ancient Relics"	""	3849	0	0
-2129	0	13	0	0	0	0	0	0	0	0	0	1338.26	-155.265	8.505882E-43	959	4384	"East Graveyard"	"Horde Controlled"	3632	0	0
-2130	0	15	0	0	0	0	0	0	0	0	0	1338.91	-155.733	8.505882E-43	959	4384	"East Graveyard"	"Alliance Controlled"	3636	0	0
-2117	0	80	81	82	80	81	82	74	75	76	0	1433.07	-216.331	8.505882E-43	959	4384	"Gate of the Blue Sapphire"	""	3620	0	0
-2120	0	108	109	110	108	109	110	74	75	76	0	1414.54	104.746	8.505882E-43	959	4384	"Gate of the Green Emerald"	""	3623	0	0
-2111	0	105	106	107	105	106	107	74	75	76	0	1216.33	79.1829	8.505882E-43	647	4384	"Gate of the Purple Amethyst"	""	3614	0	0
-2114	0	77	78	79	77	78	79	74	75	76	0	1232.38	-210.044	8.505882E-43	935	4384	"Gate of the Red Sun"	""	3617	0	0
-2135	0	102	103	104	102	103	104	74	75	76	0	1058.72	-107.526	8.505882E-43	959	4384	"Gate of the Yellow Moon"	""	3638	0	0
-2127	0	48	0	0	0	0	0	0	0	0	0	794.829	-108.578	8.505882E-43	959	4384	"Horde Defense"	""	3631	0	0
-2133	0	13	0	0	0	0	0	0	0	0	0	1220.74	-70.5094	8.505882E-43	959	4384	"South Graveyard"	"Horde Controlled"	3634	0	0
-2134	0	15	0	0	0	0	0	0	0	0	0	1220.39	-70.6197	8.505882E-43	959	4384	"South Graveyard"	"Alliance Controlled"	3637	0	0
-2125	0	48	0	0	0	0	0	0	0	0	0	1571.34	-143.83	8.505882E-43	959	4384	"The Blightbringer"	"Horde Offense"	3628	0	0
-2126	0	48	0	0	0	0	0	0	0	0	0	1571.31	87.2816	8.505882E-43	959	4384	"The Casket Carrier"	"Horde Offense"	3629	0	0
-2123	0	46	0	0	0	0	0	0	0	0	0	1571.42	87.6971	8.505882E-43	959	4384	"The Frostbreaker"	"Alliance Offense"	3626	0	0
-2124	0	46	0	0	0	0	0	0	0	0	0	1570.41	-145.681	8.505882E-43	959	4384	"The Graceful Maiden"	"Alliance Offense"	3627	0	0
-2132	0	15	0	0	0	0	0	0	0	0	0	1308.6	8.67329	8.505882E-43	959	4384	"West Graveyard"	"Alliance Controlled"	3635	0	0
-2324	0	13	0	0	0	0	0	0	0	0	0	1309	8.65516	8.505882E-43	959	4384	"West Graveyard"	"Horde Controlled"	3633	0	0
-2377	0	80	0	0	0	0	0	0	0	0	0	352.0035	-901.0434	8.800154E-43	943	4710	"Alliance Gate"	"East Gate"	4326	0	0
-2378	0	82	0	0	0	0	0	0	0	0	0	411.3854	-833.7969	8.800154E-43	943	4710	"Alliance Gate"	"Destroyed"	4323	0	0
-2379	0	82	0	0	0	0	0	0	0	0	0	352.0035	-901.0434	8.800154E-43	943	4710	"Alliance Gate"	"Destroyed"	4325	0	0
-2380	0	80	0	0	0	0	0	0	0	0	0	351.6684	-764.717	8.800154E-43	943	4710	"Alliance Gate"	"West Gate"	4327	0	0
-2381	0	82	0	0	0	0	0	0	0	0	0	351.6684	-764.717	8.800154E-43	943	4710	"Alliance Gate"	"Destroyed"	4324	0	0
-2382	0	80	0	0	0	0	0	0	0	0	0	411.3854	-833.7969	8.800154E-43	943	4710	"Alliance Gate"	"Front Gate"	4328	0	0
-2383	0	6	0	0	0	0	0	0	0	0	0	347.7604	-831.559	8.800154E-43	943	4710	"Alliance Keep"	"Uncontrolled"	4341	0	0
-2384	0	11	0	0	0	0	0	0	0	0	0	347.7604	-831.559	8.800154E-43	943	4710	"Alliance Keep"	"Alliance Controlled"	4339	0	0
-2385	0	9	0	0	0	0	0	0	0	0	0	347.7604	-831.559	8.800154E-43	943	4710	"Alliance Keep"	"In Conflict"	4342	0	0
-2386	0	12	0	0	0	0	0	0	0	0	0	347.7604	-831.559	8.800154E-43	943	4710	"Alliance Keep"	"In Conflict"	4343	0	0
-2387	0	10	0	0	0	0	0	0	0	0	0	347.7604	-831.559	8.800154E-43	943	4710	"Alliance Keep"	"Horde Controlled"	4340	0	0
-2356	0	147	0	0	0	0	0	0	0	0	0	796.9948	-379.9479	8.800154E-43	943	4710	"Docks"	"In Conflict"	4305	0	0
-2357	0	148	0	0	0	0	0	0	0	0	0	797.0018	-379.9149	8.800154E-43	943	4710	"Docks"	"Horde Controlled"	4303	0	0
-2358	0	146	0	0	0	0	0	0	0	0	0	797.007	-379.908	8.800154E-43	943	4710	"Docks"	"Alliance Controlled"	4304	0	0
-2359	0	149	0	0	0	0	0	0	0	0	0	796.9983	-379.9115	8.800154E-43	943	4710	"Docks"	"In Conflict"	4302	0	0
-2360	0	145	0	0	0	0	0	0	0	0	0	796.9965	-379.9375	8.800154E-43	943	4710	"Docks"	"Uncontrolled"	4301	0	0
-2350	0	141	0	0	0	0	0	0	0	0	0	690.2934	-1125.382	8.800154E-43	943	4710	"Hangar"	"Alliance Controlled"	4299	0	0
-2352	0	143	0	0	0	0	0	0	0	0	0	690.2882	-1125.396	8.800154E-43	943	4710	"Hangar"	"Horde Controlled"	4298	0	0
-2353	0	142	0	0	0	0	0	0	0	0	0	690.2674	-1125.372	8.800154E-43	943	4710	"Hangar"	"In Conflict"	4300	0	0
-2354	0	144	0	0	0	0	0	0	0	0	0	690.3021	-1125.389	8.800154E-43	943	4710	"Hangar"	"In Conflict"	4297	0	0
-2355	0	140	0	0	0	0	0	0	0	0	0	690.2952	-1125.405	8.800154E-43	943	4710	"Hangar"	"Uncontrolled"	4296	0	0
-2371	0	77	0	0	0	0	0	0	0	0	0	1151.189	-762.5261	8.800154E-43	943	4710	"Horde Gate"	"Front Gate"	4317	0	0
-2372	0	79	0	0	0	0	0	0	0	0	0	1151.189	-762.5261	8.800154E-43	943	4710	"Horde Gate"	"Destroyed"	4322	0	0
-2373	0	77	0	0	0	0	0	0	0	0	0	1218.585	-850.993	8.800154E-43	943	4710	"Horde Gate"	"East Gate"	4319	0	0
-2374	0	79	0	0	0	0	0	0	0	0	0	1218.63	-851.1024	8.800154E-43	943	4710	"Horde Gate"	"Destroyed"	4320	0	0
-2375	0	77	0	0	0	0	0	0	0	0	0	1218.078	-677.0816	8.800154E-43	943	4710	"Horde Gate"	"West Gate"	4318	0	0
-2376	0	79	0	0	0	0	0	0	0	0	0	1218.052	-677.1215	8.800154E-43	943	4710	"Horde Gate"	"Destroyed"	4321	0	0
-2388	0	10	0	0	0	0	0	0	0	0	0	1212.892	-765.4184	8.800154E-43	943	4710	"Horde Keep"	"Horde Controlled"	4345	0	0
-2389	0	11	0	0	0	0	0	0	0	0	0	1212.892	-765.4184	8.800154E-43	943	4710	"Horde Keep"	"Alliance Controlled"	4344	0	0
-2390	0	9	0	0	0	0	0	0	0	0	0	1212.892	-765.4184	8.800154E-43	943	4710	"Horde Keep"	"In Conflict"	4347	0	0
-2391	0	12	0	0	0	0	0	0	0	0	0	1212.892	-765.4184	8.800154E-43	943	4710	"Horde Keep"	"In Conflict"	4348	0	0
-2392	0	6	0	0	0	0	0	0	0	0	0	1212.892	-765.4184	8.800154E-43	943	4710	"Horde Keep"	"Uncontrolled"	4346	0	0
-2361	0	16	0	0	0	0	0	0	0	0	0	225.0382	-1188.757	8.800154E-43	943	4710	"Quarry"	"Uncontrolled"	4306	0	0
-2362	0	18	0	0	0	0	0	0	0	0	0	225.0382	-1188.757	8.800154E-43	943	4710	"Quarry"	"Alliance Controlled"	4309	0	0
-2363	0	20	0	0	0	0	0	0	0	0	0	225.0382	-1188.757	8.800154E-43	943	4710	"Quarry"	"Horde Controlled"	4308	0	0
-2364	0	17	0	0	0	0	0	0	0	0	0	225.0382	-1188.757	8.800154E-43	943	4710	"Quarry"	"In Conflict"	4310	0	0
-2365	0	19	0	0	0	0	0	0	0	0	0	225.0382	-1188.757	8.800154E-43	943	4710	"Quarry"	"In Conflict"	4307	0	0
-2366	0	153	0	0	0	0	0	0	0	0	0	1267.118	-396.0695	8.800154E-43	943	4710	"Refinery"	"Horde Controlled"	4313	0	0
-2367	0	151	0	0	0	0	0	0	0	0	0	1267.118	-396.0695	8.800154E-43	943	4710	"Refinery"	"Alliance Controlled"	4314	0	0
-2368	0	154	0	0	0	0	0	0	0	0	0	1267.118	-396.0695	8.800154E-43	943	4710	"Refinery"	"In Conflict"	4312	0	0
-2369	0	152	0	0	0	0	0	0	0	0	0	1267.118	-396.0695	8.800154E-43	943	4710	"Refinery"	"In Conflict"	4315	0	0
-2370	0	150	0	0	0	0	0	0	0	0	0	1267.118	-396.0695	8.800154E-43	943	4710	"Refinery"	"Uncontrolled"	4311	0	0
-2345	0	136	0	0	0	0	0	0	0	0	0	772.7344	-805.5174	8.800154E-43	943	4710	"Workshop"	"Alliance Controlled"	4229	0	0
-2346	0	138	0	0	0	0	0	0	0	0	0	772.7344	-805.5174	8.800154E-43	943	4710	"Workshop"	"Horde Controlled"	4230	0	0
-2347	0	137	0	0	0	0	0	0	0	0	0	772.7344	-805.5174	8.800154E-43	943	4710	"Workshop"	"In Conflict"	4228	0	0
-2348	0	139	0	0	0	0	0	0	0	0	0	772.7344	-805.5174	8.800154E-43	943	4710	"Workshop"	"In Conflict"	4293	0	0
-2349	0	135	0	0	0	0	0	0	0	0	0	772.7344	-805.5174	8.800154E-43	943	4710	"Workshop"	"Uncontrolled"	4294	0	0
-2395	0	11	0	0	0	0	0	0	0	0	0	1978.74	829.606	1.020145E-42	655	3820	"Stoneward Prison"	"Alliance Controlled"	1787	0	0
-2396	0	12	0	0	0	0	0	0	0	0	0	1978.94	829.552	1.020145E-42	655	3820	"Stoneward Prison"	"In Conflict"	1790	0	0
-2397	0	9	0	0	0	0	0	0	0	0	0	1978.88	829.538	1.020145E-42	655	3820	"Stoneward Prison"	"In Conflict"	1789	0	0
-2398	0	10	0	0	0	0	0	0	0	0	0	1979.11	830.01	1.020145E-42	655	3820	"Stoneward Prison"	"Horde Controlled"	1788	0	0
-2399	0	6	0	0	0	0	0	0	0	0	0	1976.22	828.076	1.020145E-42	655	3820	"Stoneward Prison"	"Uncontrolled"	1843	0	0
-2485	0	46	0	0	0	0	0	0	0	0	0	-1292.11	980.354	1.02575E-42	943	5095	"Baradin Hold"	"Alliance Controlled"	5470	0	0
-2486	0	48	0	0	0	0	0	0	0	0	0	-1292.11	980.354	1.02575E-42	943	5095	"Baradin Hold"	"Horde Controlled"	5469	0	0
-2459	0	6	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Uncontrolled"	5451	0	0
-2460	0	55	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Destroyed"	5445	0	0
-2461	0	54	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Damaged"	5452	0	0
-2462	0	11	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Alliance Controlled"	5446	0	0
-2463	0	50	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Alliance Controlled, Damaged"	5447	0	0
-2464	0	10	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Horde Controlled"	5443	0	0
-2465	0	52	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Horde Controlled, Damaged"	5444	0	0
-2440	0	11	0	0	0	0	0	0	0	0	0	-914.184	979.191	1.02575E-42	1967	5095	"Ironclad Garrison"	"Alliance Controlled"	5422	0	0
-2441	0	10	0	0	0	0	0	0	0	0	0	-914.184	979.191	1.02575E-42	1967	5095	"Ironclad Garrison"	"Horde Controlled"	5418	0	0
-2442	0	9	0	0	0	0	0	0	0	0	0	-914.184	979.191	1.02575E-42	1967	5095	"Ironclad Garrison"	"In Conflict"	5421	0	0
-2443	0	12	0	0	0	0	0	0	0	0	0	-914.184	979.191	1.02575E-42	1967	5095	"Ironclad Garrison"	"In Conflict"	5419	0	0
-2448	0	28	0	0	0	0	0	0	0	0	0	-1436.89	685.561	1.02575E-42	1967	5095	"Slagworks"	"Alliance Controlled"	5432	0	0
-2449	0	30	0	0	0	0	0	0	0	0	0	-1436.89	685.561	1.02575E-42	1967	5095	"Slagworks"	"Horde Controlled"	5428	0	0
-2450	0	27	0	0	0	0	0	0	0	0	0	-1436.89	685.561	1.02575E-42	1967	5095	"Slagworks"	"In Conflict"	5431	0	0
-2451	0	29	0	0	0	0	0	0	0	0	0	-1436.89	685.561	1.02575E-42	1967	5095	"Slagworks"	"In Conflict"	5429	0	0
-2466	0	6	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Uncontrolled"	5455	0	0
-2467	0	54	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Damaged"	5456	0	0
-2468	0	55	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Destroyed"	5440	0	0
-2469	0	11	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Alliance Controlled"	5441	0	0
-2470	0	50	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Alliance Controlled, Damaged"	5442	0	0
-2471	0	10	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Horde Controlled"	5438	0	0
-2472	0	52	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Horde Controlled, Damaged"	5439	0	0
-2444	0	11	0	0	0	0	0	0	0	0	0	-1496.24	1312.83	1.02575E-42	1967	5095	"Warden\'s Vigil"	"Alliance Controlled"	5427	0	0
-2445	0	10	0	0	0	0	0	0	0	0	0	-1496.24	1312.83	1.02575E-42	1967	5095	"Warden\'s Vigil"	"Horde Controlled"	5423	0	0
-2446	0	9	0	0	0	0	0	0	0	0	0	-1496.24	1312.83	1.02575E-42	1967	5095	"Warden\'s Vigil"	"In Conflict"	5426	0	0
-2447	0	12	0	0	0	0	0	0	0	0	0	-1496.24	1312.83	1.02575E-42	1967	5095	"Warden\'s Vigil"	"In Conflict"	5424	0	0
-2452	0	11	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Alliance Controlled"	5436	0	0
-2453	0	10	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Horde Controlled"	5433	0	0
-2454	0	52	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Horde Controlled, Damaged"	5434	0	0
-2455	0	50	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Alliance Controlled, Damaged"	5437	0	0
-2456	0	54	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Damaged"	5454	0	0
-2457	0	55	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Destroyed"	5435	0	0
-2458	0	6	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Uncontrolled"	5453	0	0
-2410	0	9	0	0	0	0	0	0	0	0	0	1057.566	1277.957	1.066388E-42	655	3820	"Lighthouse"	"In Conflict"	1769	0	0
-2411	0	12	0	0	0	0	0	0	0	0	0	1057.516	1277.774	1.066388E-42	655	3820	"Lighthouse"	"In Conflict"	1770	0	0
-2412	0	6	0	0	0	0	0	0	0	0	0	1057.288	1278.174	1.066388E-42	655	3820	"Lighthouse"	"Uncontrolled"	1842	0	0
-2413	0	10	0	0	0	0	0	0	0	0	0	1057.5	1278.101	1.066388E-42	655	3820	"Lighthouse"	"Horde Controlled"	1768	0	0
-2414	0	11	0	0	0	0	0	0	0	0	0	1057.823	1277.99	1.066388E-42	655	3820	"Lighthouse"	"Alliance Controlled"	1767	0	0
-2400	0	19	0	0	0	0	0	0	0	0	0	1244.42	923.115	1.066388E-42	655	3820	"Mines"	"In Conflict"	1775	0	0
-2401	0	18	0	0	0	0	0	0	0	0	0	1244.51	923.099	1.066388E-42	655	3820	"Mines"	"Alliance Controlled"	1772	0	0
-2402	0	20	0	0	0	0	0	0	0	0	0	1244.61	923.04	1.066388E-42	655	3820	"Mines"	"Horde Controlled"	1773	0	0
-2403	0	17	0	0	0	0	0	0	0	0	0	1244.51	923.08	1.066388E-42	655	3820	"Mines"	"In Conflict"	1774	0	0
-2404	0	16	0	0	0	0	0	0	0	0	0	1244.51	923.092	1.066388E-42	655	3820	"Mines"	"Uncontrolled"	1845	0	0
-2405	0	26	0	0	0	0	0	0	0	0	0	980.462	948.932	1.066388E-42	655	3820	"Waterworks"	"Uncontrolled"	1846	0	0
-2406	0	29	0	0	0	0	0	0	0	0	0	980.382	948.997	1.066388E-42	655	3820	"Waterworks"	"In Conflict"	1785	0	0
-2407	0	27	0	0	0	0	0	0	0	0	0	980.363	949.045	1.066388E-42	655	3820	"Waterworks"	"In Conflict"	1784	0	0
-2408	0	28	0	0	0	0	0	0	0	0	0	980.448	948.875	1.066388E-42	655	3820	"Waterworks"	"Alliance Controlled"	1782	0	0
-2409	0	30	0	0	0	0	0	0	0	0	0	980.436	948.884	1.066388E-42	655	3820	"Waterworks"	"Horde Controlled"	1783	0	0
-2723	0	45	0	0	0	0	0	0	0	0	0	3289.22	-4993.2	1.315819E-42	643	5993	"Portal 1"	"CoT Well of Eternity - Portal 1"	6246	0	0
-2724	0	45	0	0	0	0	0	0	0	0	0	3452.313	-4880.193	1.315819E-42	643	5993	"Portal 2"	"CoT Well of Eternity - Portal 2"	6246	0	0
-2725	0	45	0	0	0	0	0	0	0	0	0	3478.842	-4851.016	1.315819E-42	643	5993	"Portal 3"	"CoT Well of Eternity - Portal 3"	6246	0	0
-2693	0	10	12	6	9	11	0	0	0	0	0	2048.422	1394.047	1.356457E-42	655	5799	"Blood Elf Tower"	""	1763	0	0
-2696	0	10	12	6	9	11	0	0	0	0	0	2286.568	1402.504	1.356457E-42	655	5799	"Draenei Ruins"	""	1765	0	0
-2694	0	10	12	6	9	11	0	0	0	0	0	2043.83	1730.028	1.356457E-42	655	5799	"Fel Reaver Ruins"	""	1764	0	0
-2695	0	10	12	6	9	11	0	0	0	0	0	2284.903	1731.54	1.356457E-42	655	5799	"Mage Tower"	""	1761	0	0
+2106	0	45	0	0	0	0	0	0	0	0	0	2279.17	1138.86	8.337726E-43	903	4100	"Elder\'s Square Gate"	"Elder\'s Square Gate"	3581	14982	0
+2107	0	45	0	0	0	0	0	0	0	0	0	2184.28	1236.69	8.337726E-43	903	4100	"Festival Lane Gate"	"Festival Lane Gate"	3582	14965	0
+2109	0	45	0	0	0	0	0	0	0	0	0	2122.57	1354.61	8.337726E-43	903	4100	"King\'s Square Fountain"	"King\'s Square Fountain"	3583	15040	0
+2108	0	45	0	0	0	0	0	0	0	0	0	2225.75	1331.91	8.337726E-43	903	4100	"Market Row Gate"	"Market Row Gate"	3584	15216	0
+2105	0	45	0	0	0	0	0	0	0	0	0	2355.44	1195.52	8.337726E-43	903	4100	"Town Hall"	"Town Hall"	3585	15001	0
+2332	0	10	52	53	6	0	0	0	0	0	0	-79.7775	89.057	8.44983E-43	903	4445	"Tower of Flames"	"Provides power to Mimiron\'s Inferno"	4195	15103	0
+2333	0	10	52	53	6	0	0	0	0	0	0	82.2553	-392.476	8.44983E-43	903	4445	"Tower of Frost"	"Provides power to Hodir\'s Fury"	4196	15104	0
+2331	0	10	52	53	6	0	0	0	0	0	0	-223.332	-299.08	8.44983E-43	903	4273	"Tower of Life"	"Supplies power to Freya\'s Ward"	4053	15149	0
+2334	0	10	52	53	6	0	0	0	0	0	0	341.266	317.85	8.44983E-43	903	4445	"Tower of Storms"	"Provides power to Thorim\'s Hammer"	4197	15105	0
+2128	0	46	0	0	0	0	0	0	0	0	0	794.854	-108.89	8.505882E-43	959	4384	"Alliance Defense"	""	3630	14977	0
+2292	0	80	81	82	77	78	79	74	75	76	0	881.703	-108.355	8.505882E-43	959	4384	"Chamber of Ancient Relics"	""	3849	14861	0
+2129	0	13	0	0	0	0	0	0	0	0	0	1338.26	-155.265	8.505882E-43	959	4384	"East Graveyard"	"Horde Controlled"	3632	14936	0
+2130	0	15	0	0	0	0	0	0	0	0	0	1338.91	-155.733	8.505882E-43	959	4384	"East Graveyard"	"Alliance Controlled"	3636	14937	0
+2117	0	80	81	82	80	81	82	74	75	76	0	1433.07	-216.331	8.505882E-43	959	4384	"Gate of the Blue Sapphire"	""	3620	14924	0
+2120	0	108	109	110	108	109	110	74	75	76	0	1414.54	104.746	8.505882E-43	959	4384	"Gate of the Green Emerald"	""	3623	14934	0
+2111	0	105	106	107	105	106	107	74	75	76	0	1216.33	79.1829	8.505882E-43	647	4384	"Gate of the Purple Amethyst"	""	3614	15199	0
+2114	0	77	78	79	77	78	79	74	75	76	0	1232.38	-210.044	8.505882E-43	935	4384	"Gate of the Red Sun"	""	3617	14923	0
+2135	0	102	103	104	102	103	104	74	75	76	0	1058.72	-107.526	8.505882E-43	959	4384	"Gate of the Yellow Moon"	""	3638	14860	0
+2127	0	48	0	0	0	0	0	0	0	0	0	794.829	-108.578	8.505882E-43	959	4384	"Horde Defense"	""	3631	14935	0
+2133	0	13	0	0	0	0	0	0	0	0	0	1220.74	-70.5094	8.505882E-43	959	4384	"South Graveyard"	"Horde Controlled"	3634	15065	0
+2134	0	15	0	0	0	0	0	0	0	0	0	1220.39	-70.6197	8.505882E-43	959	4384	"South Graveyard"	"Alliance Controlled"	3637	15069	0
+2125	0	48	0	0	0	0	0	0	0	0	0	1571.34	-143.83	8.505882E-43	959	4384	"The Blightbringer"	"Horde Offense"	3628	14980	0
+2126	0	48	0	0	0	0	0	0	0	0	0	1571.31	87.2816	8.505882E-43	959	4384	"The Casket Carrier"	"Horde Offense"	3629	14883	0
+2123	0	46	0	0	0	0	0	0	0	0	0	1571.42	87.6971	8.505882E-43	959	4384	"The Frostbreaker"	"Alliance Offense"	3626	15200	0
+2124	0	46	0	0	0	0	0	0	0	0	0	1570.41	-145.681	8.505882E-43	959	4384	"The Graceful Maiden"	"Alliance Offense"	3627	14833	0
+2132	0	15	0	0	0	0	0	0	0	0	0	1308.6	8.67329	8.505882E-43	959	4384	"West Graveyard"	"Alliance Controlled"	3635	14862	0
+2324	0	13	0	0	0	0	0	0	0	0	0	1309	8.65516	8.505882E-43	959	4384	"West Graveyard"	"Horde Controlled"	3633	14832	0
+2377	0	80	0	0	0	0	0	0	0	0	0	352.0035	-901.0434	8.800154E-43	943	4710	"Alliance Gate"	"East Gate"	4326	15124	0
+2378	0	82	0	0	0	0	0	0	0	0	0	411.3854	-833.7969	8.800154E-43	943	4710	"Alliance Gate"	"Destroyed"	4323	15125	0
+2379	0	82	0	0	0	0	0	0	0	0	0	352.0035	-901.0434	8.800154E-43	943	4710	"Alliance Gate"	"Destroyed"	4325	15205	0
+2380	0	80	0	0	0	0	0	0	0	0	0	351.6684	-764.717	8.800154E-43	943	4710	"Alliance Gate"	"West Gate"	4327	15126	0
+2381	0	82	0	0	0	0	0	0	0	0	0	351.6684	-764.717	8.800154E-43	943	4710	"Alliance Gate"	"Destroyed"	4324	15127	0
+2382	0	80	0	0	0	0	0	0	0	0	0	411.3854	-833.7969	8.800154E-43	943	4710	"Alliance Gate"	"Front Gate"	4328	15128	0
+2383	0	6	0	0	0	0	0	0	0	0	0	347.7604	-831.559	8.800154E-43	943	4710	"Alliance Keep"	"Uncontrolled"	4341	15150	0
+2384	0	11	0	0	0	0	0	0	0	0	0	347.7604	-831.559	8.800154E-43	943	4710	"Alliance Keep"	"Alliance Controlled"	4339	15151	0
+2385	0	9	0	0	0	0	0	0	0	0	0	347.7604	-831.559	8.800154E-43	943	4710	"Alliance Keep"	"In Conflict"	4342	15152	0
+2386	0	12	0	0	0	0	0	0	0	0	0	347.7604	-831.559	8.800154E-43	943	4710	"Alliance Keep"	"In Conflict"	4343	15153	0
+2387	0	10	0	0	0	0	0	0	0	0	0	347.7604	-831.559	8.800154E-43	943	4710	"Alliance Keep"	"Horde Controlled"	4340	15221	0
+2356	0	147	0	0	0	0	0	0	0	0	0	796.9948	-379.9479	8.800154E-43	943	4710	"Docks"	"In Conflict"	4305	15112	0
+2357	0	148	0	0	0	0	0	0	0	0	0	797.0018	-379.9149	8.800154E-43	943	4710	"Docks"	"Horde Controlled"	4303	15113	0
+2358	0	146	0	0	0	0	0	0	0	0	0	797.007	-379.908	8.800154E-43	943	4710	"Docks"	"Alliance Controlled"	4304	15114	0
+2359	0	149	0	0	0	0	0	0	0	0	0	796.9983	-379.9115	8.800154E-43	943	4710	"Docks"	"In Conflict"	4302	15219	0
+2360	0	145	0	0	0	0	0	0	0	0	0	796.9965	-379.9375	8.800154E-43	943	4710	"Docks"	"Uncontrolled"	4301	15129	0
+2350	0	141	0	0	0	0	0	0	0	0	0	690.2934	-1125.382	8.800154E-43	943	4710	"Hangar"	"Alliance Controlled"	4299	15130	0
+2352	0	143	0	0	0	0	0	0	0	0	0	690.2882	-1125.396	8.800154E-43	943	4710	"Hangar"	"Horde Controlled"	4298	15158	0
+2353	0	142	0	0	0	0	0	0	0	0	0	690.2674	-1125.372	8.800154E-43	943	4710	"Hangar"	"In Conflict"	4300	15110	0
+2354	0	144	0	0	0	0	0	0	0	0	0	690.3021	-1125.389	8.800154E-43	943	4710	"Hangar"	"In Conflict"	4297	15109	0
+2355	0	140	0	0	0	0	0	0	0	0	0	690.2952	-1125.405	8.800154E-43	943	4710	"Hangar"	"Uncontrolled"	4296	15111	0
+2371	0	77	0	0	0	0	0	0	0	0	0	1151.189	-762.5261	8.800154E-43	943	4710	"Horde Gate"	"Front Gate"	4317	15159	0
+2372	0	79	0	0	0	0	0	0	0	0	0	1151.189	-762.5261	8.800154E-43	943	4710	"Horde Gate"	"Destroyed"	4322	15134	0
+2373	0	77	0	0	0	0	0	0	0	0	0	1218.585	-850.993	8.800154E-43	943	4710	"Horde Gate"	"East Gate"	4319	15204	0
+2374	0	79	0	0	0	0	0	0	0	0	0	1218.63	-851.1024	8.800154E-43	943	4710	"Horde Gate"	"Destroyed"	4320	15121	0
+2375	0	77	0	0	0	0	0	0	0	0	0	1218.078	-677.0816	8.800154E-43	943	4710	"Horde Gate"	"West Gate"	4318	15122	0
+2376	0	79	0	0	0	0	0	0	0	0	0	1218.052	-677.1215	8.800154E-43	943	4710	"Horde Gate"	"Destroyed"	4321	15123	0
+2388	0	10	0	0	0	0	0	0	0	0	0	1212.892	-765.4184	8.800154E-43	943	4710	"Horde Keep"	"Horde Controlled"	4345	15206	0
+2389	0	11	0	0	0	0	0	0	0	0	0	1212.892	-765.4184	8.800154E-43	943	4710	"Horde Keep"	"Alliance Controlled"	4344	15154	0
+2390	0	9	0	0	0	0	0	0	0	0	0	1212.892	-765.4184	8.800154E-43	943	4710	"Horde Keep"	"In Conflict"	4347	15155	0
+2391	0	12	0	0	0	0	0	0	0	0	0	1212.892	-765.4184	8.800154E-43	943	4710	"Horde Keep"	"In Conflict"	4348	15156	0
+2392	0	6	0	0	0	0	0	0	0	0	0	1212.892	-765.4184	8.800154E-43	943	4710	"Horde Keep"	"Uncontrolled"	4346	15157	0
+2361	0	16	0	0	0	0	0	0	0	0	0	225.0382	-1188.757	8.800154E-43	943	4710	"Quarry"	"Uncontrolled"	4306	15160	0
+2362	0	18	0	0	0	0	0	0	0	0	0	225.0382	-1188.757	8.800154E-43	943	4710	"Quarry"	"Alliance Controlled"	4309	15085	0
+2363	0	20	0	0	0	0	0	0	0	0	0	225.0382	-1188.757	8.800154E-43	943	4710	"Quarry"	"Horde Controlled"	4308	15115	0
+2364	0	17	0	0	0	0	0	0	0	0	0	225.0382	-1188.757	8.800154E-43	943	4710	"Quarry"	"In Conflict"	4310	15116	0
+2365	0	19	0	0	0	0	0	0	0	0	0	225.0382	-1188.757	8.800154E-43	943	4710	"Quarry"	"In Conflict"	4307	15117	0
+2366	0	153	0	0	0	0	0	0	0	0	0	1267.118	-396.0695	8.800154E-43	943	4710	"Refinery"	"Horde Controlled"	4313	15118	0
+2367	0	151	0	0	0	0	0	0	0	0	0	1267.118	-396.0695	8.800154E-43	943	4710	"Refinery"	"Alliance Controlled"	4314	15220	0
+2368	0	154	0	0	0	0	0	0	0	0	0	1267.118	-396.0695	8.800154E-43	943	4710	"Refinery"	"In Conflict"	4312	15119	0
+2369	0	152	0	0	0	0	0	0	0	0	0	1267.118	-396.0695	8.800154E-43	943	4710	"Refinery"	"In Conflict"	4315	15131	0
+2370	0	150	0	0	0	0	0	0	0	0	0	1267.118	-396.0695	8.800154E-43	943	4710	"Refinery"	"Uncontrolled"	4311	15120	0
+2345	0	136	0	0	0	0	0	0	0	0	0	772.7344	-805.5174	8.800154E-43	943	4710	"Workshop"	"Alliance Controlled"	4229	15106	0
+2346	0	138	0	0	0	0	0	0	0	0	0	772.7344	-805.5174	8.800154E-43	943	4710	"Workshop"	"Horde Controlled"	4230	15107	0
+2347	0	137	0	0	0	0	0	0	0	0	0	772.7344	-805.5174	8.800154E-43	943	4710	"Workshop"	"In Conflict"	4228	15161	0
+2348	0	139	0	0	0	0	0	0	0	0	0	772.7344	-805.5174	8.800154E-43	943	4710	"Workshop"	"In Conflict"	4293	15203	0
+2349	0	135	0	0	0	0	0	0	0	0	0	772.7344	-805.5174	8.800154E-43	943	4710	"Workshop"	"Uncontrolled"	4294	15108	0
+2395	0	11	0	0	0	0	0	0	0	0	0	1978.74	829.606	1.020145E-42	655	3820	"Stoneward Prison"	"Alliance Controlled"	1787	15193	0
+2396	0	12	0	0	0	0	0	0	0	0	0	1978.94	829.552	1.020145E-42	655	3820	"Stoneward Prison"	"In Conflict"	1790	14963	0
+2397	0	9	0	0	0	0	0	0	0	0	0	1978.88	829.538	1.020145E-42	655	3820	"Stoneward Prison"	"In Conflict"	1789	15077	0
+2398	0	10	0	0	0	0	0	0	0	0	0	1979.11	830.01	1.020145E-42	655	3820	"Stoneward Prison"	"Horde Controlled"	1788	15053	0
+2399	0	6	0	0	0	0	0	0	0	0	0	1976.22	828.076	1.020145E-42	655	3820	"Stoneward Prison"	"Uncontrolled"	1843	14999	0
+2485	0	46	0	0	0	0	0	0	0	0	0	-1292.11	980.354	1.02575E-42	943	5095	"Baradin Hold"	"Alliance Controlled"	5470	15148	0
+2486	0	48	0	0	0	0	0	0	0	0	0	-1292.11	980.354	1.02575E-42	943	5095	"Baradin Hold"	"Horde Controlled"	5469	15166	0
+2459	0	6	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Uncontrolled"	5451	15099	0
+2460	0	55	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Destroyed"	5445	15169	0
+2461	0	54	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Damaged"	5452	15141	0
+2462	0	11	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Alliance Controlled"	5446	15100	0
+2463	0	50	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Alliance Controlled, Damaged"	5447	15224	0
+2464	0	10	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Horde Controlled"	5443	15170	0
+2465	0	52	0	0	0	0	0	0	0	0	0	-1012.88	530.448	1.02575E-42	1967	5095	"East Spire"	"Horde Controlled, Damaged"	5444	15225	0
+2440	0	11	0	0	0	0	0	0	0	0	0	-914.184	979.191	1.02575E-42	1967	5095	"Ironclad Garrison"	"Alliance Controlled"	5422	15142	0
+2441	0	10	0	0	0	0	0	0	0	0	0	-914.184	979.191	1.02575E-42	1967	5095	"Ironclad Garrison"	"Horde Controlled"	5418	15171	0
+2442	0	9	0	0	0	0	0	0	0	0	0	-914.184	979.191	1.02575E-42	1967	5095	"Ironclad Garrison"	"In Conflict"	5421	15207	0
+2443	0	12	0	0	0	0	0	0	0	0	0	-914.184	979.191	1.02575E-42	1967	5095	"Ironclad Garrison"	"In Conflict"	5419	15095	0
+2448	0	28	0	0	0	0	0	0	0	0	0	-1436.89	685.561	1.02575E-42	1967	5095	"Slagworks"	"Alliance Controlled"	5432	15165	0
+2449	0	30	0	0	0	0	0	0	0	0	0	-1436.89	685.561	1.02575E-42	1967	5095	"Slagworks"	"Horde Controlled"	5428	15143	0
+2450	0	27	0	0	0	0	0	0	0	0	0	-1436.89	685.561	1.02575E-42	1967	5095	"Slagworks"	"In Conflict"	5431	15146	0
+2451	0	29	0	0	0	0	0	0	0	0	0	-1436.89	685.561	1.02575E-42	1967	5095	"Slagworks"	"In Conflict"	5429	15179	0
+2466	0	6	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Uncontrolled"	5455	15172	0
+2467	0	54	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Damaged"	5456	15101	0
+2468	0	55	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Destroyed"	5440	15102	0
+2469	0	11	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Alliance Controlled"	5441	15226	0
+2470	0	50	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Alliance Controlled, Damaged"	5442	15177	0
+2471	0	10	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Horde Controlled"	5438	15164	0
+2472	0	52	0	0	0	0	0	0	0	0	0	-1618.03	953.585	1.02575E-42	1967	5095	"South Spire"	"Horde Controlled, Damaged"	5439	15135	0
+2444	0	11	0	0	0	0	0	0	0	0	0	-1496.24	1312.83	1.02575E-42	1967	5095	"Warden\'s Vigil"	"Alliance Controlled"	5427	15168	0
+2445	0	10	0	0	0	0	0	0	0	0	0	-1496.24	1312.83	1.02575E-42	1967	5095	"Warden\'s Vigil"	"Horde Controlled"	5423	15096	0
+2446	0	9	0	0	0	0	0	0	0	0	0	-1496.24	1312.83	1.02575E-42	1967	5095	"Warden\'s Vigil"	"In Conflict"	5426	15167	0
+2447	0	12	0	0	0	0	0	0	0	0	0	-1496.24	1312.83	1.02575E-42	1967	5095	"Warden\'s Vigil"	"In Conflict"	5424	15222	0
+2452	0	11	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Alliance Controlled"	5436	15176	0
+2453	0	10	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Horde Controlled"	5433	15162	0
+2454	0	52	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Horde Controlled, Damaged"	5434	15097	0
+2455	0	50	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Alliance Controlled, Damaged"	5437	15223	0
+2456	0	54	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Damaged"	5454	15163	0
+2457	0	55	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Destroyed"	5435	15098	0
+2458	0	6	0	0	0	0	0	0	0	0	0	-950.056	1469.46	1.02575E-42	1967	5095	"West Spire"	"Uncontrolled"	5453	15173	0
+2410	0	9	0	0	0	0	0	0	0	0	0	1057.566	1277.957	1.066388E-42	655	3820	"Lighthouse"	"In Conflict"	1769	14955	0
+2411	0	12	0	0	0	0	0	0	0	0	0	1057.516	1277.774	1.066388E-42	655	3820	"Lighthouse"	"In Conflict"	1770	14956	0
+2412	0	6	0	0	0	0	0	0	0	0	0	1057.288	1278.174	1.066388E-42	655	3820	"Lighthouse"	"Uncontrolled"	1842	14837	0
+2413	0	10	0	0	0	0	0	0	0	0	0	1057.5	1278.101	1.066388E-42	655	3820	"Lighthouse"	"Horde Controlled"	1768	14910	0
+2414	0	11	0	0	0	0	0	0	0	0	0	1057.823	1277.99	1.066388E-42	655	3820	"Lighthouse"	"Alliance Controlled"	1767	15084	0
+2400	0	19	0	0	0	0	0	0	0	0	0	1244.42	923.115	1.066388E-42	655	3820	"Mines"	"In Conflict"	1775	15066	0
+2401	0	18	0	0	0	0	0	0	0	0	0	1244.51	923.099	1.066388E-42	655	3820	"Mines"	"Alliance Controlled"	1772	15079	0
+2402	0	20	0	0	0	0	0	0	0	0	0	1244.61	923.04	1.066388E-42	655	3820	"Mines"	"Horde Controlled"	1773	15063	0
+2403	0	17	0	0	0	0	0	0	0	0	0	1244.51	923.08	1.066388E-42	655	3820	"Mines"	"In Conflict"	1774	14842	0
+2404	0	16	0	0	0	0	0	0	0	0	0	1244.51	923.092	1.066388E-42	655	3820	"Mines"	"Uncontrolled"	1845	15078	0
+2405	0	26	0	0	0	0	0	0	0	0	0	980.462	948.932	1.066388E-42	655	3820	"Waterworks"	"Uncontrolled"	1846	15192	0
+2406	0	29	0	0	0	0	0	0	0	0	0	980.382	948.997	1.066388E-42	655	3820	"Waterworks"	"In Conflict"	1785	14958	0
+2407	0	27	0	0	0	0	0	0	0	0	0	980.363	949.045	1.066388E-42	655	3820	"Waterworks"	"In Conflict"	1784	14998	0
+2408	0	28	0	0	0	0	0	0	0	0	0	980.448	948.875	1.066388E-42	655	3820	"Waterworks"	"Alliance Controlled"	1782	14946	0
+2409	0	30	0	0	0	0	0	0	0	0	0	980.436	948.884	1.066388E-42	655	3820	"Waterworks"	"Horde Controlled"	1783	14957	0
+2761	0	188	0	0	0	0	0	0	0	0	0	3160.322	-456.8507	1.21913E-42	4252	5785	"Burial at Sea"	""	0	16382	0
+2745	0	188	0	0	0	0	0	0	0	0	0	2485.833	-1687.135	1.21913E-42	4255	5785	"Chun Tian Monastery"	""	0	15694	0
+2750	0	188	0	0	0	0	0	0	0	0	0	-1330.879	1556.896	1.21913E-42	4231	5805	"Fallsong Village"	""	0	15718	0
+2751	0	188	0	0	0	0	0	0	0	0	0	1891.46	1998.108	1.21913E-42	4255	5841	"Firebough Nook"	""	0	15862	0
+2743	0	188	0	0	0	0	0	0	0	0	0	1422.063	-471.908	1.21913E-42	4254	5785	"Fort Grookin"	""	0	15364	0
+2748	0	188	0	0	0	0	0	0	0	0	0	-101.7917	-2607.321	1.21913E-42	4255	5785	"Glassfin Village"	""	0	15704	0
+2744	0	188	0	0	0	0	0	0	0	0	0	1869.047	194.5035	1.21913E-42	4255	5841	"Jinyu Mere"	""	0	15507	0
+2754	0	188	0	0	0	0	0	0	0	0	0	2728.191	2175.313	1.21913E-42	4255	5841	"Kota Basecamp"	""	0	16179	0
+2755	0	188	0	0	0	0	0	0	0	0	0	2723.045	383.651	1.21913E-42	4254	5841	"Muskpaw Ranch"	""	0	16178	0
+2762	0	188	0	0	0	0	0	0	0	0	0	2969.828	-536.1632	1.21913E-42	4252	5785	"My Stars!"	""	0	16379	0
+2753	0	188	0	0	0	0	0	0	0	0	0	-2511.832	532.5851	1.21913E-42	4255	5805	"Nayeli Lagoon"	""	0	16152	0
+2746	0	188	0	0	0	0	0	0	0	0	0	119.1267	-1586.908	1.21913E-42	4255	5785	"Nectarbreeze Orchard"	""	0	15697	0
+2749	0	188	0	0	0	0	0	0	0	0	0	-1061.826	2047.304	1.21913E-42	4255	5805	"Nesingwary\'s Safari"	""	0	15717	0
+2756	0	188	0	0	0	0	0	0	0	0	0	3071.87	1204.476	1.21913E-42	4252	5841	"Onekeg"	""	0	16177	0
+2763	0	188	0	0	0	0	0	0	0	0	0	2841.853	-714.3489	1.21913E-42	4252	5785	"Seein\' Red"	""	0	16419	0
+2764	0	188	0	0	0	0	0	0	0	0	0	3165.753	-762.5156	1.21913E-42	4252	5785	"Sixteen Fluid Ounces..."	""	0	16466	0
+2758	0	188	0	0	0	0	0	0	0	0	0	3127.92	-668.8715	1.21913E-42	4252	5785	"Standard Protocol"	""	0	16380	0
+2757	0	188	0	0	0	0	0	0	0	0	0	3158.483	-625.033	1.21913E-42	4252	5785	"The General\'\'s Edge"	""	0	16377	0
+2759	0	188	0	0	0	0	0	0	0	0	0	3165.973	-762.6788	1.21913E-42	4252	5785	"Wet Work"	""	0	16379	0
+2760	0	188	0	0	0	0	0	0	0	0	0	3262.004	-603.8871	1.21913E-42	4252	5785	"What Goes Down, Must Come Up!"	""	0	16381	0
+2747	0	188	0	0	0	0	0	0	0	0	0	2493.783	-1947.259	1.21913E-42	4252	5785	"Woods of the Lost "	""	0	15695	0
+2723	0	45	0	0	0	0	0	0	0	0	0	3289.22	-4993.2	1.315819E-42	643	5993	"Portal 1"	"CoT Well of Eternity - Portal 1"	6246	15210	0
+2724	0	45	0	0	0	0	0	0	0	0	0	3452.313	-4880.193	1.315819E-42	643	5993	"Portal 2"	"CoT Well of Eternity - Portal 2"	6246	15210	0
+2725	0	45	0	0	0	0	0	0	0	0	0	3478.842	-4851.016	1.315819E-42	643	5993	"Portal 3"	"CoT Well of Eternity - Portal 3"	6246	15210	0
+2693	0	10	12	6	9	11	0	0	0	0	0	2048.422	1394.047	1.356457E-42	655	5799	"Blood Elf Tower"	""	1763	15180	0
+2696	0	10	12	6	9	11	0	0	0	0	0	2286.568	1402.504	1.356457E-42	655	5799	"Draenei Ruins"	""	1765	15182	0
+2694	0	10	12	6	9	11	0	0	0	0	0	2043.83	1730.028	1.356457E-42	655	5799	"Fel Reaver Ruins"	""	1764	15228	0
+2695	0	10	12	6	9	11	0	0	0	0	0	2284.903	1731.54	1.356457E-42	655	5799	"Mage Tower"	""	1761	15181	0

@@ -1,4 +1,4 @@
-ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_event	fail_asset	Description	flags	timer_start_event	timer_asset_id	timer_time	ui_order	field16	field17	field18	field19	field20	field21	field22	field23	
+field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	description	field10	field11	field12	field13	field14	field15	field16	field17	field18	field19	field20	field21	field22	
 34	6	5	0	10	0	0	0	0	0	"Reach level 10"	2	0	0	0	1	0	0	0	0	0	0	0	0
 35	7	5	0	20	0	0	0	0	0	"Reach level 20"	2	0	0	0	1	0	0	0	0	0	0	0	0
 36	8	5	0	30	0	0	0	0	0	"Reach level 30"	2	0	0	0	1	0	0	0	0	0	0	0	0
@@ -557,10 +557,6 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 3681	1243	34	43308	0	0	0	0	0	0	"Find Fish"	2	0	0	0	1	0	0	0	0	0	0	0	0
 3684	233	56	0	1	0	3	566	3	566	"Berserking killing blow"	2	0	0	0	1	0	0	8	0	0	24378	0	0
 3685	213	70	0	5	0	3	566	3	566	"5 Flag Carriers"	9	0	0	0	1	0	0	10	0	0	34976	0	0
-3686	1017	75	778	1	0	0	0	0	0	"Obtain a companion pet"	2	0	0	0	1	0	0	0	0	0	0	0	0
-3689	15	75	778	15	0	0	0	0	0	"Obtain 15 companion pets"	1	0	0	0	1	0	0	0	0	0	0	0	0
-3690	1248	75	778	25	0	0	0	0	0	"Obtain 25 companion pets"	1	0	0	0	1	0	0	0	0	0	0	0	0
-3692	1250	75	778	50	0	0	0	0	0	"Obtain 50 companion pets"	1	0	0	0	1	0	0	0	0	0	0	0	0
 3693	211	30	183	1	0	0	0	0	0	"Capture a flag with 4 bases held"	2	0	0	0	1	0	0	0	0	0	0	0	0
 3698	206	70	0	100	0	0	0	0	0	"Horde Flag Carriers"	1	0	0	0	1	0	0	10	17	0	23335	3277	0
 3699	1252	70	0	100	0	0	0	0	0	"Alliance Flag Carriers"	1	0	0	0	1	0	0	10	17	0	23333	3277	0
@@ -1177,7 +1173,6 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 9178	2476	0	27881	1	0	0	0	0	0	"Wintergrasp Catapult"	0	0	0	0	1	0	0	0	0	0	0	0	0
 9198	2496	27	6824	1	0	0	0	0	0	"Complete Hyrdaxis\' Tasks"	2	0	0	0	1	0	0	0	0	0	0	0	0
 9202	2497	29	61875	1	0	0	0	0	0	"Bloodhoof Village"	0	0	0	0	1	0	0	17	0	0	222	0	0
-9218	2516	75	778	75	0	0	0	0	0	"Obtain 75 companion pets"	1	0	0	0	1	0	0	0	0	0	0	0	0
 9223	2536	75	777	100	0	0	0	0	0	"Obtain 100 mounts"	1	0	0	0	1	0	0	0	0	0	0	0	0
 9224	2537	75	777	100	0	0	0	0	0	"Obtain 100 mounts"	1	0	0	0	1	0	0	0	0	0	0	0	0
 9299	2557	54	225	1	0	0	0	0	0	"Arctic Hare"	0	0	0	0	1	0	0	4	0	0	29328	0	0
@@ -1853,7 +1848,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 13467	4823	0	39863	1	0	0	0	0	0	"Halion"	2	0	0	0	1	0	0	20	0	0	3	0	0
 13468	4822	0	39863	1	0	0	0	0	0	"Halion"	2	0	0	0	1	0	0	20	0	0	2	0	0
 13469	4824	36	56806	1	0	0	0	0	0	""	2	0	0	0	1	0	0	0	0	0	0	0	0
-13498	4826	5	0	85	0	0	0	0	0	""	2	0	0	0	1	0	0	0	0	0	0	0	0
+13498	4826	5	0	85	0	0	0	0	0	"Reach level 85"	2	0	0	0	1	0	0	0	0	0	0	0	0
 13500	4832	34	75973	0	0	0	0	0	0	""	2	0	0	0	1	0	0	0	0	0	0	0	0
 13521	4833	0	39705	1	0	0	0	0	0	"Ascendant Lord Obsidius"	2	0	0	0	1	0	0	0	0	0	0	0	0
 13525	4839	28	95673	1	0	0	0	0	0	"Ozumat"	2	0	0	0	1	0	0	0	0	0	0	0	0
@@ -2701,12 +2696,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 17813	5866	27	29198	1	0	0	0	0	0	"Stop the assault on the Sanctuary of Malorne"	0	0	0	0	1	0	0	0	0	0	0	0	0
 17822	5862	28	100957	1	0	0	0	0	0	"Obtain 65 stacks of Soar"	2	0	0	0	1	0	0	0	0	0	0	0	0
 17824	5868	28	100964	1	0	0	0	0	0	"Angry Little Squirrel"	0	0	0	0	1	0	0	0	0	0	0	0	0
-17828	5875	75	778	150	0	0	0	0	0	"Obtain 150 companion pets"	1	0	0	0	1	0	0	0	0	0	0	0	0
 17829	5869	0	52749	1	0	0	0	0	0	"Slay Pyrachnis without using the Emerald of Aessina."	0	0	0	0	1	0	0	2	0	0	12506	0	0
 17830	5867	28	101167	1	0	0	0	0	0	"Solo kill a Molten Behemoth in the Molten Front without taking any damage."	2	0	0	0	1	0	0	2	0	0	12506	0	0
 17835	5871	28	100992	1	0	0	0	0	0	"Kill a Flamewaker Shaman with his own Flamewave"	0	0	0	0	1	0	0	0	0	0	0	0	0
-17838	5876	75	778	100	0	0	0	0	0	"Obtain 100 companion pets"	1	0	0	0	1	0	0	0	0	0	0	0	0
-17839	5877	75	778	125	0	0	0	0	0	"Obtain 125 companion pets"	1	0	0	0	1	0	0	0	0	0	0	0	0
 17840	5873	0	53055	1	0	0	0	0	0	"Ancient Charscale"	0	0	0	0	1	0	0	2	0	0	12506	0	0
 17857	5874	28	101098	1	0	0	0	0	0	"Ragepyre"	0	0	0	0	1	0	0	0	0	0	0	0	0
 17863	5855	28	101091	1	0	0	0	0	0	"Ragnaros"	2	0	0	0	1	6002	1	0	0	0	0	0	0
@@ -2832,6 +2824,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18350	6061	42	70923	1	0	0	0	0	0	""	2	0	0	0	1	0	0	0	0	0	0	0	0
 18363	6070	28	105576	1	0	0	0	0	0	"Mannoroth"	2	0	0	0	1	6112	1	20	0	0	1	0	0
 18391	6084	0	55294	1	0	0	0	0	0	"Ultraxion"	2	0	0	0	1	6131	0	0	0	0	0	0	0
+18407	6089	0	56637	1	0	0	0	0	0	"Ook-Ook"	2	0	0	0	1	0	0	20	0	0	1	0	0
 18418	966	27	28954	1	0	0	0	0	0	"Arathi Highlands, Refuge Point"	0	0	0	0	1	0	0	0	0	0	0	0	0
 18444	6105	0	56427	1	0	0	0	0	0	"Warmaster Blackhorn (Deck Defender)"	2	0	0	0	1	6205	0	0	0	0	0	0	0
 18445	6106	0	55265	1	0	0	0	0	0	"Morchok"	0	0	0	0	1	0	0	0	0	0	0	0	0
@@ -2859,7 +2852,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18495	6129	0	55312	1	0	0	0	0	0	"Black and Yellow"	0	0	0	0	1	6221	1	0	0	0	0	0	0
 18499	6130	0	54123	1	0	0	0	0	0	""	2	0	0	0	1	6225	1	0	0	0	0	0	0
 18500	6131	74	0	1	0	0	0	0	0	"Logged in during 8th anniversary event"	2	0	0	0	1	0	0	0	0	0	0	0	0
-18501	6132	0	54938	1	0	0	0	0	0	"Archbishop Benedictus"	0	0	0	0	1	0	0	0	0	0	0	0	0
+18501	6132	0	54938	1	0	0	0	0	0	"Archbishop Benedictus"	2	0	0	0	1	0	0	0	0	0	0	0	0
 18502	6133	28	104574	1	0	0	0	0	0	"Deathwing (Maybe he\'ll get dizzy...)"	2	0	0	0	1	6234	1	0	0	0	0	0	0
 18522	1091	0	47739	1	0	0	0	0	0	"\"Captain\" Cookie"	2	0	0	0	1	0	0	0	0	0	0	0	0
 18523	6135	0	11520	1	0	0	0	0	0	"Taragaman the Hungerer"	2	0	0	0	1	0	0	0	0	0	0	0	0
@@ -2914,6 +2907,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18681	6190	0	55294	1	0	0	0	0	0	"Ultraxion (10N)"	2	0	0	0	1	0	0	20	0	0	0	0	0
 18683	6191	0	56427	1	0	0	0	0	0	"Warmaster Blackhorn (10N)"	2	0	0	0	1	0	0	20	0	0	0	0	0
 18685	6192	28	104574	1	0	0	0	0	0	"Spine of Deathwing (10N)"	2	0	0	0	1	0	0	20	0	0	0	0	0
+18695	6193	5	0	90	0	0	0	0	0	"Reach level 90"	2	0	0	0	1	0	0	0	0	0	0	0	0
 18696	6195	28	110385	1	0	0	0	0	0	"Morchok attempts (10N) (DND)"	2	0	0	0	1	0	0	20	0	0	0	0	0
 18697	6196	28	110385	1	0	0	0	0	0	"Morchok attempts before kill (10N) (DND)"	2	0	0	0	1	0	0	20	2	0	0	13691	0
 18698	6197	28	110385	1	0	0	0	0	0	"Morchok attempts (25N) (DND)"	2	0	0	0	1	0	0	20	0	0	1	0	0
@@ -2992,9 +2986,37 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18771	6269	146	0	0	0	0	0	0	0	""	0	0	0	0	1	0	0	0	0	0	0	0	0
 18772	6270	145	0	0	0	0	0	0	0	""	0	0	0	0	1	0	0	0	0	0	0	0	0
 18773	6271	150	0	0	0	0	0	0	0	""	0	0	0	0	1	0	0	0	0	0	0	0	0
+18819	6300	27	29639	1	0	0	0	0	0	"Chun Tian Monastery"	0	0	0	0	1	0	0	0	0	0	0	0	0
+18820	6301	27	29918	1	0	0	0	0	0	"Thunderfoot Farms"	0	0	0	0	1	0	0	0	0	0	0	0	0
 18864	6316	36	0	1	0	0	0	0	0	""	2	0	0	0	1	0	0	0	0	0	0	0	0
 18865	6317	36	0	1	0	0	0	0	0	""	2	0	0	0	1	0	0	0	0	0	0	0	0
 18874	6322	36	71954	1	0	0	0	0	0	""	2	0	0	0	1	0	0	0	0	0	0	0	0
+18886	6332	0	58336	1	0	0	0	0	0	""	2	0	0	0	1	0	0	0	0	0	0	0	0
+18898	6337	0	15339	1	0	0	0	0	0	"Ossirian the Unscarred"	2	0	0	0	1	0	0	0	0	0	0	0	0
+18937	6349	49	0	1	0	0	0	0	0	"Head"	0	0	0	0	1	0	0	3	14	0	476	4	0
+18952	6348	49	0	1	0	0	0	0	0	"Head"	0	0	0	0	1	0	0	3	14	0	463	3	0
+18980	6350	54	225	1	0	0	0	0	0	"Shrine Fly"	0	0	0	0	1	0	0	4	0	0	59770	0	0
+18991	6365	7	185	525	0	0	0	0	0	"Obtain 600 skill points in cooking."	2	0	0	0	1	0	0	0	0	0	0	0	0
+18993	6367	46	1270	42000	0	0	0	0	0	"Shadowpan Exalted"	2	0	0	0	1	0	0	0	0	0	0	0	0
+19007	6394	0	59153	1	0	0	0	0	0	"Rattlegore"	2	0	0	0	1	6423	0	20	0	0	1	0	0
+19009	6396	69	115427	1	0	0	0	0	0	"Krastinovian"	2	0	0	0	1	0	0	20	0	0	1	0	0
+19011	6398	69	115444	1	0	0	0	0	0	"Lilian Voss"	2	0	0	0	1	6424	0	20	0	0	1	0	0
+19013	6400	69	116271	1	0	0	0	0	0	"Hozen Clinger"	2	0	0	0	1	0	0	0	0	0	0	0	0
+19015	6402	69	116270	1	0	0	0	0	0	"Golden Verming"	2	0	0	0	1	0	0	0	0	0	0	0	0
+19045	6426	69	115655	1	0	0	0	0	0	""	10	0	0	0	1	0	0	0	0	0	0	0	0
+19046	6427	0	58632	1	0	13	31142	0	0	""	2	0	0	0	1	0	0	20	0	0	1	0	0
+19083	6420	69	116286	1	0	0	0	0	0	"Smash!"	2	0	0	0	1	0	0	20	0	0	1	0	0
+19105	6455	0	60400	1	0	0	0	0	0	"Terracotta Army"	2	0	0	0	1	6478	0	0	0	0	0	0	0
+19108	6457	0	59479	1	0	0	0	0	0	"Yan-Zhu the Uncasked"	2	0	0	0	1	0	0	0	0	0	0	0	0
+19109	6456	0	59479	1	0	0	0	0	0	"Yan-Zhu the Uncasked"	2	0	0	0	1	0	0	20	0	0	1	0	0
+19110	6458	0	60051	1	0	0	0	0	0	"Quilin Guard"	0	0	0	0	1	0	0	0	0	0	0	0	0
+19130	6475	0	56439	1	0	0	0	0	0	"Kill the Sha of Doubt while under the effects of Purified Water"	2	0	0	0	1	0	0	20	8	0	1	118714	0
+19131	6476	28	118797	1	0	0	0	0	0	"Mantid Conscript"	2	0	0	0	1	0	0	0	0	0	0	0	0
+19133	6477	69	118918	20	0	13	29690	0	0	"Bow to 20 Shado-pan Initiates."	9	0	0	0	1	6121	1	0	0	0	0	0	0
+19134	6478	69	118994	1	0	0	0	0	0	"Saurok Boss"	2	0	0	0	1	6560	0	0	0	0	0	0	0
+19135	6479	69	119342	15	0	0	0	5	119342	""	1	0	0	0	1	0	0	0	0	0	0	0	0
+19136	6480	0	60491	1	0	0	0	0	0	"Sha of Anger"	2	0	0	0	1	0	0	0	0	0	0	0	0
+19147	6485	0	61485	1	0	0	0	0	0	"Mantid General [PH]"	2	0	0	0	1	0	0	20	0	0	1	0	0
 84	41	8	35	1	0	0	0	0	0	"Might of Dragonblight"	0	0	0	0	2	0	0	0	0	0	0	0	0
 95	46	8	43	1	0	0	0	0	0	"Kalimdor"	0	0	0	0	2	0	0	0	0	0	0	0	0
 151	115	26	3	0	0	0	0	0	0	"Deaths from fire and lava"	0	0	0	0	2	0	0	0	0	0	0	0	0
@@ -3204,9 +3226,6 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4262	642	27	4362	1	0	0	0	0	0	"The Fate of the Kingdom"	2	0	0	0	2	0	0	0	0	0	0	0	0
 4265	689	27	8791	1	0	0	0	0	0	"The Fall of Ossirian"	2	0	0	0	2	0	0	0	0	0	0	0	0
 4268	684	27	7635	1	0	0	0	0	0	"A Proper String"	2	0	0	0	2	0	0	0	0	0	0	0	0
-4289	345	41	32905	0	0	0	0	0	0	"Bottled Nethergon Vapor"	0	0	0	0	2	0	0	0	0	0	0	0	0
-4311	922	41	33093	0	0	0	0	0	0	"Mana Potion Injector"	0	0	0	0	2	0	0	0	0	0	0	0	0
-4411	811	41	13513	0	0	0	0	0	0	"Flask of Chromatic Resistance"	0	0	0	0	2	0	0	0	0	0	0	0	0
 4440	643	27	5081	1	0	0	0	0	0	"Maxwell\'s Mission"	2	0	0	0	2	0	0	0	0	0	0	0	0
 4443	1307	27	5102	1	0	0	0	0	0	"General Drakkisath\'s Demise"	2	0	0	0	2	0	0	0	0	0	0	0	0
 4447	685	27	7781	1	0	0	0	0	0	"The Lord of Blackrock"	2	0	0	0	2	0	0	0	0	0	0	0	0
@@ -3436,7 +3455,6 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 8608	364	32	559	0	0	0	0	0	0	"Nagrand 3v3 Wins"	0	0	0	0	2	0	0	24	0	0	3	0	0
 8612	367	33	559	0	0	0	0	0	0	"nagrand 2v2 Matches"	0	0	0	0	2	0	0	24	0	0	2	0	0
 8615	366	32	617	0	0	0	0	0	0	"Dalran 2v2 Wins"	0	0	0	0	2	0	0	24	0	0	2	0	0
-8648	923	41	3388	0	0	0	0	0	0	"Strong Troll\'s Blood Elixir"	0	0	0	0	2	0	0	0	0	0	0	0	0
 8759	1310	28	65246	1	0	0	0	3	607	"Win in 4 minutes"	10	1	21702	240	2	0	0	2	0	0	923	0	0
 8761	801	29	20760	0	0	0	0	0	0	"Use Soulstone"	0	0	0	0	2	0	0	0	0	0	0	0	0
 8779	2316	34	58615	0	0	0	0	0	0	"Brutal Nether Drake"	2	0	0	0	2	0	0	0	0	0	0	0	0
@@ -4041,7 +4059,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18644	6029	27	29451	1	0	0	0	0	0	"A Treatise on Strategy"	0	0	0	0	2	0	0	0	0	0	0	0	0
 18655	6169	8	6129	1	0	0	0	0	0	"Taste the Rainbow!"	0	0	0	0	2	0	0	0	0	0	0	0	0
 18659	6180	28	111533	1	0	0	0	0	0	"Kalecgos Assaulted First"	0	0	0	0	2	6261	1	0	0	0	0	0	0
-18669	6132	0	55466	10	0	0	0	9	110260	"Archbishop Benedictus"	5	0	0	0	2	0	0	0	0	0	0	0	0
+18669	6132	0	55466	10	0	0	0	9	110260	"Twilight Spark"	5	0	0	0	2	0	0	0	0	0	0	0	0
 18671	6185	34	101606	0	0	0	0	0	0	""	2	0	0	0	2	0	0	0	0	0	0	0	0
 18674	6186	0	55265	1	0	0	0	0	0	"Morchok (25N)"	2	0	0	0	2	0	0	20	0	0	1	0	0
 18676	6187	0	55308	1	0	0	0	0	0	"Warlord Zon\'ozz (25N)"	2	0	0	0	2	0	0	20	0	0	1	0	0
@@ -4050,8 +4068,19 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18682	6190	0	55294	1	0	0	0	0	0	"Ultraxion (25N)"	2	0	0	0	2	0	0	20	0	0	1	0	0
 18684	6191	0	56427	1	0	0	0	0	0	"Warmaster Blackhorn (25N)"	2	0	0	0	2	0	0	20	0	0	1	0	0
 18686	6192	28	104574	1	0	0	0	0	0	"Spine of Deathwing (25N)"	2	0	0	0	2	0	0	20	0	0	1	0	0
+18821	6301	27	29952	1	0	0	0	0	0	"Mudmug\'s Place"	0	0	0	0	2	0	0	0	0	0	0	0	0
 18860	6313	74	0	1	0	0	0	0	0	""	2	0	0	0	2	0	0	0	0	0	0	0	0
 18875	6322	34	101821	0	0	0	0	0	0	""	2	0	0	0	2	0	0	0	0	0	0	0	0
+18891	6337	0	15339	1	0	0	0	0	0	"Ossirian the Unscarred"	2	0	0	0	2	0	0	0	0	0	0	0	0
+18938	6349	49	1	1	0	0	0	0	0	"Neck"	0	0	0	0	2	0	0	3	14	0	476	4	0
+18953	6348	49	1	1	0	0	0	0	0	"Neck"	0	0	0	0	2	0	0	3	14	0	463	3	0
+18979	6350	54	225	1	0	0	0	0	0	"Singing Cricket"	0	0	0	0	2	0	0	4	0	0	59355	0	0
+19047	6427	69	115674	1	0	13	31142	0	0	""	10	0	0	0	2	0	0	20	0	0	1	0	0
+19111	6458	0	60009	1	0	0	0	0	0	"Dolgdjohn Jiknhlfnhsomething"	0	0	0	0	2	0	0	0	0	0	0	0	0
+19148	345	41	57191	0	0	0	0	0	0	"Mythical Healing Potion"	0	0	0	0	2	0	0	0	0	0	0	0	0
+19149	811	41	67438	0	0	0	0	0	0	"Flask of Flowing Water"	0	0	0	0	2	0	0	0	0	0	0	0	0
+19155	922	41	57192	0	0	0	0	0	0	"Mythical Mana Potion"	0	0	0	0	2	0	0	0	0	0	0	0	0
+19156	923	41	58093	0	0	0	0	0	0	"Elixir of Deep Earth"	0	0	0	0	2	0	0	0	0	0	0	0	0
 85	41	8	36	1	0	0	0	0	0	"The Empire of Zul\'Drak"	0	0	0	0	3	0	0	0	0	0	0	0	0
 96	46	8	44	1	0	0	0	0	0	"Outland"	0	0	0	0	3	0	0	0	0	0	0	0	0
 171	321	18	25	0	0	0	0	0	0	"25 man instances"	0	0	0	0	3	0	0	0	0	0	0	0	0
@@ -4238,10 +4267,8 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4260	640	27	7064	1	0	0	0	0	0	"Corruption of Earth and Seed"	2	0	0	0	3	0	0	0	0	0	0	0	0
 4263	642	27	4003	1	0	0	0	0	0	"The Royal Rescue"	2	0	0	0	3	0	0	0	0	0	0	0	0
 4267	684	27	7490	1	0	0	0	0	0	"Victory for the Horde"	2	0	0	0	3	0	0	0	0	0	0	0	0
-4290	345	41	33934	0	0	0	0	0	0	"Crystal Healing Potion"	0	0	0	0	3	0	0	0	0	0	0	0	0
-4312	922	41	22832	0	0	0	0	0	0	"Super Mana Potion"	0	0	0	0	3	0	0	0	0	0	0	0	0
-4338	923	41	20079	0	0	0	0	0	0	"Spirit of Zanza"	0	0	0	0	3	0	0	0	0	0	0	0	0
-4412	811	41	33208	0	0	0	0	0	0	"Flask of Chromatic Wonder"	0	0	0	0	3	0	0	0	0	0	0	0	0
+4289	345	41	32905	0	0	0	0	0	0	"Bottled Nethergon Vapor"	0	0	0	0	3	0	0	0	0	0	0	0	0
+4311	922	41	33093	0	0	0	0	0	0	"Mana Potion Injector"	0	0	0	0	3	0	0	0	0	0	0	0	0
 4437	686	27	8620	1	0	0	0	0	0	"The Only Prescription"	2	0	0	0	3	0	0	0	0	0	0	0	0
 4441	643	27	4903	1	0	0	0	0	0	"Warlord\'s Command"	2	0	0	0	3	0	0	0	0	0	0	0	0
 4444	1307	27	6602	1	0	0	0	0	0	"Blood of the Black Dragon Champion"	2	0	0	0	3	0	0	0	0	0	0	0	0
@@ -4692,7 +4719,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 16483	5690	40	333	1	0	0	0	0	0	""	2	0	0	0	3	0	0	2	0	0	11871	0	0
 16499	4869	11	4815	130	0	0	0	0	0	""	2	0	0	0	3	0	0	0	0	0	0	0	0
 16502	4982	11	4815	130	0	0	0	0	0	""	2	0	0	0	3	0	0	0	0	0	0	0	0
-16513	840	1	761	0	0	0	0	0	0	"Isle of Conquest"	0	0	0	0	3	0	0	0	0	0	0	0	0
+16513	840	1	761	0	0	0	0	0	0	"Battle For Gilneas"	0	0	0	0	3	0	0	0	0	0	0	0	0
 16516	5692	15	607	0	0	0	0	0	0	"Strand of the Ancients"	0	0	0	0	3	0	0	63	0	0	0	0	0
 16522	5694	1	968	0	0	0	0	0	0	"Eye of the Storm"	0	0	0	0	3	0	0	63	0	0	0	0	0
 16553	4956	11	719	5	0	0	0	0	0	""	2	0	0	0	3	0	0	0	0	0	0	0	0
@@ -4780,6 +4807,13 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18692	6163	0	56427	1	0	0	0	0	0	"Warmaster Blackhorn (25N)"	2	0	0	0	3	0	0	20	0	0	1	0	0
 18693	6165	28	104574	1	0	0	0	0	0	"Spine of Deathwing (LFR)"	2	0	0	0	3	0	0	20	0	0	1	0	0
 18694	6167	28	111533	1	0	0	0	0	0	"Madness of Deathwing (LFR)"	2	0	0	0	3	0	0	20	0	0	1	0	0
+18822	6301	27	30073	1	0	0	0	0	0	"Chen\'s Masterpiece"	0	0	0	0	3	0	0	0	0	0	0	0	0
+18939	6349	49	2	1	0	0	0	0	0	"Shoulder"	0	0	0	0	3	0	0	3	14	0	476	4	0
+18954	6348	49	2	1	0	0	0	0	0	"Shoulder"	0	0	0	0	3	0	0	3	14	0	463	3	0
+18978	6350	54	225	1	0	0	0	0	0	"Coral Adder"	0	0	0	0	3	0	0	4	0	0	59356	0	0
+19112	6458	0	60143	1	0	0	0	0	0	"Trollwerk"	0	0	0	0	3	0	0	0	0	0	0	0	0
+19150	811	41	65455	0	0	0	0	0	0	"Flask of Battle"	0	0	0	0	3	0	0	0	0	0	0	0	0
+19157	923	41	58092	0	0	0	0	0	0	"Elixir of the Cobra"	0	0	0	0	3	0	0	0	0	0	0	0	0
 86	41	8	37	1	0	0	0	0	0	"Fo\' Grizzle My Shizzle"	0	0	0	0	4	0	0	0	0	0	0	0	0
 97	46	8	45	1	0	0	0	0	0	"Northrend"	0	0	0	0	4	0	0	0	0	0	0	0	0
 192	477	0	23980	1	0	0	0	0	0	"Ingvar the Plunderer"	0	0	0	0	4	0	0	0	0	0	0	0	0
@@ -4937,11 +4971,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4225	328	80	0	0	0	0	0	0	0	"Money from auctions"	32	0	0	0	4	0	0	0	0	0	0	0	0
 4258	638	27	2204	1	0	0	0	0	0	"Restoring the Necklace"	2	0	0	0	4	0	0	0	0	0	0	0	0
 4269	684	27	8620	1	0	0	0	0	0	"The Only Prescription"	2	0	0	0	4	0	0	0	0	0	0	0	0
-4291	345	41	4596	0	0	0	0	0	0	"Discolored Healing Potion"	0	0	0	0	4	0	0	0	0	0	0	0	0
-4313	922	41	32902	0	0	0	0	0	0	"Bottled Nethergon Energy"	0	0	0	0	4	0	0	0	0	0	0	0	0
-4339	923	41	20081	0	0	0	0	0	0	"Swiftness of Zanza"	0	0	0	0	4	0	0	0	0	0	0	0	0
+4290	345	41	33934	0	0	0	0	0	0	"Crystal Healing Potion"	0	0	0	0	4	0	0	0	0	0	0	0	0
+4312	922	41	22832	0	0	0	0	0	0	"Super Mana Potion"	0	0	0	0	4	0	0	0	0	0	0	0	0
 4409	635	27	6522	1	0	0	0	0	0	"An Unholy Alliance"	2	0	0	0	4	0	0	0	0	0	0	0	0
-4413	811	41	13511	0	0	0	0	0	0	"Flask of Distilled Wisdom"	0	0	0	0	4	0	0	0	0	0	0	0	0
 4442	643	27	5089	1	0	0	0	0	0	" General Drakkisath\'s Command "	2	0	0	0	4	0	0	0	0	0	0	0	0
 4445	1307	27	6502	1	0	0	0	0	0	"Drakefire Amulet"	2	0	0	0	4	0	0	0	0	0	0	0	0
 4449	685	27	8730	1	0	0	0	0	0	"Nefarius\'s Corruption"	2	0	0	0	4	0	0	0	0	0	0	0	0
@@ -5405,6 +5437,12 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18648	6029	27	29446	1	0	0	0	0	0	"Ornate Weapon"	0	0	0	0	4	0	0	0	0	0	0	0	0
 18656	6169	8	6175	1	0	0	0	0	0	"Holding Hands"	0	0	0	0	4	0	0	0	0	0	0	0	0
 18661	6180	28	111533	1	0	0	0	0	0	"Ysera Assaulted First"	0	0	0	0	4	6260	1	0	0	0	0	0	0
+18823	6301	27	30078	1	0	0	0	0	0	"The Stormstout Brewery"	0	0	0	0	4	0	0	0	0	0	0	0	0
+18940	6349	49	4	1	0	0	0	0	0	"Chest"	0	0	0	0	4	0	0	3	14	0	476	4	0
+18955	6348	49	4	1	0	0	0	0	0	"Chest"	0	0	0	0	4	0	0	3	14	0	463	3	0
+19113	6458	0	60701	1	0	0	0	0	0	"Four Kings"	0	0	0	0	4	0	0	0	0	0	0	0	0
+19151	811	41	58087	0	0	0	0	0	0	"Flask of the Winds"	0	0	0	0	4	0	0	0	0	0	0	0	0
+19158	923	41	58094	0	0	0	0	0	0	"Elixir of Impossible Accuracy"	0	0	0	0	4	0	0	0	0	0	0	0	0
 83	41	8	34	1	0	0	0	0	0	"I\'ve Toured the Fjord"	0	0	0	0	5	0	0	0	0	0	0	0	0
 387	576	8	572	0	0	0	0	0	0	"Sapphiron\'s Demise"	0	0	0	0	5	0	0	0	0	0	0	0	0
 393	577	8	573	0	0	0	0	0	0	"Sapphiron\'s Demise"	0	0	0	0	5	0	0	0	0	0	0	0	0
@@ -5539,10 +5577,8 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4196	1267	43	1534	0	0	0	0	0	0	"Altar of Rhunok"	0	0	0	0	5	0	0	0	0	0	0	0	0
 4210	1268	43	1548	0	0	0	0	0	0	"Makers\' Perch"	0	0	0	0	5	0	0	0	0	0	0	0	0
 4270	684	27	7509	1	0	0	0	0	0	"The Forging of Quel\'Serrar"	2	0	0	0	5	0	0	0	0	0	0	0	0
-4292	345	41	31676	0	0	0	0	0	0	"Fel Regeneration Potion"	0	0	0	0	5	0	0	0	0	0	0	0	0
-4314	922	41	33935	0	0	0	0	0	0	"Crystal Mana Potion"	0	0	0	0	5	0	0	0	0	0	0	0	0
-4340	923	41	28103	0	0	0	0	0	0	"Adept\'s Elixir"	0	0	0	0	5	0	0	0	0	0	0	0	0
-4415	811	41	22851	0	0	0	0	0	0	"Flask of Fortification"	0	0	0	0	5	0	0	0	0	0	0	0	0
+4291	345	41	4596	0	0	0	0	0	0	"Discolored Healing Potion"	0	0	0	0	5	0	0	0	0	0	0	0	0
+4313	922	41	32902	0	0	0	0	0	0	"Bottled Nethergon Energy"	0	0	0	0	5	0	0	0	0	0	0	0	0
 4446	643	27	4742	1	0	0	0	0	0	"Seal of Ascension"	2	0	0	0	5	0	0	0	0	0	0	0	0
 4454	687	27	8666	1	0	0	0	0	0	"Genesis Vest"	2	0	0	0	5	0	0	0	0	0	0	0	0
 4478	657	27	9525	1	0	0	0	0	0	"Imprisoned in the Citadel"	2	0	0	0	5	0	0	0	0	0	0	0	0
@@ -5928,6 +5964,13 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18484	6123	0	55294	1	0	0	0	0	0	"Ultraxion"	0	0	0	0	5	0	0	61	0	0	0	0	0
 18586	6169	8	6084	1	0	0	0	0	0	"Minutes to Midnight"	0	0	0	0	5	0	0	0	0	0	0	0	0
 18650	6029	27	29456	1	0	0	0	0	0	"Banner of the Fallen"	0	0	0	0	5	0	0	0	0	0	0	0	0
+18824	6301	27	30090	1	0	0	0	0	0	"Zhu\'s Bastion"	0	0	0	0	5	0	0	0	0	0	0	0	0
+18941	6349	49	5	1	0	0	0	0	0	"Waist"	0	0	0	0	5	0	0	3	14	0	476	4	0
+18956	6348	49	5	1	0	0	0	0	0	"Waist"	0	0	0	0	5	0	0	3	14	0	463	3	0
+18971	381	35	0	0	0	0	0	0	0	"Molten Front"	0	0	0	0	5	0	0	32	0	0	861	0	0
+19114	6458	0	60410	1	0	0	0	0	0	"Celestial Serpent"	0	0	0	0	5	0	0	0	0	0	0	0	0
+19152	811	41	58088	0	0	0	0	0	0	"Flask of Titanic Strength"	0	0	0	0	5	0	0	0	0	0	0	0	0
+19159	923	41	58148	0	0	0	0	0	0	"Elixir of the Master"	0	0	0	0	5	0	0	0	0	0	0	0	0
 88	41	8	39	1	0	0	0	0	0	"Into the Basin"	0	0	0	0	6	0	0	0	0	0	0	0	0
 388	576	8	574	0	0	0	0	0	0	"Kel\'Thuzad\'s Defeat"	0	0	0	0	6	0	0	0	0	0	0	0	0
 394	577	8	575	0	0	0	0	0	0	"Kel\'Thuzad\'s Defeat"	0	0	0	0	6	0	0	0	0	0	0	0	0
@@ -6053,10 +6096,8 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4197	1267	43	1535	0	0	0	0	0	0	"Altar of Quetz\'lun"	0	0	0	0	6	0	0	0	0	0	0	0	0
 4211	1268	43	1549	0	0	0	0	0	0	"The Suntouched Pillar"	0	0	0	0	6	0	0	0	0	0	0	0	0
 4271	684	36	17966	1	0	0	0	0	0	"Onyxia Hide Backpack"	2	0	0	0	6	0	0	0	0	0	0	0	0
-4293	345	41	1710	0	0	0	0	0	0	"Greater Healing Potion"	0	0	0	0	6	0	0	0	0	0	0	0	0
-4315	922	41	12190	0	0	0	0	0	0	"Dreamless Sleep Potion"	0	0	0	0	6	0	0	0	0	0	0	0	0
-4341	923	41	9155	0	0	0	0	0	0	"Arcane Elixir"	0	0	0	0	6	0	0	0	0	0	0	0	0
-4416	811	41	22853	0	0	0	0	0	0	"Flask of Mighty Restoration"	0	0	0	0	6	0	0	0	0	0	0	0	0
+4292	345	41	31676	0	0	0	0	0	0	"Fel Regeneration Potion"	0	0	0	0	6	0	0	0	0	0	0	0	0
+4314	922	41	33935	0	0	0	0	0	0	"Crystal Mana Potion"	0	0	0	0	6	0	0	0	0	0	0	0	0
 4455	687	27	8622	1	0	0	0	0	0	"Stormcaller\'s Hauberk"	2	0	0	0	6	0	0	0	0	0	0	0	0
 4479	657	27	10884	1	0	0	0	0	0	"Trial of the Naaru: Mercy"	2	0	0	0	6	0	0	0	0	0	0	0	0
 4509	1311	0	18689	1	0	0	0	0	0	"Crippler"	0	0	0	0	6	0	0	0	0	0	0	0	0
@@ -6362,7 +6403,14 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18396	963	27	28993	1	0	0	0	0	0	"Desolace, Karnum\'s Glade"	0	0	0	0	6	0	0	0	0	0	0	0	0
 18485	6123	0	56427	1	0	0	0	0	0	"Warmaster Blackhorn"	0	0	0	0	6	0	0	61	0	0	0	0	0
 18587	6169	8	6105	1	0	0	0	0	0	"Deck Defender"	0	0	0	0	6	0	0	0	0	0	0	0	0
+18829	6301	27	30273	1	0	0	0	0	0	"The Crane Temple"	0	0	0	0	6	0	0	0	0	0	0	0	0
 18843	2091	74	0	1	0	0	0	0	0	"Ruthless Gladiator"	2	0	0	0	6	0	0	38	0	0	192	0	0
+18942	6349	49	6	1	0	0	0	0	0	"Legs"	0	0	0	0	6	0	0	3	14	0	476	4	0
+18957	6348	49	6	1	0	0	0	0	0	"Legs"	0	0	0	0	6	0	0	3	14	0	463	3	0
+18972	381	35	0	0	0	0	0	0	0	"Pandaria"	0	0	0	0	6	0	0	32	0	0	870	0	0
+19115	6458	0	60399	1	0	0	0	0	0	"Terracotta Army"	0	0	0	0	6	0	0	0	0	0	0	0	0
+19153	811	41	58086	0	0	0	0	0	0	"Flask of the Draconic Mind"	0	0	0	0	6	0	0	0	0	0	0	0	0
+19160	923	41	58144	0	0	0	0	0	0	"Elixir of the Mighty Speed"	0	0	0	0	6	0	0	0	0	0	0	0	0
 87	41	8	38	1	0	0	0	0	0	"The Summit of Storm Peaks"	0	0	0	0	7	0	0	0	0	0	0	0	0
 505	627	43	113	1	0	0	0	0	0	"Kharanos"	0	0	0	0	7	0	0	0	0	0	0	0	0
 656	705	7	229	400	0	0	0	0	0	"Polearms"	0	0	0	0	7	0	0	0	0	0	0	0	0
@@ -6475,10 +6523,8 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4198	1267	43	1536	0	0	0	0	0	0	"Altar of Mam\'toth"	0	0	0	0	7	0	0	0	0	0	0	0	0
 4212	1268	43	1550	0	0	0	0	0	0	"Rainspeaker Canopy"	0	0	0	0	7	0	0	0	0	0	0	0	0
 4272	684	36	17067	1	0	0	0	0	0	"Ancient Cornerstone Grimoire"	2	0	0	0	7	0	0	0	0	0	0	0	0
-4294	345	41	929	0	0	0	0	0	0	"Healing Potion"	0	0	0	0	7	0	0	0	0	0	0	0	0
-4316	922	41	20002	0	0	0	0	0	0	"Greater Dreamless Sleep Potion"	0	0	0	0	7	0	0	0	0	0	0	0	0
-4342	923	41	34537	0	0	0	0	0	0	"Bloodberry Elixir"	0	0	0	0	7	0	0	0	0	0	0	0	0
-4414	811	41	40084	0	0	0	0	0	0	"Flask of Endless Rage"	0	0	0	0	7	0	0	0	0	0	0	0	0
+4293	345	41	1710	0	0	0	0	0	0	"Greater Healing Potion"	0	0	0	0	7	0	0	0	0	0	0	0	0
+4315	922	41	12190	0	0	0	0	0	0	"Dreamless Sleep Potion"	0	0	0	0	7	0	0	0	0	0	0	0	0
 4453	687	27	8627	1	0	0	0	0	0	"Avenger\'s Breastplate"	2	0	0	0	7	0	0	0	0	0	0	0	0
 4510	1311	0	18686	1	0	0	0	0	0	"Doomsayer Jurim"	0	0	0	0	7	0	0	0	0	0	0	0	0
 4546	686	36	18814	1	0	0	0	0	0	"Choker of the Fire Lord"	2	0	0	0	7	0	0	0	0	0	0	0	0
@@ -6710,7 +6756,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 16476	5689	40	755	1	0	0	0	0	0	""	2	0	0	0	7	0	0	2	0	0	11870	0	0
 16487	5690	40	755	1	0	0	0	0	0	""	2	0	0	0	7	0	0	2	0	0	11871	0	0
 16510	839	15	726	0	0	0	0	0	0	"Isle of Conquest"	0	0	0	0	7	0	0	0	0	0	0	0	0
-16512	840	1	726	0	0	0	0	0	0	"Isle of Conquest"	0	0	0	0	7	0	0	0	0	0	0	0	0
+16512	840	1	726	0	0	0	0	0	0	"Twin Peaks"	0	0	0	0	7	0	0	0	0	0	0	0	0
 16526	5694	1	726	0	0	0	0	0	0	"Isle of Conquest"	0	0	0	0	7	0	0	63	0	0	0	0	0
 16557	4956	11	2557	5	0	0	0	0	0	""	2	0	0	0	7	0	0	0	0	0	0	0	0
 16614	4957	11	4196	20	0	0	0	0	0	""	2	0	0	0	7	0	0	0	0	0	0	0	0
@@ -6750,8 +6796,13 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18486	6123	28	104574	1	0	0	0	0	0	"Spine of Deathwing"	0	0	0	0	7	0	0	61	0	0	0	0	0
 18588	6169	8	6133	1	0	0	0	0	0	"Maybe He\'ll Get Dizzy..."	0	0	0	0	7	0	0	0	0	0	0	0	0
 18651	6029	27	29457	1	0	0	0	0	0	"Captured Insignia"	0	0	0	0	7	0	0	0	0	0	0	0	0
+18825	6301	27	30131	1	0	0	0	0	0	"New Taurajo"	0	0	0	0	7	0	0	0	0	0	0	0	0
 18844	2091	74	0	1	0	0	0	0	0	"Cataclysmic Gladiator"	2	0	0	0	7	0	0	38	0	0	193	0	0
 18845	2092	74	0	1	0	0	0	0	0	"Ruthless Gladiator"	2	0	0	0	7	0	0	38	0	0	192	0	0
+18943	6349	49	7	1	0	0	0	0	0	"Feet"	0	0	0	0	7	0	0	3	14	0	476	4	0
+18958	6348	49	7	1	0	0	0	0	0	"Feet"	0	0	0	0	7	0	0	3	14	0	463	3	0
+19154	811	41	58085	0	0	0	0	0	0	"Flask of Steelskin"	0	0	0	0	7	0	0	0	0	0	0	0	0
+19161	923	41	58143	0	0	0	0	0	0	"Prismatic Elixir"	0	0	0	0	7	0	0	0	0	0	0	0	0
 89	41	8	40	1	0	0	0	0	0	"Icecrown: The Final Goal"	0	0	0	0	8	0	0	0	0	0	0	0	0
 507	627	43	2629	1	0	0	0	0	0	"The Tundrid Hills"	0	0	0	0	8	0	0	0	0	0	0	0	0
 657	705	7	136	400	0	0	0	0	0	"Staves"	0	0	0	0	8	0	0	0	0	0	0	0	0
@@ -6858,9 +6909,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4199	1267	43	1537	0	0	0	0	0	0	"Altar of Har\'koa"	0	0	0	0	8	0	0	0	0	0	0	0	0
 4213	1268	43	1551	0	0	0	0	0	0	"The Lifeblood Pillar"	0	0	0	0	8	0	0	0	0	0	0	0	0
 4282	684	36	17068	1	0	0	0	0	0	"Deathbringer"	2	0	0	0	8	0	0	0	0	0	0	0	0
-4295	345	41	858	0	0	0	0	0	0	"Lesser Healing Potion"	0	0	0	0	8	0	0	0	0	0	0	0	0
-4317	922	41	22836	0	0	0	0	0	0	"Major Dreamless Sleep Potion"	0	0	0	0	8	0	0	0	0	0	0	0	0
-4343	923	41	10592	0	0	0	0	0	0	"Catseye Elixir"	0	0	0	0	8	0	0	0	0	0	0	0	0
+4294	345	41	929	0	0	0	0	0	0	"Healing Potion"	0	0	0	0	8	0	0	0	0	0	0	0	0
+4316	922	41	20002	0	0	0	0	0	0	"Greater Dreamless Sleep Potion"	0	0	0	0	8	0	0	0	0	0	0	0	0
+4411	811	41	13513	0	0	0	0	0	0	"Flask of Chromatic Resistance"	0	0	0	0	8	0	0	0	0	0	0	0	0
 4456	687	27	8661	1	0	0	0	0	0	"Doomcaller\'s Robes"	2	0	0	0	8	0	0	0	0	0	0	0	0
 4511	1311	0	18698	1	0	0	0	0	0	"Ever-Core the Punisher"	0	0	0	0	8	0	0	0	0	0	0	0	0
 4547	686	36	18815	1	0	0	0	0	0	"Essence of the Pure Flame"	2	0	0	0	8	0	0	0	0	0	0	0	0
@@ -6975,7 +7026,6 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 12884	1695	27	24666	1	0	0	0	0	0	""	2	0	0	0	8	0	0	0	0	0	0	0	0
 12920	4602	8	4537	0	0	0	0	0	0	"I\'ve Gone and Made a Mess"	0	0	0	0	8	0	0	0	0	0	0	0	0
 13019	4603	8	4613	0	0	0	0	0	0	"I\'ve Gone and Made a Mess"	0	0	0	0	8	0	0	0	0	0	0	0	0
-13248	811	41	46377	0	0	0	0	0	0	"Flask of Endless Rage"	0	0	0	0	8	0	0	0	0	0	0	0	0
 13365	1526	27	13834	0	0	0	0	0	0	"Dangerously Delicious"	0	0	0	0	8	0	0	0	0	0	0	0	0
 13403	4788	36	29123	1	0	0	0	0	0	""	0	0	0	0	8	0	0	0	0	0	0	0	0
 13416	4789	36	29126	1	0	0	0	0	0	""	0	0	0	0	8	0	0	0	0	0	0	0	0
@@ -7099,8 +7149,12 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18487	6123	28	111533	1	0	0	0	0	0	"Madness of Deathwing"	0	0	0	0	8	0	0	61	0	0	0	0	0
 18645	6029	27	29443	1	0	0	0	0	0	"Imbued Crystal"	0	0	0	0	8	0	0	0	0	0	0	0	0
 18657	6169	8	6180	1	0	0	0	0	0	"Chromatic Champion"	0	0	0	0	8	0	0	0	0	0	0	0	0
+18830	6301	27	30174	1	0	0	0	0	0	"Farwalker Refuge"	0	0	0	0	8	0	0	0	0	0	0	0	0
 18846	2092	74	0	1	0	0	0	0	0	"Cataclysmic Gladiator"	2	0	0	0	8	0	0	38	0	0	193	0	0
 18847	2093	74	0	1	0	0	0	0	0	"Ruthless Gladiator"	2	0	0	0	8	0	0	38	0	0	192	0	0
+18944	6349	49	8	1	0	0	0	0	0	"Wrist"	0	0	0	0	8	0	0	3	14	0	476	4	0
+18959	6348	49	8	1	0	0	0	0	0	"Wrist"	0	0	0	0	8	0	0	3	14	0	463	3	0
+19162	923	41	58084	0	0	0	0	0	0	"Ghost Elixir"	0	0	0	0	8	0	0	0	0	0	0	0	0
 508	627	43	109	1	0	0	0	0	0	"Amberstill Ranch"	0	0	0	0	9	0	0	0	0	0	0	0	0
 753	705	7	43	400	0	0	0	0	0	"Swords"	0	0	0	0	9	0	0	0	0	0	0	0	0
 767	700	36	18850	1	0	0	0	0	0	"Insignia of the Horde"	2	0	0	0	9	0	0	0	0	0	0	0	0
@@ -7198,10 +7252,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4200	1267	43	1538	0	0	0	0	0	0	"Zim\'Torga"	0	0	0	0	9	0	0	0	0	0	0	0	0
 4214	1268	43	1552	0	0	0	0	0	0	"The Avalanche"	0	0	0	0	9	0	0	0	0	0	0	0	0
 4283	684	36	17075	1	0	0	0	0	0	"Vis\'kag the Bloodletter"	2	0	0	0	9	0	0	0	0	0	0	0	0
-4296	345	41	17348	0	0	0	0	0	0	"Major healing Draught"	0	0	0	0	9	0	0	0	0	0	0	0	0
-4321	922	41	31677	0	0	0	0	0	0	"Fel Mana Potion"	0	0	0	0	9	0	0	0	0	0	0	0	0
-4344	923	41	8423	0	0	0	0	0	0	"Cerebral Cortex Compound"	0	0	0	0	9	0	0	0	0	0	0	0	0
-4417	811	41	13506	0	0	0	0	0	0	"Flask of Petrification"	0	0	0	0	9	0	0	0	0	0	0	0	0
+4295	345	41	858	0	0	0	0	0	0	"Lesser Healing Potion"	0	0	0	0	9	0	0	0	0	0	0	0	0
+4317	922	41	22836	0	0	0	0	0	0	"Major Dreamless Sleep Potion"	0	0	0	0	9	0	0	0	0	0	0	0	0
+4412	811	41	33208	0	0	0	0	0	0	"Flask of Chromatic Wonder"	0	0	0	0	9	0	0	0	0	0	0	0	0
 4457	687	27	8633	1	0	0	0	0	0	"Enigma Robes"	2	0	0	0	9	0	0	0	0	0	0	0	0
 4512	1311	0	18678	1	0	0	0	0	0	"Fulgorge"	0	0	0	0	9	0	0	0	0	0	0	0	0
 4548	686	36	18816	1	0	0	0	0	0	"Perdition\'s Blade"	2	0	0	0	9	0	0	0	0	0	0	0	0
@@ -7395,8 +7448,12 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18308	6032	27	29514	1	0	0	0	0	0	"Herbalism"	0	0	0	0	9	0	0	0	0	0	0	0	0
 18578	6169	8	6110	1	0	0	0	0	0	"Heroic: Warlord Zon\'ozz"	0	0	0	0	9	0	0	0	0	0	0	0	0
 18646	6029	27	29444	1	0	0	0	0	0	"Monstrous Egg"	0	0	0	0	9	0	0	0	0	0	0	0	0
+18827	6301	27	29990	1	0	0	0	0	0	"The Hidden Master"	0	0	0	0	9	0	0	0	0	0	0	0	0
 18842	2090	74	0	1	0	0	0	0	0	"Ruthless Gladiator"	2	0	0	0	9	0	0	38	0	0	192	0	0
 18848	2093	74	0	1	0	0	0	0	0	"Cataclysmic Gladiator"	2	0	0	0	9	0	0	38	0	0	193	0	0
+18945	6349	49	9	1	0	0	0	0	0	"Hands"	0	0	0	0	9	0	0	3	14	0	476	4	0
+18960	6348	49	9	1	0	0	0	0	0	"Hands"	0	0	0	0	9	0	0	3	14	0	463	3	0
+19163	923	41	58089	0	0	0	0	0	0	"Elixir of the Naga"	0	0	0	0	9	0	0	0	0	0	0	0	0
 509	627	43	108	1	0	0	0	0	0	"Helm\'s Bed Lake"	0	0	0	0	10	0	0	0	0	0	0	0	0
 754	705	7	172	400	0	0	0	0	0	"Two-Handed Axes"	0	0	0	0	10	0	0	0	0	0	0	0	0
 768	700	36	28239	1	0	0	0	0	0	"Medallion of the Horde"	2	0	0	0	10	0	0	0	0	0	0	0	0
@@ -7492,9 +7549,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4201	1267	43	1539	0	0	0	0	0	0	"Zeramas"	0	0	0	0	10	0	0	0	0	0	0	0	0
 4215	1268	43	1553	0	0	0	0	0	0	"The Glimmering Pillar"	0	0	0	0	10	0	0	0	0	0	0	0	0
 4284	684	36	18813	1	0	0	0	0	0	"Ring of Binding"	2	0	0	0	10	0	0	0	0	0	0	0	0
-4297	345	41	13446	0	0	0	0	0	0	"Major Healing Potion"	0	0	0	0	10	0	0	0	0	0	0	0	0
-4322	922	41	6149	0	0	0	0	0	0	"Greater Mana Potion"	0	0	0	0	10	0	0	0	0	0	0	0	0
-4345	923	41	32063	0	0	0	0	0	0	"Earthen Elixir"	0	0	0	0	10	0	0	0	0	0	0	0	0
+4296	345	41	17348	0	0	0	0	0	0	"Major healing Draught"	0	0	0	0	10	0	0	0	0	0	0	0	0
+4321	922	41	31677	0	0	0	0	0	0	"Fel Mana Potion"	0	0	0	0	10	0	0	0	0	0	0	0	0
+4413	811	41	13511	0	0	0	0	0	0	"Flask of Distilled Wisdom"	0	0	0	0	10	0	0	0	0	0	0	0	0
 4458	687	27	8603	1	0	0	0	0	0	"Vestments of the Oracle"	2	0	0	0	10	0	0	0	0	0	0	0	0
 4513	1311	0	17144	1	0	0	0	0	0	"Goretooth"	0	0	0	0	10	0	0	0	0	0	0	0	0
 4549	686	36	18817	1	0	0	0	0	0	"Crown of Destruction"	2	0	0	0	10	0	0	0	0	0	0	0	0
@@ -7561,6 +7618,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 7822	323	20	30549	0	0	0	0	0	0	"Baron Rivendare"	0	0	0	0	10	0	0	20	0	0	0	0	0
 7842	324	20	16065	0	0	0	0	0	0	"Lady Blaymeux"	0	0	0	0	10	0	0	20	0	0	1	0	0
 8109	2256	0	32400	1	0	0	0	0	0	"Tukemuth"	0	0	0	0	10	0	0	0	0	0	0	0	0
+8648	923	41	3388	0	0	0	0	0	0	"Strong Troll\'s Blood Elixir"	0	0	0	0	10	0	0	0	0	0	0	0	0
 8762	801	29	27240	0	0	0	0	0	0	"Use Soulstone"	0	0	0	0	10	0	0	0	0	0	0	0	0
 8991	346	41	18269	0	0	0	0	0	0	"Gordok Green Grog"	2	0	0	0	10	0	0	0	0	0	0	0	0
 9150	2422	110	61815	1	0	0	0	0	0	"Troll"	0	0	0	0	10	0	0	27	55	55	8	8128	8127
@@ -7584,7 +7642,6 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 12886	1695	27	24645	1	0	0	0	0	0	""	2	0	0	0	10	0	0	0	0	0	0	0	0
 12922	4602	8	4577	0	0	0	0	0	0	"Flu Shot Shortage"	0	0	0	0	10	0	0	0	0	0	0	0	0
 13021	4603	8	4615	0	0	0	0	0	0	"Flu Shot Shortage"	0	0	0	0	10	0	0	0	0	0	0	0	0
-13249	811	41	46378	0	0	0	0	0	0	"Flask of Pure Mojo"	0	0	0	0	10	0	0	0	0	0	0	0	0
 13367	1526	27	13833	0	0	0	0	0	0	"Blood is Thicker"	0	0	0	0	10	0	0	0	0	0	0	0	0
 13405	4788	36	28886	1	0	0	0	0	0	""	0	0	0	0	10	0	0	0	0	0	0	0	0
 13418	4789	36	28911	1	0	0	0	0	0	""	0	0	0	0	10	0	0	0	0	0	0	0	0
@@ -7670,7 +7727,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18309	6032	27	29515	1	0	0	0	0	0	"Inscription"	0	0	0	0	10	0	0	0	0	0	0	0	0
 18395	3559	110	61781	1	0	0	0	0	0	"Worgen Rogue"	0	0	0	0	10	0	0	27	28	0	22	4	0
 18589	6169	8	6109	1	0	0	0	0	0	"Heroic: Morchok"	0	0	0	0	10	0	0	0	0	0	0	0	0
+18826	6301	27	30186	1	0	0	0	0	0	"Nesingwary\'s Safari"	0	0	0	0	10	0	0	0	0	0	0	0	0
 18849	2090	74	0	1	0	0	0	0	0	"Cataclysmic Gladiator"	2	0	0	0	10	0	0	38	0	0	193	0	0
+18946	6349	49	10	1	0	0	0	0	0	"Left Ring"	0	0	0	0	10	0	0	3	14	0	476	4	0
+18961	6348	49	10	1	0	0	0	0	0	"Left Ring"	0	0	0	0	10	0	0	3	14	0	463	3	0
 510	627	43	107	1	0	0	0	0	0	"Gol\'Bolar Quarry"	0	0	0	0	11	0	0	0	0	0	0	0	0
 755	705	7	55	400	0	0	0	0	0	"Two-Handed Swords"	0	0	0	0	11	0	0	0	0	0	0	0	0
 769	700	36	38588	1	0	0	0	0	0	"Medallion of the Horde"	2	0	0	0	11	0	0	0	0	0	0	0	0
@@ -7755,9 +7815,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4202	1267	43	1540	0	0	0	0	0	0	"Voltarus"	0	0	0	0	11	0	0	0	0	0	0	0	0
 4217	1268	43	1555	0	0	0	0	0	0	"Kartak\'s Hold"	0	0	0	0	11	0	0	0	0	0	0	0	0
 4285	684	36	17078	1	0	0	0	0	0	"Sapphiron Drape"	2	0	0	0	11	0	0	0	0	0	0	0	0
-4298	345	41	18253	0	0	0	0	0	0	"Major Rejuvenation Potion"	0	0	0	0	11	0	0	0	0	0	0	0	0
-4323	922	41	3385	0	0	0	0	0	0	"Lesser Mana Potion"	0	0	0	0	11	0	0	0	0	0	0	0	0
-4346	923	41	8949	0	0	0	0	0	0	"Elixir of Agility"	0	0	0	0	11	0	0	0	0	0	0	0	0
+4297	345	41	13446	0	0	0	0	0	0	"Major Healing Potion"	0	0	0	0	11	0	0	0	0	0	0	0	0
+4322	922	41	6149	0	0	0	0	0	0	"Greater Mana Potion"	0	0	0	0	11	0	0	0	0	0	0	0	0
+4338	923	41	20079	0	0	0	0	0	0	"Spirit of Zanza"	0	0	0	0	11	0	0	0	0	0	0	0	0
+4415	811	41	22851	0	0	0	0	0	0	"Flask of Fortification"	0	0	0	0	11	0	0	0	0	0	0	0	0
 4459	687	27	8801	1	0	0	0	0	0	"C\'Thun\'s Legacy"	2	0	0	0	11	0	0	0	0	0	0	0	0
 4514	1311	0	18692	1	0	0	0	0	0	"Hemathion"	0	0	0	0	11	0	0	0	0	0	0	0	0
 4550	686	36	16922	1	0	0	0	0	0	"Leggings of Transcendence"	2	0	0	0	11	0	0	0	0	0	0	0	0
@@ -7839,7 +7900,6 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 12887	1695	27	24647	1	0	0	0	0	0	""	2	0	0	0	11	0	0	0	0	0	0	0	0
 12923	4602	8	4578	0	0	0	0	0	0	"Nausea, Heartburn, Indigestion..."	0	0	0	0	11	0	0	0	0	0	0	0	0
 13022	4603	8	4616	0	0	0	0	0	0	"Nausea, Heartburn, Indigestion..."	0	0	0	0	11	0	0	0	0	0	0	0	0
-13250	811	41	46379	0	0	0	0	0	0	"Flask of Stoneblood"	0	0	0	0	11	0	0	0	0	0	0	0	0
 13406	4788	36	28887	1	0	0	0	0	0	""	0	0	0	0	11	0	0	0	0	0	0	0	0
 13419	4789	36	28912	1	0	0	0	0	0	""	0	0	0	0	11	0	0	0	0	0	0	0	0
 13691	116	7	197	150	0	0	0	0	0	"Tailoring"	2	0	0	0	11	0	0	0	0	0	0	0	0
@@ -7908,6 +7968,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18310	6032	27	29516	1	0	0	0	0	0	"Jewelcrafting"	0	0	0	0	11	0	0	0	0	0	0	0	0
 18398	963	27	28995	1	0	0	0	0	0	"Felwood - Talonbranch Glade"	0	0	0	0	11	0	0	0	0	0	0	0	0
 18579	6169	8	6111	1	0	0	0	0	0	"Heroic: Yor\'sahj the Unsleeping"	0	0	0	0	11	0	0	0	0	0	0	0	0
+18831	6301	27	30117	1	0	0	0	0	0	"The Salvation of Stoneplow"	0	0	0	0	11	0	0	0	0	0	0	0	0
+18947	6349	49	11	1	0	0	0	0	0	"Right Ring"	0	0	0	0	11	0	0	3	14	0	476	4	0
+18962	6348	49	11	1	0	0	0	0	0	"Right Ring"	0	0	0	0	11	0	0	3	14	0	463	3	0
 511	627	43	2630	1	0	0	0	0	0	"North Gate Outpost"	0	0	0	0	12	0	0	0	0	0	0	0	0
 770	700	36	37865	1	0	0	0	0	0	"Medallion of the Horde"	2	0	0	0	12	0	0	0	0	0	0	0	0
 790	701	36	28236	1	0	0	0	0	0	"Medallion of the Alliance"	2	0	0	0	12	0	0	0	0	0	0	0	0
@@ -7986,10 +8049,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4203	1267	43	1541	0	0	0	0	0	0	"Thrym\'s End"	0	0	0	0	12	0	0	0	0	0	0	0	0
 4218	1268	43	1556	0	0	0	0	0	0	"The Stormwright\'s Shelf"	0	0	0	0	12	0	0	0	0	0	0	0	0
 4286	684	36	18205	1	0	0	0	0	0	"Eskhandar\'s Collar"	2	0	0	0	12	0	0	0	0	0	0	0	0
-4299	345	41	118	0	0	0	0	0	0	"Minor Healing Potion"	0	0	0	0	12	0	0	0	0	0	0	0	0
-4324	922	41	34440	0	0	0	0	0	0	"Mad Alchemist\'s Potion"	0	0	0	0	12	0	0	0	0	0	0	0	0
-4347	923	41	13453	0	0	0	0	0	0	"Elixir of Brute Force"	0	0	0	0	12	0	0	0	0	0	0	0	0
-4418	811	41	22866	0	0	0	0	0	0	"Flask of Pure Death"	0	0	0	0	12	0	0	0	0	0	0	0	0
+4298	345	41	18253	0	0	0	0	0	0	"Major Rejuvenation Potion"	0	0	0	0	12	0	0	0	0	0	0	0	0
+4323	922	41	3385	0	0	0	0	0	0	"Lesser Mana Potion"	0	0	0	0	12	0	0	0	0	0	0	0	0
+4339	923	41	20081	0	0	0	0	0	0	"Swiftness of Zanza"	0	0	0	0	12	0	0	0	0	0	0	0	0
+4416	811	41	22853	0	0	0	0	0	0	"Flask of Mighty Restoration"	0	0	0	0	12	0	0	0	0	0	0	0	0
 4460	687	27	9251	1	0	0	0	0	0	"Atiesh, the Befouled Greatstaff"	2	0	0	0	12	0	0	0	0	0	0	0	0
 4515	1311	0	18696	1	0	0	0	0	0	"Kraator"	0	0	0	0	12	0	0	0	0	0	0	0	0
 4551	686	36	16938	1	0	0	0	0	0	"Dragonstalker\'s Legguards"	2	0	0	0	12	0	0	0	0	0	0	0	0
@@ -8115,6 +8178,8 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18397	963	27	28994	1	0	0	0	0	0	"Felwood - Whisperwind Grove"	0	0	0	0	12	0	0	0	0	0	0	0	0
 18425	966	27	28970	1	0	0	0	0	0	"The Hinterlands, Stormfeather Outpost"	0	0	0	0	12	0	0	0	0	0	0	0	0
 18580	6169	8	6112	1	0	0	0	0	0	"Heroic: Hagara the Stormbinder"	0	0	0	0	12	0	0	0	0	0	0	0	0
+18948	6349	49	12	1	0	0	0	0	0	"First Trinket"	0	0	0	0	12	0	0	3	14	0	476	4	0
+18963	6348	49	12	1	0	0	0	0	0	"First Trinket"	0	0	0	0	12	0	0	3	14	0	463	3	0
 512	627	43	104	1	0	0	0	0	0	"Frostmane Hold"	0	0	0	0	13	0	0	0	0	0	0	0	0
 756	705	7	162	400	0	0	0	0	0	"Unarmed"	0	0	0	0	13	0	0	0	0	0	0	0	0
 771	700	36	30346	1	0	0	0	0	0	"Medallion of the Horde"	2	0	0	0	13	0	0	0	0	0	0	0	0
@@ -8175,10 +8240,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4190	1266	43	1482	0	0	0	0	0	0	"Camp Oneqwah"	0	0	0	0	13	0	0	0	0	0	0	0	0
 4204	1267	43	1542	0	0	0	0	0	0	"Light\'s Breach"	0	0	0	0	13	0	0	0	0	0	0	0	0
 4287	684	36	17064	1	0	0	0	0	0	"Shard of the Scale"	2	0	0	0	13	0	0	0	0	0	0	0	0
-4300	345	41	2456	0	0	0	0	0	0	"Minor Rejuvenation Potion"	0	0	0	0	13	0	0	0	0	0	0	0	0
-4326	922	41	17351	0	0	0	0	0	0	"Major Mana Draught"	0	0	0	0	13	0	0	0	0	0	0	0	0
-4348	923	41	22823	0	0	0	0	0	0	"Elixir of Camouflage"	0	0	0	0	13	0	0	0	0	0	0	0	0
-4419	811	41	40404	0	0	0	0	0	0	"Flask of Pure Mojo"	0	0	0	0	13	0	0	0	0	0	0	0	0
+4299	345	41	118	0	0	0	0	0	0	"Minor Healing Potion"	0	0	0	0	13	0	0	0	0	0	0	0	0
+4324	922	41	34440	0	0	0	0	0	0	"Mad Alchemist\'s Potion"	0	0	0	0	13	0	0	0	0	0	0	0	0
+4340	923	41	28103	0	0	0	0	0	0	"Adept\'s Elixir"	0	0	0	0	13	0	0	0	0	0	0	0	0
+4414	811	41	40084	0	0	0	0	0	0	"Flask of Endless Rage"	0	0	0	0	13	0	0	0	0	0	0	0	0
 4516	1311	0	18680	1	0	0	0	0	0	"Marticar"	0	0	0	0	13	0	0	0	0	0	0	0	0
 4552	686	36	16954	1	0	0	0	0	0	"Judgement Legplates"	2	0	0	0	13	0	0	0	0	0	0	0	0
 4572	685	36	19379	1	0	0	0	0	0	"Neltharion\'s Tear"	2	0	0	0	13	0	0	0	0	0	0	0	0
@@ -8287,7 +8352,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18312	6032	27	29518	1	0	0	0	0	0	"Mining"	0	0	0	0	13	0	0	0	0	0	0	0	0
 18399	963	27	28952	1	0	0	0	0	0	"Feralas, Dreamer\'s Rest"	0	0	0	0	13	0	0	0	0	0	0	0	0
 18581	6169	8	6113	1	0	0	0	0	0	"Heroic: Ultraxion"	0	0	0	0	13	0	0	0	0	0	0	0	0
-515	627	43	114	1	0	0	0	0	0	"The Grizzled Den"	0	0	0	0	14	0	0	0	0	0	0	0	0
+18949	6349	49	13	1	0	0	0	0	0	"Second Trinket"	0	0	0	0	13	0	0	3	14	0	476	4	0
+18964	6348	49	13	1	0	0	0	0	0	"Second Trinket"	0	0	0	0	13	0	0	3	14	0	463	3	0
+517	627	43	2628	1	0	0	0	0	0	"Iceflow Lake"	0	0	0	0	14	0	0	0	0	0	0	0	0
 757	705	7	228	400	0	0	0	0	0	"Wands"	0	0	0	0	14	0	0	0	0	0	0	0	0
 772	700	36	30345	1	0	0	0	0	0	"Medallion of the Horde"	2	0	0	0	14	0	0	0	0	0	0	0	0
 792	701	36	30349	1	0	0	0	0	0	"Medallion of the Alliance"	2	0	0	0	14	0	0	0	0	0	0	0	0
@@ -8334,10 +8401,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4174	1265	43	1523	0	0	0	0	0	0	"Venomspite"	0	0	0	0	14	0	0	0	0	0	0	0	0
 4191	1266	43	1558	0	0	0	0	0	0	"Westfall Brigade Encampment"	0	0	0	0	14	0	0	0	0	0	0	0	0
 4205	1267	43	1543	0	0	0	0	0	0	"Kolramas"	0	0	0	0	14	0	0	0	0	0	0	0	0
-4301	345	41	32763	0	0	0	0	0	0	"Rulkster\'s Secret Sauce"	0	0	0	0	14	0	0	0	0	0	0	0	0
-4327	922	41	17352	0	0	0	0	0	0	"Superior Mana Draught"	0	0	0	0	14	0	0	0	0	0	0	0	0
-4349	923	41	3389	0	0	0	0	0	0	"Elixir of Defense"	0	0	0	0	14	0	0	0	0	0	0	0	0
-4420	811	41	22854	0	0	0	0	0	0	"Flask of Relentless Assault"	0	0	0	0	14	0	0	0	0	0	0	0	0
+4300	345	41	2456	0	0	0	0	0	0	"Minor Rejuvenation Potion"	0	0	0	0	14	0	0	0	0	0	0	0	0
+4326	922	41	17351	0	0	0	0	0	0	"Major Mana Draught"	0	0	0	0	14	0	0	0	0	0	0	0	0
+4341	923	41	9155	0	0	0	0	0	0	"Arcane Elixir"	0	0	0	0	14	0	0	0	0	0	0	0	0
 4517	1311	0	18677	1	0	0	0	0	0	"Mekthorg the Wild"	0	0	0	0	14	0	0	0	0	0	0	0	0
 4553	686	36	16962	1	0	0	0	0	0	"Legplates of Wrath"	2	0	0	0	14	0	0	0	0	0	0	0	0
 4573	685	36	19377	1	0	0	0	0	0	"Prestor\'s Talisman of Connivery"	2	0	0	0	14	0	0	0	0	0	0	0	0
@@ -8392,6 +8458,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 12899	1792	34	65381	0	0	0	0	0	0	"Curious Oracle Hatchling"	2	0	0	0	14	0	0	0	0	0	0	0	0
 12926	4602	8	4579	0	0	0	0	0	0	"Portal Jockey"	0	0	0	0	14	0	0	0	0	0	0	0	0
 13025	4603	8	4619	0	0	0	0	0	0	"Portal Jockey"	0	0	0	0	14	0	0	0	0	0	0	0	0
+13248	811	41	46377	0	0	0	0	0	0	"Flask of Endless Rage"	0	0	0	0	14	0	0	0	0	0	0	0	0
 13895	4950	8	5050	0	0	0	0	0	0	"Sunken Temple"	0	0	0	0	14	0	0	0	0	0	0	0	0
 14138	4825	43	2608	1	0	0	0	0	0	"Legion\'s Fate"	0	0	0	0	14	0	0	0	0	0	0	0	0
 14153	768	43	2588	1	0	0	0	0	0	"Scarlet Monastery Entrance"	0	0	0	0	14	0	0	0	0	0	0	0	0
@@ -8437,7 +8504,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18313	6032	27	29519	1	0	0	0	0	0	"Skinning"	0	0	0	0	14	0	0	0	0	0	0	0	0
 18422	966	27	28963	1	0	0	0	0	0	"Loch Modan, Farstrider Lodge"	0	0	0	0	14	0	0	0	0	0	0	0	0
 18582	6169	8	6114	1	0	0	0	0	0	"Heroic: Warmaster Blackhorn"	0	0	0	0	14	0	0	0	0	0	0	0	0
-517	627	43	2628	1	0	0	0	0	0	"Iceflow Lake"	0	0	0	0	15	0	0	0	0	0	0	0	0
+18950	6349	49	14	1	0	0	0	0	0	"Cloak"	0	0	0	0	14	0	0	3	14	0	476	4	0
+18965	6348	49	14	1	0	0	0	0	0	"Cloak"	0	0	0	0	14	0	0	3	14	0	463	3	0
+519	627	43	1041	1	0	0	0	0	0	"Gates of Ironforge"	0	0	0	0	15	0	0	0	0	0	0	0	0
 773	700	36	30344	1	0	0	0	0	0	"Medallion of the Horde"	2	0	0	0	15	0	0	0	0	0	0	0	0
 793	701	36	30351	1	0	0	0	0	0	"Medallion of the Alliance"	2	0	0	0	15	0	0	0	0	0	0	0	0
 975	761	43	575	1	0	0	0	0	0	"Circle of East Binding"	0	0	0	0	15	0	0	0	0	0	0	0	0
@@ -8479,10 +8548,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4038	1287	8	682	0	0	0	0	0	0	"Heroic Magister\'s Terrace"	0	0	0	0	15	0	0	0	0	0	0	0	0
 4151	1263	43	1515	0	0	0	0	0	0	"New Agamand"	0	0	0	0	15	0	0	0	0	0	0	0	0
 4175	1265	43	1525	0	0	0	0	0	0	"The Forgotten Shore"	0	0	0	0	15	0	0	0	0	0	0	0	0
-4302	345	41	22829	0	0	0	0	0	0	"Super Healing Potion"	0	0	0	0	15	0	0	0	0	0	0	0	0
-4328	922	41	13444	0	0	0	0	0	0	"Major Mana Potion"	0	0	0	0	15	0	0	0	0	0	0	0	0
-4350	923	41	9224	0	0	0	0	0	0	"Elixir of Demonslaying"	0	0	0	0	15	0	0	0	0	0	0	0	0
-4421	811	41	40083	0	0	0	0	0	0	"Flask of Stoneblood"	0	0	0	0	15	0	0	0	0	0	0	0	0
+4301	345	41	32763	0	0	0	0	0	0	"Rulkster\'s Secret Sauce"	0	0	0	0	15	0	0	0	0	0	0	0	0
+4327	922	41	17352	0	0	0	0	0	0	"Superior Mana Draught"	0	0	0	0	15	0	0	0	0	0	0	0	0
+4342	923	41	34537	0	0	0	0	0	0	"Bloodberry Elixir"	0	0	0	0	15	0	0	0	0	0	0	0	0
+4417	811	41	13506	0	0	0	0	0	0	"Flask of Petrification"	0	0	0	0	15	0	0	0	0	0	0	0	0
 4518	1311	0	18690	1	0	0	0	0	0	"Morcrush"	0	0	0	0	15	0	0	0	0	0	0	0	0
 4554	686	36	16946	1	0	0	0	0	0	"Legplates of Ten Storms"	2	0	0	0	15	0	0	0	0	0	0	0	0
 4574	685	36	19382	1	0	0	0	0	0	"Pure Elementium Band"	2	0	0	0	15	0	0	0	0	0	0	0	0
@@ -8569,7 +8638,8 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18370	6032	27	29520	1	0	0	0	0	0	"Tailoring"	0	0	0	0	15	0	0	0	0	0	0	0	0
 18414	963	27	12350	1	0	0	0	0	0	"Feralas, Feathermoon Stronghold"	0	0	0	0	15	0	0	0	0	0	0	0	0
 18583	6169	8	6115	1	0	0	0	0	0	"Heroic: Spine of Deathwing"	0	0	0	0	15	0	0	0	0	0	0	0	0
-519	627	43	1041	1	0	0	0	0	0	"Gates of Ironforge"	0	0	0	0	16	0	0	0	0	0	0	0	0
+18951	6349	49	15	1	0	0	0	0	0	"Weapon"	0	0	0	0	15	0	0	3	14	0	476	4	0
+18966	6348	49	15	1	0	0	0	0	0	"Weapon"	0	0	0	0	15	0	0	3	14	0	463	3	0
 774	700	36	30343	1	0	0	0	0	0	"Medallion of the Horde"	2	0	0	0	16	0	0	0	0	0	0	0	0
 794	701	36	38589	1	0	0	0	0	0	"Medallion of the Alliance"	2	0	0	0	16	0	0	0	0	0	0	0	0
 976	761	43	576	1	0	0	0	0	0	"Hammerfall"	0	0	0	0	16	0	0	0	0	0	0	0	0
@@ -8597,10 +8667,8 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 1961	911	27	8684	1	0	0	0	0	0	"Elder Dreamseer in Gadgetzan"	0	0	0	0	16	0	0	0	0	0	0	0	0
 2083	963	27	12396	1	0	0	0	0	0	"Northern Barrens, Ratchet"	0	0	0	0	16	0	0	0	0	0	0	0	0
 2107	965	27	12374	1	0	0	0	0	0	"Northern Barrens, The Crossroads"	0	0	0	0	16	0	0	0	0	0	0	0	0
-2357	556	49	17	1	0	0	0	0	0	"Ranged"	0	0	0	0	16	0	0	3	14	0	213	4	0
 2902	621	57	31777	1	0	0	0	0	0	"Keepers of Time Tabard"	2	0	0	0	16	0	0	0	0	0	0	0	0
 3316	344	41	1251	1	0	0	0	0	0	"Linen Bandage"	0	0	0	0	16	0	0	0	0	0	0	0	0
-3738	557	49	17	1	0	0	0	0	0	"Ranged"	0	0	0	0	16	0	0	3	14	0	187	3	0
 3756	1206	54	225	1	0	0	0	0	0	"Ram"	0	0	0	0	16	0	0	4	0	0	2098	0	0
 3777	1244	68	175763	1	0	0	0	0	0	"Old Hatreds - The Colonization of Kalimdor"	0	0	0	0	16	0	0	0	0	0	0	0	0
 3854	153	72	180658	1	0	0	0	0	0	"School of Deviate Fish"	2	0	0	0	16	0	0	0	0	0	0	0	0
@@ -8609,10 +8677,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4039	1287	8	672	0	0	0	0	0	0	"Heroic Auchenai Crypts"	0	0	0	0	16	0	0	0	0	0	0	0	0
 4152	1263	43	1517	0	0	0	0	0	0	"Skorn"	0	0	0	0	16	0	0	0	0	0	0	0	0
 4176	1265	43	1528	0	0	0	0	0	0	"The Crystal Vice"	0	0	0	0	16	0	0	0	0	0	0	0	0
-4303	345	41	22850	0	0	0	0	0	0	"Super Rejuvenation Potion"	0	0	0	0	16	0	0	0	0	0	0	0	0
-4329	922	41	18253	0	0	0	0	0	0	"Major Rejuvenation Potion"	0	0	0	0	16	0	0	0	0	0	0	0	0
-4351	923	41	9233	0	0	0	0	0	0	"Elixir of Detect Demon"	0	0	0	0	16	0	0	0	0	0	0	0	0
-4422	811	41	13512	0	0	0	0	0	0	"Flask of Supreme Power"	0	0	0	0	16	0	0	0	0	0	0	0	0
+4302	345	41	22829	0	0	0	0	0	0	"Super Healing Potion"	0	0	0	0	16	0	0	0	0	0	0	0	0
+4328	922	41	13444	0	0	0	0	0	0	"Major Mana Potion"	0	0	0	0	16	0	0	0	0	0	0	0	0
+4343	923	41	10592	0	0	0	0	0	0	"Catseye Elixir"	0	0	0	0	16	0	0	0	0	0	0	0	0
 4519	1311	0	20932	1	0	0	0	0	0	"Nuramoc"	0	0	0	0	16	0	0	0	0	0	0	0	0
 4555	686	36	16909	1	0	0	0	0	0	"Bloodfang Pants"	2	0	0	0	16	0	0	0	0	0	0	0	0
 4575	685	36	19356	1	0	0	0	0	0	"Staff of the Shadow Flame"	2	0	0	0	16	0	0	0	0	0	0	0	0
@@ -8654,6 +8721,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 12901	1792	34	65382	0	0	0	0	0	0	"Curious Wolvar Pup"	2	0	0	0	16	0	0	0	0	0	0	0	0
 12928	4602	8	4601	0	0	0	0	0	0	"Been Waiting a Long Time for This"	0	0	0	0	16	0	0	0	0	0	0	0	0
 13027	4603	8	4621	0	0	0	0	0	0	"Been Waiting a Long Time for This"	0	0	0	0	16	0	0	0	0	0	0	0	0
+13249	811	41	46378	0	0	0	0	0	0	"Flask of Pure Mojo"	0	0	0	0	16	0	0	0	0	0	0	0	0
 13897	4950	8	5052	0	0	0	0	0	0	"Blackrock Spire"	0	0	0	0	16	0	0	0	0	0	0	0	0
 14140	4825	43	2610	1	0	0	0	0	0	"Beth\'mora Ridge"	0	0	0	0	16	0	0	0	0	0	0	0	0
 14155	768	43	2586	1	0	0	0	0	0	"Calston Estate"	0	0	0	0	16	0	0	0	0	0	0	0	0
@@ -8668,8 +8736,6 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 15203	1676	8	4898	0	0	0	0	0	0	"Wetlands Quests"	0	0	0	0	16	0	0	0	0	0	0	0	0
 15260	4845	8	5295	0	0	0	0	0	0	"Sun of a...."	0	0	0	0	16	0	0	0	0	0	0	0	0
 15268	4853	8	5309	0	0	0	0	0	0	"Full of Sound and Fury"	0	0	0	0	16	0	0	0	0	0	0	0	0
-15345	5372	49	17	1	0	0	0	0	0	"Ranged"	0	0	0	0	16	0	0	3	14	0	359	4	0
-15361	5373	49	17	1	0	0	0	0	0	"Ranged"	0	0	0	0	16	0	0	3	14	0	333	3	0
 15727	5472	29	88046	1	0	0	0	0	0	"Tender Baked Turtle"	0	0	0	0	16	0	0	0	0	0	0	0	0
 15874	5478	42	27439	1	0	0	0	0	0	"Furious Crawdad"	0	0	0	0	16	0	0	0	0	0	0	0	0
 15920	5479	42	13893	1	0	0	0	0	0	"Large Raw Mightfish"	0	0	0	0	16	0	0	0	0	0	0	0	0
@@ -8721,10 +8787,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 3955	1283	8	644	0	0	0	0	0	0	"King of Dire Maul"	0	0	0	0	17	0	0	0	0	0	0	0	0
 4153	1263	43	1518	0	0	0	0	0	0	"The Twisted Glade"	0	0	0	0	17	0	0	0	0	0	0	0	0
 4177	1265	43	1529	0	0	0	0	0	0	"Scarlet Point"	0	0	0	0	17	0	0	0	0	0	0	0	0
-4304	345	41	17349	0	0	0	0	0	0	"Superior Healing Draught"	0	0	0	0	17	0	0	0	0	0	0	0	0
-4330	922	41	3827	0	0	0	0	0	0	"Mana Potion"	0	0	0	0	17	0	0	0	0	0	0	0	0
-4352	923	41	3828	0	0	0	0	0	0	"Elixir of Detect Lesser Invisibility"	0	0	0	0	17	0	0	0	0	0	0	0	0
-4423	811	41	40082	0	0	0	0	0	0	"Flask of the Frost Wyrm"	0	0	0	0	17	0	0	0	0	0	0	0	0
+4303	345	41	22850	0	0	0	0	0	0	"Super Rejuvenation Potion"	0	0	0	0	17	0	0	0	0	0	0	0	0
+4329	922	41	18253	0	0	0	0	0	0	"Major Rejuvenation Potion"	0	0	0	0	17	0	0	0	0	0	0	0	0
+4344	923	41	8423	0	0	0	0	0	0	"Cerebral Cortex Compound"	0	0	0	0	17	0	0	0	0	0	0	0	0
 4520	1311	0	18685	1	0	0	0	0	0	"Okrek"	0	0	0	0	17	0	0	0	0	0	0	0	0
 4556	686	36	16930	1	0	0	0	0	0	"Nemesis Leggings"	2	0	0	0	17	0	0	0	0	0	0	0	0
 4576	685	36	16905	1	0	0	0	0	0	"Bloodfang Chestpiece"	2	0	0	0	17	0	0	0	0	0	0	0	0
@@ -8759,6 +8824,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 11919	3802	28	68206	1	0	0	0	0	0	"M\'uru"	0	0	0	0	17	0	0	20	0	0	1	0	0
 12634	4416	34	43698	0	0	0	0	0	0	"Muckbreath"	2	0	0	0	17	0	0	0	0	0	0	0	0
 13028	4603	8	4622	0	0	0	0	0	0	"Neck-Deep in Vile"	0	0	0	0	17	0	0	0	0	0	0	0	0
+13250	811	41	46379	0	0	0	0	0	0	"Flask of Stoneblood"	0	0	0	0	17	0	0	0	0	0	0	0	0
 13898	4950	8	5053	0	0	0	0	0	0	"King of Dire Maul"	0	0	0	0	17	0	0	0	0	0	0	0	0
 14141	4825	43	2612	1	0	0	0	0	0	"Nespirah"	0	0	0	0	17	0	0	0	0	0	0	0	0
 15110	772	43	2747	1	0	0	0	0	0	"Ruins of Alterac"	0	0	0	0	17	0	0	0	0	0	0	0	0
@@ -8809,10 +8875,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 3858	153	72	180663	1	0	0	0	0	0	"Sagefish School"	2	0	0	0	18	0	0	0	0	0	0	0	0
 3956	1283	8	645	0	0	0	0	0	0	"Scholomance"	0	0	0	0	18	0	0	0	0	0	0	0	0
 4154	1263	43	1520	0	0	0	0	0	0	"Utgarde Keep"	0	0	0	0	18	0	0	0	0	0	0	0	0
-4305	345	41	3928	0	0	0	0	0	0	"Superior Healing Potion"	0	0	0	0	18	0	0	0	0	0	0	0	0
-4331	922	41	2455	0	0	0	0	0	0	"Minor Mana Potion"	0	0	0	0	18	0	0	0	0	0	0	0	0
-4353	923	41	9154	0	0	0	0	0	0	"Elixir of Detect Undead"	0	0	0	0	18	0	0	0	0	0	0	0	0
-4424	811	41	13510	0	0	0	0	0	0	"Flask of the Titans"	0	0	0	0	18	0	0	0	0	0	0	0	0
+4304	345	41	17349	0	0	0	0	0	0	"Superior Healing Draught"	0	0	0	0	18	0	0	0	0	0	0	0	0
+4330	922	41	3827	0	0	0	0	0	0	"Mana Potion"	0	0	0	0	18	0	0	0	0	0	0	0	0
+4345	923	41	32063	0	0	0	0	0	0	"Earthen Elixir"	0	0	0	0	18	0	0	0	0	0	0	0	0
+4418	811	41	22866	0	0	0	0	0	0	"Flask of Pure Death"	0	0	0	0	18	0	0	0	0	0	0	0	0
 4521	1311	0	18693	1	0	0	0	0	0	"Speaker Mar\'grom"	0	0	0	0	18	0	0	0	0	0	0	0	0
 4557	686	36	16915	1	0	0	0	0	0	"Netherwind Pants"	2	0	0	0	18	0	0	0	0	0	0	0	0
 4577	685	36	16950	1	0	0	0	0	0	"Breastplate of Ten Storms"	2	0	0	0	18	0	0	0	0	0	0	0	0
@@ -8895,10 +8961,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 3861	153	72	180684	1	0	0	0	0	0	"Greater Sagefish School"	2	0	0	0	19	0	0	0	0	0	0	0	0
 3957	1283	8	646	0	0	0	0	0	0	"Stratholme"	0	0	0	0	19	0	0	0	0	0	0	0	0
 4155	1263	43	1522	0	0	0	0	0	0	"Westguard Keep"	0	0	0	0	19	0	0	0	0	0	0	0	0
-4306	345	41	28100	0	0	0	0	0	0	"Volatile Healing Potion"	0	0	0	0	19	0	0	0	0	0	0	0	0
-4332	922	41	32762	0	0	0	0	0	0	"Rulkster\'s Brain Juice"	0	0	0	0	19	0	0	0	0	0	0	0	0
-4354	923	41	32067	0	0	0	0	0	0	"Elixir of Draenic Wisdom"	0	0	0	0	19	0	0	0	0	0	0	0	0
-4425	811	41	35717	0	0	0	0	0	0	"Shattrath Flask of Blinding Light"	0	0	0	0	19	0	0	0	0	0	0	0	0
+4305	345	41	3928	0	0	0	0	0	0	"Superior Healing Potion"	0	0	0	0	19	0	0	0	0	0	0	0	0
+4331	922	41	2455	0	0	0	0	0	0	"Minor Mana Potion"	0	0	0	0	19	0	0	0	0	0	0	0	0
+4346	923	41	8949	0	0	0	0	0	0	"Elixir of Agility"	0	0	0	0	19	0	0	0	0	0	0	0	0
+4419	811	41	40404	0	0	0	0	0	0	"Flask of Pure Mojo"	0	0	0	0	19	0	0	0	0	0	0	0	0
 4522	1311	0	18683	1	0	0	0	0	0	"Voidhunter Yar"	0	0	0	0	19	0	0	0	0	0	0	0	0
 4558	686	36	16901	1	0	0	0	0	0	"Stormrage Legguards"	2	0	0	0	19	0	0	0	0	0	0	0	0
 4578	685	36	16966	1	0	0	0	0	0	"Breastplate of Wrath"	2	0	0	0	19	0	0	0	0	0	0	0	0
@@ -8971,10 +9037,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 3781	1244	68	175757	1	0	0	0	0	0	"Sunwell - The Fall of Quel\'Thalas"	0	0	0	0	20	0	0	0	0	0	0	0	0
 3864	153	72	180712	1	0	0	0	0	0	"Stonescale Eel Swarm"	2	0	0	0	20	0	0	0	0	0	0	0	0
 4157	1263	43	1526	0	0	0	0	0	0	"Baelgun\'s Excavation Site"	0	0	0	0	20	0	0	0	0	0	0	0	0
-4307	345	41	9144	0	0	0	0	0	0	"Wildvine Potion"	0	0	0	0	20	0	0	0	0	0	0	0	0
-4333	922	41	13443	0	0	0	0	0	0	"Superior Mana Potion"	0	0	0	0	20	0	0	0	0	0	0	0	0
-4355	923	41	9197	0	0	0	0	0	0	"Elixir of Dream Vision"	0	0	0	0	20	0	0	0	0	0	0	0	0
-4426	811	41	32898	0	0	0	0	0	0	"Shattrath Flask of Fortification"	0	0	0	0	20	0	0	0	0	0	0	0	0
+4306	345	41	28100	0	0	0	0	0	0	"Volatile Healing Potion"	0	0	0	0	20	0	0	0	0	0	0	0	0
+4332	922	41	32762	0	0	0	0	0	0	"Rulkster\'s Brain Juice"	0	0	0	0	20	0	0	0	0	0	0	0	0
+4347	923	41	13453	0	0	0	0	0	0	"Elixir of Brute Force"	0	0	0	0	20	0	0	0	0	0	0	0	0
+4420	811	41	22854	0	0	0	0	0	0	"Flask of Relentless Assault"	0	0	0	0	20	0	0	0	0	0	0	0	0
 4523	1311	0	18679	1	0	0	0	0	0	"Vorakem Doomspeaker"	0	0	0	0	20	0	0	0	0	0	0	0	0
 4559	686	36	17106	1	0	0	0	0	0	"Malistar\'s Defender"	2	0	0	0	20	0	0	0	0	0	0	0	0
 4579	685	36	16942	1	0	0	0	0	0	"Dragonstalker\'s Breastplate"	2	0	0	0	20	0	0	0	0	0	0	0	0
@@ -9044,10 +9110,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 3761	1206	54	225	1	0	0	0	0	0	"Prairie Dog"	0	0	0	0	21	0	0	4	0	0	2620	0	0
 3782	1244	68	175746	1	0	0	0	0	0	"The Alliance of Lordaeron"	0	0	0	0	21	0	0	0	0	0	0	0	0
 4158	1263	43	1527	0	0	0	0	0	0	"Baleheim"	0	0	0	0	21	0	0	0	0	0	0	0	0
-4309	345	41	33092	0	0	0	0	0	0	"Healing Potion Injector"	0	0	0	0	21	0	0	0	0	0	0	0	0
-4334	922	41	22850	0	0	0	0	0	0	"Super Rejuvenation Potion"	0	0	0	0	21	0	0	0	0	0	0	0	0
-4356	923	41	22848	0	0	0	0	0	0	"Elixir of Empowerment"	0	0	0	0	21	0	0	0	0	0	0	0	0
-4427	811	41	32899	0	0	0	0	0	0	"Shattrath Flask of Mighty Restoration"	0	0	0	0	21	0	0	0	0	0	0	0	0
+4307	345	41	9144	0	0	0	0	0	0	"Wildvine Potion"	0	0	0	0	21	0	0	0	0	0	0	0	0
+4333	922	41	13443	0	0	0	0	0	0	"Superior Mana Potion"	0	0	0	0	21	0	0	0	0	0	0	0	0
+4348	923	41	22823	0	0	0	0	0	0	"Elixir of Camouflage"	0	0	0	0	21	0	0	0	0	0	0	0	0
+4421	811	41	40083	0	0	0	0	0	0	"Flask of Stoneblood"	0	0	0	0	21	0	0	0	0	0	0	0	0
 4560	686	36	17063	1	0	0	0	0	0	"Band of Accuria"	2	0	0	0	21	0	0	0	0	0	0	0	0
 4580	685	36	16958	1	0	0	0	0	0	"Judgement Breastplate"	2	0	0	0	21	0	0	0	0	0	0	0	0
 4593	687	36	21839	1	0	0	0	0	0	"Scepter of the False Prophet"	2	0	0	0	21	0	0	0	0	0	0	0	0
@@ -9110,10 +9176,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 2908	621	57	15196	1	0	0	0	0	0	"Private\'s Tabard"	2	0	0	0	22	0	0	0	0	0	0	0	0
 3322	344	41	19067	1	0	0	0	0	0	"Warsong Gulch Mageweave Bandage"	0	0	0	0	22	0	0	0	0	0	0	0	0
 3783	1244	68	175750	1	0	0	0	0	0	"The Battle of Grim Batol"	0	0	0	0	22	0	0	0	0	0	0	0	0
-4318	345	41	12190	0	0	0	0	0	0	"Dreamless Sleep Potion"	0	0	0	0	22	0	0	0	0	0	0	0	0
-4335	922	41	28101	0	0	0	0	0	0	"Unstable Mana Potion"	0	0	0	0	22	0	0	0	0	0	0	0	0
-4357	923	41	6373	0	0	0	0	0	0	"Elixir of Firepower"	0	0	0	0	22	0	0	0	0	0	0	0	0
-4428	811	41	35716	0	0	0	0	0	0	"Shattrath Flask of Pure Death"	0	0	0	0	22	0	0	0	0	0	0	0	0
+4309	345	41	33092	0	0	0	0	0	0	"Healing Potion Injector"	0	0	0	0	22	0	0	0	0	0	0	0	0
+4334	922	41	22850	0	0	0	0	0	0	"Super Rejuvenation Potion"	0	0	0	0	22	0	0	0	0	0	0	0	0
+4349	923	41	3389	0	0	0	0	0	0	"Elixir of Defense"	0	0	0	0	22	0	0	0	0	0	0	0	0
+4422	811	41	13512	0	0	0	0	0	0	"Flask of Supreme Power"	0	0	0	0	22	0	0	0	0	0	0	0	0
 4561	686	36	17102	1	0	0	0	0	0	"Cloak of the Shrouded Mists"	2	0	0	0	22	0	0	0	0	0	0	0	0
 4581	685	36	16897	1	0	0	0	0	0	"Stormrage Chestguard"	2	0	0	0	22	0	0	0	0	0	0	0	0
 4594	687	36	21579	1	0	0	0	0	0	"Vanquished Tentacle of C\'Thun"	2	0	0	0	22	0	0	0	0	0	0	0	0
@@ -9177,10 +9243,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 2909	621	57	15197	1	0	0	0	0	0	"Scout\'s Tabard"	2	0	0	0	23	0	0	0	0	0	0	0	0
 3323	344	41	19066	1	0	0	0	0	0	"Warsong Gulch Runecloth Bandage"	0	0	0	0	23	0	0	0	0	0	0	0	0
 3784	1244	68	175759	1	0	0	0	0	0	"The Betrayer Ascendant"	0	0	0	0	23	0	0	0	0	0	0	0	0
-4310	345	41	22829	0	0	0	0	0	0	"Super Healing Potion"	0	0	0	0	23	0	0	0	0	0	0	0	0
-4336	922	41	9144	0	0	0	0	0	0	"Wildvine Potion"	0	0	0	0	23	0	0	0	0	0	0	0	0
-4358	923	41	3825	0	0	0	0	0	0	"Elixir of Fortitude"	0	0	0	0	23	0	0	0	0	0	0	0	0
-4429	811	41	32901	0	0	0	0	0	0	"Shattrath Flask of Relentless Assault"	0	0	0	0	23	0	0	0	0	0	0	0	0
+4318	345	41	12190	0	0	0	0	0	0	"Dreamless Sleep Potion"	0	0	0	0	23	0	0	0	0	0	0	0	0
+4335	922	41	28101	0	0	0	0	0	0	"Unstable Mana Potion"	0	0	0	0	23	0	0	0	0	0	0	0	0
+4350	923	41	9224	0	0	0	0	0	0	"Elixir of Demonslaying"	0	0	0	0	23	0	0	0	0	0	0	0	0
+4423	811	41	40082	0	0	0	0	0	0	"Flask of the Frost Wyrm"	0	0	0	0	23	0	0	0	0	0	0	0	0
 4562	686	36	17076	1	0	0	0	0	0	"Bonereaver\'s Edge"	2	0	0	0	23	0	0	0	0	0	0	0	0
 4582	685	36	16931	1	0	0	0	0	0	"Nemesis Robes"	2	0	0	0	23	0	0	0	0	0	0	0	0
 4595	687	36	22731	1	0	0	0	0	0	"Cloak of the Devoured"	2	0	0	0	23	0	0	0	0	0	0	0	0
@@ -9234,9 +9300,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 2910	621	57	31780	1	0	0	0	0	0	"Scryers Tabard"	2	0	0	0	24	0	0	0	0	0	0	0	0
 3324	344	41	19068	1	0	0	0	0	0	"Warsong Gulch Silk Bandage"	0	0	0	0	24	0	0	0	0	0	0	0	0
 3785	1244	68	175748	1	0	0	0	0	0	"The Birth of the Lich King"	0	0	0	0	24	0	0	0	0	0	0	0	0
-4319	345	41	20002	0	0	0	0	0	0	"Greater Dreamless Sleep Potion"	0	0	0	0	24	0	0	0	0	0	0	0	0
-4359	923	41	17708	0	0	0	0	0	0	"Elixir of Frost Power"	0	0	0	0	24	0	0	0	0	0	0	0	0
-4430	811	41	32900	0	0	0	0	0	0	"Shattrath Flask of Supreme Power"	0	0	0	0	24	0	0	0	0	0	0	0	0
+4310	345	41	22829	0	0	0	0	0	0	"Super Healing Potion"	0	0	0	0	24	0	0	0	0	0	0	0	0
+4336	922	41	9144	0	0	0	0	0	0	"Wildvine Potion"	0	0	0	0	24	0	0	0	0	0	0	0	0
+4351	923	41	9233	0	0	0	0	0	0	"Elixir of Detect Demon"	0	0	0	0	24	0	0	0	0	0	0	0	0
+4424	811	41	13510	0	0	0	0	0	0	"Flask of the Titans"	0	0	0	0	24	0	0	0	0	0	0	0	0
 4563	686	36	17104	1	0	0	0	0	0	"Spinal Reaper"	2	0	0	0	24	0	0	0	0	0	0	0	0
 4583	685	36	16916	1	0	0	0	0	0	"Netherwind Robes"	2	0	0	0	24	0	0	0	0	0	0	0	0
 4596	687	36	22730	1	0	0	0	0	0	"Eyestalk Waist Cord"	2	0	0	0	24	0	0	0	0	0	0	0	0
@@ -9247,7 +9314,6 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4870	694	36	30120	1	0	0	0	0	0	"Destroyer Battle-Helm"	2	0	0	0	24	0	0	0	0	0	0	0	0
 4897	693	36	29096	1	0	0	0	0	0	"Breastplate of Malorne"	2	0	0	0	24	0	0	0	0	0	0	0	0
 4929	692	36	29099	1	0	0	0	0	0	"Greaves of Malorne"	2	0	0	0	24	0	0	0	0	0	0	0	0
-5184	922	41	33448	0	0	0	0	0	0	"Runic Mana Potion"	0	0	0	0	24	0	0	0	0	0	0	0	0
 5280	153	72	192048	1	0	0	0	0	0	"Dragonfin Angelfish School"	2	0	0	0	24	0	0	0	0	0	0	0	0
 5382	1467	0	26763	1	0	0	0	0	0	"Anomalus"	0	0	0	0	24	0	0	0	0	0	0	0	0
 6203	879	34	17460	0	0	0	0	0	0	"Frost Ram"	2	0	0	0	24	0	0	0	0	0	0	0	0
@@ -9299,9 +9365,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 2911	621	57	31781	1	0	0	0	0	0	"Sha\'tar Tabard"	2	0	0	0	25	0	0	0	0	0	0	0	0
 3325	344	41	3530	1	0	0	0	0	0	"Wool Bandage"	0	0	0	0	25	0	0	0	0	0	0	0	0
 3786	1244	68	175745	1	0	0	0	0	0	"The Dark Portal and the Fall of Stormwind"	0	0	0	0	25	0	0	0	0	0	0	0	0
-4320	345	41	22836	0	0	0	0	0	0	"Major Dreamless Sleep Potion"	0	0	0	0	25	0	0	0	0	0	0	0	0
-4360	923	41	6662	0	0	0	0	0	0	"Elixir of Giant Growth"	0	0	0	0	25	0	0	0	0	0	0	0	0
-4431	811	41	32599	0	0	0	0	0	0	"Unstable Flask of the Bandit"	0	0	0	0	25	0	0	0	0	0	0	0	0
+4319	345	41	20002	0	0	0	0	0	0	"Greater Dreamless Sleep Potion"	0	0	0	0	25	0	0	0	0	0	0	0	0
+4352	923	41	3828	0	0	0	0	0	0	"Elixir of Detect Lesser Invisibility"	0	0	0	0	25	0	0	0	0	0	0	0	0
+4425	811	41	35717	0	0	0	0	0	0	"Shattrath Flask of Blinding Light"	0	0	0	0	25	0	0	0	0	0	0	0	0
 4584	685	36	16923	1	0	0	0	0	0	"Robes of Transcendence"	2	0	0	0	25	0	0	0	0	0	0	0	0
 4641	695	36	31015	1	0	0	0	0	0	"Skyshatter Cover"	2	0	0	0	25	0	0	0	0	0	0	0	0
 4649	698	36	34406	1	0	0	0	0	0	"Gloves of Tyri\'s Power"	2	0	0	0	25	0	0	0	0	0	0	0	0
@@ -9312,7 +9378,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4930	692	36	29088	1	0	0	0	0	0	"Legguards of Malorne"	2	0	0	0	25	0	0	0	0	0	0	0	0
 4941	687	36	22732	1	0	0	0	0	0	"Mark of C\'Thun"	2	0	0	0	25	0	0	0	0	0	0	0	0
 5055	686	36	17107	1	0	0	0	0	0	"Dragon\'s Blood Cape"	2	0	0	0	25	0	0	0	0	0	0	0	0
-5185	922	41	31840	0	0	0	0	0	0	"Major Combat Mana Potion"	0	0	0	0	25	0	0	0	0	0	0	0	0
+5184	922	41	33448	0	0	0	0	0	0	"Runic Mana Potion"	0	0	0	0	25	0	0	0	0	0	0	0	0
 5281	153	72	192049	1	0	0	0	0	0	"Fangtooth Herring School"	2	0	0	0	25	0	0	0	0	0	0	0	0
 5379	1467	0	24201	1	0	0	0	0	0	"Dalronn the Controller"	0	0	0	0	25	0	0	0	0	0	0	0	0
 6403	1756	0	16028	1	0	0	0	0	0	"Patchwerk"	0	0	0	0	25	0	0	20	0	0	1	0	0
@@ -9347,9 +9413,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 2086	963	27	12399	1	0	0	0	0	0	"Tanaris, Gadgetzan"	0	0	0	0	26	0	0	0	0	0	0	0	0
 2912	621	57	19506	1	0	0	0	0	0	"Silverwing Battle Tabard"	2	0	0	0	26	0	0	0	0	0	0	0	0
 3787	1244	68	175733	1	0	0	0	0	0	"The Founding of Quel\'Thalas"	0	0	0	0	26	0	0	0	0	0	0	0	0
-4325	345	41	34440	0	0	0	0	0	0	"Mad Alchemist\'s Potion"	0	0	0	0	26	0	0	0	0	0	0	0	0
-4361	923	41	9206	0	0	0	0	0	0	"Elixir of Giants"	0	0	0	0	26	0	0	0	0	0	0	0	0
-4432	811	41	32598	0	0	0	0	0	0	"Unstable Flask of the Beast"	0	0	0	0	26	0	0	0	0	0	0	0	0
+4320	345	41	22836	0	0	0	0	0	0	"Major Dreamless Sleep Potion"	0	0	0	0	26	0	0	0	0	0	0	0	0
+4353	923	41	9154	0	0	0	0	0	0	"Elixir of Detect Undead"	0	0	0	0	26	0	0	0	0	0	0	0	0
+4426	811	41	32898	0	0	0	0	0	0	"Shattrath Flask of Fortification"	0	0	0	0	26	0	0	0	0	0	0	0	0
 4642	695	36	31027	1	0	0	0	0	0	"Slayer\'s Helm"	2	0	0	0	26	0	0	0	0	0	0	0	0
 4650	698	36	34405	1	0	0	0	0	0	"Helm of Arcane Purity"	2	0	0	0	26	0	0	0	0	0	0	0	0
 4812	697	36	31017	1	0	0	0	0	0	"Skyshatter Breastplate"	2	0	0	0	26	0	0	0	0	0	0	0	0
@@ -9358,6 +9424,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4899	693	36	29091	1	0	0	0	0	0	"Chestpiece of Malorne"	2	0	0	0	26	0	0	0	0	0	0	0	0
 4931	692	36	29059	1	0	0	0	0	0	"Leggings of the Incarnate"	2	0	0	0	26	0	0	0	0	0	0	0	0
 5056	686	36	17082	1	0	0	0	0	0	"Shard of the Flame"	2	0	0	0	26	0	0	0	0	0	0	0	0
+5185	922	41	31840	0	0	0	0	0	0	"Major Combat Mana Potion"	0	0	0	0	26	0	0	0	0	0	0	0	0
 5282	153	72	192050	1	0	0	0	0	0	"Glacial Salmon School"	2	0	0	0	26	0	0	0	0	0	0	0	0
 5450	1467	0	29307	1	0	0	0	0	0	"Drakkari Colossus"	0	0	0	0	26	0	0	0	0	0	0	0	0
 6204	879	34	17459	0	0	0	0	0	0	"Icy Blue Mechanostrider Mod A"	2	0	0	0	26	0	0	0	0	0	0	0	0
@@ -9367,7 +9434,6 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 7517	2136	8	1834	0	0	0	0	0	0	"Lightning Struck"	0	0	0	0	26	0	0	0	0	0	0	0	0
 7780	322	20	27483	0	0	0	0	0	0	"King Dred"	0	0	0	0	26	0	0	0	0	0	0	0	0
 7902	344	41	20237	1	0	0	0	0	0	"Highlander\'s Mageweave Bandage"	0	0	0	0	26	0	0	0	0	0	0	0	0
-7906	922	41	43530	1	0	0	0	0	0	"Argent Mana Potion"	0	0	0	0	26	0	0	0	0	0	0	0	0
 8894	687	36	21331	1	0	0	0	0	0	"Conqueror\'s Breastplate"	2	0	0	0	26	0	0	0	0	0	0	0	0
 8996	346	41	22778	0	0	0	0	0	0	"Scourgebane Infusion"	2	0	0	0	26	0	0	0	0	0	0	0	0
 9047	812	41	36892	0	0	0	0	0	0	"Fel Healthstone"	0	0	0	0	26	0	0	0	0	0	0	0	0
@@ -9400,8 +9466,9 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 2277	979	36	20572	1	0	0	0	0	0	"Tauren Male Mask"	2	0	0	0	27	0	0	0	0	0	0	0	0
 2913	621	57	32445	1	0	0	0	0	0	"Skyguard Tabard"	2	0	0	0	27	0	0	0	0	0	0	0	0
 3788	1244	68	175735	1	0	0	0	0	0	"The Guardians of Tirisfal"	0	0	0	0	27	0	0	0	0	0	0	0	0
-4362	923	41	9187	0	0	0	0	0	0	"Elixir of Greater Agility"	0	0	0	0	27	0	0	0	0	0	0	0	0
-4433	811	41	32596	0	0	0	0	0	0	"Unstable Flask of the Elder"	0	0	0	0	27	0	0	0	0	0	0	0	0
+4325	345	41	34440	0	0	0	0	0	0	"Mad Alchemist\'s Potion"	0	0	0	0	27	0	0	0	0	0	0	0	0
+4354	923	41	32067	0	0	0	0	0	0	"Elixir of Draenic Wisdom"	0	0	0	0	27	0	0	0	0	0	0	0	0
+4427	811	41	32899	0	0	0	0	0	0	"Shattrath Flask of Mighty Restoration"	0	0	0	0	27	0	0	0	0	0	0	0	0
 4643	695	36	31056	1	0	0	0	0	0	"Cowl of the Tempest"	2	0	0	0	27	0	0	0	0	0	0	0	0
 4651	698	36	34401	1	0	0	0	0	0	"Helm of Uther\'s Resolve"	2	0	0	0	27	0	0	0	0	0	0	0	0
 4813	697	36	31016	1	0	0	0	0	0	"Skyshatter Chestguard"	2	0	0	0	27	0	0	0	0	0	0	0	0
@@ -9417,8 +9484,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 7518	2136	8	2042	0	0	0	0	0	0	"Shatter Resistant"	0	0	0	0	27	0	0	0	0	0	0	0	0
 7779	322	20	26631	0	0	0	0	0	0	"Novos the Summoner"	0	0	0	0	27	0	0	0	0	0	0	0	0
 7903	344	41	20243	1	0	0	0	0	0	"Highlander\'s Runecloth Bandage"	0	0	0	0	27	0	0	0	0	0	0	0	0
-7907	922	41	43570	1	0	0	0	0	0	"Endless Mana Potion"	0	0	0	0	27	0	0	0	0	0	0	0	0
-7910	345	41	43569	1	0	0	0	0	0	"Endless Healing Potion"	0	0	0	0	27	0	0	0	0	0	0	0	0
+7906	922	41	43530	1	0	0	0	0	0	"Argent Mana Potion"	0	0	0	0	27	0	0	0	0	0	0	0	0
 8707	347	41	22238	0	0	0	0	0	0	"Very Berry Cream"	2	0	0	0	27	0	0	0	0	0	0	0	0
 8893	686	36	19017	1	0	0	0	0	0	"Essence of the Firelord"	2	0	0	0	27	0	0	0	0	0	0	0	0
 8895	687	36	21389	1	0	0	0	0	0	"Avenger\'s Breastplate"	2	0	0	0	27	0	0	0	0	0	0	0	0
@@ -9444,8 +9510,8 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 2115	965	27	12367	1	0	0	0	0	0	"Thunder Bluff, Lower Rise"	0	0	0	0	28	0	0	0	0	0	0	0	0
 2914	621	57	31775	1	0	0	0	0	0	"Sporeggar Tabard"	2	0	0	0	28	0	0	0	0	0	0	0	0
 3789	1244	68	175747	1	0	0	0	0	0	"The Invasion of Draenor"	0	0	0	0	28	0	0	0	0	0	0	0	0
-4363	923	41	8951	0	0	0	0	0	0	"Elixir of Greater Defense"	0	0	0	0	28	0	0	0	0	0	0	0	0
-4434	811	41	32600	0	0	0	0	0	0	"Unstable Flask of the Physician"	0	0	0	0	28	0	0	0	0	0	0	0	0
+4355	923	41	9197	0	0	0	0	0	0	"Elixir of Dream Vision"	0	0	0	0	28	0	0	0	0	0	0	0	0
+4428	811	41	35716	0	0	0	0	0	0	"Shattrath Flask of Pure Death"	0	0	0	0	28	0	0	0	0	0	0	0	0
 4644	695	36	31039	1	0	0	0	0	0	"Thunderheart Cover"	2	0	0	0	28	0	0	0	0	0	0	0	0
 4652	698	36	34404	1	0	0	0	0	0	"Mask of the Fury Hunter"	2	0	0	0	28	0	0	0	0	0	0	0	0
 4814	697	36	31018	1	0	0	0	0	0	"Skyshatter Tunic"	2	0	0	0	28	0	0	0	0	0	0	0	0
@@ -9463,8 +9529,8 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 7519	2136	8	1817	0	0	0	0	0	0	"The Culling of Time"	0	0	0	0	28	0	0	0	0	0	0	0	0
 7778	322	20	26630	0	0	0	0	0	0	"Trollgore"	0	0	0	0	28	0	0	0	0	0	0	0	0
 7901	344	41	20244	1	0	0	0	0	0	"Highlander\'s Silk Bandage"	0	0	0	0	28	0	0	0	0	0	0	0	0
-7905	922	41	18841	1	0	0	0	0	0	"Combat Mana Potion"	0	0	0	0	28	0	0	0	0	0	0	0	0
-7911	345	41	39327	1	0	0	0	0	0	"Noth\'s Special Brew"	0	0	0	0	28	0	0	0	0	0	0	0	0
+7907	922	41	43570	1	0	0	0	0	0	"Endless Mana Potion"	0	0	0	0	28	0	0	0	0	0	0	0	0
+7910	345	41	43569	1	0	0	0	0	0	"Endless Healing Potion"	0	0	0	0	28	0	0	0	0	0	0	0	0
 8896	687	36	21364	1	0	0	0	0	0	"Deathdealer\'s Vest"	2	0	0	0	28	0	0	0	0	0	0	0	0
 9020	346	41	37494	0	0	0	0	0	0	"Stranglethorn Brew"	2	0	0	0	28	0	0	0	0	0	0	0	0
 9046	812	41	36891	0	0	0	0	0	0	"Demonic Healthstone"	0	0	0	0	28	0	0	0	0	0	0	0	0
@@ -9489,7 +9555,8 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 2268	979	36	20567	1	0	0	0	0	0	"Troll Female Mask"	2	0	0	0	29	0	0	0	0	0	0	0	0
 2915	621	57	15199	1	0	0	0	0	0	"Stone Guard\'s Herald"	2	0	0	0	29	0	0	0	0	0	0	0	0
 3790	1244	68	21583	1	0	0	0	0	0	"The Kaldorei and the Well of Eternity"	0	0	0	0	29	0	0	0	0	0	0	0	0
-4364	923	41	21546	0	0	0	0	0	0	"Elixir of Greater Firepower"	0	0	0	0	29	0	0	0	0	0	0	0	0
+4356	923	41	22848	0	0	0	0	0	0	"Elixir of Empowerment"	0	0	0	0	29	0	0	0	0	0	0	0	0
+4429	811	41	32901	0	0	0	0	0	0	"Shattrath Flask of Relentless Assault"	0	0	0	0	29	0	0	0	0	0	0	0	0
 4645	695	36	31040	1	0	0	0	0	0	"Thunderheart Headguard"	2	0	0	0	29	0	0	0	0	0	0	0	0
 4653	698	36	34402	1	0	0	0	0	0	"Shroud of Chieftain Ner\'zhul"	2	0	0	0	29	0	0	0	0	0	0	0	0
 4815	697	36	31057	1	0	0	0	0	0	"Robes of the Tempest"	2	0	0	0	29	0	0	0	0	0	0	0	0
@@ -9497,7 +9564,6 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 4875	694	36	30228	1	0	0	0	0	0	"Nordrassil Headdress"	2	0	0	0	29	0	0	0	0	0	0	0	0
 4902	693	36	29019	1	0	0	0	0	0	"Warbringer Breastplate"	2	0	0	0	29	0	0	0	0	0	0	0	0
 4934	692	36	29015	1	0	0	0	0	0	"Warbringer Legguards"	2	0	0	0	29	0	0	0	0	0	0	0	0
-5186	922	41	31855	0	0	0	0	0	0	"Major Combat Mana Potion"	0	0	0	0	29	0	0	0	0	0	0	0	0
 5285	153	72	192054	1	0	0	0	0	0	"Moonglow Cuttlefish School"	2	0	0	0	29	0	0	0	0	0	0	0	0
 5465	1467	0	26668	1	0	0	0	0	0	"Svala Sorrowgrave"	0	0	0	0	29	0	0	0	0	0	0	0	0
 6407	1756	0	15936	1	0	0	0	0	0	"Heigan the Unclean"	0	0	0	0	29	0	0	20	0	0	1	0	0
@@ -9506,14 +9572,14 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 7520	2136	8	1872	0	0	0	0	0	0	"Zombiefest!"	0	0	0	0	29	0	0	0	0	0	0	0	0
 7777	322	20	29310	0	0	0	0	0	0	"Jedoga Shadowseeker"	0	0	0	0	29	0	0	0	0	0	0	0	0
 7900	344	41	3531	1	0	0	0	0	0	"Heavy Wool Bandage"	0	0	0	0	29	0	0	0	0	0	0	0	0
-7908	345	41	18839	1	0	0	0	0	0	"Combat Healing Potion"	0	0	0	0	29	0	0	0	0	0	0	0	0
+7905	922	41	18841	1	0	0	0	0	0	"Combat Mana Potion"	0	0	0	0	29	0	0	0	0	0	0	0	0
+7911	345	41	39327	1	0	0	0	0	0	"Noth\'s Special Brew"	0	0	0	0	29	0	0	0	0	0	0	0	0
 8706	347	41	22237	0	0	0	0	0	0	"Dark Desire"	2	0	0	0	29	0	0	0	0	0	0	0	0
 8897	687	36	21334	1	0	0	0	0	0	"Doomcaller\'s Robes"	2	0	0	0	29	0	0	0	0	0	0	0	0
 9019	346	41	36748	0	0	0	0	0	0	"Dark Brewmaiden\'s Brew"	2	0	0	0	29	0	0	0	0	0	0	0	0
 9045	812	41	36890	0	0	0	0	0	0	"Demonic Healthstone"	0	0	0	0	29	0	0	0	0	0	0	0	0
 11007	323	20	32930	0	0	0	0	0	0	"Kologarn"	0	0	0	0	29	0	0	20	0	0	0	0	0
 11023	324	20	32930	0	0	0	0	0	0	"Kologarn"	0	0	0	0	29	0	0	20	0	0	1	0	0
-13252	811	41	46376	0	0	0	0	0	0	"Flask of the Frost Wyrm"	0	0	0	0	29	0	0	0	0	0	0	0	0
 15740	5472	29	88011	1	0	0	0	0	0	"Broiled Dragon Feast"	0	0	0	0	29	0	0	0	0	0	0	0	0
 15890	5478	42	8365	1	0	0	0	0	0	"Mithril Head Trout"	0	0	0	0	29	0	0	0	0	0	0	0	0
 15932	5479	42	13760	1	0	0	0	0	0	"Sunscale Salmon"	0	0	0	0	29	0	0	0	0	0	0	0	0
@@ -9532,14 +9598,15 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 2103	965	27	12400	1	0	0	0	0	0	"Winterspring, Everlook"	0	0	0	0	30	0	0	0	0	0	0	0	0
 2916	621	57	19032	1	0	0	0	0	0	"Stormpike Battle Tabard"	2	0	0	0	30	0	0	0	0	0	0	0	0
 3791	1244	68	175740	1	0	0	0	0	0	"The Last Guardian"	0	0	0	0	30	0	0	0	0	0	0	0	0
-4365	923	41	9179	0	0	0	0	0	0	"Elixir of Greater Intellect"	0	0	0	0	30	0	0	0	0	0	0	0	0
+4357	923	41	6373	0	0	0	0	0	0	"Elixir of Firepower"	0	0	0	0	30	0	0	0	0	0	0	0	0
+4430	811	41	32900	0	0	0	0	0	0	"Shattrath Flask of Supreme Power"	0	0	0	0	30	0	0	0	0	0	0	0	0
 4646	695	36	31037	1	0	0	0	0	0	"Thunderheart Helmet"	2	0	0	0	30	0	0	0	0	0	0	0	0
 4816	697	36	31028	1	0	0	0	0	0	"Slayer\'s Chestguard"	2	0	0	0	30	0	0	0	0	0	0	0	0
 4846	696	36	30216	1	0	0	0	0	0	"Nordrassil Chestguard"	2	0	0	0	30	0	0	0	0	0	0	0	0
 4876	694	36	30219	1	0	0	0	0	0	"Nordrassil Headguard"	2	0	0	0	30	0	0	0	0	0	0	0	0
 4903	693	36	29012	1	0	0	0	0	0	"Warbringer Chestguard"	2	0	0	0	30	0	0	0	0	0	0	0	0
 4935	692	36	29083	1	0	0	0	0	0	"Demon Stalker Greaves"	2	0	0	0	30	0	0	0	0	0	0	0	0
-5187	922	41	31854	0	0	0	0	0	0	"Major Combat Mana Potion"	0	0	0	0	30	0	0	0	0	0	0	0	0
+5186	922	41	31855	0	0	0	0	0	0	"Major Combat Mana Potion"	0	0	0	0	30	0	0	0	0	0	0	0	0
 5286	153	72	192046	1	0	0	0	0	0	"Musselback Sculpin School"	2	0	0	0	30	0	0	0	0	0	0	0	0
 5461	1467	0	27447	1	0	0	0	0	0	"Varos Cloudstrider"	0	0	0	0	30	0	0	0	0	0	0	0	0
 6409	1756	0	16011	1	0	0	0	0	0	"Loatheb"	0	0	0	0	30	0	0	20	0	0	1	0	0
@@ -9548,13 +9615,12 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 7521	2136	8	2043	0	0	0	0	0	0	"The Incredible Hulk"	0	0	0	0	30	0	0	0	0	0	0	0	0
 7776	322	20	29309	0	0	0	0	0	0	"Elder Nadox"	0	0	0	0	30	0	0	0	0	0	0	0	0
 7904	344	41	16991	1	0	0	0	0	0	"Triage Bandage"	0	0	0	0	30	0	0	0	0	0	0	0	0
-7909	345	41	43531	1	0	0	0	0	0	"Argent Healing Potion"	0	0	0	0	30	0	0	0	0	0	0	0	0
+7908	345	41	18839	1	0	0	0	0	0	"Combat Healing Potion"	0	0	0	0	30	0	0	0	0	0	0	0	0
 8898	687	36	21343	1	0	0	0	0	0	"Enigma Robes"	2	0	0	0	30	0	0	0	0	0	0	0	0
 9018	346	41	34412	0	0	0	0	0	0	"Sparkling Apple Cider"	2	0	0	0	30	0	0	0	0	0	0	0	0
 9049	812	41	36894	0	0	0	0	0	0	"Fel Healthstone"	0	0	0	0	30	0	0	0	0	0	0	0	0
 11002	323	20	33515	0	0	0	0	0	0	"Auriaya"	0	0	0	0	30	0	0	20	0	0	0	0	0
 11024	324	20	33515	0	0	0	0	0	0	"Auriaya"	0	0	0	0	30	0	0	20	0	0	1	0	0
-13251	811	41	47499	0	0	0	0	0	0	"Flask of the North"	0	0	0	0	30	0	0	0	0	0	0	0	0
 15741	5472	29	88019	1	0	0	0	0	0	"Fortune Cookie"	0	0	0	0	30	0	0	0	0	0	0	0	0
 15902	5478	42	53063	1	0	0	0	0	0	"Mountain Trout"	0	0	0	0	30	0	0	0	0	0	0	0	0
 15933	5479	42	13889	1	0	0	0	0	0	"Whitescale Salmon"	0	0	0	0	30	0	0	0	0	0	0	0	0
@@ -9572,15 +9638,14 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 2278	979	36	20568	1	0	0	0	0	0	"Troll Male Mask"	2	0	0	0	31	0	0	0	0	0	0	0	0
 2917	621	57	38312	1	0	0	0	0	0	"Tabard of Brilliance"	2	0	0	0	31	0	0	0	0	0	0	0	0
 3792	1244	68	175762	1	0	0	0	0	0	"The Lich King Triumphant"	0	0	0	0	31	0	0	0	0	0	0	0	0
-4366	923	41	18294	0	0	0	0	0	0	"Elixir of Greater Water Breathing"	0	0	0	0	31	0	0	0	0	0	0	0	0
-4435	811	41	32597	0	0	0	0	0	0	"Unstable Flask of the Soldier"	0	0	0	0	31	0	0	0	0	0	0	0	0
+4358	923	41	3825	0	0	0	0	0	0	"Elixir of Fortitude"	0	0	0	0	31	0	0	0	0	0	0	0	0
+4431	811	41	32599	0	0	0	0	0	0	"Unstable Flask of the Bandit"	0	0	0	0	31	0	0	0	0	0	0	0	0
 4817	697	36	31042	1	0	0	0	0	0	"Thunderheart Chestguard"	2	0	0	0	31	0	0	0	0	0	0	0	0
 4847	696	36	30231	1	0	0	0	0	0	"Nordrassil Chestpiece"	2	0	0	0	31	0	0	0	0	0	0	0	0
 4877	694	36	30233	1	0	0	0	0	0	"Nordrassil Headpiece"	2	0	0	0	31	0	0	0	0	0	0	0	0
 4904	693	36	29082	1	0	0	0	0	0	"Demon Stalker Harness"	2	0	0	0	31	0	0	0	0	0	0	0	0
 4936	692	36	29078	1	0	0	0	0	0	"Legwraps of the Aldor"	2	0	0	0	31	0	0	0	0	0	0	0	0
-5178	345	41	31839	0	0	0	0	0	0	"Major Combat Healing Potion"	0	0	0	0	31	0	0	0	0	0	0	0	0
-5188	922	41	31841	0	0	0	0	0	0	"Major Combat Mana Potion"	0	0	0	0	31	0	0	0	0	0	0	0	0
+5187	922	41	31854	0	0	0	0	0	0	"Major Combat Mana Potion"	0	0	0	0	31	0	0	0	0	0	0	0	0
 5287	153	72	192057	1	0	0	0	0	0	"Nettlefish School"	2	0	0	0	31	0	0	0	0	0	0	0	0
 5454	1467	0	27978	1	0	0	0	0	0	"Sjonnir the Ironshaper"	0	0	0	0	31	0	0	0	0	0	0	0	0
 6410	1756	0	16061	1	0	0	0	0	0	"Instructor Razuvious"	0	0	0	0	31	0	0	20	0	0	1	0	0
@@ -9588,6 +9653,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 6518	1777	29	45570	1	0	0	0	0	0	"Imperial Manta Steak"	0	0	0	0	31	0	0	0	0	0	0	0	0
 7522	2136	8	1873	0	0	0	0	0	0	"Lodi Dodi We Loves the Skadi"	0	0	0	0	31	0	0	0	0	0	0	0	0
 7775	322	20	29308	0	0	0	0	0	0	"Prince Taldaram"	0	0	0	0	31	0	0	0	0	0	0	0	0
+7909	345	41	43531	1	0	0	0	0	0	"Argent Healing Potion"	0	0	0	0	31	0	0	0	0	0	0	0	0
 8705	347	41	22236	0	0	0	0	0	0	"Buttermilk Delight"	2	0	0	0	31	0	0	0	0	0	0	0	0
 8899	687	36	21357	1	0	0	0	0	0	"Genesis Vest"	2	0	0	0	31	0	0	0	0	0	0	0	0
 9017	346	41	33956	0	0	0	0	0	0	"Harkor\'s Home Brew"	2	0	0	0	31	0	0	0	0	0	0	0	0
@@ -9608,15 +9674,15 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 2269	979	36	20574	1	0	0	0	0	0	"Undead Female Mask"	2	0	0	0	32	0	0	0	0	0	0	0	0
 2918	621	57	23705	1	0	0	0	0	0	"Tabard of Flame"	2	0	0	0	32	0	0	0	0	0	0	0	0
 3793	1244	68	175752	1	0	0	0	0	0	"The New Horde"	0	0	0	0	32	0	0	0	0	0	0	0	0
-4367	923	41	22825	0	0	0	0	0	0	"Elixir of Healing Power"	0	0	0	0	32	0	0	0	0	0	0	0	0
-4436	811	41	32601	0	0	0	0	0	0	"Unstable Flask of the Sorcerer"	0	0	0	0	32	0	0	0	0	0	0	0	0
+4359	923	41	17708	0	0	0	0	0	0	"Elixir of Frost Power"	0	0	0	0	32	0	0	0	0	0	0	0	0
+4432	811	41	32598	0	0	0	0	0	0	"Unstable Flask of the Beast"	0	0	0	0	32	0	0	0	0	0	0	0	0
 4818	697	36	31041	1	0	0	0	0	0	"Thunderheart Tunic"	2	0	0	0	32	0	0	0	0	0	0	0	0
 4848	696	36	30222	1	0	0	0	0	0	"Nordrassil Chestplate"	2	0	0	0	32	0	0	0	0	0	0	0	0
 4878	694	36	30206	1	0	0	0	0	0	"Cowl of Tirisfal"	2	0	0	0	32	0	0	0	0	0	0	0	0
 4905	693	36	29077	1	0	0	0	0	0	"Vestments of the Aldor"	2	0	0	0	32	0	0	0	0	0	0	0	0
 4937	692	36	28966	1	0	0	0	0	0	"Voidheart Leggings"	2	0	0	0	32	0	0	0	0	0	0	0	0
-5179	345	41	31838	0	0	0	0	0	0	"Major Combat Healing Potion"	0	0	0	0	32	0	0	0	0	0	0	0	0
-5189	922	41	40067	0	0	0	0	0	0	"Icy Mana Potion"	0	0	0	0	32	0	0	0	0	0	0	0	0
+5178	345	41	31839	0	0	0	0	0	0	"Major Combat Healing Potion"	0	0	0	0	32	0	0	0	0	0	0	0	0
+5188	922	41	31841	0	0	0	0	0	0	"Major Combat Mana Potion"	0	0	0	0	32	0	0	0	0	0	0	0	0
 5441	1467	0	29310	1	0	0	0	0	0	"Jedoga Shadowseeker"	0	0	0	0	32	0	0	0	0	0	0	0	0
 6411	1756	0	15953	1	0	0	0	0	0	"Grand Widow Faerlina"	0	0	0	0	32	0	0	20	0	0	1	0	0
 6430	1770	0	15953	1	0	0	0	0	0	"Grand Widow Faerlina"	0	0	0	0	32	0	0	20	0	0	0	0	0
@@ -9641,12 +9707,13 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18085	701	36	69861	1	0	0	0	0	0	"Medallion of the Alliance"	2	0	0	0	32	0	0	0	0	0	0	0	0
 2919	621	57	23709	1	0	0	0	0	0	"Tabard of Frost"	2	0	0	0	33	0	0	0	0	0	0	0	0
 3794	1244	68	175725	1	0	0	0	0	0	"The Old Gods and the Ordering of Azeroth"	0	0	0	0	33	0	0	0	0	0	0	0	0
-4368	923	41	32068	0	0	0	0	0	0	"Elixir of Ironskin"	0	0	0	0	33	0	0	0	0	0	0	0	0
+4360	923	41	6662	0	0	0	0	0	0	"Elixir of Giant Growth"	0	0	0	0	33	0	0	0	0	0	0	0	0
+4433	811	41	32596	0	0	0	0	0	0	"Unstable Flask of the Elder"	0	0	0	0	33	0	0	0	0	0	0	0	0
 4819	697	36	31043	1	0	0	0	0	0	"Thunderheart Vest"	2	0	0	0	33	0	0	0	0	0	0	0	0
 4906	693	36	28964	1	0	0	0	0	0	"Voidheart Robe"	2	0	0	0	33	0	0	0	0	0	0	0	0
-5180	345	41	31853	0	0	0	0	0	0	"Major Combat Healing Potion"	0	0	0	0	33	0	0	0	0	0	0	0	0
+5179	345	41	31838	0	0	0	0	0	0	"Major Combat Healing Potion"	0	0	0	0	33	0	0	0	0	0	0	0	0
+5189	922	41	40067	0	0	0	0	0	0	"Icy Mana Potion"	0	0	0	0	33	0	0	0	0	0	0	0	0
 5438	1467	0	29120	1	0	0	0	0	0	"Anub\'arak"	0	0	0	0	33	0	0	0	0	0	0	0	0
-6379	922	41	42545	0	0	0	0	0	0	"Runic Mana Injector"	0	0	0	0	33	0	0	0	0	0	0	0	0
 6412	1756	0	16060	1	0	0	0	0	0	"Gothik the Harvester"	0	0	0	0	33	0	0	20	0	0	1	0	0
 6431	1770	0	16060	1	0	0	0	0	0	"Gothik the Harvester"	0	0	0	0	33	0	0	20	0	0	0	0	0
 6588	1777	29	45559	1	0	0	0	0	0	"Mighty Rhino Dogs"	0	0	0	0	33	0	0	0	0	0	0	0	0
@@ -9671,12 +9738,13 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18079	700	36	70605	1	0	0	0	0	0	"Medallion of the Horde"	2	0	0	0	33	0	0	0	0	0	0	0	0
 2920	621	57	38313	1	0	0	0	0	0	"Tabard of Fury"	2	0	0	0	34	0	0	0	0	0	0	0	0
 3795	1244	68	175756	1	0	0	0	0	0	"The Scourge of Lordaeron"	0	0	0	0	34	0	0	0	0	0	0	0	0
-4369	923	41	3390	0	0	0	0	0	0	"Elixir of Lesser Agility"	0	0	0	0	34	0	0	0	0	0	0	0	0
+4361	923	41	9206	0	0	0	0	0	0	"Elixir of Giants"	0	0	0	0	34	0	0	0	0	0	0	0	0
+4434	811	41	32600	0	0	0	0	0	0	"Unstable Flask of the Physician"	0	0	0	0	34	0	0	0	0	0	0	0	0
 4907	693	36	34845	1	0	0	0	0	0	"Pit Lord\'s Satchel"	2	0	0	0	34	0	0	0	0	0	0	0	0
-5181	345	41	31852	0	0	0	0	0	0	"Major Combat Healing Potion"	0	0	0	0	34	0	0	0	0	0	0	0	0
+5180	345	41	31853	0	0	0	0	0	0	"Major Combat Healing Potion"	0	0	0	0	34	0	0	0	0	0	0	0	0
 5383	1467	0	26794	1	0	0	0	0	0	"Ormorok the Tree-Shaper"	0	0	0	0	34	0	0	0	0	0	0	0	0
+6379	922	41	42545	0	0	0	0	0	0	"Runic Mana Injector"	0	0	0	0	34	0	0	0	0	0	0	0	0
 6589	1777	29	45567	1	0	0	0	0	0	"Poached Northern Sculpin"	0	0	0	0	34	0	0	0	0	0	0	0	0
-7420	922	41	2456	0	0	0	0	0	0	"Minor Rejuvenation Potion"	0	0	0	0	34	0	0	0	0	0	0	0	0
 7523	2136	8	1871	0	0	0	0	0	0	"Experienced Drake Rider"	0	0	0	0	34	0	0	0	0	0	0	0	0
 7786	322	20	27978	0	0	0	0	0	0	"Sjonnir The Ironshaper"	0	0	0	0	34	0	0	0	0	0	0	0	0
 8902	687	36	21351	1	0	0	0	0	0	"Vestments of the Oracle"	2	0	0	0	34	0	0	0	0	0	0	0	0
@@ -9696,12 +9764,12 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18086	701	36	70606	1	0	0	0	0	0	"Medallion of the Alliance"	2	0	0	0	34	0	0	0	0	0	0	0	0
 2921	621	57	38309	1	0	0	0	0	0	"Tabard of Nature"	2	0	0	0	35	0	0	0	0	0	0	0	0
 3796	1244	68	175732	1	0	0	0	0	0	"The Sentinels and the Long Vigil"	0	0	0	0	35	0	0	0	0	0	0	0	0
-4370	923	41	2454	0	0	0	0	0	0	"Elixir of Lion\'s Strength"	0	0	0	0	35	0	0	0	0	0	0	0	0
+4362	923	41	9187	0	0	0	0	0	0	"Elixir of Greater Agility"	0	0	0	0	35	0	0	0	0	0	0	0	0
 4942	693	36	28779	1	0	0	0	0	0	"Girdle of the Endless Pit"	2	0	0	0	35	0	0	0	0	0	0	0	0
-5182	345	41	39671	0	0	0	0	0	0	"Resurgent Healing Potion"	0	0	0	0	35	0	0	0	0	0	0	0	0
+5181	345	41	31852	0	0	0	0	0	0	"Major Combat Healing Potion"	0	0	0	0	35	0	0	0	0	0	0	0	0
 5469	1467	0	26530	1	0	0	0	0	0	"Salramm the Fleshcrafter"	0	0	0	0	35	0	0	0	0	0	0	0	0
 6590	1777	29	57434	1	0	0	0	0	0	"Rhinolicious Wormsteak"	0	0	0	0	35	0	0	0	0	0	0	0	0
-7421	922	41	40081	0	0	0	0	0	0	"Potion of Nightmares"	0	0	0	0	35	0	0	0	0	0	0	0	0
+7420	922	41	2456	0	0	0	0	0	0	"Minor Rejuvenation Potion"	0	0	0	0	35	0	0	0	0	0	0	0	0
 7524	2136	8	1868	0	0	0	0	0	0	"Make It Count"	0	0	0	0	35	0	0	0	0	0	0	0	0
 7765	322	20	24200	0	0	0	0	0	0	"Skarvald the Constructor"	0	0	0	0	35	0	0	0	0	0	0	0	0
 8703	347	41	20557	0	0	0	0	0	0	"Hallow\'s End Pumpink Treat"	2	0	0	0	35	0	0	0	0	0	0	0	0
@@ -9709,6 +9777,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 9013	346	41	32424	0	0	0	0	0	0	"Blade\'s Edge Ogre Brew"	2	0	0	0	35	0	0	0	0	0	0	0	0
 11012	323	20	33271	0	0	0	0	0	0	"General Vezax"	0	0	0	0	35	0	0	20	0	0	0	0	0
 11029	324	20	33271	0	0	0	0	0	0	"General Vezax"	0	0	0	0	35	0	0	20	0	0	1	0	0
+13252	811	41	46376	0	0	0	0	0	0	"Flask of the Frost Wyrm"	0	0	0	0	35	0	0	0	0	0	0	0	0
 13325	1770	0	35013	1	0	0	0	0	0	"Koralon the Flame Watcher"	0	0	0	0	35	0	0	20	0	0	0	0	0
 13344	1756	0	35013	1	0	0	0	0	0	"Koralon the Flame Watcher"	0	0	0	0	35	0	0	20	0	0	1	0	0
 15893	5478	42	43571	1	0	0	0	0	0	"Sewer Carp"	0	0	0	0	35	0	0	0	0	0	0	0	0
@@ -9721,11 +9790,12 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18087	701	36	70390	1	0	0	0	0	0	"Medallion of the Alliance"	2	0	0	0	35	0	0	0	0	0	0	0	0
 2922	621	57	11364	1	0	0	0	0	0	"Tabard of Stormwind"	2	0	0	0	36	0	0	0	0	0	0	0	0
 3797	1244	68	175737	1	0	0	0	0	0	"The Seven Kingdoms"	0	0	0	0	36	0	0	0	0	0	0	0	0
-4371	923	41	22831	0	0	0	0	0	0	"Elixir of Major Agility"	0	0	0	0	36	0	0	0	0	0	0	0	0
-5183	345	41	33447	0	0	0	0	0	0	"Runic Healing Potion"	0	0	0	0	36	0	0	0	0	0	0	0	0
+4363	923	41	8951	0	0	0	0	0	0	"Elixir of Greater Defense"	0	0	0	0	36	0	0	0	0	0	0	0	0
+4435	811	41	32597	0	0	0	0	0	0	"Unstable Flask of the Soldier"	0	0	0	0	36	0	0	0	0	0	0	0	0
+5182	345	41	39671	0	0	0	0	0	0	"Resurgent Healing Potion"	0	0	0	0	36	0	0	0	0	0	0	0	0
 5380	1467	0	23980	1	0	0	0	0	0	"Ingvar the Plunderer"	0	0	0	0	36	0	0	0	0	0	0	0	0
 6591	1777	29	58528	1	0	0	0	0	0	"Small Feast"	0	0	0	0	36	0	0	0	0	0	0	0	0
-7422	922	41	40087	0	0	0	0	0	0	"Powerful Rejuvenation Potion"	0	0	0	0	36	0	0	0	0	0	0	0	0
+7421	922	41	40081	0	0	0	0	0	0	"Potion of Nightmares"	0	0	0	0	36	0	0	0	0	0	0	0	0
 7525	2136	8	2044	0	0	0	0	0	0	"Ruby Void"	0	0	0	0	36	0	0	0	0	0	0	0	0
 7758	322	20	23980	0	0	0	0	0	0	"Ingvar the Plunderer"	0	0	0	0	36	0	0	0	0	0	0	0	0
 9031	346	41	43696	0	0	0	0	0	0	"Half Empty Bottle of Prison Moonshine"	2	0	0	0	36	0	0	0	0	0	0	0	0
@@ -9745,10 +9815,12 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18088	701	36	70391	1	0	0	0	0	0	"Medallion of the Alliance"	2	0	0	0	36	0	0	0	0	0	0	0	0
 2923	621	57	35279	1	0	0	0	0	0	"Tabard of Summer Skies"	2	0	0	0	37	0	0	0	0	0	0	0	0
 3798	1244	68	175854	1	0	0	0	0	0	"The Twin Empires"	0	0	0	0	37	0	0	0	0	0	0	0	0
-4372	923	41	22834	0	0	0	0	0	0	"Elixir of Major Defense"	0	0	0	0	37	0	0	0	0	0	0	0	0
+4364	923	41	21546	0	0	0	0	0	0	"Elixir of Greater Firepower"	0	0	0	0	37	0	0	0	0	0	0	0	0
+4436	811	41	32601	0	0	0	0	0	0	"Unstable Flask of the Sorcerer"	0	0	0	0	37	0	0	0	0	0	0	0	0
+5183	345	41	33447	0	0	0	0	0	0	"Runic Healing Potion"	0	0	0	0	37	0	0	0	0	0	0	0	0
 5451	1467	0	29306	1	0	0	0	0	0	"Gal\'darah"	0	0	0	0	37	0	0	0	0	0	0	0	0
-6380	345	41	41166	0	0	0	0	0	0	"Runic Healing Injector"	0	0	0	0	37	0	0	0	0	0	0	0	0
 6592	1777	29	57437	1	0	0	0	0	0	"Snapper Extreme"	0	0	0	0	37	0	0	0	0	0	0	0	0
+7422	922	41	40087	0	0	0	0	0	0	"Powerful Rejuvenation Potion"	0	0	0	0	37	0	0	0	0	0	0	0	0
 7526	2136	8	2045	0	0	0	0	0	0	"Emerald Void"	0	0	0	0	37	0	0	0	0	0	0	0	0
 7766	322	20	23953	0	0	0	0	0	0	"Prince Keleseth"	0	0	0	0	37	0	0	0	0	0	0	0	0
 8702	347	41	20390	0	0	0	0	0	0	"Candy Bar"	2	0	0	0	37	0	0	0	0	0	0	0	0
@@ -9767,10 +9839,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18089	701	36	70392	1	0	0	0	0	0	"Medallion of the Alliance"	2	0	0	0	37	0	0	0	0	0	0	0	0
 2924	621	57	38310	1	0	0	0	0	0	"Tabard of the Arcane"	2	0	0	0	38	0	0	0	0	0	0	0	0
 3799	1244	68	175727	1	0	0	0	0	0	"The War of the Ancients"	0	0	0	0	38	0	0	0	0	0	0	0	0
-4373	923	41	22833	0	0	0	0	0	0	"Elixir of Major Firepower"	0	0	0	0	38	0	0	0	0	0	0	0	0
+4365	923	41	9179	0	0	0	0	0	0	"Elixir of Greater Intellect"	0	0	0	0	38	0	0	0	0	0	0	0	0
 5442	1467	0	29311	1	0	0	0	0	0	"Herald Volazj"	0	0	0	0	38	0	0	0	0	0	0	0	0
+6380	345	41	41166	0	0	0	0	0	0	"Runic Healing Injector"	0	0	0	0	38	0	0	0	0	0	0	0	0
 6593	1777	29	57440	1	0	0	0	0	0	"Spiced Mammoth Treats"	0	0	0	0	38	0	0	0	0	0	0	0	0
-7423	345	41	40087	0	0	0	0	0	0	"Powerful Rejuvenation Potion"	0	0	0	0	38	0	0	0	0	0	0	0	0
 7527	2136	8	2046	0	0	0	0	0	0	"Amber Void"	0	0	0	0	38	0	0	0	0	0	0	0	0
 7760	322	20	29120	0	0	0	0	0	0	"Anub\'arak"	0	0	0	0	38	0	0	0	0	0	0	0	0
 9029	346	41	42381	0	0	0	0	0	0	"Anguish Ale"	2	0	0	0	38	0	0	0	0	0	0	0	0
@@ -9789,10 +9861,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18121	701	36	72411	1	0	0	0	0	0	"Medallion of the Alliance"	2	0	0	0	38	0	0	0	0	0	0	0	0
 2925	621	57	22999	1	0	0	0	0	0	"Tabard of the Argent Dawn"	2	0	0	0	39	0	0	0	0	0	0	0	0
 3800	1244	68	175730	1	0	0	0	0	0	"The World Tree and the Emerald Dream"	0	0	0	0	39	0	0	0	0	0	0	0	0
-4374	923	41	32062	0	0	0	0	0	0	"Elixir of Major Fortitude"	0	0	0	0	39	0	0	0	0	0	0	0	0
+4366	923	41	18294	0	0	0	0	0	0	"Elixir of Greater Water Breathing"	0	0	0	0	39	0	0	0	0	0	0	0	0
 5446	1467	0	26632	1	0	0	0	0	0	"The Prophet Tharon\'ja"	0	0	0	0	39	0	0	0	0	0	0	0	0
 6594	1777	29	45557	1	0	0	0	0	0	"Spiced Worm Burger"	0	0	0	0	39	0	0	0	0	0	0	0	0
-7424	345	41	40081	0	0	0	0	0	0	"Potion of Nightmares"	0	0	0	0	39	0	0	0	0	0	0	0	0
+7423	345	41	40087	0	0	0	0	0	0	"Powerful Rejuvenation Potion"	0	0	0	0	39	0	0	0	0	0	0	0	0
 7762	322	20	26632	0	0	0	0	0	0	"The Prophet Tharon\'ja"	0	0	0	0	39	0	0	0	0	0	0	0	0
 8701	347	41	20389	0	0	0	0	0	0	"Candy Corn"	2	0	0	0	39	0	0	0	0	0	0	0	0
 9028	346	41	39738	0	0	0	0	0	0	"Thunderbrew\'s Hard Ale"	2	0	0	0	39	0	0	0	0	0	0	0	0
@@ -9810,9 +9882,10 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18122	701	36	72412	1	0	0	0	0	0	"Medallion of the Alliance"	2	0	0	0	39	0	0	0	0	0	0	0	0
 2926	621	57	38314	1	0	0	0	0	0	"Tabard of the Defender"	2	0	0	0	40	0	0	0	0	0	0	0	0
 3801	1244	68	175753	1	0	0	0	0	0	"War of the Spider"	0	0	0	0	40	0	0	0	0	0	0	0	0
-4375	923	41	22827	0	0	0	0	0	0	"Elixir of Major Frost Power"	0	0	0	0	40	0	0	0	0	0	0	0	0
+4367	923	41	22825	0	0	0	0	0	0	"Elixir of Healing Power"	0	0	0	0	40	0	0	0	0	0	0	0	0
 5458	1467	0	28923	1	0	0	0	0	0	"Loken"	0	0	0	0	40	0	0	0	0	0	0	0	0
 6595	1777	29	45571	1	0	0	0	0	0	"Spicy Blue Nettlefish"	0	0	0	0	40	0	0	0	0	0	0	0	0
+7424	345	41	40081	0	0	0	0	0	0	"Potion of Nightmares"	0	0	0	0	40	0	0	0	0	0	0	0	0
 7763	322	20	29317	0	0	0	0	0	0	"Cyanigosa"	0	0	0	0	40	0	0	0	0	0	0	0	0
 9027	346	41	38320	0	0	0	0	0	0	"Dire Brew"	2	0	0	0	40	0	0	0	0	0	0	0	0
 13275	323	20	38433	0	0	0	0	0	0	"Toravon the Ice Watcher"	0	0	0	0	40	0	0	20	0	0	0	0	0
@@ -9830,7 +9903,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 18123	701	36	72414	1	0	0	0	0	0	"Medallion of the Alliance"	2	0	0	0	40	0	0	0	0	0	0	0	0
 2927	621	57	24344	1	0	0	0	0	0	"Tabard of the Hand"	2	0	0	0	41	0	0	0	0	0	0	0	0
 3802	1244	68	175739	1	0	0	0	0	0	"War of the Three Hammers"	0	0	0	0	41	0	0	0	0	0	0	0	0
-4376	923	41	22840	0	0	0	0	0	0	"Elixir of Major Mageblood"	0	0	0	0	41	0	0	0	0	0	0	0	0
+4368	923	41	32068	0	0	0	0	0	0	"Elixir of Ironskin"	0	0	0	0	41	0	0	0	0	0	0	0	0
 5466	1467	0	26687	1	0	0	0	0	0	"Gortok Palehoof"	0	0	0	0	41	0	0	0	0	0	0	0	0
 6596	1777	29	57433	1	0	0	0	0	0	"Spicy Fried Herring"	0	0	0	0	41	0	0	0	0	0	0	0	0
 7761	322	20	29311	0	0	0	0	0	0	"Herald Volazj"	0	0	0	0	41	0	0	0	0	0	0	0	0
@@ -9848,7 +9921,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 17948	5892	46	989	42000	0	0	0	0	0	"Keepers of Time"	0	0	0	0	41	0	0	62	0	0	42000	0	0
 2928	621	57	23192	1	0	0	0	0	0	"Tabard of the Scarlet Crusade"	2	0	0	0	42	0	0	0	0	0	0	0	0
 3803	1244	68	175856	1	0	0	0	0	0	"Wrath of Soulflayer"	0	0	0	0	42	0	0	0	0	0	0	0	0
-4377	923	41	22835	0	0	0	0	0	0	"Elixir of Major Shadow Power"	0	0	0	0	42	0	0	0	0	0	0	0	0
+4369	923	41	3390	0	0	0	0	0	0	"Elixir of Lesser Agility"	0	0	0	0	42	0	0	0	0	0	0	0	0
 6597	1777	29	45556	1	0	0	0	0	0	"Tender Shoveltusk Steak"	0	0	0	0	42	0	0	0	0	0	0	0	0
 7759	322	20	26723	0	0	0	0	0	0	"Keristrasza"	0	0	0	0	42	0	0	0	0	0	0	0	0
 8802	1467	0	29315	1	0	0	0	0	0	"Erekem"	0	0	0	0	42	0	0	0	0	0	0	0	0
@@ -9865,7 +9938,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 17505	5812	46	1037	42000	0	0	0	0	0	"Alliance Vanguard"	0	0	0	0	42	0	0	62	0	0	42000	0	0
 17949	5892	46	1077	42000	0	0	0	0	0	"Shattered Sun Offensive"	0	0	0	0	42	0	0	62	0	0	42000	0	0
 2929	621	57	35221	1	0	0	0	0	0	"Tabard of the Shattered Sun"	2	0	0	0	43	0	0	0	0	0	0	0	0
-4378	923	41	22824	0	0	0	0	0	0	"Elixir of Major Strength"	0	0	0	0	43	0	0	0	0	0	0	0	0
+4370	923	41	2454	0	0	0	0	0	0	"Elixir of Lion\'s Strength"	0	0	0	0	43	0	0	0	0	0	0	0	0
 5462	1467	0	27656	1	0	0	0	0	0	"Ley-Guardian Eregos"	0	0	0	0	43	0	0	0	0	0	0	0	0
 6598	1777	29	57443	1	0	0	0	0	0	"Tracker Snacks"	0	0	0	0	43	0	0	0	0	0	0	0	0
 8690	347	41	19062	0	0	0	0	0	0	"Warsong Gulch Field Ration"	2	0	0	0	43	0	0	0	0	0	0	0	0
@@ -9881,7 +9954,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 17506	5812	46	1077	42000	0	0	0	0	0	"Shattered Sun Offensive"	0	0	0	0	43	0	0	62	0	0	42000	0	0
 17950	5892	46	529	42000	0	0	0	0	0	"Argent Dawn"	0	0	0	0	43	0	0	62	0	0	42000	0	0
 2930	621	57	38311	1	0	0	0	0	0	"Tabard of the Void"	2	0	0	0	44	0	0	0	0	0	0	0	0
-4379	923	41	28104	0	0	0	0	0	0	"Elixir of Mastery"	0	0	0	0	44	0	0	0	0	0	0	0	0
+4371	923	41	22831	0	0	0	0	0	0	"Elixir of Major Agility"	0	0	0	0	44	0	0	0	0	0	0	0	0
 6599	1777	29	45558	1	0	0	0	0	0	"Very Burnt Worg"	0	0	0	0	44	0	0	0	0	0	0	0	0
 8803	1467	0	29316	1	0	0	0	0	0	"Moragg"	0	0	0	0	44	0	0	0	0	0	0	0	0
 9023	346	41	37908	0	0	0	0	0	0	"Bartlett\'s Bitter Brew"	2	0	0	0	44	0	0	0	0	0	0	0	0
@@ -9897,7 +9970,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 17507	5812	46	1068	42000	0	0	0	0	0	"Explorers\' League"	0	0	0	0	44	0	0	62	0	0	42000	0	0
 17951	5892	46	1104	42000	0	0	0	0	0	"Frenzyheart Tribe"	0	0	0	0	44	0	0	62	0	0	42000	0	0
 2931	621	57	24004	1	0	0	0	0	0	"Thrallmar Tabard"	2	0	0	0	45	0	0	0	0	0	0	0	0
-4380	923	41	39666	0	0	0	0	0	0	"Elixir of Mighty Agility"	0	0	0	0	45	0	0	0	0	0	0	0	0
+4372	923	41	22834	0	0	0	0	0	0	"Elixir of Major Defense"	0	0	0	0	45	0	0	0	0	0	0	0	0
 5384	1467	0	26723	1	0	0	0	0	0	"Keristrasza"	0	0	0	0	45	0	0	0	0	0	0	0	0
 8689	347	41	19061	0	0	0	0	0	0	"Warsong Gulch Iron Ration"	2	0	0	0	45	0	0	0	0	0	0	0	0
 9022	346	41	37907	0	0	0	0	0	0	"Autumnal Acorn Ale"	2	0	0	0	45	0	0	0	0	0	0	0	0
@@ -9913,7 +9986,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 17508	5812	46	529	42000	0	0	0	0	0	"Argent Dawn"	0	0	0	0	45	0	0	62	0	0	42000	0	0
 17952	5892	46	1067	42000	0	0	0	0	0	"The Hand of Vengeance"	0	0	0	0	45	0	0	62	0	0	42000	0	0
 2932	621	57	23388	1	0	0	0	0	0	"Tranquillien Tabard"	2	0	0	0	46	0	0	0	0	0	0	0	0
-4381	923	41	40097	0	0	0	0	0	0	"Elixir of Mighty Defense"	0	0	0	0	46	0	0	0	0	0	0	0	0
+4373	923	41	22833	0	0	0	0	0	0	"Elixir of Major Firepower"	0	0	0	0	46	0	0	0	0	0	0	0	0
 8798	1467	0	29266	1	0	0	0	0	0	"Xevozz"	0	0	0	0	46	0	0	0	0	0	0	0	0
 9012	346	41	31451	0	0	0	0	0	0	"Pure Energy"	2	0	0	0	46	0	0	0	0	0	0	0	0
 13265	322	20	36497	0	0	0	0	0	0	"Bronjahm"	0	0	0	0	46	0	0	0	0	0	0	0	0
@@ -9928,7 +10001,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 17509	5812	46	1104	42000	0	0	0	0	0	"Frenzyheart Tribe"	0	0	0	0	46	0	0	62	0	0	42000	0	0
 17953	5892	46	1052	42000	0	0	0	0	0	"Horde Expedition"	0	0	0	0	46	0	0	62	0	0	42000	0	0
 2933	621	57	19505	1	0	0	0	0	0	"Warsong Battle Tabard"	2	0	0	0	47	0	0	0	0	0	0	0	0
-4382	923	41	40078	0	0	0	0	0	0	"Elixir of Mighty Fortitude"	0	0	0	0	47	0	0	0	0	0	0	0	0
+4374	923	41	32062	0	0	0	0	0	0	"Elixir of Major Fortitude"	0	0	0	0	47	0	0	0	0	0	0	0	0
 8688	347	41	19060	0	0	0	0	0	0	"Warsong Gulch Enriched Ration"	2	0	0	0	47	0	0	0	0	0	0	0	0
 8799	1467	0	29312	1	0	0	0	0	0	"Lavanthor"	0	0	0	0	47	0	0	0	0	0	0	0	0
 9011	346	41	30858	0	0	0	0	0	0	"Peon Sleep Potion"	2	0	0	0	47	0	0	0	0	0	0	0	0
@@ -9942,7 +10015,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 16943	5753	41	58266	1	0	0	0	0	0	"Violet Morel"	0	0	0	0	47	0	0	0	0	0	0	0	0
 17510	5812	46	1126	42000	0	0	0	0	0	"The Frostborn"	0	0	0	0	47	0	0	62	0	0	42000	0	0
 17954	5892	46	1073	42000	0	0	0	0	0	"The Kalu\'ak"	0	0	0	0	47	0	0	62	0	0	42000	0	0
-4383	923	41	40109	0	0	0	0	0	0	"Elixir of Mighty Mageblood"	0	0	0	0	48	0	0	0	0	0	0	0	0
+4375	923	41	22827	0	0	0	0	0	0	"Elixir of Major Frost Power"	0	0	0	0	48	0	0	0	0	0	0	0	0
 6151	621	57	43300	1	0	0	0	0	0	"Loremaster\'s Colors"	2	0	0	0	48	0	0	0	0	0	0	0	0
 8800	1467	0	29313	1	0	0	0	0	0	"Ichoron"	0	0	0	0	48	0	0	0	0	0	0	0	0
 9010	346	41	30615	0	0	0	0	0	0	"Halaani Whiskey"	2	0	0	0	48	0	0	0	0	0	0	0	0
@@ -9957,7 +10030,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 16974	347	41	62651	1	0	0	0	0	0	"Lightly Fried Lurker"	2	0	0	0	48	0	0	0	0	0	0	0	0
 17513	5812	46	1073	42000	0	0	0	0	0	"The Kalu\'ak"	0	0	0	0	48	0	0	62	0	0	42000	0	0
 17955	5892	46	1105	42000	0	0	0	0	0	"The Oracles"	0	0	0	0	48	0	0	62	0	0	42000	0	0
-4384	923	41	40073	0	0	0	0	0	0	"Elixir of Mighty Strength"	0	0	0	0	49	0	0	0	0	0	0	0	0
+4376	923	41	22840	0	0	0	0	0	0	"Elixir of Major Mageblood"	0	0	0	0	49	0	0	0	0	0	0	0	0
 6171	621	57	43348	1	0	0	0	0	0	"Tabard of the Explorer"	2	0	0	0	49	0	0	0	0	0	0	0	0
 8687	347	41	14894	0	0	0	0	0	0	"Lily Root"	2	0	0	0	49	0	0	0	0	0	0	0	0
 8801	1467	0	29314	1	0	0	0	0	0	"Zuramat the Obliterator"	0	0	0	0	49	0	0	0	0	0	0	0	0
@@ -9971,7 +10044,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 16656	4957	11	5035	20	0	0	0	0	0	""	2	0	0	0	49	0	0	0	0	0	0	0	0
 17514	5812	46	1105	42000	0	0	0	0	0	"The Oracles"	0	0	0	0	49	0	0	62	0	0	42000	0	0
 17956	5892	46	1119	42000	0	0	0	0	0	"The Sons of Hodir"	0	0	0	0	49	0	0	62	0	0	42000	0	0
-4385	923	41	2457	0	0	0	0	0	0	"Elixir of Minor Agility"	0	0	0	0	50	0	0	0	0	0	0	0	0
+4377	923	41	22835	0	0	0	0	0	0	"Elixir of Major Shadow Power"	0	0	0	0	50	0	0	0	0	0	0	0	0
 6172	621	57	43349	1	0	0	0	0	0	"Tabard of Brute Force"	2	0	0	0	50	0	0	0	0	0	0	0	0
 9008	346	41	30309	0	0	0	0	0	0	"Stonebreaker Brew"	2	0	0	0	50	0	0	0	0	0	0	0	0
 13269	322	20	36477	0	0	0	0	0	0	"Krick"	0	0	0	0	50	0	0	0	0	0	0	0	0
@@ -9985,7 +10058,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 16975	347	41	62657	1	0	0	0	0	0	"Lurker Lunch"	2	0	0	0	50	0	0	0	0	0	0	0	0
 17515	5812	46	1119	42000	0	0	0	0	0	"The Sons of Hodir"	0	0	0	0	50	0	0	62	0	0	42000	0	0
 17957	5892	46	1064	42000	0	0	0	0	0	"The Taunka"	0	0	0	0	50	0	0	62	0	0	42000	0	0
-4386	923	41	5997	0	0	0	0	0	0	"Elixir of Minor Defense"	0	0	0	0	51	0	0	0	0	0	0	0	0
+4378	923	41	22824	0	0	0	0	0	0	"Elixir of Major Strength"	0	0	0	0	51	0	0	0	0	0	0	0	0
 6976	621	57	43154	1	0	0	0	0	0	"Tabard of the Argent Crusade"	2	0	0	0	51	0	0	0	0	0	0	0	0
 8724	347	41	42350	0	0	0	0	0	0	"Bag of Peanuts"	2	0	0	0	51	0	0	0	0	0	0	0	0
 9007	346	41	29482	0	0	0	0	0	0	"Ethereum Essence"	2	0	0	0	51	0	0	0	0	0	0	0	0
@@ -9999,7 +10072,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 16658	4957	11	4723	20	0	0	0	0	0	""	2	0	0	0	51	0	0	0	0	0	0	0	0
 17517	5812	46	1050	42000	0	0	0	0	0	"Valiance Expedition"	0	0	0	0	51	0	0	62	0	0	42000	0	0
 17958	5892	46	1085	42000	0	0	0	0	0	"Warsong Offensive"	0	0	0	0	51	0	0	62	0	0	42000	0	0
-4387	923	41	2458	0	0	0	0	0	0	"Elixir of Minor Fortitude"	0	0	0	0	52	0	0	0	0	0	0	0	0
+4379	923	41	28104	0	0	0	0	0	0	"Elixir of Mastery"	0	0	0	0	52	0	0	0	0	0	0	0	0
 6977	621	57	43155	1	0	0	0	0	0	"Tabard of the Ebon Blade"	2	0	0	0	52	0	0	0	0	0	0	0	0
 9006	346	41	27553	0	0	0	0	0	0	"Crimson Steer Energy Drink"	2	0	0	0	52	0	0	0	0	0	0	0	0
 13271	322	20	38112	0	0	0	0	0	0	"Falric"	0	0	0	0	52	0	0	0	0	0	0	0	0
@@ -10013,7 +10086,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 16976	347	41	58269	1	0	0	0	0	0	"Massive Turkey Leg"	2	0	0	0	52	0	0	0	0	0	0	0	0
 17519	5812	46	1094	42000	0	0	0	0	0	"The Silver Covenant"	0	0	0	0	52	0	0	62	0	0	42000	0	0
 17959	5892	46	1124	42000	0	0	0	0	0	"The Sunreavers"	0	0	0	0	52	0	0	62	0	0	42000	0	0
-4388	923	41	3391	0	0	0	0	0	0	"Elixir of Ogre\'s Strength"	0	0	0	0	53	0	0	0	0	0	0	0	0
+4380	923	41	39666	0	0	0	0	0	0	"Elixir of Mighty Agility"	0	0	0	0	53	0	0	0	0	0	0	0	0
 6978	621	57	43156	1	0	0	0	0	0	"Tabard of the Wyrmrest Accord"	2	0	0	0	53	0	0	0	0	0	0	0	0
 8723	347	41	42342	0	0	0	0	0	0	"Bag of Popcorn"	2	0	0	0	53	0	0	0	0	0	0	0	0
 9005	346	41	24007	0	0	0	0	0	0	"Footman\'s Waterskin"	2	0	0	0	53	0	0	0	0	0	0	0	0
@@ -10026,7 +10099,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 16660	4957	11	206	20	0	0	0	0	0	""	2	0	0	0	53	0	0	0	0	0	0	0	0
 17522	5812	46	1177	42000	0	0	0	0	0	"Baradin\'s Wardens"	0	0	0	0	53	0	0	62	0	0	42000	0	0
 17960	5892	46	1178	42000	0	0	0	0	0	"Hellscream\'s Reach"	0	0	0	0	53	0	0	62	0	0	42000	0	0
-4389	923	41	9264	0	0	0	0	0	0	"Elixir of Shadow Power"	0	0	0	0	54	0	0	0	0	0	0	0	0
+4381	923	41	40097	0	0	0	0	0	0	"Elixir of Mighty Defense"	0	0	0	0	54	0	0	0	0	0	0	0	0
 6979	621	57	43157	1	0	0	0	0	0	"Tabard of the Kirin Tor"	2	0	0	0	54	0	0	0	0	0	0	0	0
 8994	346	41	19997	0	0	0	0	0	0	"Harvest Nectar"	2	0	0	0	54	0	0	0	0	0	0	0	0
 13273	322	20	36954	0	0	0	0	0	0	"The Lich King"	0	0	0	0	54	0	0	0	0	0	0	0	0
@@ -10037,7 +10110,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 16977	347	41	62667	1	0	0	0	0	0	"Mushroom Sauce Mudfish"	2	0	0	0	54	0	0	0	0	0	0	0	0
 17524	5812	46	87	42000	0	0	0	0	0	"Bloodsail Buccaneers"	0	0	0	0	54	0	0	62	0	0	42000	0	0
 17961	5892	46	87	42000	0	0	0	0	0	"Bloodsail Buccaneers"	0	0	0	0	54	0	0	62	0	0	42000	0	0
-4390	923	41	40072	0	0	0	0	0	0	"Elixir of Spirit"	0	0	0	0	55	0	0	0	0	0	0	0	0
+4382	923	41	40078	0	0	0	0	0	0	"Elixir of Mighty Fortitude"	0	0	0	0	55	0	0	0	0	0	0	0	0
 8722	347	41	37585	0	0	0	0	0	0	"Chewy Fel Taffy"	2	0	0	0	55	0	0	0	0	0	0	0	0
 8992	346	41	18284	0	0	0	0	0	0	"Kreeg\'s Stout Beatdown"	2	0	0	0	55	0	0	0	0	0	0	0	0
 11298	621	57	45585	1	0	0	0	0	0	"Silvermoon City Tabard"	2	0	0	0	55	0	0	0	0	0	0	0	0
@@ -10047,7 +10120,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 16662	4957	11	718	20	0	0	0	0	0	""	2	0	0	0	55	0	0	0	0	0	0	0	0
 17525	5812	46	909	42000	0	0	0	0	0	"Darkmoon Faire"	0	0	0	0	55	0	0	62	0	0	42000	0	0
 17962	5892	46	909	42000	0	0	0	0	0	"Darkmoon Faire"	0	0	0	0	55	0	0	62	0	0	42000	0	0
-4391	923	41	13445	0	0	0	0	0	0	"Elixir of Superior Defense"	0	0	0	0	56	0	0	0	0	0	0	0	0
+4383	923	41	40109	0	0	0	0	0	0	"Elixir of Mighty Mageblood"	0	0	0	0	56	0	0	0	0	0	0	0	0
 8990	346	41	17048	0	0	0	0	0	0	"Rumsey Rum"	2	0	0	0	56	0	0	0	0	0	0	0	0
 11299	621	57	45582	1	0	0	0	0	0	"Sen\'jin Tabard"	2	0	0	0	56	0	0	0	0	0	0	0	0
 13318	1467	0	36476	1	0	0	0	0	0	"Ick"	0	0	0	0	56	0	0	0	0	0	0	0	0
@@ -10056,7 +10129,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 17421	4957	11	3805	20	0	0	0	0	0	""	2	0	0	0	56	0	0	0	0	0	0	0	0
 17526	5812	46	349	42000	0	0	0	0	0	"Ravenholdt"	0	0	0	0	56	0	0	62	0	0	42000	0	0
 17963	5892	46	349	42000	0	0	0	0	0	"Ravenholdt"	0	0	0	0	56	0	0	62	0	0	42000	0	0
-4392	923	41	40079	0	0	0	0	0	0	"Elixir of Toughness"	0	0	0	0	57	0	0	0	0	0	0	0	0
+4384	923	41	40073	0	0	0	0	0	0	"Elixir of Mighty Strength"	0	0	0	0	57	0	0	0	0	0	0	0	0
 8721	347	41	37584	0	0	0	0	0	0	"Soothing Spearmint Candy"	2	0	0	0	57	0	0	0	0	0	0	0	0
 8988	346	41	13813	0	0	0	0	0	0	"Blessed Sunfruit Juice"	2	0	0	0	57	0	0	0	0	0	0	0	0
 11300	621	57	45583	1	0	0	0	0	0	"Undercity Tabard"	2	0	0	0	57	0	0	0	0	0	0	0	0
@@ -10065,7 +10138,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 17419	4956	11	3805	5	0	0	0	0	0	""	2	0	0	0	57	0	0	0	0	0	0	0	0
 17527	5812	46	809	42000	0	0	0	0	0	"Shen\'dralar"	0	0	0	0	57	0	0	62	0	0	42000	0	0
 17964	5892	46	809	42000	0	0	0	0	0	"Shen\'dralar"	0	0	0	0	57	0	0	62	0	0	42000	0	0
-4393	923	41	5996	0	0	0	0	0	0	"Elixir of Water Breathing"	0	0	0	0	58	0	0	0	0	0	0	0	0
+4385	923	41	2457	0	0	0	0	0	0	"Elixir of Minor Agility"	0	0	0	0	58	0	0	0	0	0	0	0	0
 8986	346	41	4952	0	0	0	0	0	0	"Stormstout"	2	0	0	0	58	0	0	0	0	0	0	0	0
 11301	621	57	45584	1	0	0	0	0	0	"Thunder Bluff Tabard"	2	0	0	0	58	0	0	0	0	0	0	0	0
 13320	1467	0	38112	1	0	0	0	0	0	"Falric"	0	0	0	0	58	0	0	0	0	0	0	0	0
@@ -10074,7 +10147,7 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 17422	4957	11	1977	20	0	0	0	0	0	""	2	0	0	0	58	0	0	0	0	0	0	0	0
 17528	5812	46	59	42000	0	0	0	0	0	"Thorium Brotherhood"	0	0	0	0	58	0	0	62	0	0	42000	0	0
 17965	5892	46	59	42000	0	0	0	0	0	"Thorium Brotherhood"	0	0	0	0	58	0	0	62	0	0	42000	0	0
-4394	923	41	8827	0	0	0	0	0	0	"Elixir of Water Walking"	0	0	0	0	59	0	0	0	0	0	0	0	0
+4386	923	41	5997	0	0	0	0	0	0	"Elixir of Minor Defense"	0	0	0	0	59	0	0	0	0	0	0	0	0
 8720	347	41	37583	0	0	0	0	0	0	"G.N.E.R.D.S."	2	0	0	0	59	0	0	0	0	0	0	0	0
 8985	346	41	1322	0	0	0	0	0	0	"Fishliver Oil"	2	0	0	0	59	0	0	0	0	0	0	0	0
 11302	621	57	45579	1	0	0	0	0	0	"Darnassus Tabard"	2	0	0	0	59	0	0	0	0	0	0	0	0
@@ -10082,191 +10155,199 @@ ID	AchievementId	Type	asset_id	quantity	unknown	start_event	start_asset	fail_eve
 17420	4956	11	1977	5	0	0	0	0	0	""	2	0	0	0	59	0	0	0	0	0	0	0	0
 17529	5812	46	576	42000	0	0	0	0	0	"Timbermaw Hold"	0	0	0	0	59	0	0	62	0	0	42000	0	0
 17966	5892	46	576	42000	0	0	0	0	0	"Timbermaw Hold"	0	0	0	0	59	0	0	62	0	0	42000	0	0
-4395	923	41	3383	0	0	0	0	0	0	"Elixir of Wisdom"	0	0	0	0	60	0	0	0	0	0	0	0	0
+4387	923	41	2458	0	0	0	0	0	0	"Elixir of Minor Fortitude"	0	0	0	0	60	0	0	0	0	0	0	0	0
 8890	346	41	34022	0	0	0	0	0	0	"Stout Shrunken Head"	2	0	0	0	60	0	0	0	0	0	0	0	0
 11303	621	57	45580	1	0	0	0	0	0	"Exodar Tabard"	2	0	0	0	60	0	0	0	0	0	0	0	0
 13323	1467	28	72830	1	0	0	0	0	0	"The Lich King"	0	0	0	0	60	0	0	0	0	0	0	0	0
 16980	347	41	58260	1	0	0	0	0	0	"Pine Nut Bread"	2	0	0	0	60	0	0	0	0	0	0	0	0
 17531	5812	46	589	42000	0	0	0	0	0	"Wintersaber Trainers"	0	0	0	0	60	0	0	62	0	0	42000	0	0
 17967	5892	46	922	42000	0	0	0	0	0	"Tranquillien"	0	0	0	0	60	0	0	62	0	0	42000	0	0
-4396	923	41	13452	0	0	0	0	0	0	"Elixir of the Mongoose"	0	0	0	0	61	0	0	0	0	0	0	0	0
+4388	923	41	3391	0	0	0	0	0	0	"Elixir of Ogre\'s Strength"	0	0	0	0	61	0	0	0	0	0	0	0	0
 8719	347	41	37582	0	0	0	0	0	0	"Pyroblast Cinnamon Ball"	2	0	0	0	61	0	0	0	0	0	0	0	0
 8866	346	41	41731	0	0	0	0	0	0	"Yeti Milk"	2	0	0	0	61	0	0	0	0	0	0	0	0
 11304	621	57	45578	1	0	0	0	0	0	"Gnomeregan Tabard"	2	0	0	0	61	0	0	0	0	0	0	0	0
 17905	5812	46	1204	42000	0	0	0	0	0	"Avengers of Hyjal"	0	0	0	0	61	0	0	62	0	0	42000	0	0
 17968	5892	46	1204	42000	0	0	0	0	0	"Avengers of Hyjal"	0	0	0	0	61	0	0	62	0	0	42000	0	0
-4397	923	41	13447	0	0	0	0	0	0	"Elixir of the Sages"	0	0	0	0	62	0	0	0	0	0	0	0	0
+4389	923	41	9264	0	0	0	0	0	0	"Elixir of Shadow Power"	0	0	0	0	62	0	0	0	0	0	0	0	0
 8868	346	41	44617	0	0	0	0	0	0	"Glass of Dalaran Red"	2	0	0	0	62	0	0	0	0	0	0	0	0
 11305	621	57	45577	1	0	0	0	0	0	"Ironforge Tabard"	2	0	0	0	62	0	0	0	0	0	0	0	0
 16981	347	41	58268	1	0	0	0	0	0	"Roasted Beef"	2	0	0	0	62	0	0	0	0	0	0	0	0
 17906	5812	46	609	42000	0	0	0	0	0	"Cenarion Circle"	0	0	0	0	62	0	0	62	0	0	42000	0	0
 17969	5892	46	609	42000	0	0	0	0	0	"Cenarion Circle"	0	0	0	0	62	0	0	62	0	0	42000	0	0
-4398	923	41	22830	0	0	0	0	0	0	"Elixir of the Searching Eye"	0	0	0	0	63	0	0	0	0	0	0	0	0
+4390	923	41	40072	0	0	0	0	0	0	"Elixir of Spirit"	0	0	0	0	63	0	0	0	0	0	0	0	0
 8718	347	41	33226	0	0	0	0	0	0	"Tricky Treat"	2	0	0	0	63	0	0	0	0	0	0	0	0
 8870	346	41	44619	0	0	0	0	0	0	"Glass of Peaked Dalaran Red"	2	0	0	0	63	0	0	0	0	0	0	0	0
 11306	621	57	45574	1	0	0	0	0	0	"Stormwind Tabard"	2	0	0	0	63	0	0	0	0	0	0	0	0
 17907	5812	46	270	42000	0	0	0	0	0	"Zandalar Tribe"	0	0	0	0	63	0	0	62	0	0	42000	0	0
 17970	5892	46	270	42000	0	0	0	0	0	"Zandalar Tribe"	0	0	0	0	63	0	0	62	0	0	42000	0	0
-4399	923	41	31679	0	0	0	0	0	0	"Fel Strength Elixir"	0	0	0	0	64	0	0	0	0	0	0	0	0
+4391	923	41	13445	0	0	0	0	0	0	"Elixir of Superior Defense"	0	0	0	0	64	0	0	0	0	0	0	0	0
 8872	346	41	44570	0	0	0	0	0	0	"Glass of Eversong Wine"	2	0	0	0	64	0	0	0	0	0	0	0	0
 11378	621	57	45581	1	0	0	0	0	0	"Orgrimmar Tabard"	2	0	0	0	64	0	0	0	0	0	0	0	0
 16982	347	41	59227	1	0	0	0	0	0	"Rock-Hard Biscuit"	2	0	0	0	64	0	0	0	0	0	0	0	0
-4400	923	41	9088	0	0	0	0	0	0	"Gift of Arthas"	0	0	0	0	65	0	0	0	0	0	0	0	0
+4392	923	41	40079	0	0	0	0	0	0	"Elixir of Toughness"	0	0	0	0	65	0	0	0	0	0	0	0	0
 8717	347	41	33218	0	0	0	0	0	0	"Goblin Gumbo"	2	0	0	0	65	0	0	0	0	0	0	0	0
 8881	346	41	33033	0	0	0	0	0	0	"Thunderbrew Stout"	2	0	0	0	65	0	0	0	0	0	0	0	0
 11307	621	57	46817	1	0	0	0	0	0	"Silver Covenant Tabard"	2	0	0	0	65	0	0	0	0	0	0	0	0
-4401	923	41	8424	0	0	0	0	0	0	"Gizzard Gum"	0	0	0	0	66	0	0	0	0	0	0	0	0
+4393	923	41	5996	0	0	0	0	0	0	"Elixir of Water Breathing"	0	0	0	0	66	0	0	0	0	0	0	0	0
 8880	346	41	33032	0	0	0	0	0	0	"Thunderbrew Ale"	2	0	0	0	66	0	0	0	0	0	0	0	0
 11308	621	57	46818	1	0	0	0	0	0	"Sunreaver Tabard"	2	0	0	0	66	0	0	0	0	0	0	0	0
 16983	347	41	62653	1	0	0	0	0	0	"Salted Eye"	2	0	0	0	66	0	0	0	0	0	0	0	0
-4402	923	41	13454	0	0	0	0	0	0	"Greater Arcane Elixir"	0	0	0	0	67	0	0	0	0	0	0	0	0
+4394	923	41	8827	0	0	0	0	0	0	"Elixir of Water Walking"	0	0	0	0	67	0	0	0	0	0	0	0	0
 8716	347	41	24540	0	0	0	0	0	0	"Edible Fern"	2	0	0	0	67	0	0	0	0	0	0	0	0
 8879	346	41	33031	0	0	0	0	0	0	"Thunder 45"	2	0	0	0	67	0	0	0	0	0	0	0	0
 11309	621	57	46874	1	0	0	0	0	0	"Argent Crusader\'s Tabard"	2	0	0	0	67	0	0	0	0	0	0	0	0
-4403	923	41	8412	0	0	0	0	0	0	"Ground Scorpok Assay"	0	0	0	0	68	0	0	0	0	0	0	0	0
+4395	923	41	3383	0	0	0	0	0	0	"Elixir of Wisdom"	0	0	0	0	68	0	0	0	0	0	0	0	0
 8878	346	41	33034	0	0	0	0	0	0	"Gordok Grog"	2	0	0	0	68	0	0	0	0	0	0	0	0
 11760	621	57	49052	1	0	0	0	0	0	"Tabard of Conquest (Alliance)"	2	0	0	0	68	0	0	0	0	0	0	0	0
 16984	347	41	68687	1	0	0	0	0	0	"Scalding Murglesnout"	2	0	0	0	68	0	0	0	0	0	0	0	0
-4404	923	41	8411	0	0	0	0	0	0	"Lung Juice Cocktail"	0	0	0	0	69	0	0	0	0	0	0	0	0
+4396	923	41	13452	0	0	0	0	0	0	"Elixir of the Mongoose"	0	0	0	0	69	0	0	0	0	0	0	0	0
 8715	347	41	24421	0	0	0	0	0	0	"Nagrand Cherry"	2	0	0	0	69	0	0	0	0	0	0	0	0
 8877	346	41	44574	0	0	0	0	0	0	"Skin of Mulgore Firewater"	2	0	0	0	69	0	0	0	0	0	0	0	0
 11761	621	57	49054	1	0	0	0	0	0	"Tabard of Conquest (Horde)"	2	0	0	0	69	0	0	0	0	0	0	0	0
-4405	923	41	8410	0	0	0	0	0	0	"R.O.I.D.S."	0	0	0	0	70	0	0	0	0	0	0	0	0
+4397	923	41	13447	0	0	0	0	0	0	"Elixir of the Sages"	0	0	0	0	70	0	0	0	0	0	0	0	0
 8876	346	41	44716	0	0	0	0	0	0	"Mysterious Fermented Liquid"	2	0	0	0	70	0	0	0	0	0	0	0	0
 12598	621	57	45983	1	0	0	0	0	0	"Furious Gladiator\'s Tabard"	2	0	0	0	70	0	0	0	0	0	0	0	0
 16985	347	41	58267	1	0	0	0	0	0	"Scarlet Polypore"	2	0	0	0	70	0	0	0	0	0	0	0	0
-4406	923	41	8529	0	0	0	0	0	0	"Noggenfogger Elixir"	0	0	0	0	71	0	0	0	0	0	0	0	0
+4398	923	41	22830	0	0	0	0	0	0	"Elixir of the Searching Eye"	0	0	0	0	71	0	0	0	0	0	0	0	0
 8714	347	41	24408	0	0	0	0	0	0	"Edible Stalks"	2	0	0	0	71	0	0	0	0	0	0	0	0
 8875	346	41	44573	0	0	0	0	0	0	"Cup of Frog Venom Brew"	2	0	0	0	71	0	0	0	0	0	0	0	0
 12599	621	57	49086	1	0	0	0	0	0	"Relentless Gladiator\'s Tabard"	2	0	0	0	71	0	0	0	0	0	0	0	0
-4407	923	41	28102	0	0	0	0	0	0	"Onslaught Elixir"	0	0	0	0	72	0	0	0	0	0	0	0	0
+4399	923	41	31679	0	0	0	0	0	0	"Fel Strength Elixir"	0	0	0	0	72	0	0	0	0	0	0	0	0
 8874	346	41	44571	0	0	0	0	0	0	"Bottle of Silvermoon Port"	2	0	0	0	72	0	0	0	0	0	0	0	0
 12600	621	57	40643	1	0	0	0	0	0	"Tabard of the Achiever"	2	0	0	0	72	0	0	0	0	0	0	0	0
 16986	347	41	62652	1	0	0	0	0	0	"Seasoned Crab"	2	0	0	0	72	0	0	0	0	0	0	0	0
-8062	923	41	44328	0	0	0	0	0	0	"Elixir of Mighty Defense"	0	0	0	0	73	0	0	0	0	0	0	0	0
+4400	923	41	9088	0	0	0	0	0	0	"Gift of Arthas"	0	0	0	0	73	0	0	0	0	0	0	0	0
 8713	347	41	23435	0	0	0	0	0	0	"Elderberry Pie"	2	0	0	0	73	0	0	0	0	0	0	0	0
 8873	346	41	44575	0	0	0	0	0	0	"Flask of Bitter Cactus Cider"	2	0	0	0	73	0	0	0	0	0	0	0	0
 13241	621	57	52252	1	0	0	0	0	0	"Tabard of the Lightbringer"	2	0	0	0	73	0	0	0	0	0	0	0	0
-8066	923	41	44332	0	0	0	0	0	0	"Elixir of Mighty Thoughts"	0	0	0	0	74	0	0	0	0	0	0	0	0
+4401	923	41	8424	0	0	0	0	0	0	"Gizzard Gum"	0	0	0	0	74	0	0	0	0	0	0	0	0
 8889	346	41	34021	0	0	0	0	0	0	"Brewdoo Magic"	2	0	0	0	74	0	0	0	0	0	0	0	0
 13242	621	57	51534	1	0	0	0	0	0	"Wrathful Gladiator\'s Tabard"	2	0	0	0	74	0	0	0	0	0	0	0	0
 16987	347	41	62671	1	0	0	0	0	0	"Severed Sagefish Head"	2	0	0	0	74	0	0	0	0	0	0	0	0
-8068	923	41	11564	0	0	0	0	0	0	"Crystal Ward"	0	0	0	0	75	0	0	0	0	0	0	0	0
+4402	923	41	13454	0	0	0	0	0	0	"Greater Arcane Elixir"	0	0	0	0	75	0	0	0	0	0	0	0	0
 8712	347	41	23327	0	0	0	0	0	0	"Fire-toasted Bun"	2	0	0	0	75	0	0	0	0	0	0	0	0
 8888	346	41	34020	0	0	0	0	0	0	"Jungle River Water"	2	0	0	0	75	0	0	0	0	0	0	0	0
 16319	621	57	65909	1	0	0	0	0	0	"Tabard of the Dragonmaw Clan"	2	0	0	0	75	0	0	0	0	0	0	0	0
-8070	923	41	12457	0	0	0	0	0	0	"Juju Chill"	0	0	0	0	76	0	0	0	0	0	0	0	0
+4403	923	41	8412	0	0	0	0	0	0	"Ground Scorpok Assay"	0	0	0	0	76	0	0	0	0	0	0	0	0
 8887	346	41	34019	0	0	0	0	0	0	"Path of Brew"	2	0	0	0	76	0	0	0	0	0	0	0	0
 16320	621	57	65908	1	0	0	0	0	0	"Tabard of the Wildhammer Clan"	2	0	0	0	76	0	0	0	0	0	0	0	0
 16988	347	41	58277	1	0	0	0	0	0	"Simmered Squid"	2	0	0	0	76	0	0	0	0	0	0	0	0
-8072	923	41	12460	0	0	0	0	0	0	"Juju Might"	0	0	0	0	77	0	0	0	0	0	0	0	0
+4404	923	41	8411	0	0	0	0	0	0	"Lung Juice Cocktail"	0	0	0	0	77	0	0	0	0	0	0	0	0
 8711	347	41	23326	0	0	0	0	0	0	"Midsummer Sausage"	2	0	0	0	77	0	0	0	0	0	0	0	0
 8886	346	41	34018	0	0	0	0	0	0	"Long Stride Brew"	2	0	0	0	77	0	0	0	0	0	0	0	0
 16321	621	57	65907	1	0	0	0	0	0	"Tabard of Therazane"	2	0	0	0	77	0	0	0	0	0	0	0	0
-8074	923	41	20004	0	0	0	0	0	0	"Major Troll\'s Blood Elixir"	0	0	0	0	78	0	0	0	0	0	0	0	0
+4405	923	41	8410	0	0	0	0	0	0	"R.O.I.D.S."	0	0	0	0	78	0	0	0	0	0	0	0	0
 8885	346	41	33030	0	0	0	0	0	0	"Barleybrew Clear"	2	0	0	0	78	0	0	0	0	0	0	0	0
 16322	621	57	65906	1	0	0	0	0	0	"Tabard of the Guardians of Hyjal"	2	0	0	0	78	0	0	0	0	0	0	0	0
 16989	347	41	62669	1	0	0	0	0	0	"Skewered Eel"	2	0	0	0	78	0	0	0	0	0	0	0	0
-8032	923	41	44327	0	0	0	0	0	0	"Elixir of Deadly Strikes"	0	0	0	0	79	0	0	0	0	0	0	0	0
+4406	923	41	8529	0	0	0	0	0	0	"Noggenfogger Elixir"	0	0	0	0	79	0	0	0	0	0	0	0	0
 8710	347	41	23211	0	0	0	0	0	0	"Toasted Smorc"	2	0	0	0	79	0	0	0	0	0	0	0	0
 8884	346	41	33029	0	0	0	0	0	0	"Barleybrew Dark"	2	0	0	0	79	0	0	0	0	0	0	0	0
 16323	621	57	65905	1	0	0	0	0	0	"Tabard of the Earthen Ring"	2	0	0	0	79	0	0	0	0	0	0	0	0
-8031	923	41	44325	0	0	0	0	0	0	"Elixir of Accuracy"	0	0	0	0	80	0	0	0	0	0	0	0	0
+4407	923	41	28102	0	0	0	0	0	0	"Onslaught Elixir"	0	0	0	0	80	0	0	0	0	0	0	0	0
 8883	346	41	33028	0	0	0	0	0	0	"Barleybrew Light"	2	0	0	0	80	0	0	0	0	0	0	0	0
 16324	621	57	65904	1	0	0	0	0	0	"Tabard of Ramkahen"	2	0	0	0	80	0	0	0	0	0	0	0	0
 16990	347	41	58262	1	0	0	0	0	0	"Sliced Raw Billfish"	2	0	0	0	80	0	0	0	0	0	0	0	0
-8090	923	41	37570	0	0	0	0	0	0	"Murkweed Elixir"	0	0	0	0	81	0	0	0	0	0	0	0	0
+8062	923	41	44328	0	0	0	0	0	0	"Elixir of Mighty Defense"	0	0	0	0	81	0	0	0	0	0	0	0	0
 8709	347	41	23175	0	0	0	0	0	0	"Tasty Summer Treat"	2	0	0	0	81	0	0	0	0	0	0	0	0
 8882	346	41	33035	0	0	0	0	0	0	"Ogre Mead"	2	0	0	0	81	0	0	0	0	0	0	0	0
 16325	621	57	64884	1	0	0	0	0	0	"Bilgewater Cartel Tabard"	2	0	0	0	81	0	0	0	0	0	0	0	0
-8089	923	41	36769	0	0	0	0	0	0	"Zort\'s Protective Elixir"	0	0	0	0	82	0	0	0	0	0	0	0	0
+8066	923	41	44332	0	0	0	0	0	0	"Elixir of Mighty Thoughts"	0	0	0	0	82	0	0	0	0	0	0	0	0
 8871	346	41	44620	0	0	0	0	0	0	"Glass of Vintage Dalaran Red"	2	0	0	0	82	0	0	0	0	0	0	0	0
 16326	621	57	64882	1	0	0	0	0	0	"Gilneas Tabard"	2	0	0	0	82	0	0	0	0	0	0	0	0
 16991	347	41	58258	1	0	0	0	0	0	"Smoked String Cheese"	2	0	0	0	82	0	0	0	0	0	0	0	0
-8088	923	41	36770	0	0	0	0	0	0	"Zort\'s Protective Elixir"	0	0	0	0	83	0	0	0	0	0	0	0	0
+8068	923	41	11564	0	0	0	0	0	0	"Crystal Ward"	0	0	0	0	83	0	0	0	0	0	0	0	0
 8708	347	41	22239	0	0	0	0	0	0	"Sweet Surprise"	2	0	0	0	83	0	0	0	0	0	0	0	0
 8869	346	41	44618	0	0	0	0	0	0	"Glass of Aged Dalaran Red"	2	0	0	0	83	0	0	0	0	0	0	0	0
 16327	621	57	63379	1	0	0	0	0	0	"Baradin\'s Wardens Tabard"	2	0	0	0	83	0	0	0	0	0	0	0	0
-8087	923	41	35797	0	0	0	0	0	0	"Drakuru\'s Elixir"	0	0	0	0	84	0	0	0	0	0	0	0	0
+8070	923	41	12457	0	0	0	0	0	0	"Juju Chill"	0	0	0	0	84	0	0	0	0	0	0	0	0
 8867	346	41	44616	0	0	0	0	0	0	"Glass of Dalaran White"	2	0	0	0	84	0	0	0	0	0	0	0	0
 16328	621	57	63378	1	0	0	0	0	0	"Hellscream\'s Reach Tabard"	2	0	0	0	84	0	0	0	0	0	0	0	0
 16992	347	41	58264	1	0	0	0	0	0	"Sour Green Apple"	2	0	0	0	84	0	0	0	0	0	0	0	0
 7976	347	41	21071	1	0	0	0	0	0	"Raw Sagefish"	2	0	0	0	85	0	0	0	0	0	0	0	0
-8086	923	41	32446	0	0	0	0	0	0	"Elixir of Shadows"	0	0	0	0	85	0	0	0	0	0	0	0	0
+8072	923	41	12460	0	0	0	0	0	0	"Juju Might"	0	0	0	0	85	0	0	0	0	0	0	0	0
 8891	346	41	34017	0	0	0	0	0	0	"Small Step Brew"	2	0	0	0	85	0	0	0	0	0	0	0	0
 16329	621	57	56246	1	0	0	0	0	0	"Krom\'gar Tabard"	2	0	0	0	85	0	0	0	0	0	0	0	0
 6485	346	41	40042	0	0	0	0	0	0	"Caraway Burnwine"	2	0	0	0	86	0	0	0	0	0	0	0	0
-8085	923	41	24428	0	0	0	0	0	0	"Ahuurn\'s Elixir"	0	0	0	0	86	0	0	0	0	0	0	0	0
+8074	923	41	20004	0	0	0	0	0	0	"Major Troll\'s Blood Elixir"	0	0	0	0	86	0	0	0	0	0	0	0	0
 16885	621	57	69209	1	0	0	0	0	0	"Illustrious Guild Tabard"	2	0	0	0	86	0	0	0	0	0	0	0	0
 16993	347	41	58280	1	0	0	0	0	0	"Stewed Rabbit"	2	0	0	0	86	0	0	0	0	0	0	0	0
 6452	346	41	17199	0	0	0	0	0	0	"Bad Egg Nog"	2	0	0	0	87	0	0	0	0	0	0	0	0
 7975	347	41	6362	1	0	0	0	0	0	"Raw Rockscale Cod"	2	0	0	0	87	0	0	0	0	0	0	0	0
-8084	923	41	11243	0	0	0	0	0	0	"Videre Elixir"	0	0	0	0	87	0	0	0	0	0	0	0	0
+8032	923	41	44327	0	0	0	0	0	0	"Elixir of Deadly Strikes"	0	0	0	0	87	0	0	0	0	0	0	0	0
 16886	621	57	69210	1	0	0	0	0	0	"Renowned Guild Tabard"	2	0	0	0	87	0	0	0	0	0	0	0	0
 4655	346	41	33042	0	0	0	0	0	0	"Black Coffee"	2	0	0	0	88	0	0	0	0	0	0	0	0
-8083	923	41	22193	0	0	0	0	0	0	"Bloodkelp Elixir of Resistance"	0	0	0	0	88	0	0	0	0	0	0	0	0
+8031	923	41	44325	0	0	0	0	0	0	"Elixir of Accuracy"	0	0	0	0	88	0	0	0	0	0	0	0	0
 16994	347	41	58279	1	0	0	0	0	0	"Tasty Puffball"	2	0	0	0	88	0	0	0	0	0	0	0	0
 4656	346	41	38431	0	0	0	0	0	0	"Blackrock Fortified Water"	2	0	0	0	89	0	0	0	0	0	0	0	0
 7974	347	41	13758	1	0	0	0	0	0	"Raw Redgill"	2	0	0	0	89	0	0	0	0	0	0	0	0
-8082	923	41	22192	0	0	0	0	0	0	"Bloodkelp Elixir of Dodging"	0	0	0	0	89	0	0	0	0	0	0	0	0
+8090	923	41	37570	0	0	0	0	0	0	"Murkweed Elixir"	0	0	0	0	89	0	0	0	0	0	0	0	0
 4657	346	41	38430	0	0	0	0	0	0	"Blackrock Mineral Water"	2	0	0	0	90	0	0	0	0	0	0	0	0
-8081	923	41	37878	0	0	0	0	0	0	"Worg\'s Blood Elixir"	0	0	0	0	90	0	0	0	0	0	0	0	0
+8089	923	41	36769	0	0	0	0	0	0	"Zort\'s Protective Elixir"	0	0	0	0	90	0	0	0	0	0	0	0	0
 16995	347	41	62658	1	0	0	0	0	0	"Tender Baked Turtle"	2	0	0	0	90	0	0	0	0	0	0	0	0
 4658	346	41	38429	0	0	0	0	0	0	"Blackrock Spring Water"	2	0	0	0	91	0	0	0	0	0	0	0	0
 7973	347	41	6361	1	0	0	0	0	0	"Raw Raindbow Fin Albacore"	2	0	0	0	91	0	0	0	0	0	0	0	0
-8080	923	41	40076	0	0	0	0	0	0	"Guru\'s Elixir"	0	0	0	0	91	0	0	0	0	0	0	0	0
+8088	923	41	36770	0	0	0	0	0	0	"Zort\'s Protective Elixir"	0	0	0	0	91	0	0	0	0	0	0	0	0
 4659	346	41	17404	0	0	0	0	0	0	"Blended Bean Brew"	2	0	0	0	92	0	0	0	0	0	0	0	0
-8079	923	41	40070	0	0	0	0	0	0	"Spellpower Elixir"	0	0	0	0	92	0	0	0	0	0	0	0	0
+8087	923	41	35797	0	0	0	0	0	0	"Drakuru\'s Elixir"	0	0	0	0	92	0	0	0	0	0	0	0	0
 16996	347	41	58278	1	0	0	0	0	0	"Tropical Sunfruit"	2	0	0	0	92	0	0	0	0	0	0	0	0
 4660	346	41	2723	0	0	0	0	0	0	"Bottle of Pinot Noir"	2	0	0	0	93	0	0	0	0	0	0	0	0
 7972	347	41	13759	1	0	0	0	0	0	"Raw Nightfin Snapper"	2	0	0	0	93	0	0	0	0	0	0	0	0
-8078	923	41	40068	0	0	0	0	0	0	"Wrath Elixir"	0	0	0	0	93	0	0	0	0	0	0	0	0
+8086	923	41	32446	0	0	0	0	0	0	"Elixir of Shadows"	0	0	0	0	93	0	0	0	0	0	0	0	0
 4661	346	41	19300	0	0	0	0	0	0	"Bottled Winterspring Water"	2	0	0	0	94	0	0	0	0	0	0	0	0
-8077	923	41	3826	0	0	0	0	0	0	"Mighty Troll\'s Blood Elixir"	0	0	0	0	94	0	0	0	0	0	0	0	0
+8085	923	41	24428	0	0	0	0	0	0	"Ahuurn\'s Elixir"	0	0	0	0	94	0	0	0	0	0	0	0	0
 16997	347	41	59232	1	0	0	0	0	0	"Unidentifiable Meat Dish"	2	0	0	0	94	0	0	0	0	0	0	0	0
 4662	346	41	9451	0	0	0	0	0	0	"Bubbling Water"	2	0	0	0	95	0	0	0	0	0	0	0	0
 7971	347	41	8365	1	0	0	0	0	0	"Raw Mithril Head Trout"	2	0	0	0	95	0	0	0	0	0	0	0	0
-8076	923	41	3382	0	0	0	0	0	0	"Weak Troll\'s Blood Elixir"	0	0	0	0	95	0	0	0	0	0	0	0	0
+8084	923	41	11243	0	0	0	0	0	0	"Videre Elixir"	0	0	0	0	95	0	0	0	0	0	0	0	0
 4663	346	41	34832	0	0	0	0	0	0	"Captain Rumsey\'s Lager"	2	0	0	0	96	0	0	0	0	0	0	0	0
-8075	923	41	20007	0	0	0	0	0	0	"Mageblood Elixir"	0	0	0	0	96	0	0	0	0	0	0	0	0
+8083	923	41	22193	0	0	0	0	0	0	"Bloodkelp Elixir of Resistance"	0	0	0	0	96	0	0	0	0	0	0	0	0
 16998	347	41	59228	1	0	0	0	0	0	"Vile Purple Fungus"	2	0	0	0	96	0	0	0	0	0	0	0	0
 4664	346	41	29112	0	0	0	0	0	0	"Cenarion Spirits"	2	0	0	0	97	0	0	0	0	0	0	0	0
 7970	347	41	6289	1	0	0	0	0	0	"Raw Longjaw Mud Snapper"	2	0	0	0	97	0	0	0	0	0	0	0	0
-8073	923	41	12820	0	0	0	0	0	0	"Winterfall Firewater"	0	0	0	0	97	0	0	0	0	0	0	0	0
+8082	923	41	22192	0	0	0	0	0	0	"Bloodkelp Elixir of Dodging"	0	0	0	0	97	0	0	0	0	0	0	0	0
 4665	346	41	19222	0	0	0	0	0	0	"Cheap Beer"	2	0	0	0	98	0	0	0	0	0	0	0	0
-8071	923	41	12459	0	0	0	0	0	0	"Juju Escape"	0	0	0	0	98	0	0	0	0	0	0	0	0
+8081	923	41	37878	0	0	0	0	0	0	"Worg\'s Blood Elixir"	0	0	0	0	98	0	0	0	0	0	0	0	0
 16999	347	41	58266	1	0	0	0	0	0	"Violet Morel"	2	0	0	0	98	0	0	0	0	0	0	0	0
 4666	346	41	4600	0	0	0	0	0	0	"Cherry Grog"	2	0	0	0	99	0	0	0	0	0	0	0	0
 7969	347	41	6317	1	0	0	0	0	0	"Raw Loch Frenzy"	2	0	0	0	99	0	0	0	0	0	0	0	0
-8069	923	41	12455	0	0	0	0	0	0	"Juju Ember"	0	0	0	0	99	0	0	0	0	0	0	0	0
+8080	923	41	40076	0	0	0	0	0	0	"Guru\'s Elixir"	0	0	0	0	99	0	0	0	0	0	0	0	0
 4667	346	41	8079	0	0	0	0	0	0	"Conjured Crystal Water"	2	0	0	0	100	0	0	0	0	0	0	0	0
-8067	923	41	11563	0	0	0	0	0	0	"Crystal Force"	0	0	0	0	100	0	0	0	0	0	0	0	0
+8079	923	41	40070	0	0	0	0	0	0	"Spellpower Elixir"	0	0	0	0	100	0	0	0	0	0	0	0	0
 17000	347	41	62656	1	0	0	0	0	0	"Whitecrest Gumbo"	2	0	0	0	100	0	0	0	0	0	0	0	0
 4668	346	41	2288	0	0	0	0	0	0	"Conjured Fresh Water"	2	0	0	0	101	0	0	0	0	0	0	0	0
 7968	347	41	21153	1	0	0	0	0	0	"Raw Greater Sagefish"	2	0	0	0	101	0	0	0	0	0	0	0	0
-8065	923	41	44331	0	0	0	0	0	0	"Elixir of Lightning Speed"	0	0	0	0	101	0	0	0	0	0	0	0	0
+8078	923	41	40068	0	0	0	0	0	0	"Wrath Elixir"	0	0	0	0	101	0	0	0	0	0	0	0	0
 4669	346	41	22018	0	0	0	0	0	0	"Conjured Glacier Water"	2	0	0	0	102	0	0	0	0	0	0	0	0
 7984	347	41	43647	1	0	0	0	0	0	"Shimmering Minnow"	2	0	0	0	102	0	0	0	0	0	0	0	0
-8064	923	41	44330	0	0	0	0	0	0	"Elixir of Armor Piercing"	0	0	0	0	102	0	0	0	0	0	0	0	0
+8077	923	41	3826	0	0	0	0	0	0	"Mighty Troll\'s Blood Elixir"	0	0	0	0	102	0	0	0	0	0	0	0	0
 4671	346	41	8077	0	0	0	0	0	0	"Conjured Mineral Water"	2	0	0	0	103	0	0	0	0	0	0	0	0
 7983	347	41	44072	1	0	0	0	0	0	"Roasted Mystery Beast"	2	0	0	0	103	0	0	0	0	0	0	0	0
-8063	923	41	44329	0	0	0	0	0	0	"Elixir of Expertise"	0	0	0	0	103	0	0	0	0	0	0	0	0
+8076	923	41	3382	0	0	0	0	0	0	"Weak Troll\'s Blood Elixir"	0	0	0	0	103	0	0	0	0	0	0	0	0
 4672	346	41	30703	0	0	0	0	0	0	"Conjured Mountain Spring Water"	2	0	0	0	104	0	0	0	0	0	0	0	0
 7982	347	41	13889	1	0	0	0	0	0	"Raw Whitescale Salmon"	2	0	0	0	104	0	0	0	0	0	0	0	0
+8075	923	41	20007	0	0	0	0	0	0	"Mageblood Elixir"	0	0	0	0	104	0	0	0	0	0	0	0	0
 4673	346	41	2136	0	0	0	0	0	0	"Conjured Purified Water"	2	0	0	0	105	0	0	0	0	0	0	0	0
 8004	347	41	44071	1	0	0	0	0	0	"Slow-Roasted Eel"	2	0	0	0	105	0	0	0	0	0	0	0	0
+8073	923	41	12820	0	0	0	0	0	0	"Winterfall Firewater"	0	0	0	0	105	0	0	0	0	0	0	0	0
 4674	346	41	8078	0	0	0	0	0	0	"Conjured Sparkling Water"	2	0	0	0	106	0	0	0	0	0	0	0	0
 7981	347	41	13760	1	0	0	0	0	0	"Raw Sunscale Salmon"	2	0	0	0	106	0	0	0	0	0	0	0	0
+8071	923	41	12459	0	0	0	0	0	0	"Juju Escape"	0	0	0	0	106	0	0	0	0	0	0	0	0
 4675	346	41	3772	0	0	0	0	0	0	"Conjured Spring Water"	2	0	0	0	107	0	0	0	0	0	0	0	0
 7980	347	41	13756	1	0	0	0	0	0	"Raw Summer Bass"	2	0	0	0	107	0	0	0	0	0	0	0	0
+8069	923	41	12455	0	0	0	0	0	0	"Juju Ember"	0	0	0	0	107	0	0	0	0	0	0	0	0
 4676	346	41	5350	0	0	0	0	0	0	"Conjured Water"	2	0	0	0	108	0	0	0	0	0	0	0	0
 7979	347	41	4603	1	0	0	0	0	0	"Raw Spotted Yellowtail"	2	0	0	0	108	0	0	0	0	0	0	0	0
+8067	923	41	11563	0	0	0	0	0	0	"Crystal Force"	0	0	0	0	108	0	0	0	0	0	0	0	0
 4677	346	41	12003	0	0	0	0	0	0	"Dark Dwarven Lager"	2	0	0	0	109	0	0	0	0	0	0	0	0
 7978	347	41	8959	1	0	0	0	0	0	"Raw Spinefin Halibut"	2	0	0	0	109	0	0	0	0	0	0	0	0
+8065	923	41	44331	0	0	0	0	0	0	"Elixir of Lightning Speed"	0	0	0	0	109	0	0	0	0	0	0	0	0
 4678	346	41	19221	0	0	0	0	0	0	"Darkmoon Special Reserve"	2	0	0	0	110	0	0	0	0	0	0	0	0
 7977	347	41	6303	1	0	0	0	0	0	"Raw Slitherskin Mackerel"	2	0	0	0	110	0	0	0	0	0	0	0	0
+8064	923	41	44330	0	0	0	0	0	0	"Elixir of Armor Piercing"	0	0	0	0	110	0	0	0	0	0	0	0	0
 4679	346	41	28284	0	0	0	0	0	0	"Don Carlos Tequila"	2	0	0	0	111	0	0	0	0	0	0	0	0
 7967	347	41	13754	1	0	0	0	0	0	"Raw Glossy Mightfish"	2	0	0	0	111	0	0	0	0	0	0	0	0
+8063	923	41	44329	0	0	0	0	0	0	"Elixir of Expertise"	0	0	0	0	111	0	0	0	0	0	0	0	0
 4680	346	41	32668	0	0	0	0	0	0	"Dos Ogris"	2	0	0	0	112	0	0	0	0	0	0	0	0
 7966	347	41	6308	1	0	0	0	0	0	"Raw Bristle Whisker Catfish"	2	0	0	0	112	0	0	0	0	0	0	0	0
 4681	346	41	17198	0	0	0	0	0	0	"Egg Nog"	2	0	0	0	113	0	0	0	0	0	0	0	0

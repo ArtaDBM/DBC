@@ -101,9 +101,15 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5535	-1	-1	0	"1000 Valor Points"	"Earn 1000 Valor Points"	168	10	1	0	5312	""	0	0
 5542	-1	-1	0	"1000 Conquest Points"	"Earn 1000 Conquest Points"	95	10	1	0	3387	""	0	0
 5724	-1	645	0	"Ascendant Lord Obsidius kills (Blackrock Caverns)"	""	15096	0	1	1	1	""	0	0
-6019	-1	-1	0	"Come One, Come All!"	"Attend the Darkmoon Faire."	15101	5	1	0	3164	""	0	0
+6021	-1	-1	0	"Blastenheimer Bullseye"	"Score a bullseye when launched from the Darkmoon Cannon."	15101	10	1	0	2230	""	0	0
 6135	-1	-1	0	"Taragaman the Hungerer kills (Ragefire Chasm)"	""	14821	0	1	1	1	""	0	0
 6147	-1	-1	0	"Omor the Unscarred kills (Hellfire Ramparts)"	""	14822	0	1	1	1	""	0	0
+6300	-1	-1	0	"[NYI] Jade Forest"	"Complete the following storylines in the Jade Forest."	15110	10	1	0	3697	""	0	0
+6351	-1	-1	0	"Explore Jade Forest (NYI)"	"Explore Jade Forest, revealing the covered areas of the world map."	15113	10	1	0	4499	""	0	0
+6366	-1	-1	0	"Shadowpan"	"Earn exalted status with the Shadowpan because they are the most awesome faction EVER."	15114	15	1	0	543	"Title: Avenger of Hyjal "	0	0
+6369	-1	961	0	"Bronze Challenge: Stormstout Brewery"	""	15115	10	1	0	4491	""	0	0
+6457	-1	961	0	"Stormstout Brewery"	"Defeat Yan-Zhu the Uncasked in Stormstout Brewery."	15106	10	1	0	6054	""	0	0
+6458	-1	1008	0	"Mogu\'shan Vaults"	"Defeat the bosses in Mogu\'shan Vaults."	15107	10	1	0	4641	""	0	0
 7	-1	-1	6	"Level 20"	"Reach level 20."	92	10	2	4100	3269	""	0	0
 43	-1	-1	0	"Explore Kalimdor"	"Explore the regions of Kalimdor."	97	25	2	0	3491	""	0	0
 59	-1	529	0	"Deaths in Arathi Basin"	"Deaths in Arathi Basin"	124	0	2	1	1	""	0	0
@@ -206,7 +212,13 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5718	1	-1	0	"Just Another Day in Tol Barad"	"Complete all of the Tol Barad daily quests listed below."	15075	10	2	0	4501	""	0	0
 5725	-1	645	0	"Ascendant Lord Obsidius kills (Heroic Blackrock Caverns)"	""	15096	0	2	1	1	""	0	0
 5794	-1	-1	0	"Time Flies When You\'re Having Fun"	"Earn Exalted status with your guild."	201	10	2	4096	5497	""	1	0
-6020	-1	-1	0	"Step Right Up"	"Play five different Darkmoon games."	15101	10	2	0	5657	""	0	0
+6019	-1	-1	0	"Come One, Come All!"	"Attend the Darkmoon Faire."	15101	5	2	0	3164	""	0	0
+6301	0	-1	0	"[NYI] Walk the Land"	"Complete the following storylines in the Valley of the Four Winds."	15110	10	2	0	3697	""	0	0
+6363	-1	-1	0	"What a View (NYI)"	"Visit each of the 10,000 waterfalls of Pandaria."	15113	0	2	0	5281	""	0	0
+6367	-1	-1	0	"Shadowpan"	"Earn exalted status with the Shadowpan because they are the most awesome faction EVER."	15114	15	2	0	543	"Title: Avenger of Hyjal "	0	0
+6368	-1	961	0	"Bronze Challenge: Stormstout Brewery"	""	15115	10	2	0	4491	""	0	0
+6455	-1	1008	0	"Show Me Your Moves!"	"Defeat the Terracotta Army in Mogu\'shan Vaults on Normal or Heroic difficulty without any member of the raid being hit by Devastating Arc, Stomp or Energizing Smash."	15107	10	2	0	5752	""	0	0
+6485	-1	1011	0	"Return to Sender"	"Defeat Mantid General [PH] while he has 20 stacks of Detonate in the Siege of Niuzao Temple on Heroic Difficulty."	15106	10	2	0	1755	""	0	0
 8	-1	-1	7	"Level 30"	"Reach level 30."	92	10	3	4100	3270	""	0	0
 34	1	-1	0	"I\'ve Toured the Fjord"	"Complete 130 quests in Howling Fjord."	14863	10	3	0	3337	""	0	0
 44	-1	-1	0	"Explore Outland"	"Explore the regions of Outland."	97	25	3	0	3492	""	0	0
@@ -304,8 +316,11 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5540	-1	-1	5541	"25,000 Conquest Points"	"Earn 25,000 Conquest Points"	95	10	3	0	3387	""	0	0
 5719	0	-1	0	"Just Another Day in Tol Barad"	"Complete all of the Tol Barad daily quests listed below."	15075	10	3	0	4501	""	0	0
 5726	-1	643	0	"Ozumat kills (Throne of the Tides)"	""	15096	0	3	1	1	""	0	0
-6021	-1	-1	0	"Blastenheimer Bullseye"	"Score a bullseye when launched from the Darkmoon Cannon."	15101	10	3	0	2230	""	0	0
+6023	-1	-1	0	"Darkmoon Duelist"	"Win the Darkmoon Deathmatch and receive a Pit Fighter trinket."	15101	10	3	0	5658	""	0	0
 6136	-1	-1	0	"Mutanus the Devourer kills (Wailing Caverns)"	""	14821	0	3	1	1	""	0	0
+6370	-1	961	0	"Silver Challenge: Stormstout Brewery"	""	15115	10	3	0	4491	""	0	0
+6477	-1	959	0	"Aisatsu"	"Bow to the Shadowpan Initiates when they bow to you after being defeated, but before they fully heal during the Master Snowdrift event."	15106	10	3	0	6080	""	0	0
+6480	-1	870	0	"Settle Down, Bro"	"Defeat the Sha of Anger in Kun-Lai Summit."	15107	10	3	0	3198	""	0	0
 9	-1	-1	8	"Level 40"	"Reach level 40."	92	10	4	4100	3271	""	0	0
 45	-1	-1	0	"Explore Northrend"	"Explore the regions of Northrend."	97	25	4	0	3493	"Reward: Tabard of the Explorer"	0	0
 108	-1	-1	0	"Critters killed"	"Critters killed"	135	0	4	1	4	""	0	0
@@ -403,7 +418,9 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5693	-1	-1	0	"Rated battleground played the most"	"Rated battleground played the most"	153	0	4	17	1	""	0	5692
 5727	-1	643	0	"Ozumat kills (Heroic Throne of the Tides)"	""	15096	0	4	1	1	""	0	0
 6011	1	-1	0	"Flame Warden of Cataclysm"	"Honor the flames of zones opened by the cataclysm."	161	10	4	0	1923	""	0	0
-6022	-1	-1	0	"Quick Shot"	"Score a Quick Shot at the Shooting Gallery."	15101	10	4	0	1616	""	0	0
+6024	-1	-1	6023	"Darkmoon Dominator"	"Win the Darkmoon Deathmatch twelve times and receive a Master Pit Fighter trinket."	15101	20	4	0	3139	""	0	0
+6371	-1	961	0	"Silver Challenge: Stormstout Brewery"	""	15115	10	4	0	4491	"A piece of challenge armor."	0	0
+6476	-1	962	0	"Conscriptinator"	"Gain three stacks of Resin Residue by defeating Mantid Conscripts."	15106	10	4	0	2956	""	0	0
 10	-1	-1	9	"Level 50"	"Reach level 50."	92	10	5	4100	3272	""	0	0
 35	1	-1	0	"Might of Dragonblight"	"Complete 115 quests in Dragonblight."	14863	10	5	0	3338	""	0	0
 73	-1	529	0	"Disgracin\' The Basin"	"Assault 3 bases in a single Arathi Basin battle."	14802	10	5	0	456	""	0	0
@@ -497,8 +514,10 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5457	-1	-1	0	"The Pen is Mightier"	"Create 2,500 glyphs."	15080	10	5	28672	5123	""	0	0
 5728	-1	725	0	"High Priestess Azil kills (Stonecore)"	""	15096	0	5	1	1	""	0	0
 5983	-1	720	0	"Firelands Guild Run"	"Defeat the bosses in Firelands while in a guild group."	15087	10	5	53248	5423	""	0	0
-6023	-1	-1	0	"Darkmoon Duelist"	"Win the Darkmoon Deathmatch and receive a Pit Fighter trinket."	15101	10	5	0	5658	""	0	0
+6027	-1	-1	0	"Darkmoon Dungeoneer"	"Turn in all five dungeon Darkmoon Artifacts."	15101	10	5	0	2436	""	0	0
 6137	-1	-1	0	"Aku\'mai kills (Blackfathom Deeps)"	""	14821	0	5	1	1	""	0	0
+6373	-1	961	0	"Gold Challenge: Stormstout Brewery"	""	15115	10	5	0	4491	""	0	0
+6475	-1	960	0	"Cleaning Up"	"Defeat the Sha of Doubt in Temple of the Jade Serpent while under the effects of Purified Water."	15106	10	5	0	2011	""	0	0
 11	-1	-1	10	"Level 60"	"Reach level 60."	92	10	6	4100	3273	""	0	0
 46	-1	-1	0	"World Explorer"	"Explore Eastern Kingdoms, Kalimdor, Outland, Northrend, and the areas revealed by the Cataclysm."	97	50	6	0	2759	"Title Reward: The Explorer"	0	0
 58	1	30	0	"Deaths from Drek\'Thar"	"Deaths from Drek\'Thar"	124	0	6	1	1	""	0	0
@@ -589,9 +608,11 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5729	-1	725	0	"High Priestess Azil kills (Heroic Stonecore)"	""	15096	0	6	1	1	""	0	0
 5823	1	-1	5328	"Veteran of the Alliance II"	"Win 150 rated battlegrounds."	15092	10	6	0	1704	"Reward: Epic Warhorse"	0	0
 5985	-1	720	0	"Realm First! Ragnaros"	"First guild on the realm to defeat Ragnaros in Firelands on Heroic Difficulty while in a guild group."	15093	0	6	63744	5508	""	1	0
-6024	-1	-1	6023	"Darkmoon Dominator"	"Win the Darkmoon Deathmatch twelve times and receive a Master Pit Fighter trinket."	15101	20	6	0	3139	""	0	0
+6028	-1	-1	0	"Darkmoon Defender"	"Turn in all three battleground Darkmoon Artifacts."	15101	10	6	0	2300	""	0	0
 6123	-1	967	0	"Dragon Soul Guild Run"	"Defeat the bosses in Dragon Soul while in a guild group."	15087	10	6	53248	5702	""	0	0
 6138	-1	-1	0	"Hogger kills (Stormwind Stockade)"	""	14821	0	6	1	1	""	0	0
+6372	-1	961	0	"Gold Challenge: Stormstout Brewery"	""	15115	10	6	0	4491	""	0	0
+6456	-1	961	6457	"Heroic: Stormstout Brewery"	"Defeat Yan-Zhu the Uncasked in Stormstout Brewery on Heroic Difficulty."	15106	10	6	0	6054	""	0	0
 12	-1	-1	11	"Level 70"	"Reach level 70."	92	10	7	4100	3274	""	0	0
 32	-1	-1	508	"2000 Quests Completed"	"Complete 2000 quests."	96	10	7	0	3415	""	0	0
 37	1	-1	0	"Fo\' Grizzle My Shizzle"	"Complete 85 quests in Grizzly Hills."	14863	10	7	0	3339	""	0	0
@@ -618,7 +639,6 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 841	-1	-1	0	"Explore Wetlands"	"Explore Wetlands, revealing the covered areas of the world map."	14777	10	7	0	3573	""	0	0
 844	-1	-1	0	"Explore Darkshore"	"Explore Darkshore, revealing the covered areas of the world map."	14778	10	7	0	3553	""	0	0
 864	-1	-1	0	"Explore Shadowmoon Valley"	"Explore Shadowmoon Valley, revealing the covered areas of the world map."	14779	10	7	0	3584	""	0	0
-877	-1	-1	0	"The Cake Is Not A Lie"	"Bake a Delicious Chocolate Cake."	170	10	7	0	2917	""	0	0
 898	-1	-1	0	"On Wings of Nether"	"Earn exalted status with Netherwing."	14865	10	7	0	1928	""	0	0
 922	-1	-1	0	"Mana potions consumed"	"Mana potions consumed"	145	0	7	9	1	""	0	0
 926	0	-1	0	"Most Horde factions at Exalted"	"Most Horde factions at Exalted"	147	0	7	33	1	""	0	0
@@ -679,9 +699,12 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5501	0	-1	0	"Fading into Twilight"	"Complete 95 quests in Twilight Highlands."	15070	10	7	0	4506	""	0	0
 5730	-1	657	0	"Asaad kills (Vortex Pinnacle)"	""	15096	0	7	1	1	""	0	0
 6008	1	-1	0	"Flame Warden of Northrend"	"Honor the flames of Northrend."	161	10	7	0	1923	""	0	0
-6026	-1	-1	0	"Fairegoer\'s Feast"	"Consume one of every Darkmoon food and drink."	15101	10	7	0	2485	""	0	0
+6029	-1	-1	0	"Darkmoon Despoiler"	"Turn in all nine Darkmoon Artifacts."	15101	10	7	0	5659	""	0	0
+6089	-1	961	0	"Keep Rollin\' Rollin\' Rollin\'"	"Kill Ook-Ook after assaulting him with 20 Rolling Brew Barrels in Stormstout Brewery on Heroic Difficulty."	15106	10	7	0	6053	""	0	0
 6126	-1	967	0	"Realm First! Deathwing"	"First guild on the realm to defeat Deathwing in Dragon Soul on Heroic difficulty while in a guild group."	15093	10	7	63744	5833	""	1	0
 6139	-1	-1	0	"Charlga Razorflank kills (Razorfen Kraul)"	""	14821	0	7	1	1	""	0	0
+6365	-1	-1	4916	"Zen Master Cook"	"Obtain 600 skill points in cooking."	170	10	7	0	1467	""	0	0
+6374	-1	-1	0	"Full Bronze: Mists of Pandaria"	"Achieve a Bronze Challenge in every Mists of Pandaria dungeon."	15115	0	7	0	1	"Title: The Challenged (NNF)"	0	0
 13	-1	-1	12	"Level 80"	"Reach level 80."	92	10	8	4100	3275	""	0	0
 161	-1	529	0	"Resilient Victory"	"Overcome a 500 resource disadvantage in a match of Arathi Basin and claim victory."	14802	10	8	0	3468	""	1	0
 168	-1	489	0	"Warsong Gulch Perfection"	"Win Warsong Gulch with a score of 3 to 0."	14804	10	8	0	3485	""	0	0
@@ -703,7 +726,6 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 830	-1	-1	0	"Total healing received"	"Total healing received"	141	0	8	1	1	""	0	0
 861	-1	-1	0	"Explore Bloodmyst Isle"	"Explore Bloodmyst Isle, revealing the covered areas of the world map."	14778	10	8	0	3551	""	0	0
 899	1	-1	0	"Oh My, Kurenai"	"Earn exalted status with the Kurenai."	14865	15	8	0	2208	""	0	0
-906	-1	-1	0	"Kickin\' It Up a Notch"	"Complete each of The Rokk\'s 4 cooking daily quests listed below."	170	10	8	0	2923	""	0	0
 931	-1	-1	0	"Total factions encountered"	"Total factions encountered"	147	0	8	1	1	""	0	0
 978	-1	-1	32	"3000 Quests Completed"	"Complete 3000 quests."	96	50	8	0	3414	"Title Reward: The Seeker"	0	0
 1009	-1	-1	0	"Knights of the Ebon Blade"	"Earn exalted status with the Knights of the Ebon Blade."	14866	10	8	0	3683	""	0	0
@@ -764,8 +786,11 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5518	-1	-1	0	"Stood in the Fire"	"Get killed by Deathwing."	15069	10	8	0	11	""	1	0
 5695	-1	-1	0	"Rated battleground won the most"	"Rated battleground won the most"	153	0	8	17	1	""	0	5694
 5731	-1	657	0	"Asaad kills (Heroic Vortex Pinnacle)"	""	15096	0	8	1	1	""	0	0
-6027	-1	-1	0	"Darkmoon Dungeoneer"	"Turn in all five dungeon Darkmoon Artifacts."	15101	10	8	0	2436	""	0	0
+6032	-1	-1	0	"Faire Favors"	"Complete at least six profession-based quests at the Darkmoon Faire."	15101	10	8	0	5660	""	6	0
 6140	-1	-1	0	"Mekgineer Thermaplugg kills (Gnomeregan)"	""	14821	0	8	1	1	""	0	0
+6364	-1	-1	125	"Zen Grand Master Cook"	"Obtain 525 skill points in cooking."	170	10	8	0	1467	""	0	0
+6375	-1	-1	0	"Full Silver: Mists of Pandaria"	"Achieve a Silver Challenge in every Mists of Pandaria dungeon."	15115	0	8	0	1	""	0	0
+6400	-1	961	0	"How Did He Get Up There?"	"Find a way to get the Hozen Clinger to let go in Stormstout Brewery on any difficulty."	15106	10	8	0	6055	""	0	0
 36	-1	-1	0	"The Empire of Zul\'Drak"	"Complete 100 quests in Zul\'Drak."	14863	10	9	0	3340	""	0	0
 53	-1	30	0	"Alterac Valley battles"	"Alterac Valley battles"	153	0	9	1	1	""	0	0
 103	-1	-1	0	"Circle of Blood matches"	"Circle of Blood matches"	152	0	9	1	4	""	0	0
@@ -785,6 +810,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 730	-1	-1	0	"Skills to Pay the Bills"	"Obtain 450 skill points in Fishing, First Aid, and Cooking."	169	10	9	0	1657	""	0	0
 845	-1	-1	0	"Explore Ashenvale"	"Explore Ashenvale, revealing the covered areas of the world map."	14778	10	9	0	3543	""	0	0
 858	-1	-1	0	"Explore Ghostlands"	"Explore Ghostlands, revealing the covered areas of the world map."	14777	10	9	0	3540	""	0	0
+877	-1	-1	0	"The Cake Is Not A Lie"	"Bake a Delicious Chocolate Cake."	170	10	9	0	2917	""	0	0
 901	0	-1	0	"Mag\'har of Draenor"	"Earn exalted status with The Mag\'har."	14865	15	9	0	2208	""	0	0
 937	-1	-1	0	"Elune\'s Blessing"	"Complete the Elune\'s Blessing quest by defeating Omen."	160	10	9	0	2821	""	0	0
 973	-1	-1	0	"5 Daily Quests Complete"	"Complete 5 daily quests."	96	10	9	0	3424	""	0	0
@@ -810,7 +836,6 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1694	-1	-1	0	"Lovely Luck Is On Your Side"	"Open a Lovely Dress Box and receive a Lovely Black Dress."	187	10	9	0	3193	""	0	0
 1751	-1	571	0	"Didn\'t Stand a Chance"	"Kill 20 mounted players using a tower cannon."	14901	10	9	0	3434	""	0	0
 1762	1	607	0	"Not Even a Scratch"	"Win a Strand of the Ancients battle without losing any siege vehicles."	14881	10	9	0	457	""	0	0
-1800	-1	-1	0	"The Outland Gourmet"	"Cook each of the Outland cooking recipes listed below."	170	10	9	0	3162	""	0	0
 2217	-1	-1	0	"Most deadly Lich King 10-player raid boss"	"Most deadly Lich King 10-player raid boss"	125	0	9	17	1	""	0	323
 2420	0	-1	0	"Noble Garden"	"Hide a Brightly Colored Egg in Silvermoon City."	159	10	9	0	3329	""	0	0
 2778	1	-1	0	"Champion of the Exodar"	"Earn the right to represent the Exodar in the Argent Tournament."	14941	10	9	0	3796	""	0	0
@@ -844,8 +869,10 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5732	-1	670	0	"Erudax kills (Grim Batol)"	""	15096	0	9	1	1	""	0	0
 5812	1	-1	0	"United Nations"	"Raise 55 reputations to Exalted."	15089	15	9	28672	3602	"Reward: Dark Phoenix Hatchling"	55	0
 5827	-1	-1	0	"Avengers of Hyjal"	"Earn exalted status with the Avengers of Hyjal."	15072	15	9	0	5521	"Title: Avenger of Hyjal "	0	0
-6028	-1	-1	0	"Darkmoon Defender"	"Turn in all three battleground Darkmoon Artifacts."	15101	10	9	0	2300	""	0	0
+6026	-1	-1	0	"Fairegoer\'s Feast"	"Consume one of every Darkmoon food and drink."	15101	10	9	0	2485	""	0	0
 6141	-1	-1	0	"Amnennar the Coldbringer kills (Razorfen Downs)"	""	14821	0	9	1	1	""	0	0
+6378	-1	-1	0	"Full Gold: Mists of Pandaria"	"Achieve a Gold Challenge in every Mists of Pandaria dungeon."	15115	0	9	0	1	"Sweet mount"	0	0
+6420	-1	961	0	"I Am the Hopocalypse!"	"Smash 100 vermen with a single hammer swing in Stormstout Brewery on Heroic Difficulty."	15106	10	9	0	6056	""	0	0
 39	-1	-1	0	"Into the Basin"	"Complete 75 quests in Sholazar Basin."	14863	10	10	0	3341	""	0	0
 49	-1	30	0	"Alterac Valley victories"	"Alterac Valley victories"	153	0	10	1	1	""	0	0
 104	-1	-1	0	"Circle of Blood victories"	"Circle of Blood victories"	152	0	10	1	4	""	0	0
@@ -858,13 +885,13 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 402	-1	-1	0	"Three\'s Company: 1550"	"Earn a 1550 personal rating in the 3v3 bracket of the arena."	165	10	10	0	3050	""	0	0
 493	-1	600	482	"Heroic: Drak\'Tharon Keep"	"Defeat the Drak\'Tharon Keep bosses on Heroic Difficulty."	14806	10	10	0	3234	""	0	0
 509	-1	-1	512	"10000 Honorable Kills"	"Get 10000 honorable kills."	95	10	10	4096	3462	""	0	0
-546	-1	-1	0	"Safe Deposit"	"Buy 7 additional bank slots."	92	10	10	0	2492	""	0	0
 567	-1	533	0	"The Plague Quarter (25 player)"	"Defeat the bosses of The Plague Quarter of Naxxramas in 25-player mode."	14922	10	10	0	2997	""	0	0
 637	-1	189	0	"Scarlet Monastery"	"Defeat the Scarlet Crusade within the Scarlet Monastery."	14808	10	10	0	2792	""	0	0
 655	-1	-1	0	"Opening of the Dark Portal"	"Defeat Aeonus."	14805	10	10	0	3826	""	1	0
 780	-1	-1	0	"Explore Redridge Mountains"	"Explore Redridge Mountains, revealing the covered areas of the world map."	14777	10	10	0	3565	""	0	0
 846	-1	-1	0	"Explore Thousand Needles"	"Explore Thousand Needles, revealing the covered areas of the world map."	14778	10	10	0	3580	""	0	0
 902	-1	-1	0	"Chief Exalted Officer"	"Earn exalted status with The Consortium."	14865	10	10	0	2558	""	0	0
+906	-1	-1	0	"Kickin\' It Up a Notch"	"Complete each of The Rokk\'s 4 cooking daily quests listed below."	170	10	10	0	2923	""	0	0
 921	-1	-1	0	"Gold from vendors"	"Gold from vendors"	140	0	10	1	1	""	0	0
 923	-1	-1	0	"Elixirs consumed"	"Elixirs consumed"	145	0	10	9	1	""	0	0
 974	-1	-1	973	"50 Daily Quests Complete"	"Complete 50 daily quests."	96	10	10	0	3425	""	0	0
@@ -884,7 +911,6 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1685	0	-1	0	"Bros. Before Ho Ho Ho\'s"	"Use Mistletoe on the Horde \"Brothers\" during the Feast of Winter Veil."	156	10	10	0	1793	""	0	0
 1703	-1	-1	0	"My Love is Like a Red, Red Rose"	"Obtain a Bouquet of Red or Ebon Roses during the Love is in the Air celebration."	187	10	10	0	1937	""	1	0
 1734	-1	-1	0	"Engineering Schematics learned"	"Engineering Schematics learned"	173	0	10	1	4	""	0	0
-1777	-1	-1	0	"The Northrend Gourmet"	"Cook 15 of the Northrend recipes listed below."	170	10	10	0	3211	""	15	0
 2080	-1	-1	0	"Black War Mammoth"	"Obtain a Black War Mammoth."	14901	10	10	0	3444	""	1	0
 2192	0	607	0	"Not Even a Scratch"	"Win a Strand of the Ancients battle without losing any siege vehicles."	14881	10	10	0	457	""	0	0
 2256	-1	-1	0	"Northern Exposure"	"Kill one of the extremely rare and hard to find Northrend creatures listed below."	14780	10	10	0	3637	""	1	0
@@ -921,7 +947,10 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5892	0	-1	0	"United Nations"	"Raise 55 reputations to Exalted."	15089	15	10	28672	3602	"Reward: Dark Phoenix Hatchling"	55	0
 6006	-1	-1	0	"Elders of Cataclysm"	"Honor the Elders which are located in zones opened by the cataclysm."	160	10	10	0	2218	""	0	0
 6013	1	-1	0	"Extinguishing the Cataclysm"	"Desecrate the Horde\'s bonfires in zones opened by the cataclysm."	161	5	10	0	1920	""	0	0
-6029	-1	-1	0	"Darkmoon Despoiler"	"Turn in all nine Darkmoon Artifacts."	15101	10	10	0	5659	""	0	0
+6025	-1	-1	0	"I Was Promised a Pony"	"Ride a Darkmoon Pony."	15101	5	10	0	1176	""	0	0
+6193	-1	-1	4826	"Level 90"	"Reach level 90."	92	10	10	12292	4646	""	0	0
+6379	-1	-1	0	"Realm First: Gold Challenge: Stormstout Brewery (feat)"	""	15115	0	10	0	1	""	0	0
+6402	-1	961	0	"Ling-Ting\'s Herbal Journey"	"Collect all 30 Golden Hoplings hidden around the Stormstout Brewery on any difficulty."	15106	10	10	0	6057	""	0	0
 38	-1	-1	0	"The Summit of Storm Peaks"	"Complete 100 quests in Storm Peaks."	14863	10	11	0	3405	""	0	0
 55	-1	529	0	"Arathi Basin battles"	"Arathi Basin battles"	153	0	11	1	1	""	0	0
 162	-1	529	0	"We Had It All Along *cough*"	"Win Arathi Basin by 50 points or less."	14802	10	11	0	1876	""	0	0
@@ -933,6 +962,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 403	-1	-1	402	"Three\'s Company: 1750"	"Earn a 1750 personal rating in the 3v3 bracket of the arena."	165	10	11	0	3049	""	0	0
 463	-1	-1	0	"Realm First! Level 80 Warlock"	"First warlock on the realm to achieve level 80."	81	0	11	256	155	""	0	0
 483	-1	608	0	"The Violet Hold"	"Defeat Cyanigosa in The Violet Hold."	14806	10	11	0	3235	""	0	0
+546	-1	-1	0	"Safe Deposit"	"Buy 7 additional bank slots."	92	10	11	0	2492	""	0	0
 568	-1	533	0	"The Military Quarter (10 player)"	"Defeat the bosses of The Military Quarter of Naxxramas in 10 player mode."	14922	10	11	0	2639	""	0	0
 638	-1	-1	0	"Uldaman"	"Defeat Archaedas."	14808	10	11	0	3656	""	1	0
 656	-1	-1	0	"The Steamvault"	"Defeat Warlord Kalithresh."	14805	10	11	0	3657	""	1	0
@@ -948,7 +978,6 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1077	-1	545	0	"Warlord Kalithresh kills (The Steamvault)"	"Warlord Kalithresh kills (The Steamvault)"	14822	5	11	1	1647	""	0	0
 1114	-1	-1	0	"Arathi Basin Honorable Kills"	"Arathi Basin Honorable Kills"	136	0	11	1	1	""	0	0
 1146	-1	-1	0	"Gold spent on travel"	"Gold spent on travel"	140	0	11	1	1	""	0	0
-1176	-1	-1	0	"Got My Mind On My Money"	"Loot 100 gold."	92	10	11	0	2992	""	0	0
 1195	-1	-1	0	"Shadow of the Betrayer"	"Complete 90 quests in Shadowmoon Valley."	14862	10	11	0	3584	""	0	0
 1235	-1	608	0	"Cyanigosa kills (The Violet Hold)"	"Cyanigosa kills (The Violet Hold)"	14823	5	11	1	1955	""	0	0
 1289	-1	-1	0	"Northrend Dungeon Hero"	"Complete the heroic Northrend dungeon achievements listed below."	168	20	11	0	857	""	0	0
@@ -961,7 +990,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1697	1	-1	0	"Nation of Adoration"	"Complete the Lovely Charm Bracelet daily quest for each Alliance capital."	187	10	11	0	3192	""	0	0
 1722	-1	624	0	"Archavon the Stone Watcher (10 player)"	"Defeat Archavon the Stone Watcher in 10 player mode."	14901	10	11	0	2351	""	0	0
 1763	-1	607	0	"Artillery Veteran"	"Destroy 100 vehicles using a turret."	14881	10	11	0	2244	""	0	0
-1778	-1	-1	1777	"The Northrend Gourmet"	"Cook 30 of the Northrend recipes listed below."	170	10	11	0	3212	""	30	1777
+1800	-1	-1	0	"The Outland Gourmet"	"Cook each of the Outland cooking recipes listed below."	170	10	11	0	3162	""	0	0
 2218	-1	-1	0	"Most deadly Lich King 25-player raid boss"	"Most deadly Lich King 25-player raid boss"	125	0	11	17	1	""	0	324
 2257	-1	-1	2256	"Frostbitten"	"Kill all of the extremely rare and hard to find Northrend creatures listed below."	14780	25	11	0	3638	""	0	2256
 2422	-1	-1	0	"Shake Your Bunny-Maker"	"Use Spring Flowers to place rabbit ears upon females of at least 18th level."	159	10	11	0	1216	""	0	0
@@ -992,9 +1021,11 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5734	-1	644	0	"Rajh kills (Halls of Origination)"	""	15096	0	11	1	1	""	0	0
 5771	-1	568	0	"Heroic: Zul\'Aman Guild Run"	"Defeat Daakara in Zul\'Aman on Heroic difficulty while in a guild group."	15083	10	11	53248	5451	""	0	0
 5984	-1	720	0	"Heroic: Ragnaros Guild Run"	"Defeat Ragnaros in Firelands on Heroic difficulty while in a guild group."	15087	10	11	61440	5508	""	1	0
-6030	1	-1	0	"Taking the Show on the Road"	"Launch off Darkmoon Fireworks in every friendly capital city."	15101	10	11	0	5631	""	0	0
+6022	-1	-1	0	"Quick Shot"	"Score a Quick Shot at the Shooting Gallery."	15101	10	11	0	1616	""	0	0
 6045	-1	757	0	"Occu\'thar"	"Defeat Occu\'thar."	15075	10	11	0	5663	""	0	0
 6142	-1	-1	0	"Archaedas kills (Uldaman)"	""	14821	0	11	1	1	""	0	0
+6394	-1	1007	0	"Rattle No More"	"Defeat Rattlegore without allowing him to gain more than 5 stacks of Rusting in Scholomance on Heroic Difficulty."	15106	10	11	0	4905	""	0	0
+6429	-1	-1	0	"Realm First: Gold Challenge: Temple of the Jade Serpent (feat)"	""	15115	0	11	0	1	""	0	0
 40	-1	-1	0	"Icecrown: The Final Goal"	"Complete 140 quests in Icecrown."	14863	10	12	0	3474	""	0	0
 211	-1	566	0	"Storm Glory"	"While your team holds 4 of the bases in Eye of the Storm, personally grab the flag and capture it."	14803	10	12	0	3508	""	0	0
 283	-1	-1	0	"The Masquerade"	"Get transformed by the Hallowed Wands listed below."	158	10	12	0	3513	""	0	0
@@ -1019,7 +1050,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1094	-1	209	0	"Chief Ukorz Sandscalp kills (Zul\'Farrak)"	"Chief Ukorz Sandscalp kills (Zul\'Farrak)"	14821	5	12	1	1698	""	0	0
 1115	-1	-1	0	"Warsong Gulch Honorable Kills"	"Warsong Gulch Honorable Kills"	136	0	12	1	1	""	0	0
 1147	-1	-1	0	"Gold spent at barber shops"	"Gold spent at barber shops"	140	0	12	1	1	""	0	0
-1177	-1	-1	1176	"Got My Mind On My Money"	"Loot 1,000 gold."	92	10	12	0	2802	""	0	0
+1176	-1	-1	0	"Got My Mind On My Money"	"Loot 100 gold."	92	10	12	0	2992	""	0	0
 1275	-1	-1	0	"Bombs Away"	"Complete the Fires Over Skettis quest in under 2 minutes 15 seconds while not in a group."	14862	10	12	0	2505	""	0	0
 1304	-1	-1	0	"Different elixirs used"	"Different elixirs used"	145	0	12	33	1	""	0	923
 1497	-1	-1	0	"Warsong Gulch Killing Blows"	"Warsong Gulch Killing Blows"	137	0	12	1	1	""	0	0
@@ -1031,7 +1062,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1688	-1	-1	0	"The Winter Veil Gourmet"	"During the Feast of Winter Veil, use your culinary expertise to produce a Gingerbread Cookie, Egg Nog and Hot Apple Cider."	156	10	12	0	3191	""	0	0
 1698	0	-1	0	"Nation of Adoration"	"Complete the Lovely Charm Bracelet daily quest for each Horde capital."	187	10	12	0	3192	""	0	0
 1721	-1	624	0	"Archavon the Stone Watcher (25 player)"	"Defeat Archavon the Stone Watcher in 25 player mode."	14901	10	12	0	2351	""	0	0
-1779	-1	-1	1778	"The Northrend Gourmet"	"Cook 45 of the Northrend recipes listed below."	170	10	12	0	3213	""	45	1777
+1777	-1	-1	0	"The Northrend Gourmet"	"Cook 15 of the Northrend recipes listed below."	170	10	12	0	3211	""	15	0
 2082	-1	-1	0	"Ice Mammoth"	"Obtain an Ice Mammoth."	14866	10	12	0	3446	""	1	0
 2189	-1	607	0	"Artillery Expert"	"Destroy 5 vehicles using a turret in a single battle."	14881	10	12	0	1617	""	0	0
 2436	-1	-1	0	"Desert Rose"	"Use Spring Robes to plant a flower in each of the deserts listed below."	159	10	12	0	3060	""	0	0
@@ -1061,10 +1092,12 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5460	-1	-1	0	"Making History"	"Complete 500 Archaeology research projects."	15080	10	12	28672	4727	""	0	0
 5723	-1	-1	5374	"50 Exalted Reputations"	"Raise 50 reputations to Exalted."	201	10	12	12288	3602	""	0	0
 5735	-1	644	0	"Rajh kills (Heroic Halls of Origination)"	""	15096	0	12	1	1	""	0	0
-6031	0	-1	0	"Taking the Show on the Road"	"Launch off Darkmoon Fireworks in every friendly capital city."	15101	10	12	0	5631	""	0	0
+6020	-1	-1	0	"Step Right Up"	"Play five different Darkmoon games."	15101	10	12	0	5657	""	0	0
 6108	-1	-1	0	"Alizabal"	"Defeat Alizabal."	15075	10	12	0	5850	""	0	0
 6120	-1	-1	0	"Heroic: End Time Guild Run"	"Defeat Murozond in End Time on Heroic difficulty while in a guild group."	15083	10	12	53248	5832	""	0	0
 6125	-1	967	0	"Heroic: Deathwing Guild Run"	"Defeat Deathwing in Dragon Soul on Heroic difficulty while in a guild group."	15087	10	12	61440	5833	""	1	0
+6396	-1	1007	0	"Sanguinarian"	"Defeat a Krastinovian Carver that has 99 stacks of Boiling Bloodthirst in Scholomance on Heroic Difficulty."	15106	10	12	0	2725	""	0	0
+6431	-1	-1	0	"Realm First: Full Silver: Mists of Pandaria (feat)"	""	15115	0	12	0	1	""	0	0
 51	-1	529	0	"Arathi Basin victories"	"Arathi Basin victories"	153	0	13	1	1	""	0	0
 101	-1	-1	0	"Ring of Trials matches"	"Ring of Trials matches"	152	0	13	1	4	""	0	0
 292	-1	-1	0	"Sinister Calling"	"Obtain a Sinister Squashling pet and Hallowed Helm."	158	10	13	0	3511	""	0	0
@@ -1088,7 +1121,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1148	-1	-1	0	"Gold spent on postage"	"Gold spent on postage"	140	0	13	1	1	""	0	0
 1160	-1	-1	405	"Three\'s Company: 2200"	"Earn a 2200 personal rating in the 3v3 bracket of the arena."	165	10	13	12288	3047	""	0	0
 1171	-1	-1	0	"Master of Eye of the Storm"	"Complete the Eye of the Storm achievements listed below."	14803	25	13	4096	1931	""	0	0
-1178	-1	-1	1177	"Got My Mind On My Money"	"Loot 5,000 gold."	92	10	13	0	2994	""	0	0
+1177	-1	-1	1176	"Got My Mind On My Money"	"Loot 1,000 gold."	92	10	13	0	2802	""	0	0
 1236	-1	604	0	"Gal\'darah kills (Gundrak)"	"Gal\'darah kills (Gundrak)"	14823	5	13	1	2914	""	0	0
 1259	-1	489	0	"Not So Fast"	"In Warsong Gulch, kill a player who is under the effects of the speed power-up."	14804	10	13	0	517	""	0	0
 1276	-1	-1	0	"Blade\'s Edge Bomberman"	"Complete the Bomb Them Again! quest in under 2 minutes 15 seconds while not in a group."	14862	10	13	0	1696	""	0	0
@@ -1099,6 +1132,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1700	-1	-1	0	"Perma-Peddle"	"Obtain a permanent Peddlefeet pet by procuring a Truesilver Shafted Arrow."	187	10	13	0	288	""	1	0
 1735	-1	-1	0	"Inscriptions learned"	"Inscriptions learned"	173	0	13	1	4	""	0	0
 1764	-1	607	0	"Drop It!"	"Kill 100 players carrying seaforium."	14881	10	13	0	454	""	0	0
+1778	-1	-1	1777	"The Northrend Gourmet"	"Cook 30 of the Northrend recipes listed below."	170	10	13	0	3212	""	30	1777
 1836	-1	-1	0	"Old Crafty"	"Fish up Old Crafty in Orgrimmar."	171	10	13	0	2918	""	1	0
 2083	-1	-1	0	"Grand Ice Mammoth"	"Obtain a Grand Ice Mammoth."	14866	10	13	0	3446	""	1	0
 2136	-1	-1	0	"Glory of the Hero"	"Complete the Heroic Dungeon achievements listed below."	168	25	13	0	3494	"Reward: Red Proto-Drake"	0	0
@@ -1126,14 +1160,15 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5256	-1	761	0	"Battle for Gilneas All-Star"	"Assault and Defend a base in a single Battle for Gilneas."	15073	20	13	0	2729	""	0	0
 5318	1	-1	0	"20,000 Leagues Under the Sea"	"Complete the Neptulon quests in Vashj\'ir up to and including Defending the Rift."	15070	10	13	0	5000	""	0	0
 5439	0	-1	0	"Guild High Warlords"	"Earn the High Warlord title on all of the classes below."	15090	15	13	94208	3357	""	0	0
-5472	-1	-1	0	"The Cataclysmic Gourmet"	"Cook 15 of the Cataclysm recipes listed below."	170	10	13	0	5132	""	15	0
 5489	1	-1	0	"Master of Tol Barad"	"Complete the Tol Barad achievements listed below."	15075	10	13	0	5149	""	0	0
 5511	-1	-1	0	"It\'s Always in the Last Place You Look"	"Recover archaeology artifacts from each of the following races."	15071	10	13	0	5201	""	0	0
 5736	-1	755	0	"Siamat kills (Lost City of the Tol\'vir)"	""	15096	0	13	1	1	""	0	0
 6007	1	-1	0	"Extinguishing Northrend"	"Desecrate the Horde\'s bonfires in Northrend."	161	10	13	0	1920	""	0	0
-6032	-1	-1	0	"Faire Favors"	"Complete at least six profession-based quests at the Darkmoon Faire."	15101	10	13	0	5660	""	6	0
+6030	1	-1	0	"Taking the Show on the Road"	"Launch off Darkmoon Fireworks in every friendly capital city."	15101	10	13	0	5631	""	0	0
 6121	-1	-1	0	"Heroic: Well of Eternity Guild Run"	"Defeat Mannoroth in Well of Eternity on Heroic difficulty while in a guild group."	15083	10	13	53248	5840	""	0	0
 6143	-1	-1	0	"Princess Theradras kills (Maraudon)"	""	14821	0	13	1	1	""	0	0
+6380	-1	-1	0	"Realm First: Full Bronze: Mists of Pandaria (feat)"	""	15115	0	13	0	1	""	0	0
+6398	-1	1007	0	"Soul Savior"	"Defeat Lilian Voss without allowing Lilian\'s Soul to reach 24% health in Scholomance on Heroic Difficulty."	15106	10	13	0	4856	""	0	0
 100	-1	-1	0	"Ring of Trials victories"	"Ring of Trials victories"	152	0	14	1	4	""	0	0
 203	1	489	0	"Not In My House"	"In a single Warsong Gulch battle, kill 2 flag carriers before they leave the Silverwing Flag Room."	14804	10	14	0	3583	""	0	0
 495	-1	604	484	"Heroic: Gundrak"	"Defeat the Gundrak bosses on Heroic Difficulty."	14806	10	14	0	3238	""	0	0
@@ -1153,7 +1188,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1030	1	-1	0	"Extinguishing Outland"	"Desecrate the Horde\'s bonfires in Outland."	161	10	14	0	1920	""	0	0
 1080	-1	553	0	"Warp Splinter kills (The Botanica)"	"Warp Splinter kills (The Botanica)"	14822	5	14	1	2794	""	0	0
 1150	-1	-1	0	"Gold spent on talent tree respecs"	"Gold spent on talent tree respecs"	140	0	14	1	1	""	0	0
-1180	-1	-1	1178	"Got My Mind On My Money"	"Loot 10,000 gold."	92	10	14	0	2993	""	0	0
+1178	-1	-1	1177	"Got My Mind On My Money"	"Loot 5,000 gold."	92	10	14	0	2994	""	0	0
 1262	1	-1	0	"Loremaster of Outland"	"Complete the Outland quest achievements listed below."	14862	10	14	0	3492	""	0	0
 1305	-1	-1	0	"Flask consumed most"	"Flask consumed most"	145	0	14	17	1	""	0	811
 1486	-1	-1	0	"Strand of the Ancients Honorable Kills"	"Strand of the Ancients Honorable Kills"	136	0	14	1	1	""	0	0
@@ -1162,6 +1197,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1540	-1	-1	0	"Highest Jewelcrafting skill"	"Highest Jewelcrafting skill"	173	0	14	1	1	""	0	0
 1690	-1	-1	0	"A Frosty Shake"	"During the Feast of Winter Veil, use your Winter Veil Disguise kit to become a snowman and then dance with another snowman in Dalaran."	156	10	14	0	501	""	0	0
 1696	-1	-1	0	"The Rocket\'s Pink Glare"	"Shoot off 10 Love Rockets in 20 seconds or less."	187	10	14	0	3195	""	0	0
+1779	-1	-1	1778	"The Northrend Gourmet"	"Cook 45 of the Northrend recipes listed below."	170	10	14	0	3213	""	45	1777
 1837	-1	-1	0	"Old Ironjaw"	"Fish up Old Ironjaw in Ironforge."	171	10	14	0	1881	""	1	0
 2137	-1	-1	0	"Glory of the Raider (10 player)"	"Complete the 10-player raid achievements listed below."	168	25	14	0	3499	""	0	0
 2190	-1	607	0	"Drop It Now!"	"Kill 5 players carrying seaforium in a single battle."	14881	10	14	0	2908	""	0	0
@@ -1193,14 +1229,15 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5319	0	-1	0	"20,000 Leagues Under the Sea"	"Complete the Neptulon quests in Vashj\'ir up to and including Defending the Rift."	15070	10	14	0	5000	""	0	0
 5363	-1	-1	870	"250000 Honorable Kills"	"Get 250000 honorable kills."	95	10	14	12288	5158	"Title Reward: The Bloodthirsty"	0	0
 5441	1	-1	0	"Guild Battlemasters"	"Earn the Battlemaster title on all of the classes below."	15090	20	14	94208	3372	""	0	0
-5473	-1	-1	5472	"The Cataclysmic Gourmet"	"Cook 30 of the Cataclysm recipes listed below."	170	10	14	0	5133	""	30	5472
 5490	0	-1	0	"Master of Tol Barad"	"Complete the Tol Barad achievements listed below."	15075	10	14	0	5150	""	0	0
 5737	-1	755	0	"Siamat kills (Heroic Lost City of the Tol\'vir)"	""	15096	0	14	1	1	""	0	0
 5751	-1	-1	977	"2500 Daily Quests Complete"	"Complete 2500 daily quests."	96	10	14	0	3428	""	0	0
 5824	0	-1	5325	"Veteran of the Horde II"	"Win 150 rated battlegrounds."	15092	10	14	0	1703	"Reward: Epic Wolf"	0	0
-6025	-1	-1	0	"I Was Promised a Pony"	"Ride a Darkmoon Pony."	15101	5	14	0	1176	""	0	0
+6031	0	-1	0	"Taking the Show on the Road"	"Launch off Darkmoon Fireworks in every friendly capital city."	15101	10	14	0	5631	""	0	0
 6122	-1	-1	0	"Heroic: Hour of Twilight Guild Run"	"Defeat Archbishop Benedictus in Hour of Twilight on Heroic difficulty while in a guild group."	15083	10	14	53248	5841	""	0	0
 6144	-1	-1	0	"Shade of Eranikus kills (Sunken Temple)"	""	14821	0	14	1	1	""	0	0
+6427	-1	1001	0	"Mosh Pit"	"Get a combination of 8 players and Scarlet Defenders caught up in Armsmaster Harlan\'s Blades of Light on Heroic Difficulty."	15106	10	14	0	5993	""	0	0
+6428	-1	-1	0	"Realm First: Gold Challenge: Temple of the Jade Serpent (feat)"	""	15115	0	14	0	1	""	0	0
 31	-1	-1	0	"A Simple Re-Quest"	"Complete a daily quest every day for five consecutive days."	96	10	15	0	3481	""	0	0
 144	-1	-1	0	"The Lurker Above"	"Fish up The Lurker Below in Serpentshrine Cavern."	171	10	15	0	1734	""	0	0
 334	-1	-1	0	"Most gold ever owned"	"Most gold ever owned"	140	0	15	1	4	""	0	0
@@ -1223,7 +1260,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1081	-1	552	0	"Harbinger Skyriss kills (The Arcatraz)"	"Harbinger Skyriss kills (The Arcatraz)"	14822	5	15	1	2313	""	0	0
 1095	-1	230	0	"Emperor Dagran Thaurissan kills (Blackrock Depths)"	"Emperor Dagran Thaurissan kills (Blackrock Depths)"	14821	5	15	1	2302	""	0	0
 1157	-1	-1	0	"Duel-icious"	"Win a duel against another player."	95	10	15	0	2023	""	0	0
-1181	-1	-1	1180	"Got My Mind On My Money"	"Loot 25,000 gold."	92	10	15	0	2801	""	0	0
+1180	-1	-1	1178	"Got My Mind On My Money"	"Loot 10,000 gold."	92	10	15	0	2993	""	0	0
 1188	-1	-1	0	"Shafted!"	"Shoot 10 players with the Silver Shafted Arrow."	187	10	15	0	288	""	0	0
 1237	-1	599	0	"Sjonnir the Ironshaper kills (Halls of Stone)"	"Sjonnir the Ironshaper kills (Halls of Stone)"	14823	5	15	1	2325	""	0	0
 1251	0	489	0	"Not In My House"	"In a single Warsong Gulch battle, kill 2 flag carriers before they leave the Warsong Flag Room."	14804	10	15	0	3583	""	0	0
@@ -1232,7 +1269,6 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1545	-1	-1	0	"Ring of Valor matches"	"Ring of Valor matches"	152	0	15	1	4	""	0	0
 1738	-1	-1	0	"Jewelcrafting Designs learned"	"Jewelcrafting Designs learned"	173	0	15	1	4	""	0	0
 1766	-1	607	0	"Ancient Protector"	"Kill 10 players in the Courtyard of the Ancients in a single battle."	14881	10	15	0	2957	""	0	0
-1998	-1	-1	0	"Cooking Award"	"Obtain a Cooking Award."	170	10	15	0	2468	""	1	0
 2138	-1	-1	0	"Glory of the Raider (25 player)"	"Complete the 25-player raid achievements listed below."	168	25	15	0	2044	""	0	0
 2781	1	-1	0	"Champion of Stormwind"	"Earn the right to represent Stormwind in the Argent Tournament."	14941	10	15	0	3800	""	0	0
 2872	-1	603	0	"Flame Leviathan kills (Ulduar 25 player)"	"Flame Leviathan kills (Ulduar 25 player)"	14963	10	15	1	1700	""	0	0
@@ -1264,7 +1300,11 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5326	0	-1	5824	"Warbringer of the Horde"	"Win 300 rated battlegrounds."	15092	10	15	4096	1703	"Reward: Epic Wolf and Warbringer Title"	0	0
 5440	0	-1	0	"Guild Battlemasters"	"Earn the Battlemaster title on all of the classes below."	15090	20	15	94208	3373	""	0	0
 5445	-1	-1	0	"Fungalophobia"	"Defeat Fungalmancer Glop during the Glop, Son of Glop daily quest in Deepholm without taking any damage from his Boomshrooms."	15070	10	15	0	2878	""	0	0
+5472	-1	-1	0	"The Cataclysmic Gourmet"	"Cook 15 of the Cataclysm recipes listed below."	170	10	15	0	5132	""	15	0
 5738	-1	36	0	"Vanessa VanCleef kills (Heroic Deadmines)"	""	15096	0	15	1	1	""	0	0
+6332	-1	-1	0	"That Rabbit\'s Dynamite!"	"Slay the ferocious Darkmoon Rabbit."	15101	10	15	0	4196	""	1	0
+6426	-1	1001	0	"Wild Side"	"Take a ride with Armsmaster Harlan\'s Blades of Light for at least 10 seconds and live to tell the tale on Heroic Difficulty."	15106	10	15	0	83	""	0	0
+6430	-1	-1	0	"Realm First: Full Silver: Mists of Pandaria (feat)"	""	15115	0	15	0	1	""	0	0
 202	1	489	0	"Quick Cap"	"Grab the flag and capture it in under 75 seconds."	14804	10	16	0	3483	""	0	0
 245	-1	-1	0	"That Takes Class"	"Get an honorable, killing blow on one of each class."	95	10	16	0	244	""	0	0
 346	-1	-1	0	"Beverages consumed"	"Beverages consumed"	145	0	16	9	4	""	0	0
@@ -1284,12 +1324,12 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1097	-1	329	0	"Rivendare kills (Stratholme)"	"Rivendare kills (Stratholme)"	14821	5	16	9	2718	""	0	0
 1103	-1	-1	0	"Lich King 5-player dungeons completed (final boss killed)"	"Lich King 5-player dungeons completed (final boss killed)"	14807	0	16	9	1	""	0	0
 1169	1	-1	0	"Master of Arathi Basin"	"Complete the Arathi Basin achievements listed below."	14802	25	16	4096	1156	""	0	0
+1181	-1	-1	1180	"Got My Mind On My Money"	"Loot 25,000 gold."	92	10	16	0	2801	""	0	0
 1511	-1	599	0	"Sjonnir the Ironshaper kills (Heroic Halls of Stone)"	"Sjonnir the Ironshaper kills (Heroic Halls of Stone)"	14823	5	16	1	2325	""	0	0
 1546	-1	-1	0	"Ring of Valor victories"	"Ring of Valor victories"	152	0	16	1	4	""	0	0
 1638	-1	-1	0	"Skyshattered"	"Defeat Captain Skyshatter in the Dragonmaw race on Netherwing Ledge."	14865	10	16	0	1928	""	0	0
 1702	-1	-1	0	"Sweet Tooth"	"Sample the Love is in the Air candies listed below."	187	10	16	0	1855	""	0	0
 1977	-1	-1	0	"Dalaran Jewelcrafter\'s Tokens gained"	"Dalaran Jewelcrafter\'s Tokens gained"	173	0	16	1	1	""	0	0
-1999	-1	-1	1998	"10 Cooking Awards"	"Obtain 10 Cooking Awards."	170	10	16	136	2468	""	0	0
 2191	-1	607	0	"Ancient Courtyard Protector"	"Kill 100 players in the Courtyard of the Ancients."	14881	10	16	0	856	""	0	0
 2764	1	-1	2781	"Exalted Champion of Stormwind"	"Earn exalted status with and the right to represent Stormwind in the Argent Tournament."	14941	10	16	0	3800	"Title Reward: of Stormwind"	0	0
 2873	-1	603	0	"Razorscale kills (Ulduar 25 player)"	"Razorscale kills (Ulduar 25 player)"	14963	10	16	1	1700	""	0	0
@@ -1317,11 +1357,13 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5222	0	726	0	"Fire, Walk With Me"	"Grab the flag and capture it in under 75 seconds."	15074	10	16	0	3483	""	0	0
 5274	-1	-1	5036	"We\'re Gonna Need A Bigger Boat"	"Catch 25,000 fish from fishing pools."	15080	10	16	28672	2918	""	0	0
 5446	-1	-1	0	"The Glop Family Line"	"Complete the Glop, Son of Glop daily quest in Deepholm 10 times."	15070	10	16	0	4514	""	0	0
-5455	-1	-1	1181	"Got My Mind On My Money"	"Loot 50,000 gold."	92	10	16	0	2801	""	0	0
+5473	-1	-1	5472	"The Cataclysmic Gourmet"	"Cook 30 of the Cataclysm recipes listed below."	170	10	16	0	5133	""	30	5472
 5739	-1	33	0	"Lord Godfrey kills (Heroic Shadowfang Keep)"	""	15096	0	16	1	1	""	0	0
 5795	-1	-1	0	"Twin Peaks Honorable Kills"	"Twin Peaks Honorable Kills"	136	0	16	1	1	""	0	0
 5797	-1	-1	0	"Twin Peaks Killing Blows"	"Twin Peaks Killing Blows"	137	0	16	1	1	""	0	0
 6012	0	-1	0	"Flame Keeper of Cataclysm"	"Honor the flames of zones opened by the cataclysm."	161	10	16	0	1923	""	0	0
+6432	-1	-1	0	"Realm First: Full Gold: Mists of Pandaria (feat)"	""	15115	0	16	0	1	""	0	0
+6460	-1	960	0	"Pool\'s Closed!"	"Defeat Wise Maru without touching Corrupted Water in Temple of the Jade Serpent on any difficulty."	15106	0	16	0	94	""	0	0
 99	-1	-1	0	"Ruins of Lordaeron matches"	"Ruins of Lordaeron matches"	152	0	17	1	4	""	0	0
 246	1	-1	0	"Know Thy Enemy"	"Get an honorable, killing blow on six different races."	95	10	17	0	245	""	0	0
 407	-1	-1	406	"High Five: 1750"	"Earn a 1750 personal rating in the 5v5 bracket of the arena."	165	10	17	0	3045	""	0	0
@@ -1345,7 +1387,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1536	-1	-1	0	"Highest Leatherworking skill"	"Highest Leatherworking skill"	173	0	17	1	1	""	0	0
 1691	0	-1	0	"Merrymaker"	"Complete the Winter Veil achievements listed below."	155	10	17	0	3695	"Title Reward: Merrymaker"	0	0
 1773	-1	-1	0	"Beverage consumed most"	"Beverage consumed most"	145	0	17	17	1	""	0	346
-2000	-1	-1	1999	"25 Cooking Awards"	"Obtain 25 Cooking Awards."	170	10	17	136	2468	""	0	0
+1998	-1	-1	0	"Cooking Award"	"Obtain a Cooking Award."	170	10	17	0	2468	""	1	0
 2194	1	-1	0	"Master of Strand of the Ancients"	"Complete the Strand of the Ancients achievements listed below."	14881	25	17	4096	3402	""	0	0
 2782	1	-1	0	"Champion of the Alliance"	"Earn the right to represent every Alliance race\'s faction in the Argent Tournament."	14941	10	17	0	3807	""	0	0
 2874	-1	603	0	"Ignis the Furnace Master kills (Ulduar 25 player)"	"Ignis the Furnace Master kills (Ulduar 25 player)"	14963	10	17	1	1700	""	0	0
@@ -1370,7 +1412,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5306	-1	669	0	"Parasite Evening"	"Defeat Magmaw in Blackwing Descent without anyone in the raid becoming infected with a parasite."	15068	10	17	0	4025	""	0	0
 5330	1	-1	0	"Private"	"Earn a battleground rating of 1100."	15092	10	17	0	3358	"Title Reward: Private"	0	0
 5449	-1	-1	0	"Rock Lover"	"Complete the Lost in the Deeps daily quest in Deepholm 10 times."	15070	10	17	0	2289	"Reward: Pebble"	0	0
-5456	-1	-1	5455	"Got My Mind On My Money"	"Loot 100,000 gold."	92	10	17	0	2801	""	0	0
+5455	-1	-1	1181	"Got My Mind On My Money"	"Loot 50,000 gold."	92	10	17	0	2801	""	0	0
 5468	-1	-1	5274	"Like Shooting Fish In A Barrel"	"Catch 50,000 fish from fishing pools."	15080	10	17	28672	5127	""	0	0
 5768	-1	859	0	"Heroic: Zul\'Gurub"	"Defeat Jin\'do the Godbreaker in Zul\'Gurub on Heroic Difficulty."	15067	10	17	0	5450	""	0	0
 5773	-1	568	0	"Daakara kills (Heroic Zul\'Aman)"	""	15096	0	17	1	1	""	0	0
@@ -1379,6 +1421,8 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5836	1	-1	0	"Tricks and Treats of Northrend"	"Visit the Candy Buckets in Northrend."	158	10	17	0	2950	""	0	0
 5853	1	-1	0	"A-Caroling We Will Go"	"Use your Gaudy Winter Veil Sweater to carol in enemy capital cities during the Feast of Winter Veil."	156	10	17	0	3209	""	0	0
 6145	-1	-1	0	"Overlord Wyrmthalak kills (Lower Blackrock Spire)"	""	14821	0	17	1	1	""	0	0
+6433	-1	-1	0	"Realm First: Full Gold: Mists of Pandaria (feat)"	""	15115	0	17	0	1	""	0	0
+6479	-1	-1	0	"Bombs while bomb"	"Trigger 15 explosions within 15 seconds during the Saboteur Kip\'tilak encounter on Heroic Difficulty."	15106	10	17	0	1696	""	0	0
 102	-1	-1	0	"Ruins of Lordaeron victories"	"Ruins of Lordaeron victories"	152	0	18	1	4	""	0	0
 207	-1	489	0	"Save The Day"	"Kill the enemy who is carrying your flag in the opposing team\'s flag room while the opposing team\'s flag is at their base, within their control."	14804	10	18	0	2119	""	1	0
 404	-1	-1	407	"High Five: 2000"	"Earn a 2000 personal rating in the 5v5 bracket of the arena."	165	10	18	0	3044	""	0	0
@@ -1388,7 +1432,6 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 668	-1	542	0	"Heroic: The Blood Furnace"	"Defeat Keli\'dan the Breaker on Heroic Difficulty."	14805	10	18	0	3629	""	0	0
 773	-1	-1	0	"Explore The Hinterlands"	"Explore The Hinterlands, revealing the covered areas of the world map."	14777	10	18	0	3556	""	0	0
 854	-1	-1	0	"Explore Un\'Goro Crater"	"Explore Un\'Goro Crater, revealing the covered areas of the world map."	14778	10	18	0	3588	""	0	0
-891	-1	-1	0	"Giddy Up!"	"Learn the apprentice riding skill."	92	10	18	0	1176	""	1	0
 941	-1	-1	0	"Hemet Nesingwary: The Collected Quests"	"Complete the Green Hills of Stranglethorn, Hills Like White Elekk and Snows of Northrend achievements."	96	10	18	0	2926	""	0	0
 953	-1	-1	0	"Guardian of Cenarius"	"Earn exalted status with the Cenarion Circle and Cenarion Expedition."	201	25	18	0	553	"Title Reward: Guardian of Cenarius"	0	0
 1005	0	-1	0	"Know Thy Enemy"	"Get an honorable, killing blow on six different races."	95	10	18	0	245	""	0	0
@@ -1402,7 +1445,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1740	-1	-1	0	"Leatherworking Patterns learned"	"Leatherworking Patterns learned"	173	0	18	1	4	""	0	0
 1768	-1	-1	0	"Lich King 25-player raids completed (final boss killed)"	"Lich King 25-player raids completed (final boss killed)"	14807	0	18	9	1	""	0	0
 1774	-1	-1	0	"Different beverages consumed"	"Different beverages consumed"	145	0	18	33	1	""	0	346
-2001	-1	-1	2000	"50 Cooking Awards"	"Obtain 50 Cooking Awards."	170	10	18	136	2468	""	0	0
+1999	-1	-1	1998	"10 Cooking Awards"	"Obtain 10 Cooking Awards."	170	10	18	136	2468	""	0	0
 2195	0	-1	0	"Master of Strand of the Ancients"	"Complete the Strand of the Ancients achievements listed below."	14881	25	18	4096	3402	""	0	0
 2770	1	-1	2782	"Exalted Champion of the Alliance"	"Earn exalted status with and the right to represent every Alliance race\'s faction in the Argent Tournament."	14941	10	18	0	3807	""	0	0
 2884	-1	603	0	"XT-002 Deconstructor kills (Ulduar 25 player)"	"XT-002 Deconstructor kills (Ulduar 25 player)"	14963	10	18	1	1700	""	0	0
@@ -1424,11 +1467,13 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5307	-1	669	0	"Achieve-a-tron"	"Defeat the Omnotron Defense System in Blackwing Descent while neutralizing the following attacks."	15068	10	18	0	5091	""	0	0
 5345	0	-1	0	"Scout"	"Earn a battleground rating of 1100."	15092	10	18	0	3344	"Title Reward: Scout"	0	0
 5450	-1	-1	0	"Fungal Frenzy"	"Suffer the effects of a Poolstool, Shuffletruffle, Shrinkshroom and Trapcap simultaneously."	15070	10	18	0	2057	""	0	0
+5456	-1	-1	5455	"Got My Mind On My Money"	"Loot 100,000 gold."	92	10	18	0	2801	""	0	0
 5769	-1	568	0	"Heroic: Zul\'Aman"	"Defeat Daakara in Zul\'Aman on Heroic Difficulty."	15067	10	18	0	5451	""	0	0
 5774	-1	859	0	"Jin\'do kills (Heroic Zul\'Gurub)"	""	15096	0	18	1	1	""	0	0
 5837	1	-1	0	"Tricks and Treats of the Cataclysm"	"Visit the Candy Buckets in Cataclysm zones."	158	10	18	0	2493	""	0	0
 5854	0	-1	0	"A-Caroling We Will Go"	"Use your Gaudy Winter Veil Sweater to carol in enemy capital cities during the Feast of Winter Veil."	156	10	18	0	3209	""	0	0
 6146	-1	-1	0	"King Gordok kills (Dire Maul)"	""	14821	0	18	1	1	""	0	0
+6469	-1	959	0	"Shado-pan Monastery"	"Defeat Taran-Zhu in Shado-pan Monastery."	15106	10	18	0	6081	""	0	0
 54	-1	566	0	"Eye of the Storm battles"	"Eye of the Storm battles"	153	0	19	1	1	""	0	0
 247	-1	-1	0	"Make Love, Not Warcraft"	"Emote /hug on a dead enemy before they release corpse."	95	10	19	0	1853	""	0	0
 347	-1	-1	0	"Food eaten"	"Food eaten"	145	0	19	9	4	""	0	0
@@ -1440,7 +1485,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 669	-1	547	0	"Heroic: The Slave Pens"	"Defeat Quagmirran on Heroic Difficulty."	14805	10	19	0	3591	""	0	0
 774	-1	-1	0	"Explore Searing Gorge"	"Explore Searing Gorge, revealing the covered areas of the world map."	14777	10	19	0	3566	""	0	0
 855	-1	-1	0	"Explore Moonglade"	"Explore Moonglade, revealing the covered areas of the world map."	14778	10	19	0	1660	""	0	0
-889	-1	-1	891	"Fast and Furious"	"Learn the journeyman riding skill."	92	10	19	0	836	""	0	0
+891	-1	-1	0	"Giddy Up!"	"Learn the apprentice riding skill."	92	10	19	0	1176	""	1	0
 970	1	-1	0	"Tricks and Treats of Azeroth"	"Complete the Kalimdor, Eastern Kingdoms and Outland Tricks and Treats achievements."	158	20	19	0	1743	""	0	0
 1085	-1	565	0	"Gruul kills (Gruul\'s Lair)"	"Gruul kills (Gruul\'s Lair)"	14822	5	19	1	2798	""	0	0
 1096	-1	229	0	"General Drakkisath kills (Upper Blackrock Spire)"	"General Drakkisath kills (Blackrock Spire)"	14821	5	19	1	1551	""	0	0
@@ -1453,7 +1498,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1537	-1	-1	0	"Highest Mining skill"	"Highest Mining skill"	173	0	19	1	1	""	0	0
 1576	-1	-1	0	"Of Blood and Anguish"	"Complete the Ring of Blood quests in Nagrand and the Ampitheater of Anguish quests in Zul\'Drak."	96	10	19	0	1599	""	0	0
 1752	1	-1	0	"Master of Wintergrasp"	"Complete the Wintergrasp achievements listed below."	14901	10	19	4096	187	""	0	0
-2002	-1	-1	2001	"100 Cooking Awards"	"Obtain 100 Cooking Awards."	170	10	19	136	2468	""	0	0
+2000	-1	-1	1999	"25 Cooking Awards"	"Obtain 25 Cooking Awards."	170	10	19	136	2468	""	0	0
 2144	1	-1	0	"What A Long, Strange Trip It\'s Been"	"Complete the world events achievements listed below."	155	50	19	12288	3500	"Rewards: Violet Proto-Drake and Master Riding"	0	0
 2817	1	-1	2770	"Exalted Argent Champion of the Alliance"	"Earn exalted status with and the right to represent every Alliance race\'s faction in the Argent Tournament."	14941	10	19	0	3807	"Title Reward: Crusader. Unlocks Crusader dailies at the Argent Tournament."	0	0
 2885	-1	603	0	"Assembly of Iron kills (Ulduar 25 player)"	"Assembly of Iron kills (Ulduar 25 player)"	14963	10	19	1	1700	""	0	0
@@ -1477,6 +1522,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5840	-1	-1	0	"Dragonwrath, Tarecgosa\'s Rest - Guild Edition"	"Owner of Dragonwrath, Tarecgosa\'s Rest"	15079	10	19	94208	5538	"Reward: Dragonwrath Whelpling"	1	0
 6009	0	-1	0	"Flame Keeper of Northrend"	"Honor the flames of Northrend."	161	10	19	0	1923	""	0	0
 6117	-1	-1	0	"Heroic: End Time"	"Defeat Murozond in End Time on Heroic Difficulty."	15067	10	19	0	5832	""	0	0
+6470	-1	959	6469	"Heroic: Shado-pan Monastery"	"Defeat Taran-Zhu in Shado-pan Monastery on Heroic Difficulty."	15106	10	19	0	6081	""	0	0
 389	-1	-1	0	"Gurubashi Arena Master"	"Loot the Arena Master trinket from the Gurubashi Arena."	95	10	20	0	2977	""	1	0
 408	-1	-1	0	"Hot Streak"	"Win ten ranked matches in a row."	165	10	20	0	11	""	0	0
 498	-1	578	487	"Heroic: The Oculus"	"Defeat The Oculus bosses on Heroic Difficulty."	14806	10	20	0	3244	""	0	0
@@ -1486,7 +1532,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 670	-1	546	0	"Heroic: Underbog"	"Defeat The Black Stalker on Heroic Difficulty."	14805	10	20	0	3823	""	0	0
 766	-1	-1	0	"Explore Blasted Lands"	"Explore Blasted Lands, revealing the covered areas of the world map."	14777	10	20	0	3550	""	0	0
 856	-1	-1	0	"Explore Silithus"	"Explore Silithus, revealing the covered areas of the world map."	14778	10	20	0	3567	""	0	0
-890	-1	-1	889	"Into The Wild Blue Yonder"	"Learn the expert riding skill."	92	10	20	0	2054	""	0	0
+889	-1	-1	891	"Fast and Furious"	"Learn the journeyman riding skill."	92	10	20	0	836	""	0	0
 940	-1	-1	0	"The Green Hills of Stranglethorn"	"Complete all of Hemet Nesingwary quests in Stranglethorn Vale up to and including Big Game Hunter."	14861	10	20	0	916	""	0	0
 965	0	-1	0	"Tricks and Treats of Kalimdor"	"Visit the Candy Buckets in Kalimdor."	158	10	20	0	3509	""	0	0
 1027	0	530	0	"Flame Keeper of Outland"	"Honor the flames of Outland."	161	10	20	0	1923	""	0	0
@@ -1498,7 +1544,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1485	-1	-1	0	"Lich King 5-player different bosses killed"	"Lich King 5-player different bosses killed"	14807	0	20	33	1	""	0	1467
 1513	-1	578	0	"Ley-Guardian Eregos kills (Heroic Oculus)"	"Ley-Guardian Eregos kills (Heroic Oculus)"	14823	5	20	1	180	""	0	0
 1775	-1	-1	0	"Different foods eaten"	"Different foods eaten"	145	0	20	33	1	""	0	347
-1780	-1	-1	0	"Second That Emotion"	"Eat each one of the \"emotion\" foods listed below."	170	10	20	0	1854	""	0	0
+2001	-1	-1	2000	"50 Cooking Awards"	"Obtain 50 Cooking Awards."	170	10	20	136	2468	""	0	0
 2145	0	-1	0	"What A Long, Strange Trip It\'s Been"	"Complete the world events achievements listed below."	155	50	20	12288	3500	"Rewards: Violet Proto-Drake and Master Riding"	0	0
 2776	0	-1	0	"Master of Wintergrasp"	"Complete the Wintergrasp achievements listed below."	14901	10	20	4096	187	""	0	0
 2783	0	-1	0	"Champion of Orgrimmar"	"Earn the right to represent Orgrimmar in the Argent Tournament."	14941	10	20	0	3802	""	0	0
@@ -1521,6 +1567,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5848	1	-1	0	"Fish or Cut Bait: Darnassus"	"Complete each of the Darnassus fishing daily quests."	171	10	20	0	5533	""	0	0
 6118	-1	-1	0	"Heroic: Well of Eternity"	"Defeat Mannoroth in Well of Eternity on Heroic Difficulty."	15067	10	20	0	5840	""	0	0
 6182	-1	-1	0	"Fangs of the Father - Guild Edition"	"Wielder of the Fangs of the Father"	15079	10	20	94208	5873	""	1	0
+6472	-1	959	0	"The Obvious Solution"	"Eliminate the remaining Sha imprisoned in the Sealed Chambers and then defeat the Sha of Violence in Shado-pan Monastery on Heroic Difficulty."	15106	10	20	0	6082	""	0	0
 41	1	-1	0	"Loremaster of Northrend"	"Complete the Northrend quest achievements listed below."	14863	10	21	0	3493	""	0	0
 50	-1	566	0	"Eye of the Storm victories"	"Eye of the Storm victories"	153	0	21	1	1	""	0	0
 110	-1	-1	0	"Lich King 5-player boss killed the most"	"Lich King 5-player boss killed the most"	14807	0	21	17	4	""	0	1467
@@ -1532,18 +1579,17 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 689	-1	-1	0	"Ruins of Ahn\'Qiraj"	"Defeat Ossirian the Unscarred."	14808	10	21	0	3681	""	1	0
 775	-1	-1	0	"Explore Burning Steppes"	"Explore Burning Steppes, revealing the covered areas of the world map."	14777	10	21	0	3552	""	0	0
 857	-1	-1	0	"Explore Winterspring"	"Explore Winterspring, revealing the covered areas of the world map."	14778	10	21	0	3587	""	0	0
-892	-1	-1	890	"The Right Stuff"	"Learn the artisan riding skill."	92	10	21	0	2055	""	0	0
+890	-1	-1	889	"Into The Wild Blue Yonder"	"Learn the expert riding skill."	92	10	21	0	2054	""	0	0
 967	0	-1	0	"Tricks and Treats of Eastern Kingdoms"	"Visit the Candy Buckets in Eastern Kingdoms."	158	10	21	0	2951	""	0	0
 1036	0	-1	0	"The Fires of Azeroth"	"Complete the Flame Keeper achievements."	161	10	21	0	12	""	0	0
 1087	-1	548	0	"Lady Vashj kills (Serpentshrine Cavern)"	"Lady Vashj kills (Serpentshrine Cavern)"	14822	5	21	1	2379	""	0	0
-1098	-1	249	0	"Onyxia kills (Onyxia\'s Lair)"	"Onyxia kills (Onyxia\'s Lair)"	14821	5	21	1	1548	""	0	0
 1162	-1	-1	0	"Hotter Streak"	"Win ten ranked matches in a row with a personal rating above 1800."	165	10	21	0	11	""	0	0
 1182	-1	-1	0	"The Bread Winner"	"Make 10,000 gold from quest rewards."	96	10	21	0	2995	""	0	0
 1240	-1	575	0	"King Ymiron kills (Utgarde Pinnacle)"	"King Ymiron kills (Utgarde Pinnacle)"	14823	5	21	1	2885	""	0	0
 1541	-1	-1	0	"Highest Skinning skill"	"Highest Skinning skill"	173	0	21	1	1	""	0	0
 1776	-1	-1	0	"Food eaten most"	"Food eaten most"	145	0	21	17	1	""	0	347
-1781	-1	-1	0	"Critter Gitter"	"Using Critter Bites, coerce 10 critters to be your pet within 3 minutes or less."	170	10	21	0	2482	""	0	0
 1858	-1	533	0	"Arachnophobia (10 player)"	"Defeat Maexxna in Naxxramas within 20 minutes of Anub\'Rekhan\'s death in 10-player mode."	14922	10	21	0	3515	""	0	0
+2002	-1	-1	2001	"100 Cooking Awards"	"Obtain 100 Cooking Awards."	170	10	21	136	2468	""	0	0
 2765	0	-1	2783	"Exalted Champion of Orgrimmar"	"Earn exalted status with and the right to represent Orgrimmar in the Argent Tournament."	14941	10	21	0	3802	"Title Reward: of Orgrimmar"	0	0
 2882	-1	603	0	"Auriaya kills (Ulduar 25 player)"	"Auriaya kills (Ulduar 25 player)"	14963	10	21	1	1700	""	0	0
 4017	-1	-1	0	"Earth, Wind & Fire (25 player)"	"Defeat Archavon the Stone Watcher, Emalon the Storm Watcher, and Koralon the Flame Watcher within 60 seconds of each other in 25-player mode."	168	10	21	0	2603	""	0	0
@@ -1561,6 +1607,8 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5556	-1	-1	0	"Magmaw Heroic kills (Blackwing Descent)"	""	15096	0	21	9	1	""	0	0
 5847	1	-1	0	"Fish or Cut Bait: Ironforge"	"Complete each of the Ironforge fishing daily quests."	171	10	21	0	1724	""	0	0
 6119	-1	-1	0	"Heroic: Hour of Twilight"	"Defeat Archbishop Benedictus in Hour of Twilight on Heroic Difficulty."	15067	10	21	0	5841	""	0	0
+6337	-1	-1	0	"Ossirian kills (Ruins of Ahn\'Qiraj)"	""	14821	0	21	1	1	""	0	0
+6471	-1	959	0	"Hate Leads to Suffering"	"Defeat Taran Zhu while every party member is at maximum hatred in Shado-pan Monastery on Heroic Difficulty."	15106	10	21	0	6083	""	0	0
 388	1	-1	0	"City Defender"	"Kill 50 enemy players in any of your home cities."	95	10	22	136	3574	""	0	0
 409	-1	-1	0	"Last Man Standing"	"Be the sole survivor at the end of a ranked 5v5 match."	165	10	22	0	2176	""	0	0
 499	-1	575	488	"Heroic: Utgarde Pinnacle"	"Defeat the Utgarde Pinnacle bosses on Heroic Difficulty."	14806	10	22	0	3246	""	0	0
@@ -1569,14 +1617,15 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 686	-1	-1	0	"Molten Core"	"Defeat Ragnaros."	14808	10	22	0	3819	""	1	0
 777	-1	-1	0	"Explore Deadwind Pass"	"Explore Deadwind Pass, revealing the covered areas of the world map."	14777	10	22	0	3529	""	0	0
 812	-1	-1	0	"Healthstones used"	"Healthstones used"	145	0	22	9	1	""	0	0
+892	-1	-1	890	"The Right Stuff"	"Learn the artisan riding skill."	92	10	22	0	2055	""	0	0
 968	0	-1	0	"Tricks and Treats of Outland"	"Visit the Candy Buckets in Outland."	158	10	22	0	2952	""	0	0
 1088	-1	550	0	"Kael\'thas Sunstrider kills (Tempest Keep)"	"Kael\'thas Sunstrider kills (Tempest Keep)"	14822	5	22	1	2800	""	0	0
-1099	-1	409	0	"Ragnaros kills (Molten Core)"	"Ragnaros kills (Molten Core)"	14821	5	22	1	2290	""	0	0
+1098	-1	249	0	"Onyxia kills (Onyxia\'s Lair)"	"Onyxia kills (Onyxia\'s Lair)"	14821	5	22	1	1548	""	0	0
 1360	0	-1	0	"Loremaster of Northrend"	"Complete the Northrend quest achievements listed below."	14863	10	22	0	3493	""	0	0
 1514	-1	575	0	"King Ymiron kills (Heroic Utgarde Pinnacle)"	"King Ymiron kills (Heroic Utgarde Pinnacle)"	14823	5	22	1	2885	""	0	0
 1542	-1	-1	0	"Highest Tailoring skill"	"Highest Tailoring skill"	173	0	22	1	1	""	0	0
 1770	-1	-1	0	"Lich King 10-player bosses killed"	"Lich King 10-player bosses killed"	14807	0	22	9	1	""	0	0
-1785	-1	-1	0	"Dinner Impossible"	"Present a Great Feast in each of the battlegrounds listed below."	170	10	22	0	1578	""	0	0
+1780	-1	-1	0	"Second That Emotion"	"Eat each one of the \"emotion\" foods listed below."	170	10	22	0	1854	""	0	0
 1859	-1	533	0	"Arachnophobia (25 player)"	"Kill Maexxna in Naxxramas within 20 minutes of Anub\'Rekhan\'s death in 25-player mode."	14922	10	22	0	3515	""	0	0
 2784	0	-1	0	"Champion of Sen\'jin"	"Earn the right to represent Sen\'jin in the Argent Tournament."	14941	10	22	0	3804	""	0	0
 3256	-1	603	0	"Hodir victories (Ulduar 25 player)"	"Hodir victories (Ulduar 25 player)"	14963	10	22	1	1700	""	0	0
@@ -1589,7 +1638,6 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5058	-1	-1	0	"Temple of Ahn\'Qiraj Guild Run"	"Defeat C\'Thun while in a guild group."	15082	10	22	53248	3677	""	1	0
 5090	-1	-1	0	"The Battle for Mount Hyjal Guild Run"	"Defeat Archimonde in The Battle for Mount Hyjal while in a guild group."	15084	10	22	53248	3639	""	1	0
 5162	0	-1	0	"Classy Trolls"	"Reach level 85 on each of the Troll classes listed below."	15088	10	22	86016	3291	""	0	0
-5180	-1	-1	892	"Breaking The Sound Barrier"	"Learn the master riding skill."	92	10	22	0	3208	""	0	0
 5281	-1	645	0	"Crushing Bones and Cracking Skulls"	"Defeat Rom\'ogg Bonecrusher after using his Skullcracker ability to kill 10 Angered Earth elementals in Blackrock Caverns on Heroic Difficulty."	15067	10	22	0	5169	""	0	0
 5347	0	-1	0	"Sergeant"	"Earn a battleground rating of 1300."	15092	10	22	0	3346	"Title Reward: Sergeant"	0	0
 5444	-1	-1	0	"Ready, Set, Goat!"	"Using the Billy Goat Blaster or the Billy Goat Blaster DX, blast 12 Billy Goats in under 1 minute."	14861	10	22	0	4454	""	0	0
@@ -1598,15 +1646,15 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5557	-1	-1	0	"Omnotron kills (Blackwing Descent)"	""	15096	0	22	9	1	""	0	0
 5752	-1	-1	1182	"Justly Rewarded"	"Make 30,000 gold from quest rewards."	96	10	22	0	2995	""	0	0
 6014	0	-1	0	"Extinguishing the Cataclysm"	"Desecrate the Alliance\'s bonfires in zones opened by the cataclysm."	161	5	22	0	1920	""	0	0
+6478	-1	994	0	"Glintrok N\' Roll"	"Defeat Gekkan and his Glintrok entourage in Mogu\'shan Palace on Heroic difficulty within 5 minutes of being spotted by the Glintrok Scout."	15106	10	22	0	1876	""	0	0
 479	-1	595	0	"The Culling of Stratholme"	"Defeat the bosses in Caverns of Time: Stratholme."	14806	10	23	0	3248	""	0	0
 590	-1	-1	0	"Highest 3 man team rating"	"Highest 3 man team rating"	152	0	23	1	1	""	0	0
 673	-1	560	0	"Heroic: The Escape From Durnholde"	"Defeat Epoch Hunter on Heroic Difficulty."	14805	10	23	0	3824	""	0	0
 685	-1	-1	0	"Blackwing Lair"	"Defeat Nefarian."	14808	10	23	0	3817	""	1	0
 770	-1	-1	0	"Explore Western Plaguelands"	"Explore Western Plaguelands, revealing the covered areas of the world map."	14777	10	23	0	3571	""	0	0
-964	-1	-1	0	"Going Down?"	"Fall 65 yards without dying."	92	10	23	0	2901	""	0	0
 1006	0	-1	0	"City Defender"	"Kill 50 enemy players in any of your home cities."	95	10	23	136	3575	""	0	0
 1031	0	-1	0	"Extinguishing Eastern Kingdoms"	"Desecrate the Alliance\'s bonfires in Eastern Kingdoms."	161	10	23	0	1920	""	0	0
-1100	-1	469	0	"Nefarian kills (Blackwing Lair)"	"Nefarian kills (Blackwing Lair)"	14821	5	23	1	1699	""	0	0
+1099	-1	409	0	"Ragnaros kills (Molten Core)"	"Ragnaros kills (Molten Core)"	14821	5	23	1	2290	""	0	0
 1241	-1	595	0	"Mal\'Ganis defeated (Caverns of Time: Stratholme)"	"Mal\'Ganis defeated (Caverns of Time: Stratholme)"	14823	5	23	1	2413	""	0	0
 1404	-1	-1	0	"Realm First! Level 80 Gnome"	"First gnome on the realm to achieve level 80."	81	0	23	256	3283	""	0	0
 1549	-1	607	0	"Strand of the Ancients battles"	""	153	0	23	1	1	""	0	0
@@ -1614,7 +1662,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1681	1	-1	0	"The Loremaster"	"Complete the quest achievements listed below."	96	10	23	4096	1644	"Reward: Title & Loremaster\'s Colors"	0	0
 1741	-1	-1	0	"Tailoring Patterns learned"	"Tailoring Patterns learned"	173	0	23	1	4	""	0	0
 1771	-1	-1	0	"Lich King 10-player different bosses killed"	"Lich King 10-player different bosses killed"	14807	0	23	33	1	""	0	1770
-1795	-1	-1	0	"Lunch Lady"	"Learn 25 cooking recipes."	170	10	23	0	2353	""	0	0
+1781	-1	-1	0	"Critter Gitter"	"Using Critter Bites, coerce 10 critters to be your pet within 3 minutes or less."	170	10	23	0	2482	""	0	0
 1856	-1	533	0	"Make Quick Werk of Him (10 player)"	"Defeat Patchwerk in Naxxramas in 3 minutes or less in 10-player mode."	14922	10	23	0	313	""	0	0
 2090	-1	-1	0	"Challenger"	"Earn the Challenger title in an arena season."	165	10	23	0	3596	""	1	0
 2766	0	-1	2784	"Exalted Champion of Sen\'jin"	"Earn exalted status with and the right to represent Sen\'jin in the Argent Tournament."	14941	10	23	0	3804	"Title Reward: of Sen\'jin"	0	0
@@ -1625,6 +1673,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5059	-1	-1	0	"Ruins of Ahn\'Qiraj Guild Run"	"Defeat Ossirian the Unscarred while in a guild group."	15082	10	23	53248	3681	""	1	0
 5091	-1	-1	0	"The Black Temple Guild Run"	"Defeat Illidan Stormrage in The Black Temple while in a guild group."	15084	10	23	53248	3663	""	1	0
 5163	0	-1	0	"Classy Blood Elves"	"Reach level 85 on each of the Blood Elf classes listed below."	15088	10	23	86016	3284	""	0	0
+5180	-1	-1	892	"Breaking The Sound Barrier"	"Learn the master riding skill."	92	10	23	0	3208	""	0	0
 5282	-1	645	0	"Arrested Development"	"Allow all three of Corla\'s zealots to evolve, then defeat Corla after slaying the evolved zealots in Blackrock Caverns on Heroic Difficulty."	15067	10	23	0	5170	""	0	0
 5300	-1	671	0	"The Only Escape"	"Defeat Halfus Wyrmbreaker after defeating two drakes within 10 seconds of each other. The Emerald Whelp pack counts as one drake for this purpose."	15068	10	23	0	2713	""	0	0
 5333	1	-1	0	"Master Sergeant"	"Earn a battleground rating of 1400."	15092	10	23	0	3361	"Title Reward: Master Sergeant"	0	0
@@ -1636,20 +1685,20 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6148	-1	-1	0	"Archimonde kills (Battle for Mount Hyjal)"	""	14822	0	23	1	1	""	0	0
 374	-1	-1	0	"Highest 2 man team rating"	"Highest 2 man team rating"	152	0	24	1	4	""	0	0
 500	-1	595	479	"Heroic: The Culling of Stratholme"	"Defeat the Caverns of Time: Stratholme bosses on Heroic Difficulty."	14806	10	24	0	3249	""	0	0
-545	-1	-1	0	"Shave and a Haircut"	"Visit a Barber Shop and get your hair cut."	92	10	24	0	2766	""	0	0
 603	0	-1	0	"Wrath of the Horde"	"Kill 5 Alliance players in each of the cities listed below."	95	10	24	0	2815	""	0	0
 674	-1	556	0	"Heroic: Sethekk Halls"	"Defeat Talon King Ikiss on Heroic Difficulty."	14805	10	24	0	3631	""	0	0
 687	-1	-1	0	"Temple of Ahn\'Qiraj"	"Defeat C\'Thun."	14808	10	24	0	3677	""	1	0
 771	-1	-1	0	"Explore Eastern Plaguelands"	"Explore Eastern Plaguelands, revealing the covered areas of the world map."	14777	10	24	0	3535	""	0	0
+964	-1	-1	0	"Going Down?"	"Fall 65 yards without dying."	92	10	24	0	2901	""	0	0
 1032	0	-1	0	"Extinguishing Kalimdor"	"Desecrate the Alliance\'s bonfires in Kalimdor."	161	10	24	0	1920	""	0	0
 1089	-1	564	0	"Illidan Stormrage kills (The Black Temple)"	"Illidan Stormrage kills (The Black Temple)"	14822	5	24	1	2596	""	0	0
-1101	-1	531	0	"C\'Thun kills (Temple of Ahn\'Qiraj)"	"C\'Thun kills (Temple of Ahn\'Qiraj)"	14821	5	24	1	1826	""	0	0
+1100	-1	469	0	"Nefarian kills (Blackwing Lair)"	"Nefarian kills (Blackwing Lair)"	14821	5	24	1	1699	""	0	0
 1405	-1	-1	0	"Realm First! Level 80 Blood Elf"	"First blood elf on the realm to achieve level 80."	81	0	24	256	3323	""	0	0
 1515	-1	595	0	"Mal\'Ganis defeated (Heroic CoT: Stratholme)"	"Mal\'Ganis defeated (Heroic CoT: Stratholme)"	14823	5	24	1	2413	""	0	0
 1677	0	-1	0	"Loremaster of Eastern Kingdoms"	"Complete the Eastern Kingdoms quest achievements listed below."	14861	10	24	0	3490	""	0	0
 1682	0	-1	0	"The Loremaster"	"Complete the quest achievements listed below."	96	10	24	4096	1644	"Reward: Title & Loremaster\'s Colors"	0	0
 1772	-1	-1	0	"Lich King 10-player boss killed the most"	"Lich King 10-player boss killed the most"	14807	0	24	17	1	""	0	1770
-1796	-1	-1	1795	"Short Order Cook"	"Learn 50 cooking recipes."	170	10	24	0	1788	""	0	0
+1785	-1	-1	0	"Dinner Impossible"	"Present a Great Feast in each of the battlegrounds listed below."	170	10	24	0	1578	""	0	0
 1857	-1	533	0	"Make Quick Werk of Him (25 player)"	"Kill Patchwerk in Naxxramas in 3 minutes or less in 25-player mode."	14922	10	24	0	97	""	0	0
 2093	-1	-1	0	"Rival"	"Earn the Rival title in an arena season."	165	10	24	4096	3597	""	1	0
 2785	0	-1	0	"Champion of Silvermoon City"	"Earn the right to represent Silvermoon City in the Argent Tournament."	14941	10	24	0	3795	""	0	0
@@ -1667,17 +1716,18 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5482	0	-1	0	"Dragonmaw Tour of Duty"	"Explore all the nooks and crannies of the Thundermar Ruins in Twilight Highlands and impress your Dragonmaw allies by killing the following."	15070	10	24	0	5065	""	0	0
 5756	-1	-1	0	"Deaths to elevator boss (Blackwing Descent)"	"Deaths to elevator boss (Blackwing Descent).  Watch your step."	15096	0	24	1	1	""	0	0
 5838	0	-1	0	"Tricks and Treats of the Cataclysm"	"Visit the Candy Buckets in Cataclysm zones."	158	10	24	0	2493	""	0	0
+545	-1	-1	0	"Shave and a Haircut"	"Visit a Barber Shop and get your hair cut."	92	10	25	0	2766	""	0	0
 604	1	-1	0	"Wrath of the Alliance"	"Kill 5 Horde players in each of the cities listed below."	95	10	25	0	2503	""	0	0
 675	-1	-1	0	"Heroic: Shadow Labyrinth"	"Defeat Murmur on Heroic Difficulty."	14805	10	25	0	3825	""	1	0
 868	-1	-1	0	"Explore Isle of Quel\'Danas"	"Explore Isle of Quel\'Danas, revealing the covered areas of the world map."	14777	10	25	0	3557	""	1	0
 971	0	-1	0	"Tricks and Treats of Azeroth"	"Complete the Kalimdor, Eastern Kingdoms and Outland Tricks and Treats achievements."	158	20	25	0	1743	""	0	0
-1017	-1	-1	0	"Can I Keep Him?"	"Obtain a companion pet."	92	10	25	0	1522	""	0	0
 1090	-1	580	0	"Kil\'jaeden kills (Sunwell Plateau)"	"Kil\'jaeden kills (Sunwell Plateau)"	14822	5	25	1	2807	""	0	0
+1101	-1	531	0	"C\'Thun kills (Temple of Ahn\'Qiraj)"	"C\'Thun kills (Temple of Ahn\'Qiraj)"	14821	5	25	1	1826	""	0	0
 1361	-1	533	0	"Anub\'Rekhan kills (Naxxramas 10 player)"	"Anub\'Rekhan kills (Naxxramas 10 player)"	14823	10	25	1	1899	""	0	0
 1406	-1	-1	0	"Realm First! Level 80 Draenei"	"First draenei on the realm to achieve level 80."	81	0	25	256	3324	""	0	0
 1550	-1	607	0	"Strand of the Ancients victories"	""	153	0	25	1	1	""	0	0
 1756	-1	-1	0	"Lich King 25-player bosses killed"	"Lich King 25-player bosses killed"	14807	0	25	9	1	""	0	0
-1797	-1	-1	1796	"Chef de Partie"	"Learn 75 cooking recipes."	170	10	25	0	2485	""	0	0
+1795	-1	-1	0	"Lunch Lady"	"Learn 25 cooking recipes."	170	10	25	0	2353	""	0	0
 1996	-1	533	0	"The Safety Dance (10 player)"	"Defeat Heigan the Unclean in Naxxramas without anyone in the raid dying in 10 player mode."	14922	10	25	0	2116	""	0	0
 2092	-1	-1	0	"Duelist"	"Earn the Duelist title in an arena season."	165	10	25	4096	3598	""	1	0
 2188	-1	229	0	"Leeeeeeeeeeeeeroy!"	"Kill 50 rookery whelps within 15 seconds."	14808	10	25	0	3495	"Title: Jenkins"	0	0
@@ -1696,14 +1746,14 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5559	-1	-1	0	"Maloriak kills (Blackwing Descent)"	""	15096	0	25	9	1	""	0	0
 5849	0	-1	0	"Fish or Cut Bait: Thunder Bluff"	"Complete each of the Thunder Bluff fishing daily quests."	171	10	25	0	5533	""	0	0
 6010	0	-1	0	"Extinguishing Northrend"	"Desecrate the Alliance\'s bonfires in Northrend."	161	10	25	0	1920	""	0	0
-15	-1	-1	1017	"Plenty of Pets"	"Collect 15 unique companion pets."	92	10	26	0	1522	""	0	0
 610	1	1	0	"Death to the Warchief!"	"Kill Garrosh Hellscream."	95	10	26	0	5216	""	0	0
+621	-1	-1	0	"Represent"	"Equip a tabard."	92	10	26	0	2637	""	1	0
 676	-1	269	0	"Heroic: Opening of the Dark Portal"	"Defeat Aeonus on Heroic Difficulty."	14805	10	26	0	3826	""	0	0
 1033	0	-1	0	"Extinguishing Outland"	"Desecrate the Alliance\'s bonfires in Outland."	161	10	26	0	1920	""	0	0
 1372	-1	533	0	"Gluth kills (Naxxramas 10 player)"	"Gluth kills (Naxxramas 10 player)"	14823	10	26	1	97	""	0	0
 1407	-1	-1	0	"Realm First! Level 80 Dwarf"	"First dwarf on the realm to achieve level 80."	81	0	26	256	3286	""	0	0
 1759	-1	-1	0	"Lich King 25-player different bosses killed"	"Lich King 25-player different bosses killed"	14807	0	26	33	1	""	0	1756
-1798	-1	-1	1797	"Sous Chef"	"Learn 100 cooking recipes."	170	10	26	0	3218	""	0	0
+1796	-1	-1	1795	"Short Order Cook"	"Learn 50 cooking recipes."	170	10	26	0	1788	""	0	0
 2091	-1	-1	0	"Gladiator"	"Earn the Gladiator title in an arena season."	165	10	26	12288	3599	"Rewards: Custom Gladiator mount and Master Riding"	1	0
 2139	-1	533	0	"The Safety Dance (25 player)"	"Defeat Heigan the Unclean in Naxxramas without anyone in the raid dying in 25-player mode."	14922	10	26	0	2116	""	0	0
 2786	0	-1	0	"Champion of Thunder Bluff"	"Earn the right to represent Thunder Bluff in the Argent Tournament."	14941	10	26	0	3803	""	0	0
@@ -1722,13 +1772,13 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5850	0	-1	0	"Fish or Cut Bait: Undercity"	"Complete each of the Undercity fishing daily quests."	171	10	26	0	5491	""	0	0
 611	1	1	0	"Bleeding Bloodhoof"	"Kill Baine Bloodhoof."	95	10	27	0	3669	""	0	0
 677	-1	-1	0	"Heroic: The Steamvault"	"Defeat Warlord Kalithresh on Heroic Difficulty."	14805	10	27	0	3657	""	1	0
+1020	-1	-1	621	"Ten Tabards"	"Equip 10 unique tabards."	92	10	27	160	2637	""	10	621
 1037	0	-1	0	"Desecration of the Alliance"	"Complete all Extinguishing achievements."	161	10	27	0	1920	""	0	0
 1174	-1	-1	0	"The Arena Master"	"Complete the arena achievements listed below."	165	50	27	0	3600	"Title Reward: Arena Master"	0	0
-1248	-1	-1	15	"Plethora of Pets"	"Collect 25 unique companion pets."	92	10	27	0	1522	""	0	0
 1366	-1	533	0	"Gothik the Harvester kills (Naxxramas 10 player)"	"Gothik the Harvester kills (Naxxramas 10 player)"	14823	10	27	1	2639	""	0	0
 1408	-1	-1	0	"Realm First! Level 80 Human"	"First human on the realm to achieve level 80."	81	0	27	256	3325	""	0	0
 1760	-1	-1	0	"Lich King 25-player boss killed the most"	"Lich King 25-player boss killed the most"	14807	0	27	17	1	""	0	1756
-1799	-1	-1	1798	"Chef de Cuisine"	"Learn 160 cooking recipes."	170	10	27	0	3219	""	0	0
+1797	-1	-1	1796	"Chef de Partie"	"Learn 75 cooking recipes."	170	10	27	0	2485	""	0	0
 1997	-1	-1	0	"Momma Said Knock You Out (10 player)"	"Defeat Grand Widow Faerlina in Naxxramas without dispelling or preventing frenzy in 10 player mode."	14922	10	27	0	543	""	0	0
 2768	0	-1	2786	"Exalted Champion of Thunder Bluff"	"Earn exalted status with and the right to represent Thunder Bluff in the Argent Tournament."	14941	10	27	0	3803	"Title Reward: of Thunder Bluff"	0	0
 2883	-1	603	0	"Yogg-Saron kills (Ulduar 25 player)"	"Yogg-Saron kills (Ulduar 25 player)"	14963	10	27	1	1700	""	0	0
@@ -1748,10 +1798,11 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 272	-1	-1	0	"Torch Juggler"	"Juggle 40 torches in 15 seconds in Dalaran."	161	10	28	0	2944	""	0	0
 612	1	-1	0	"Downing the Dark Lady"	"Kill Lady Sylvanas Windrunner."	95	10	28	0	3661	""	0	0
 678	-1	-1	0	"Heroic: The Shattered Halls"	"Defeat Warchief Kargath Bladefist on Heroic Difficulty."	14805	10	28	0	3827	""	1	0
-1250	-1	-1	1248	"Shop Smart, Shop Pet...Smart"	"Collect 50 unique companion pets."	92	10	28	0	1522	"Reward: Reeking Pet Carrier"	0	0
+1021	-1	-1	1020	"Twenty-Five Tabards"	"Equip 25 unique tabards."	92	10	28	160	3040	"Reward: Tabard of the Achiever"	25	621
 1362	-1	533	0	"Grand Widow Faerlina kills (Naxxramas 10 player)"	"Grand Widow Faerlina kills (Naxxramas 10 player)"	14823	10	28	1	1899	""	0	0
 1409	-1	-1	0	"Realm First! Level 80 Night Elf"	"First night elf on the realm to achieve level 80."	81	0	28	256	3288	""	0	0
 1678	1	-1	0	"Loremaster of Kalimdor"	"Complete the Kalimdor quest achievements listed below."	15081	10	28	0	3491	""	0	0
+1798	-1	-1	1797	"Sous Chef"	"Learn 100 cooking recipes."	170	10	28	0	3218	""	0	0
 2140	-1	-1	0	"Momma Said Knock You Out (25 player)"	"Defeat Grand Widow Faerlina in Naxxramas without dispelling or preventing frenzy in 25-player mode."	14922	10	28	0	543	""	0	0
 2787	0	-1	0	"Champion of the Undercity"	"Earn the right to represent the Undercity in the Argent Tournament."	14941	10	28	0	3798	""	0	0
 2881	-1	603	0	"Algalon the Observer kills (Ulduar 25 player)"	"Algalon the Observer kills (Ulduar 25 player)"	14963	10	28	1	1700	""	0	0
@@ -1764,7 +1815,6 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5287	-1	725	0	"Rotten to the Core"	"Defeat 60 Disciples within 10 seconds during the High Priestess Azil encounter in the Stonecore on Heroic Difficulty."	15067	10	28	0	3175	""	0	0
 5304	-1	754	0	"Stay Chill"	"Defeat the Conclave of Wind in the Throne of the Four Winds while everyone in the raid has at least 7 stacks of Wind Chill."	15068	10	28	0	3142	""	0	0
 5350	0	-1	0	"Stone Guard"	"Earn a battleground rating of 1600."	15092	10	28	0	3349	"Title Reward: Stone Guard"	0	0
-5471	-1	-1	1799	"Iron Chef"	"Learn 200 cooking recipes."	170	10	28	0	5130	""	0	0
 5478	-1	-1	0	"The Limnologist"	"Catch 42 different freshwater fish."	171	10	28	0	5137	""	42	0
 5562	-1	-1	0	"Atramedes Heroic kills (Blackwing Descent)"	""	15096	0	28	9	1	""	0	0
 5859	-1	-1	0	"Legacy of Leyara"	"Complete the Leyara quests in Mount Hyjal and the Molten Front."	15070	10	28	0	3327	"Reward: Smoke-Stained Locket"	0	0
@@ -1773,11 +1823,10 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1371	-1	533	0	"Grobbulus kills (Naxxramas 10 player)"	"Grobbulus kills (Naxxramas 10 player)"	14823	10	29	1	97	""	0	0
 1410	-1	-1	0	"Realm First! Level 80 Orc"	"First orc on the realm to achieve level 80."	81	0	29	256	3289	""	0	0
 1680	0	-1	0	"Loremaster of Kalimdor"	"Complete the Kalimdor quest achievements listed below."	15081	10	29	0	3491	""	0	0
+1799	-1	-1	1798	"Chef de Cuisine"	"Learn 160 cooking recipes."	170	10	29	0	3219	""	0	0
 2178	-1	533	0	"Shocking! (10 player)"	"Defeat Thaddius in Naxxramas without anyone in the raid crossing the negative and positive charges in 10-player mode."	14922	10	29	0	1886	""	0	0
-2516	-1	-1	1250	"Lil\' Game Hunter"	"Collect 75 unique companion pets."	92	10	29	4096	1522	"Reward: Little Fawn\'s Salt Lick"	0	0
 2769	0	-1	2787	"Exalted Champion of the Undercity"	"Earn exalted status with and the right to represent the Undercity in the Argent Tournament."	14941	10	29	0	3798	"Title Reward: of the Undercity"	0	0
 2870	-1	624	0	"Emalon the Storm Watcher kills (Wintergrasp 10 player)"	"Emalon the Storm Watcher kills (Wintergrasp 10 player)"	14963	10	29	1	187	""	0	0
-3296	-1	-1	0	"Cooking with Style"	"Obtain a Chef\'s Hat."	170	10	29	0	3678	""	0	0
 4040	-1	-1	0	"Val\'kyr Twins kills (Trial of the Crusader 10 player)"	"Val\'kyr Twins kills (Trial of the Crusader 10 player)"	15021	0	29	1	1	""	0	0
 4516	-1	632	0	"The Forge of Souls"	"Defeat the bosses in The Forge of Souls"	14806	10	29	0	4149	""	0	0
 4556	-1	-1	0	"Random Lich King (heroic) dungeons completed"	"LFG random Lich King heroic dungeons completed"	14807	0	29	9	1	""	0	0
@@ -1789,14 +1838,15 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5336	1	-1	0	"Knight-Lieutenant"	"Earn a battleground rating of 1700."	15092	10	29	0	3364	"Title Reward: Knight-Lieutenant"	0	0
 5479	-1	-1	0	"The Oceanographer"	"Catch 31 different saltwater fish."	171	10	29	0	5136	""	31	0
 5564	-1	-1	0	"Chimaeron kills (Blackwing Descent)"	""	15096	0	29	9	1	""	0	0
+5755	-1	-1	1021	"Thirty Tabards"	"Equip 30 unique tabards."	92	10	29	160	3040	""	30	621
 5828	-1	-1	0	"Glory of the Firelands Raider"	"Complete the Firelands raid achievements listed below."	168	25	29	12288	5522	"Reward: Corrupted Egg of Millagazor"	0	0
 5866	-1	-1	0	"The Molten Front Offensive"	"Unlock each of the following in the attack on the Molten Front."	15070	10	29	0	5423	"Reward: Flameward Hippogryph"	0	0
+556	-1	-1	0	"Epic"	"Equip an epic item in every slot with a minimum item level of 213."	92	25	30	0	2808	""	0	0
 614	1	-1	0	"For The Alliance!"	"Slay the leaders of the Horde."	95	20	30	0	1704	"Reward: Black War Bear"	0	0
 680	-1	553	0	"Heroic: The Botanica"	"Defeat Warp Splinter on Heroic Difficulty."	14805	10	30	0	3642	""	0	0
 1243	-1	-1	0	"Fish Don\'t Leave Footprints"	"Learn the ability to find fish."	171	10	30	0	3701	""	0	0
 1369	-1	533	0	"Heigan the Unclean kills (Naxxramas 10 player)"	"Heigan the Unclean kills (Naxxramas 10 player)"	14823	10	30	1	2997	""	0	0
 1411	-1	-1	0	"Realm First! Level 80 Tauren"	"First tauren on the realm to achieve level 80."	81	0	30	256	3326	""	0	0
-1801	-1	-1	0	"Captain Rumsey\'s Lager"	"Brew up some of Captain Rumsey\'s Lager."	170	10	30	0	1513	""	0	0
 2179	-1	533	0	"Shocking! (25 player)"	"Defeat Thaddius in Naxxramas without anyone in the raid crossing the negative and positive charges in 25 player mode."	14922	10	30	0	1886	""	0	0
 2788	0	-1	0	"Champion of the Horde"	"Earn the right to represent every Horde race\'s faction in the Argent Tournament."	14941	10	30	0	3806	""	0	0
 3236	-1	624	0	"Emalon the Storm Watcher kills (Wintergrasp 25 player)"	"Emalon the Storm Watcher kills (Wintergrasp 25 player)"	14963	10	30	1	187	""	0	0
@@ -1806,20 +1856,21 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5156	1	-1	0	"Classy Draenei"	"Reach level 85 on each of the Draenei classes listed below."	15088	10	30	86016	3285	""	0	0
 5289	-1	657	0	"Extra Credit Bonus Stage"	"Collect 5 Golden Orbs in a single visit to the Vortex Pinnacle on Heroic Difficulty."	15067	10	30	0	101	""	0	0
 5351	0	-1	0	"Blood Guard"	"Earn a battleground rating of 1700."	15092	10	30	0	3350	"Title Reward: Blood Guard"	0	0
+5471	-1	-1	1799	"Iron Chef"	"Learn 200 cooking recipes."	170	10	30	0	5130	""	0	0
 5563	-1	-1	0	"Chimaeron Heroic kills (Blackwing Descent)"	""	15096	0	30	9	1	""	0	0
 5802	-1	720	0	"Firelands"	"Defeat the bosses in Firelands."	15068	10	30	0	5423	""	0	0
 5861	-1	-1	0	"The Fiery Lords of Sethria\'s Roost"	"Hunt down and slay the following minions of Ragnaros in Sethria\'s Roost."	15070	10	30	0	2290	""	0	0
-5876	-1	-1	2516	"Petting Zoo"	"Collect 100 unique companion pets."	92	10	30	4096	1522	"Reward: Nuts\' Acorn"	0	0
 6169	-1	-1	0	"Glory of the Dragon Soul Raider"	"Complete the Dragon Soul raid achievements listed below."	168	25	30	12288	5702	"Reward: Reins of the Twilight Harbinger"	0	0
 52	-1	489	0	"Warsong Gulch battles"	"Warsong Gulch battles"	153	0	31	1	1	""	0	0
+557	-1	-1	0	"Superior"	"Equip a superior item in every slot with a minimum item level of 187."	92	10	31	0	133	""	0	0
 615	0	0	0	"Storming Stormwind"	"Kill King Varian Wrynn."	95	10	31	0	3671	""	0	0
 681	-1	-1	0	"Heroic: The Arcatraz"	"Defeat Harbinger Skyriss on Heroic Difficulty."	14805	10	31	0	3659	""	1	0
 1375	-1	533	0	"Four Horsemen kills (Naxxramas 10 player)"	"Four Horsemen kills (Naxxramas 10 player)"	14823	10	31	1	2639	""	0	0
 1412	-1	-1	0	"Realm First! Level 80 Troll"	"First troll on the realm to achieve level 80."	81	0	31	256	3291	""	0	0
-1782	1	-1	0	"Our Daily Bread"	"Complete each of the cooking daily quests offered by Katherine Lee in Dalaran."	170	10	31	0	259	""	0	0
 2094	-1	571	0	"A Penny For Your Thoughts"	"Fish up the copper coins listed below from the Dalaran fountain."	171	10	31	0	3451	""	0	0
 2180	-1	533	0	"Subtraction (10 player)"	"Defeat Thaddius in Naxxramas with less than 9 players in 10-player mode."	14922	10	31	0	1885	""	0	0
 2771	0	-1	2788	"Exalted Champion of the Horde"	"Earn exalted status with and the right to represent every Horde race\'s faction in the Argent Tournament."	14941	10	31	0	3806	""	0	0
+3296	-1	-1	0	"Cooking with Style"	"Obtain a Chef\'s Hat."	170	10	31	0	3678	""	0	0
 4042	-1	-1	0	"Val\'kyr Twins kills (Trial of the Crusader 25 player)"	"Val\'kyr Twins kills (Trial of the Crusader 25 player)"	15021	0	31	1	1	""	0	0
 4517	-1	658	0	"The Pit of Saron"	"Defeat the bosses in The Pit of Saron."	14806	10	31	0	4150	""	0	0
 4663	-1	-1	0	"Deathbringer kills (Icecrown 25 player)"	"Deathbringer kills (Icecrown 25 player)"	15062	0	31	1	1	""	0	0
@@ -1829,12 +1880,11 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5565	-1	-1	0	"Nefarian kills (Blackwing Descent)"	""	15096	0	31	9	1	""	0	0
 5807	-1	720	0	"Heroic: Beth\'tilac"	"Defeat Beth\'tilac in Firelands on Heroic Difficulty."	15068	10	31	0	5590	""	1	0
 5870	-1	-1	0	"Fireside Chat"	"Speak with the following characters during the attack on the Molten Front."	15070	10	31	0	3288	""	0	0
-5877	-1	-1	5876	"Menagerie"	"Collect 125 unique companion pets."	92	10	31	4096	1522	"Reward: Brilliant Kaliri"	0	0
 616	0	0	0	"Overthrow the Council"	"Kill Representatives Moira Thaurissan, Muradin Bronzebeard and Falstad Wildhammer."	95	10	32	0	3784	""	0	0
 682	-1	585	0	"Heroic: Magister\'s Terrace"	"Defeat Kael\'thas Sunstrider on Heroic Difficulty."	14805	10	32	0	3664	""	0	0
 1374	-1	533	0	"Instructor Razuvious kills (Naxxramas 10 player)"	"Instructor Razuvious kills (Naxxramas 10 player)"	14823	10	32	1	2639	""	0	0
 1413	-1	-1	0	"Realm First! Level 80 Forsaken"	"First forsaken on the realm to achieve level 80."	81	0	32	256	3292	""	0	0
-1783	0	-1	0	"Our Daily Bread"	"Complete each of the cooking daily quests offered by Awilo Lon\'gomba in Dalaran."	170	10	32	0	259	""	0	0
+1801	-1	-1	0	"Captain Rumsey\'s Lager"	"Brew up some of Captain Rumsey\'s Lager."	170	10	32	0	1513	""	0	0
 2095	-1	571	0	"Silver in the City"	"Fish up the silver coins listed below from the Dalaran fountain."	171	10	32	0	3450	""	0	0
 2181	-1	533	0	"Subtraction (25 player)"	"Defeat Thaddius in Naxxramas with less than 21 players in 25-player mode."	14922	10	32	0	1885	""	0	0
 2816	0	-1	2771	"Exalted Argent Champion of the Horde"	"Earn exalted status with and the right to represent every Horde race\'s faction in the Argent Tournament."	14941	10	32	0	3806	"Title Reward: Crusader. Unlocks Crusader dailies at the Argent Tournament."	0	0
@@ -1843,17 +1893,17 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4664	-1	-1	0	"Deathbringer kills (Heroic Icecrown 25 player)"	"Deathbringer kills (Heroic Icecrown 25 player)"	15062	0	32	1	1	""	0	0
 5298	-1	670	0	"Don\'t Need to Break Eggs to Make an Omelet"	"Defeat Erudax without letting a Faceless Corruptor begin to cast Twilight Corruption on any of Alexstrasza\'s Eggs in Grim Batol on Heroic Difficulty."	15067	10	32	0	3480	""	0	0
 5352	0	-1	0	"Legionnaire"	"Earn a battleground rating of 1800."	15092	10	32	0	3351	"Title Reward: Legionnaire"	0	0
+5372	-1	-1	0	"Cataclysmically Epic"	"Equip an epic item in every slot with a minimum item level of 359."	92	25	32	0	2808	""	0	0
 5566	-1	-1	0	"Nefarian Heroic kills (Blackwing Descent)"	""	15096	0	32	9	1	""	0	0
 5780	-1	-1	0	"You Have Been Challenged"	"Complete a guild challenge."	15088	10	32	16384	3500	""	0	0
 5808	-1	720	0	"Heroic: Lord Rhyolith"	"Defeat Lord Rhyolith in Firelands on Heroic Difficulty."	15068	10	32	0	5591	""	1	0
 5862	-1	-1	0	"Ludicrous Speed"	"While on the quest Call the Flock in Mount Hyjal, obtain 65 stacks of Soar."	15070	10	32	0	1530	""	0	0
-5875	-1	-1	5877	"Littlest Pet Shop"	"Collect 150 unique companion pets."	92	10	32	4096	1522	"Reward: Celestial Dragon"	0	0
 105	-1	-1	0	"Warsong Gulch victories"	"Warsong Gulch victories"	153	0	33	1	4	""	0	0
 617	0	1	0	"Immortal No More"	"Kill High Priestess Tyrande Whisperwind."	95	10	33	0	3673	""	0	0
-621	-1	-1	0	"Represent"	"Equip a tabard."	92	10	33	0	2637	""	1	0
 690	-1	-1	0	"Karazhan"	"Defeat Prince Malchezaar in Karazhan."	14805	10	33	0	3828	""	1	0
 1370	-1	533	0	"Loatheb kills (Naxxramas 10 player)"	"Loatheb kills (Naxxramas 10 player)"	14823	10	33	1	2997	""	0	0
 1415	-1	-1	0	"Realm First! Grand Master Alchemist"	"First person on the realm to achieve 450 skill in alchemy."	81	0	33	256	339	""	0	0
+1782	1	-1	0	"Our Daily Bread"	"Complete each of the cooking daily quests offered by Katherine Lee in Dalaran."	170	10	33	0	259	""	0	0
 1957	-1	571	0	"There\'s Gold In That There Fountain"	"Fish up the gold coins listed below from the Dalaran fountain."	171	10	33	0	3328	""	0	0
 2182	-1	533	0	"Spore Loser (10 player)"	"Defeat Loatheb in Naxxramas without killing any spores in 10-player mode."	14922	10	33	0	3099	""	0	0
 3676	1	-1	0	"A Silver Confidant"	"Earn both exalted status with The Silver Covenant and the right to represent a city in the Argent Tournament."	14941	10	33	0	2383	"Unlocks Silver Covenant dailies at the Argent Tournament."	0	0
@@ -1862,15 +1912,15 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4646	-1	-1	0	"Festergut kills (Icecrown 10 player)"	"Festergut kills (Icecrown 10 player)"	15062	0	33	1	1	""	0	0
 5293	-1	644	0	"I Hate That Song"	"Defeat Temple Guardian Anhuur without allowing him to sing Reverberating Hymn for more than 15 seconds in Halls of Origination on Heroic Difficulty."	15067	10	33	0	3209	""	0	0
 5359	1	-1	0	"Knight-Champion"	"Earn a battleground rating of 1900."	15092	10	33	0	3366	"Title Reward: Knight-Champion"	0	0
+5373	-1	-1	0	"Cataclysmically Superior"	"Equip a superior item in every slot with a minimum item level of 333."	92	10	33	0	133	""	0	0
 5554	-1	-1	0	"Halfus Wyrmbreaker kills (Bastion of Twilight)"	""	15096	0	33	9	1	""	0	0
 5781	-1	-1	5780	"Challenging"	"Complete 50 guild challenges."	15088	10	33	20480	5477	""	0	0
 5806	-1	720	0	"Heroic: Shannox"	"Defeat Shannox in Firelands on Heroic Difficulty."	15068	10	33	0	5592	""	1	0
-5842	1	-1	0	"Let\'s Do Lunch: Darnassus"	"Complete each of the Darnassus cooking daily quests."	170	10	33	0	2644	""	0	0
 5868	-1	-1	0	"And the Meek Shall Inherit Kalimdor"	"Help each of the following critters get revenge on the mean old fire elementals."	15070	10	33	0	179	""	0	0
 618	0	530	0	"Putting Out the Light"	"Kill Prophet Velen."	95	10	34	0	3674	""	0	0
 692	-1	-1	0	"Gruul\'s Lair"	"Defeat Gruul the Dragonkiller in Gruul\'s Lair."	14805	10	34	0	3628	""	1	0
-1020	-1	-1	621	"Ten Tabards"	"Equip 10 unique tabards."	92	10	34	160	2637	""	10	621
 1363	-1	533	0	"Maexxna kills (Naxxramas 10 player)"	"Maexxna kills (Naxxramas 10 player)"	14823	10	34	1	1899	""	0	0
+1783	0	-1	0	"Our Daily Bread"	"Complete each of the cooking daily quests offered by Awilo Lon\'gomba in Dalaran."	170	10	34	0	259	""	0	0
 1958	-1	-1	0	"I Smell A Giant Rat"	"Fish up the Giant Sewer Rat from The Underbelly in Dalaran."	171	10	34	0	1781	""	1	0
 2183	-1	533	0	"Spore Loser (25 player)"	"Defeat Loatheb in Naxxramas without killing any spores in 25-player mode."	14922	10	34	0	3099	""	0	0
 3677	0	-1	0	"The Sunreavers"	"Earn both exalted status with The Sunreavers and the right to represent a city in the Argent Tournament."	14941	10	34	0	3976	"Unlocks Sunreaver dailies at the Argent Tournament."	0	0
@@ -1883,11 +1933,10 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5553	-1	-1	0	"Halfus Wyrmbreaker Heroic kills (Bastion of Twilight)"	""	15096	0	34	9	1	""	0	0
 5782	-1	-1	5781	"A Difficult Challenge"	"Complete 100 guild challenges."	15088	10	34	20480	5478	""	0	0
 5809	-1	720	0	"Heroic: Alysrazor"	"Defeat Alysrazor in Firelands on Heroic Difficulty."	15068	10	34	0	5512	""	1	0
-5841	1	-1	0	"Let\'s Do Lunch: Ironforge"	"Complete each of the Ironforge cooking daily quests."	170	10	34	0	2515	""	0	0
 5864	-1	-1	0	"Gang War"	"Win a duel in Sethria\'s Roost while on the quest \"The Protectors of Hyjal.\""	15070	10	34	0	5563	""	0	0
+6348	-1	-1	0	"Mystically Superior"	"Equip a superior item in every slot with a minimum item level of 463."	92	10	34	0	5970	""	0	0
 619	0	-1	0	"For The Horde!"	"Slay the leaders of the Alliance."	95	20	35	0	1703	"Reward: Black War Bear"	0	0
 693	-1	-1	0	"Magtheridon\'s Lair"	"Defeat Magtheridon in Magtheridon\'s Lair."	14805	10	35	0	3640	""	1	0
-1021	-1	-1	1020	"Twenty-Five Tabards"	"Equip 25 unique tabards."	92	10	35	160	3040	"Reward: Tabard of the Achiever"	25	621
 1365	-1	533	0	"Noth the Plaguebringer kills (Naxxramas 10 player)"	"Noth the Plaguebringer kills (Naxxramas 10 player)"	14823	10	35	1	2997	""	0	0
 1414	-1	-1	0	"Realm First! Grand Master Blacksmith"	"First person on the realm to achieve 450 skill in blacksmithing."	81	0	35	256	335	""	0	0
 1919	-1	574	0	"On The Rocks"	"Defeat Prince Keleseth in Utgarde Keep on Heroic Difficulty without shattering any Frost Tombs."	14806	10	35	0	3260	""	0	0
@@ -1899,11 +1948,12 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4666	-1	-1	0	"Festergut kills (Icecrown 25 player)"	"Festergut kills (Icecrown 25 player)"	15062	0	35	1	1	""	0	0
 5296	-1	644	0	"Faster Than the Speed of Light"	"Complete the Vault of Lights within 5 minutes of entering in the Halls of Origination on Heroic Difficulty."	15067	10	35	0	1784	""	0	0
 5339	1	-1	0	"Lieutenant Commander"	"Earn a battleground rating of 2000."	15092	10	35	0	3367	"Title Reward: Lieutenant Commander"	0	0
-5474	1	-1	0	"Let\'s Do Lunch: Stormwind"	"Complete each of the Stormwind cooking daily quests."	170	10	35	0	1909	""	0	0
 5567	-1	-1	0	"Valiona and Theralion kills (Bastion of Twilight)"	""	15096	0	35	9	1	""	0	0
 5783	-1	-1	0	"Raid Challenges"	"Complete 50 guild raid challenges."	15088	10	35	28672	3820	""	0	0
 5805	-1	720	0	"Heroic: Baleroc"	"Defeat Baleroc in Firelands on Heroic Difficulty."	15068	10	35	0	5585	""	1	0
+5842	1	-1	0	"Let\'s Do Lunch: Darnassus"	"Complete each of the Darnassus cooking daily quests."	170	10	35	0	2644	""	0	0
 5865	-1	-1	0	"Have... Have We Met?"	"Acknowledge your recognition by /waving at the following NPCs in Sethria\'s Roost."	15070	10	35	0	1524	""	0	0
+6346	-1	-1	0	"Mystically Superior"	"Equip a superior item in every slot with a minimum item level of 333."	92	10	35	0	5970	""	0	0
 694	-1	-1	0	"Serpentshrine Cavern"	"Defeat Lady Vashj in Serpentshrine Cavern."	14805	10	36	0	3658	""	1	0
 700	0	-1	0	"Freedom of the Horde"	"Obtain an Insignia or Medallion of the Horde."	95	10	36	0	2811	""	1	0
 1364	-1	533	0	"Patchwerk kills (Naxxramas 10 player)"	"Patchwerk kills (Naxxramas 10 player)"	14823	10	36	1	97	""	0	0
@@ -1917,13 +1967,12 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5353	0	-1	0	"Champion"	"Earn a battleground rating of 2000."	15092	10	36	0	3353	"Title Reward: Champion"	0	0
 5382	-1	-1	0	"Realm First! Illustrious Blacksmith"	"First person on the realm to achieve 525 skill in blacksmithing."	81	0	36	256	335	""	0	0
 5568	-1	-1	0	"Valiona and Theralion Heroic kills (Bastion of Twilight)"	""	15096	0	36	9	1	""	0	0
-5755	-1	-1	1021	"Thirty Tabards"	"Equip 30 unique tabards."	92	10	36	160	3040	""	30	621
 5784	-1	-1	0	"Rated Battleground Challenges"	"Complete 50 guild rated battleground challenges."	15088	10	36	28672	3582	""	0	0
 5804	-1	720	0	"Heroic: Majordomo Fandral Staghelm"	"Defeat Majordomo Fandral Staghelm in Firelands on Heroic Difficulty."	15068	10	36	0	5483	""	1	0
-5845	1	-1	0	"A Bunch of Lunch"	"Complete each Let\'s Do Lunch achievement."	170	10	36	0	1807	""	0	0
+5841	1	-1	0	"Let\'s Do Lunch: Ironforge"	"Complete each of the Ironforge cooking daily quests."	170	10	36	0	2515	""	0	0
 5869	-1	-1	0	"Infernal Ambassadors"	"Slay the elite invaders of Hyjal in the following ways."	15070	10	36	0	4062	""	0	0
+6349	-1	-1	0	"Mystically Epic"	"Equip an epic item in every slot with a minimum item level of 476."	92	25	36	0	5971	""	0	0
 393	-1	-1	0	"Alterac Valley towers defended"	"Alterac Valley towers defended"	153	0	37	1	1243604	""	0	0
-556	-1	-1	0	"Epic"	"Equip an epic item in every slot with a minimum item level of 213."	92	25	37	0	2808	""	0	0
 696	-1	-1	0	"Tempest Keep"	"Defeat Kael\'thas Sunstrider in Tempest Keep."	14805	10	37	0	3284	""	1	0
 701	1	-1	0	"Freedom of the Alliance"	"Obtain an Insignia or Medallion of the Alliance."	95	10	37	0	2812	""	1	0
 1373	-1	533	0	"Thaddius kills (Naxxramas 10 player)"	"Thaddius kills (Naxxramas 10 player)"	14823	10	37	1	97	""	0	0
@@ -1935,13 +1984,14 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4647	-1	-1	0	"Rotface kills (Icecrown 10 player)"	"Rotface kills (Icecrown 10 player)"	15062	0	37	1	1	""	0	0
 5290	-1	755	0	"Kill It With Fire!"	"Defeat 3 Burning Souls during the High Prophet Barim encounter in Lost City of the Tol\'vir on Heroic Difficulty."	15067	10	37	0	2611	""	0	0
 5340	1	-1	0	"Commander"	"Earn a battleground rating of 2100."	15092	10	37	4096	3368	"Title Reward: Commander"	0	0
-5475	0	-1	0	"Let\'s Do Lunch: Orgrimmar"	"Complete each of the Orgrimmar cooking daily quests."	170	10	37	0	5532	""	0	0
+5474	1	-1	0	"Let\'s Do Lunch: Stormwind"	"Complete each of the Stormwind cooking daily quests."	170	10	37	0	1909	""	0	0
 5569	-1	-1	0	"Ascendant Council kills (Bastion of Twilight)"	""	15096	0	37	9	1	""	0	0
 5785	-1	-1	0	"Dungeon Challenges"	"Complete 50 guild dungeon challenges."	15088	10	37	28672	5476	""	0	0
 5803	-1	720	0	"Heroic: Ragnaros"	"Defeat Ragnaros in Firelands on Heroic Difficulty."	15068	10	37	0	5508	"Title: Firelord"	1	0
 5867	-1	-1	0	"Flawless Victory"	"Solo kill a Molten Behemoth in the Molten Front without taking any damage from Molten Stomp or Fiery Boulder."	15070	10	37	0	4631	""	0	0
+6347	-1	-1	0	"Mystically Epic"	"Equip an epic item in every slot with a minimum item level of 359."	92	25	37	0	5971	""	0	0
 394	-1	-1	0	"Alterac Valley towers captured"	"Alterac Valley towers captured"	153	0	38	1	1243604	""	0	0
-557	-1	-1	0	"Superior"	"Equip a superior item in every slot with a minimum item level of 187."	92	10	38	0	133	""	0	0
+558	-1	-1	0	"Greedy"	"Win a greed roll on a superior or better item above level 185 by rolling 100."	92	10	38	0	2802	""	0	0
 695	-1	-1	0	"The Battle for Mount Hyjal"	"Defeat Archimonde in The Battle for Mount Hyjal."	14805	10	38	0	3639	""	1	0
 727	-1	-1	0	"Call in the Cavalry"	"Obtain one of the war mounts through the honor system."	95	10	38	0	1178	""	1	0
 1376	-1	533	0	"Sapphiron kills (Naxxramas 10 player)"	"Sapphiron kills (Naxxramas 10 player)"	14823	10	38	1	1700	""	0	0
@@ -1955,9 +2005,10 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5383	-1	-1	0	"Realm First! Illustrious Cooking"	"First person on the realm to achieve 525 skill in cooking."	81	0	38	256	1467	""	0	0
 5570	-1	-1	0	"Ascendant Council Heroic kills (Bastion of Twilight)"	""	15096	0	38	9	1	""	0	0
 5821	-1	720	0	"Death from Above"	"Only kill Cinderweb Drones while they are atop the web canopy during the Beth\'tilac encounter in Firelands."	15068	10	38	0	3393	""	0	0
-5843	0	-1	0	"Let\'s Do Lunch: Thunder Bluff"	"Complete each of the Thunder Bluff cooking daily quests."	170	10	38	0	4569	""	0	0
+5845	1	-1	0	"A Bunch of Lunch"	"Complete each Let\'s Do Lunch achievement."	170	10	38	0	1807	""	0	0
 5871	-1	-1	0	"Master of the Molten Flow"	"Complete the following challenges within the Molten Flow."	15070	10	38	0	2129	""	0	0
 229	-1	-1	0	"The Grim Reaper"	"Get 30 Honorable Kills in a single battle in any battleground."	95	10	39	0	1933	""	1	0
+559	-1	-1	0	"Needy"	"Win a need roll on a superior or better item above level 185 by rolling 100."	92	10	39	0	2801	""	0	0
 585	-1	-1	0	"Eye of the Storm flags captured"	"Eye of the Storm flags captured"	153	0	39	1	1	""	0	0
 697	-1	-1	0	"The Black Temple"	"Defeat Illidan Stormrage in The Black Temple."	14805	10	39	0	3663	""	1	0
 1296	-1	601	0	"Watch Him Die"	"Defeat Krik\'thir the Gatewatcher in Azjol-Nerub on Heroic Difficulty while Watcher Gashra, Watcher Narji, and Watcher Silthik are still alive."	14806	10	39	0	3250	""	0	0
@@ -1968,13 +2019,13 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4669	-1	-1	0	"Rotface kills (Icecrown 25 player)"	"Rotface kills (Icecrown 25 player)"	15062	0	39	1	1	""	0	0
 5292	-1	755	0	"Headed South"	"Defeat Siamat, Lord of the South Wind, with 3 stacks of Lightning Charge in Lost City of the Tol\'vir on Heroic Difficulty."	15067	10	39	0	2943	""	0	0
 5341	1	-1	0	"Marshal"	"Earn a battleground rating of 2200."	15092	10	39	4096	3369	"Title Reward: Marshal"	0	0
-5372	-1	-1	0	"Cataclysmically Epic"	"Equip an epic item in every slot with a minimum item level of 359."	92	25	39	0	2808	""	0	0
+5475	0	-1	0	"Let\'s Do Lunch: Orgrimmar"	"Complete each of the Orgrimmar cooking daily quests."	170	10	39	0	5532	""	0	0
 5572	-1	-1	0	"Cho\'gall kills (Bastion of Twilight)"	""	15096	0	39	9	1	""	0	0
 5810	-1	-1	0	"Not an Ambi-Turner"	"Defeat Lord Rhyolith in the Firelands without ever causing him to turn left while his armor is intact."	15068	10	39	0	4762	""	0	0
-5844	0	-1	0	"Let\'s Do Lunch: Undercity"	"Complete each of the Undercity cooking daily quests."	170	10	39	0	5134	""	0	0
 5872	-1	-1	0	"King of the Spider-Hill"	"Reach the highest point in the Widow\'s Clutch within the Molten Front."	15070	10	39	0	1586	""	0	0
 698	-1	-1	0	"Sunwell Plateau"	"Defeat Kil\'jaeden in Sunwell Plateau."	14805	10	40	0	3592	""	1	0
 714	0	-1	0	"The Conqueror"	"Raise your reputation values in Warsong Gulch, Arathi Basin and Alterac Valley to Exalted."	95	20	40	0	2563	"Title Reward: Conqueror"	0	0
+1165	-1	-1	0	"My Sack is \"Gigantique\""	"Equip Haris Pilton\'s \"Gigantique\" Bag."	92	10	40	0	2989	""	0	0
 1297	-1	601	0	"Hadronox Denied"	"Defeat Hadronox in Azjol-Nerub on Heroic Difficulty before he webs the top doors and prevents more creatures from spawning."	14806	10	40	0	3251	""	0	0
 1560	-1	-1	1559	"500 Fish"	"Fish up 500 items."	171	10	40	0	3179	""	0	0
 2185	-1	533	0	"Just Can\'t Get Enough (25 player)"	"Defeat Kel\'Thuzad in Naxxramas while killing at least 18 abominations in his chamber in 25-player mode."	14922	10	40	0	2623	""	0	0
@@ -1983,19 +2034,17 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5234	-1	-1	0	"Twin Peaks flags captured"	"Twin Peaks flags captured"	153	0	40	1	1243604	""	0	0
 5355	0	-1	0	"General"	"Earn a battleground rating of 2200."	15092	10	40	4096	3355	"Title Reward: General"	0	0
 5366	-1	36	0	"Ready for Raiding"	"Do not get hit by Fire Wall in the Glubtok encounter in Deadmines on Heroic Difficulty."	15067	10	40	0	2128	""	0	0
-5373	-1	-1	0	"Cataclysmically Superior"	"Equip a superior item in every slot with a minimum item level of 333."	92	10	40	0	133	""	0	0
 5384	-1	-1	0	"Realm First! Illustrious Enchanter"	"First person on the realm to achieve 525 skill in enchanting."	81	0	40	256	578	""	0	0
 5571	-1	-1	0	"Cho\'gall Heroic kills (Bastion of Twilight)"	""	15096	0	40	9	1	""	0	0
 5813	-1	-1	0	"Do a Barrel Roll!"	"Defeat Alysrazor in the Firelands without any raid member getting hit by the following attacks."	15068	10	40	0	4067	""	0	0
-5846	0	-1	0	"A Bunch of Lunch"	"Complete each Let\'s Do Lunch achievement."	170	10	40	0	1807	""	0	0
+5843	0	-1	0	"Let\'s Do Lunch: Thunder Bluff"	"Complete each of the Thunder Bluff cooking daily quests."	170	10	40	0	4569	""	0	0
 5874	-1	-1	0	"Death From Above"	"Bomb the following elementals during a bombing run in the Molten Front."	15070	10	40	0	5565	""	0	0
-558	-1	-1	0	"Greedy"	"Win a greed roll on a superior or better item above level 185 by rolling 100."	92	10	41	0	2802	""	0	0
 622	-1	616	0	"The Spellweaver\'s Downfall (10 player)"	"Defeat Malygos in 10-player mode."	14922	10	41	0	3256	""	0	0
 907	1	-1	0	"The Justicar"	"Raise your reputation values in Warsong Gulch, Arathi Basin and Alterac Valley to Exalted."	95	20	41	0	2924	"Title Reward: Justicar"	0	0
+1206	-1	-1	0	"To All The Squirrels I\'ve Loved Before"	"Show the critters of Azeroth how much you /love them."	92	10	41	0	3132	""	0	0
 1368	-1	533	0	"Anub\'Rekhan kills (Naxxramas 25 player)"	"Anub\'Rekhan kills (Naxxramas 25 player)"	14823	10	41	1	1899	""	0	0
 1418	-1	-1	0	"Realm First! Grand Master Engineer"	"First person on the realm to achieve 450 skill in engineering."	81	0	41	256	333	""	0	0
 1561	-1	-1	1560	"1000 Fish"	"Fish up 1000 items."	171	10	41	0	3179	""	0	0
-1563	1	-1	0	"Hail to the Chef"	"Complete the cooking achievements listed below."	170	10	41	12288	3678	"Title Reward: Chef"	0	0
 1860	-1	601	0	"Gotta Go!"	"Defeat Anub\'arak in Azjol-Nerub on Heroic Difficulty in 4 minutes or less."	14806	10	41	0	3295	""	0	0
 4648	-1	-1	0	"Blood Prince Council kills (Icecrown 10 player)"	"Blood Prince Council kills (Icecrown 10 player)"	15062	0	41	1	1	""	0	0
 5235	-1	-1	0	"Twin Peaks flags returned"	"Twin Peaks flags returned"	153	0	41	1	1	""	0	0
@@ -2003,39 +2052,41 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5367	-1	36	0	"Rat Pack"	"Kill 20 Mine Rats during the Helix Gearbreaker encounter in Deadmines on Heroic Difficulty."	15067	10	41	0	5061	""	0	0
 5573	-1	-1	0	"Sinestra Heroic kills (Bastion of Twilight)"	""	15096	0	41	9	1	""	0	0
 5829	-1	-1	0	"Bucket List"	"During a single engagement, bring Shannox to each of the following locations in the Firelands before dispatching him:"	15068	10	41	0	5423	""	0	0
+5844	0	-1	0	"Let\'s Do Lunch: Undercity"	"Complete each of the Undercity cooking daily quests."	170	10	41	0	5134	""	0	0
 5873	-1	-1	0	"Ready for Raiding II"	"Slay the following Lieutenants of Flame in Ragnaros\' Reach without getting hit by their special attacks."	15070	10	41	0	2128	""	0	0
 395	-1	-1	0	"Warsong Gulch flags captured"	"Warsong Gulch flags captured"	153	0	42	1	1243604	""	0	0
-559	-1	-1	0	"Needy"	"Win a need roll on a superior or better item above level 185 by rolling 100."	92	10	42	0	2801	""	0	0
 623	-1	616	0	"The Spellweaver\'s Downfall (25 player)"	"Defeat Malygos in 25-player mode."	14922	25	42	0	3257	""	0	0
 908	1	-1	0	"Call to Arms!"	"Complete 100 battlegrounds at max level."	95	10	42	136	2841	""	0	0
 1378	-1	533	0	"Gluth kills (Naxxramas 25 player)"	"Gluth kills (Naxxramas 25 player)"	14823	10	42	1	97	""	0	0
-1784	0	-1	0	"Hail to the Chef"	"Complete the cooking achievements listed below."	170	10	42	12288	3678	"Title Reward: Chef"	0	0
 1862	-1	619	0	"Volazj\'s Quick Demise"	"Defeat Herald Volazj in Ahn\'kahet on Heroic Difficulty in 2 minutes or less."	14806	10	42	0	3296	""	0	0
 2096	-1	-1	0	"The Coin Master"	"Complete the coin fishing achievements listed below."	171	10	42	0	2993	"Reward: Titanium Seal of Dalaran"	0	0
+2557	-1	-1	0	"To All The Squirrels Who Shared My Life"	"Show more critters of Azeroth how much you /love them."	92	10	42	0	3132	""	0	0
 4671	-1	-1	0	"Blood Prince Council kills (Heroic Icecrown 10 player)"	"Blood Prince Council kills (Heroic Icecrown 10 player)"	15062	0	42	1	1	""	0	0
 5342	0	-1	0	"Warlord"	"Earn a battleground rating of 2300."	15092	10	42	4096	3356	"Title Reward: Warlord"	0	0
 5368	-1	36	0	"Prototype Prodigy"	"Keep the Prototype Reaper from falling below 90% health at any time before the Foe Reaper 5000 is defeated in Deadmines on Heroic Difficulty."	15067	10	42	0	2367	""	0	0
 5385	-1	-1	0	"Realm First! Illustrious Engineer"	"First person on the realm to achieve 525 skill in engineering."	81	0	42	256	333	""	0	0
 5575	-1	-1	0	"Conclave of Wind kills (Throne of the Four Winds)"	""	15096	0	42	9	1	""	0	0
 5830	-1	-1	0	"Share the Pain"	"Defeat Baleroc in the Firelands without allowing any member of your raid to suffer Torment more than three times."	15068	10	42	0	2874	""	0	0
+5846	0	-1	0	"A Bunch of Lunch"	"Complete each Let\'s Do Lunch achievement."	170	10	42	0	1807	""	0	0
 5879	-1	-1	0	"Veteran of the Molten Front"	"Complete the Regrowth and Molten Front achievements listed below."	15070	10	42	4096	5423	"Title: The Flamebreaker"	0	0
 586	-1	-1	0	"Warsong Gulch flags returned"	"Warsong Gulch flags returned"	153	0	43	1	1	""	0	0
 909	0	-1	0	"Call to Arms!"	"Complete 100 battlegrounds at max level."	95	10	43	136	2841	""	0	0
-1165	-1	-1	0	"My Sack is \"Gigantique\""	"Equip Haris Pilton\'s \"Gigantique\" Bag."	92	10	43	0	2989	""	0	0
 1379	-1	533	0	"Gothik the Harvester kills (Naxxramas 25 player)"	"Gothik the Harvester kills (Naxxramas 25 player)"	14823	10	43	1	2639	""	0	0
 1419	-1	-1	0	"Realm First! First Aid Grand Master"	"First person on the realm to achieve 450 skill in first aid."	81	0	43	256	504	""	0	0
 1516	-1	-1	0	"Accomplished Angler"	"Complete the fishing achievements listed below."	171	10	43	12288	580	"Title Reward: Salty"	0	0
+1563	1	-1	0	"Hail to the Chef"	"Complete the cooking achievements listed below."	170	10	43	12288	3678	"Title Reward: Chef"	0	0
 1874	-1	616	0	"You Don\'t Have an Eternity (10 player)"	"Defeat Malygos in 6 minutes or less in 10-player mode."	14922	10	43	0	3256	""	0	0
 2038	-1	619	0	"Respect Your Elders"	"Defeat Elder Nadox in Ahn\'kahet on Heroic Difficulty without killing any Ahn\'kahar Guardians."	14806	10	43	0	3393	""	0	0
 4672	-1	-1	0	"Blood Prince Council kills (Icecrown 25 player)"	"Blood Prince Council kills (Icecrown 25 player)"	15062	0	43	1	1	""	0	0
 4875	1	-1	0	"Loremaster of Cataclysm"	"Complete the Cataclysm quest achievements listed below."	15070	10	43	0	2436	""	0	0
 5343	1	-1	0	"Grand Marshal"	"Earn a battleground rating of 2400."	15092	10	43	12288	3371	"Title Reward: Grand Marshal"	0	0
 5369	-1	36	0	"It\'s Frost Damage"	"Allow three Freezing Vapors to cast Coalesce during the Admiral Ripsnarl encounter in Deadmines on Heroic Difficulty."	15067	10	43	0	3147	""	0	0
+5548	-1	-1	0	"To All the Squirrels Who Cared for Me"	"The Cataclysm has brought more critters to Azeroth. You must /love them too."	92	10	43	0	3132	""	0	0
 5574	-1	-1	0	"Conclave of Wind Heroic kills (Throne of the Four Winds)"	""	15096	0	43	9	1	""	0	0
 5799	-1	720	0	"Only the Penitent..."	"Activate both of Fandral\'s Flames at once in Firelands without any raid member getting hit by Kneel to the Flame!"	15068	10	43	0	5483	""	0	0
 227	-1	-1	0	"Damage Control"	"Do 300,000 damage or healing in a single battle in any battleground. The damage or healing must be done to a player."	95	10	44	0	3422	""	1	0
-1206	-1	-1	0	"To All The Squirrels I\'ve Loved Before"	"Show the critters of Azeroth how much you /love them."	92	10	44	0	3132	""	0	0
 1380	-1	533	0	"Grand Widow Faerlina kills (Naxxramas 25 player)"	"Grand Widow Faerlina kills (Naxxramas 25 player)"	14823	10	44	1	1899	""	0	0
+1784	0	-1	0	"Hail to the Chef"	"Complete the cooking achievements listed below."	170	10	44	12288	3678	"Title Reward: Chef"	0	0
 1875	-1	616	0	"You Don\'t Have an Eternity (25 player)"	"Defeat Malygos in 6 minutes or less in 25-player mode."	14922	10	44	0	3256	""	0	0
 2056	-1	619	0	"Volunteer Work"	"Defeat Jedoga Shadowseeker in Ahn\'kahet on Heroic Difficulty without killing any Twilight Volunteers."	14806	10	44	0	3436	""	0	0
 4673	-1	-1	0	"Blood Prince Council kills (Heroic Icecrown 25 player)"	"Blood Prince Council kills (Heroic Icecrown 25 player)"	15062	0	44	1	1	""	0	0
@@ -2045,17 +2096,19 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5386	-1	-1	0	"Realm First! Illustrious First Aid"	"First person on the realm to achieve 525 skill in first aid."	81	0	44	256	504	""	0	0
 5576	-1	-1	0	"Al\'Akir kills (Throne of the Four Winds)"	""	15096	0	44	9	1	""	0	0
 5855	-1	-1	0	"Ragnar-O\'s"	"Defeat Ragnaros while three Living Meteors are ignited by Lava Wave."	15068	10	44	0	5508	""	0	0
+6350	-1	-1	0	"To All the Squirrels I Once Caressed? (NYI)"	"There are even more critters in Pandaria. They also need /love."	92	10	44	0	3132	""	0	0
 231	-1	-1	0	"Wrecking Ball"	"Get 20 killing blows without dying in a single battle in any battleground."	95	10	45	16	2770	""	1	0
 1381	-1	533	0	"Grobbulus kills (Naxxramas 25 player)"	"Grobbulus kills (Naxxramas 25 player)"	14823	10	45	1	97	""	0	0
 1420	-1	-1	0	"Realm First! Grand Master Angler"	"First person on the realm to achieve 450 skill in fishing."	81	0	45	256	580	""	0	0
 1869	-1	616	0	"A Poke in the Eye (10 player)"	"Defeat Malygos with fewer than 9 in 10-player mode."	14922	10	45	0	3304	""	0	0
 2151	-1	600	0	"Consumption Junction"	"Defeat Trollgore in Drak\'Tharon Keep on Heroic Difficulty before Consume reaches ten stacks."	14806	10	45	0	3502	""	0	0
-2557	-1	-1	0	"To All The Squirrels Who Shared My Life"	"Show more critters of Azeroth how much you /love them."	92	10	45	0	3132	""	0	0
+2556	-1	-1	0	"Pest Control"	"Slay the following pests."	92	10	45	0	1586	""	0	0
 4649	-1	-1	0	"Valithria Dreamwalker rescues (Icecrown 10 player)"	"Valithria Dreamwalker rescues (Icecrown 10 player)"	15062	0	45	1	1	""	0	0
 5344	1	-1	0	"Hero of the Alliance: Vicious"	"End PvP season 9 in the top .5% of the rated battleground ladder."	15092	10	45	12288	3574	"Title Reward: Hero of the Alliance"	0	0
 5371	-1	36	0	"Vigorous VanCleef Vindicator"	"Engage Vanessa VanCleef within 5 minutes of being inflicted with the Nightmare Elixir in Deadmines on Heroic Difficulty."	15067	10	45	0	3627	""	0	0
 5577	-1	-1	0	"Al\'Akir Heroic kills (Throne of the Four Winds)"	""	15096	0	45	9	1	""	0	0
 6106	-1	-1	0	"Siege of Wyrmrest Temple"	"Defeat the bosses laying siege to Wyrmrest Temple in the Dragon Soul raid."	15068	10	45	0	3684	""	0	0
+1254	-1	-1	0	"Friend or Fowl?"	"Slay 15 turkeys in 3 minutes."	92	10	46	0	1467	""	0	0
 1382	-1	533	0	"Heigan the Unclean kills (Naxxramas 25 player)"	"Heigan the Unclean kills (Naxxramas 25 player)"	14823	10	46	1	2997	""	0	0
 1870	-1	616	0	"A Poke in the Eye (25 player)"	"Defeat Malygos with fewer than 21 in 25-player mode."	14922	10	46	0	3305	""	0	0
 2016	1	-1	0	"Grizzled Veteran"	"Complete the Grizzly Hills PvP daily quests listed below."	95	10	46	0	3343	""	0	0
@@ -2064,24 +2117,23 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5358	0	-1	0	"Hero of the Horde: Vicious"	"End PvP season 9 in the top .5% of the rated battleground ladder."	15092	10	46	12288	3575	"Title Reward: Hero of the Horde"	0	0
 5387	-1	-1	0	"Realm First! Illustrious Angler"	"First person on the realm to achieve 525 skill in fishing."	81	0	46	256	580	""	0	0
 5503	-1	33	0	"Pardon Denied"	"Defeat Baron Ashbury without letting him heal with Stay of Execution in Shadowfang Keep on Heroic Difficulty."	15067	10	46	0	2984	""	0	0
-5548	-1	-1	0	"To All the Squirrels Who Cared for Me"	"The Cataclysm has brought more critters to Azeroth. You must /love them too."	92	10	46	0	3132	""	0	0
 5964	-1	-1	0	"Beth\'tilac kills (Firelands)"	""	15096	0	46	9	1	""	0	0
 6107	-1	967	0	"Fall of Deathwing"	"Defeat the encounters leading up to the Fall of Deathwing in the Dragon Soul raid."	15068	10	46	0	5833	""	0	0
+1244	-1	-1	0	"Well Read"	"Read the books listed below."	92	10	47	0	2892	""	0	0
 1383	-1	533	0	"Four Horsemen kills (Naxxramas 25 player)"	"Four Horsemen kills (Naxxramas 25 player)"	14823	10	47	1	2639	""	0	0
 1421	-1	-1	0	"Realm First! Grand Master Herbalist"	"First person on the realm to achieve 450 skill in herbalism."	81	0	47	256	345	""	0	0
 2017	0	-1	0	"Grizzled Veteran"	"Complete the Grizzly Hills PvP daily quests listed below."	95	10	47	0	3343	""	0	0
 2057	-1	600	0	"Oh Novos!"	"Defeat Novos the Summoner in Drak\'Tharon Keep on Heroic Difficulty without allowing any undead minions to reach the floor."	14806	10	47	0	2718	""	0	0
 2148	-1	616	0	"Denyin\' the Scion (10 player)"	"Deliver a killing blow to a Scion of Eternity while riding on a hover disk in 10-player mode."	14922	10	47	0	3501	""	0	0
-2556	-1	-1	0	"Pest Control"	"Slay the following pests."	92	10	47	0	1586	""	0	0
 4675	-1	-1	0	"Valithria Dreamwalker rescues (Icecrown 25 player)"	"Valithria Dreamwalker rescues (Icecrown 25 player)"	15062	0	47	1	1	""	0	0
 5504	-1	33	0	"To the Ground!"	"Defeat Commander Springvale without allowing him to receive Unholy Empowerment in Shadowfang Keep on Heroic Difficulty."	15067	10	47	0	2293	""	0	0
 5965	-1	-1	0	"Beth\'tilac Heroic kills (Firelands)"	""	15096	0	47	9	1	""	0	0
 6177	-1	967	0	"Destroyer\'s End"	"Defeat Deathwing on Normal or Heroic Difficulty in the Dragon Soul raid."	15068	10	47	0	5862	"Title: Destroyer\'s End"	0	0
 6316	1	-1	0	"Hero of the Alliance: Ruthless"	"End PvP season 10 in the top .5% of the rated battleground ladder."	15092	10	47	12288	3574	"Title Reward: Hero of the Alliance"	0	0
 230	1	-1	0	"Battlemaster"	"Complete the battleground achievements listed below."	95	50	48	12288	3372	"Title Reward: Battlemaster"	0	0
-1254	-1	-1	0	"Friend or Fowl?"	"Slay 15 turkeys in 3 minutes."	92	10	48	0	1467	""	0	0
 1384	-1	533	0	"Instructor Razuvious kills (Naxxramas 25 player)"	"Instructor Razuvious kills (Naxxramas 25 player)"	14823	10	48	1	2639	""	0	0
 1816	-1	608	0	"Defenseless"	"Defeat Cyanigosa in The Violet Hold without using Defense Control Crystals and with Prison Seal Integrity at 100% while in Heroic Difficulty."	14806	10	48	0	3264	""	0	0
+1956	-1	571	0	"Higher Learning"	"Read the volumes of \"The Schools of Arcane Magic\" found in Dalaran listed below."	92	10	48	0	1865	"Reward: The Schools of Arcane Magic - Mastery"	0	0
 2149	-1	616	0	"Denyin\' the Scion (25 player)"	"Deliver a killing blow to a Scion of Eternity while riding on a hover disk in 25-player mode."	14922	10	48	0	3501	""	0	0
 4676	-1	-1	0	"Valithria Dreamwalker rescues (Heroic Icecrown 25 player)"	"Valithria Dreamwalker rescues (Heroic Icecrown 25 player)"	15062	0	48	1	1	""	0	0
 5388	-1	-1	0	"Realm First! Illustrious Herbalism"	"First person on the realm to achieve 525 skill in herbalism."	81	0	48	256	345	""	0	0
@@ -2090,9 +2142,9 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6109	-1	967	0	"Heroic: Morchok"	"Defeat Morchok in Dragon Soul on Heroic Difficulty."	15068	10	48	0	5831	""	1	0
 6317	0	-1	0	"Hero of the Horde: Ruthless"	"End PvP season 10 in the top .5% of the rated battleground ladder."	15092	10	48	12288	3575	"Title Reward: Hero of the Horde"	0	0
 1175	0	-1	0	"Battlemaster"	"Complete the battleground achievements listed below."	95	50	49	12288	3373	"Title Reward: Battlemaster"	0	0
-1244	-1	-1	0	"Well Read"	"Read the books listed below."	92	10	49	0	2892	""	0	0
 1385	-1	533	0	"Loatheb kills (Naxxramas 25 player)"	"Loatheb kills (Naxxramas 25 player)"	14823	10	49	1	2997	""	0	0
 1422	-1	-1	0	"Realm First! Grand Master Scribe"	"First person on the realm to achieve 450 skill in inscription."	81	0	49	256	2557	""	0	0
+1833	-1	-1	0	"It\'s Happy Hour Somewhere"	"Drink 25 different types of beverages."	92	10	49	160	3083	""	25	346
 1865	-1	608	0	"Lockdown!"	"Defeat Xevozz, Lavanthor, Ichoron, Zuramat the Obliterator, Erekem, and Moragg in The Violet Hold on Heroic Difficulty."	14806	10	49	0	3300	""	0	0
 2047	-1	615	0	"Gonna Go When the Volcano Blows (10 player)"	"Defeat Sartharion the Onyx Guardian without getting hit by Lava Strike in 10 player mode."	14922	10	49	0	3087	""	0	0
 4650	-1	-1	0	"Professor Putricide kills (Icecrown 10 player)"	"Professor Putricide kills (Icecrown 10 player)"	15062	0	49	1	1	""	0	0
@@ -2100,17 +2152,17 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5967	-1	-1	0	"Lord Rhyolith Heroic kills (Firelands)"	""	15096	0	49	9	1	""	0	0
 6110	-1	967	0	"Heroic: Warlord Zon\'ozz"	"Defeat Warlord Zon\'ozz in Dragon Soul on Heroic Difficulty."	15068	10	49	0	5834	""	1	0
 1386	-1	533	0	"Maexxna kills (Naxxramas 25 player)"	"Maexxna kills (Naxxramas 25 player)"	14823	10	50	1	1899	""	0	0
-1956	-1	571	0	"Higher Learning"	"Read the volumes of \"The Schools of Arcane Magic\" found in Dalaran listed below."	92	10	50	0	1865	"Reward: The Schools of Arcane Magic - Mastery"	0	0
 2041	-1	608	0	"Dehydration"	"Defeat Ichoron in the Violet Hold on Heroic Difficulty without allowing any Ichor Globules to merge."	14806	10	50	0	2134	""	0	0
 2048	-1	615	0	"Gonna Go When the Volcano Blows (25 player)"	"Defeat Sartharion the Onyx Guardian without getting hit by Lava Strike in 25-player mode."	14922	10	50	0	3087	""	0	0
 4677	-1	-1	0	"Professor Putricide kills (Heroic Icecrown 10 player)"	"Professor Putricide kills (Heroic Icecrown 10 player)"	15062	0	50	1	1	""	0	0
 5389	-1	-1	0	"Realm First! Illustrious Scribe"	"First person on the realm to achieve 525 skill in inscription."	81	0	50	256	2557	""	0	0
 5743	-1	859	0	"It\'s Not Easy Being Green"	"Do not get hit by Bloodvenom, Pool of Acrid Tears, or Venomous Effusion in the High Priest Venoxis encounter in Zul\'Gurub on Heroic Difficulty."	15067	10	50	0	1960	""	0	0
+5754	-1	-1	0	"Drown Your Sorrows"	"Drink the following Cataclysm beverages."	92	10	50	0	3083	""	0	0
 5968	-1	-1	0	"Shannox kills (Firelands)"	""	15096	0	50	9	1	""	0	0
 6111	-1	967	0	"Heroic: Yor\'sahj the Unsleeping"	"Defeat Yor\'sahj the Unsleeping in Dragon Soul on Heroic Difficulty."	15068	10	50	0	5835	""	1	0
 1387	-1	533	0	"Noth the Plaguebringer kills (Naxxramas 25 player)"	"Noth the Plaguebringer kills (Naxxramas 25 player)"	14823	10	51	1	2997	""	0	0
 1423	-1	-1	0	"Realm First! Grand Master Jewelcrafter"	"First person on the realm to achieve 450 skill in jewelcrafting."	81	0	51	256	1768	""	0	0
-1833	-1	-1	0	"It\'s Happy Hour Somewhere"	"Drink 25 different types of beverages."	92	10	51	160	3083	""	25	346
+1832	-1	-1	0	"Tastes Like Chicken"	"Sample 50 different kinds of Azeroth\'s delectable dishes."	92	10	51	160	3266	""	50	347
 2049	-1	615	0	"Twilight Assist (10 player)"	"With at least one Twilight Drake still alive, engage and defeat Sartharion the Onyx Guardian in 10-player mode."	14922	10	51	0	3252	""	0	0
 2153	-1	608	0	"A Void Dance"	"Defeat Zuramat the Obliterator in The Violet Hold on Heroic Difficulty without killing any void sentries."	14806	10	51	0	2242	""	0	0
 4678	-1	-1	0	"Professor Putricide kills (Icecrown 25 player)"	"Professor Putricide kills (Icecrown 25 player)"	15062	0	51	1	1	""	0	0
@@ -2122,41 +2174,41 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 2050	-1	615	2049	"Twilight Duo (10 player)"	"With at least two Twilight Drakes still alive, engage and defeat Sartharion the Onyx Guardian in 10-player mode."	14922	10	52	0	3252	""	0	0
 4679	-1	-1	0	"Professor Putricide kills (Heroic Icecrown 25 player)"	"Professor Putricide kills (Heroic Icecrown 25 player)"	15062	0	52	1	1	""	0	0
 5390	-1	-1	0	"Realm First! Illustrious Jewelcrafter"	"First person on the realm to achieve 525 skill in jewelcrafting."	81	0	52	256	1768	""	0	0
-5754	-1	-1	0	"Drown Your Sorrows"	"Drink the following Cataclysm beverages."	92	10	52	0	3083	""	0	0
+5753	-1	-1	0	"Cataclysmically Delicious"	"Sample the following Cataclysm delicacies."	92	20	52	0	3266	""	0	0
 5765	-1	-1	0	"Here, Kitty Kitty..."	"Defeat High Priestess Kilnara in Heroic Difficulty after having fed Temple Rats to 4 of Bethekk\'s Pride."	15067	10	52	0	5471	""	0	0
 5970	-1	-1	0	"Alysrazor kills (Firelands)"	""	15096	0	52	9	1	""	0	0
 6113	-1	967	0	"Heroic: Ultraxion"	"Defeat Ultraxion in Dragon Soul on Heroic Difficulty."	15068	10	52	0	5837	""	1	0
 1388	-1	533	0	"Thaddius kills (Naxxramas 25 player)"	"Thaddius kills (Naxxramas 25 player)"	14823	10	53	1	97	""	0	0
 1424	-1	-1	0	"Realm First! Grand Master Leatherworker"	"First person on the realm to achieve 450 skill in leatherworking."	81	0	53	256	346	""	0	0
-1832	-1	-1	0	"Tastes Like Chicken"	"Sample 50 different kinds of Azeroth\'s delectable dishes."	92	10	53	160	3266	""	50	347
 2051	-1	615	2050	"The Twilight Zone (10 player)"	"With all three Twilight Drakes still alive, engage and defeat Sartharion the Onyx Guardian in 10-player mode."	14922	10	53	0	3252	"Title Reward: Of the Nightfall"	0	0
 2152	-1	604	0	"Share The Love"	"Defeat Gal\'darah in Gundrak on Heroic Difficulty and have 5 unique party members get impaled throughout the fight."	14806	10	53	0	2714	""	0	0
 4651	-1	-1	0	"Blood Queen Lana\'thel kills (Icecrown 10 player)"	"Blood Queen Lana\'thel kills (Icecrown 10 player)"	15062	0	53	1	1	""	0	0
 5759	-1	859	0	"Spirit Twister"	"Defeat 20 Twisted Spirits within 15 seconds during the Jin\'do encounter in Zul\'Gurub on Heroic Difficulty."	15067	10	53	0	1739	""	0	0
+5779	-1	-1	0	"You\'ll Feel Right as Rain"	"Feel 1000% better by eating Chocolate Cookies."	92	10	53	0	5059	""	0	0
 5971	-1	-1	0	"Alysrazor Heroic kills (Firelands)"	""	15096	0	53	9	1	""	0	0
 6114	-1	967	0	"Heroic: Warmaster Blackhorn"	"Defeat Warmaster Blackhorn in Dragon Soul on Heroic Difficulty."	15068	10	53	0	5838	""	1	0
 1389	-1	533	0	"Sapphiron kills (Naxxramas 25 player)"	"Sapphiron kills (Naxxramas 25 player)"	14823	10	54	1	1700	""	0	0
 2040	-1	604	0	"Less-rabi"	"Defeat Moorabi in Gundrak on Heroic Difficulty while preventing him from transforming into a mammoth at any point during the encounter."	14806	10	54	0	3394	""	0	0
 2052	-1	615	0	"Twilight Assist (25 player)"	"With at least one Twilight Drake still alive, engage and defeat Sartharion the Onyx Guardian in 25-player mode."	14922	10	54	0	3252	""	0	0
+2076	-1	-1	0	"Armored Brown Bear"	"Obtain an Armored Brown Bear from Mei Francis in Dalaran."	92	10	54	0	3497	""	1	0
 4680	-1	-1	0	"Blood Queen Lana\'thel kills (Heroic Icecrown 10 player)"	"Blood Queen Lana\'thel kills (Heroic Icecrown 10 player)"	15062	0	54	1	1	""	0	0
 5391	-1	-1	0	"Realm First! Illustrious Leatherworker"	"First person on the realm to achieve 525 skill in leatherworking."	81	0	54	256	346	""	0	0
 5750	-1	568	0	"Tunnel Vision"	"Defeat Halazzi in Zul\'Aman on Heroic Difficulty without killing any of his totems."	15067	10	54	0	120	""	0	0
-5753	-1	-1	0	"Cataclysmically Delicious"	"Sample the following Cataclysm delicacies."	92	20	54	0	3266	""	0	0
 5972	-1	-1	0	"Baleroc kills (Firelands)"	""	15096	0	54	9	1	""	0	0
 6115	-1	967	0	"Heroic: Spine of Deathwing"	"Emerge victorious from the Spine of Deathwing in Dragon Soul on Heroic Difficulty."	15068	10	54	0	5839	""	1	0
 1390	-1	533	0	"Kel\'Thuzad kills (Naxxramas 25 player)"	"Kel\'Thuzad kills (Naxxramas 25 player)"	14823	10	55	1	1898	""	0	0
 1425	-1	-1	0	"Realm First! Grand Master Miner"	"First person on the realm to achieve 450 skill in mining."	81	0	55	256	336	""	0	0
 2053	-1	615	2052	"Twilight Duo (25 player)"	"With at least two Twilight Drakes still alive, engage and defeat Sartharion the Onyx Guardian in 25-player mode."	14922	10	55	0	3252	""	0	0
 2058	-1	604	0	"Snakes. Why\'d It Have To Be Snakes?"	"Defeat Slad\'ran in Gundrak on Heroic Difficulty without getting snake wrapped."	14806	10	55	0	2936	""	0	0
+2077	-1	-1	0	"Wooly Mammoth"	"Obtain a Wooly Mammoth from Mei Francis in Dalaran."	92	10	55	0	3443	""	1	0
 4681	-1	-1	0	"Blood Queen Lana\'thel kills (Icecrown 25 player)"	"Blood Queen Lana\'thel kills (Icecrown 25 player)"	15062	0	55	1	1	""	0	0
 5761	-1	568	0	"Hex Mix"	"Un-hex all of the potential hex victims in Zul\'Aman on Heroic Difficulty."	15067	10	55	0	3058	""	0	0
-5779	-1	-1	0	"You\'ll Feel Right as Rain"	"Feel 1000% better by eating Chocolate Cookies."	92	10	55	0	5059	""	0	0
 5973	-1	-1	0	"Baleroc Heroic kills (Firelands)"	""	15096	0	55	9	1	""	0	0
 6116	-1	967	0	"Heroic: Madness of Deathwing"	"Destroy Deathwing in Dragon Soul on Heroic Difficulty."	15068	10	55	0	5833	"Title: Savior of Azeroth"	1	0
 1392	-1	615	0	"Sartharion kills (Chamber of the Aspects 10 player)"	"Sartharion kills (Chamber of the Aspects 10 player)"	14823	10	56	1	1699	""	0	0
 1866	-1	599	0	"Good Grief"	"Defeat the Maiden of Grief in the Halls of Stone on Heroic Difficulty in 1 minute or less."	14806	10	56	0	3301	""	0	0
 2054	-1	615	2053	"The Twilight Zone (25 player)"	"With all three Twilight Drakes still alive, engage and defeat Sartharion the Onyx Guardian in 25-player mode."	14922	10	56	0	3252	"Title Reward: Twilight Vanquisher"	0	0
-2076	-1	-1	0	"Armored Brown Bear"	"Obtain an Armored Brown Bear from Mei Francis in Dalaran."	92	10	56	0	3497	""	1	0
+2078	-1	-1	0	"Traveler\'s Tundra Mammoth"	"Obtain a Traveler\'s Tundra Mammoth from Mei Francis in Dalaran."	92	10	56	0	3443	""	1	0
 4682	-1	-1	0	"Blood Queen Lana\'thel kills (Heroic Icecrown 25 player)"	"Blood Queen Lana\'thel kills (Heroic Icecrown 25 player)"	15062	0	56	1	1	""	0	0
 5392	-1	-1	0	"Realm First! Illustrious Miner"	"First person on the realm to achieve 525 skill in mining."	81	0	56	256	336	""	0	0
 5858	-1	568	0	"Bear-ly Made It"	"Save all four prisoners before they are sacrified in Zul\'Aman on Heroic Difficulty."	15067	10	56	0	4750	""	1	0
@@ -2164,26 +2216,26 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6174	-1	967	0	"Don\'t Stand So Close to Me"	"Defeat Morchok in Dragon Soul on Normal or Heroic Difficulty without any two players (three players on 25-player mode) ever being within 5 yards of each other while Morchok is channeling Black Blood of the Earth."	15068	10	56	0	1690	""	0	0
 1393	-1	615	0	"Sartharion kills (Chamber of the Aspects 25 player)"	"Sartharion kills (Chamber of the Aspects 25 player)"	14823	10	57	1	1699	""	0	0
 1426	-1	-1	0	"Realm First! Grand Master Skinner"	"First person on the realm to achieve 450 skill in skinning."	81	0	57	256	736	""	0	0
-2077	-1	-1	0	"Wooly Mammoth"	"Obtain a Wooly Mammoth from Mei Francis in Dalaran."	92	10	57	0	3443	""	1	0
+2097	-1	-1	0	"Get to the Choppa!"	"Obtain a Mekgineer\'s Chopper or a Mechano-hog."	92	10	57	0	1101	""	1	0
 2155	-1	599	0	"Abuse the Ooze"	"Defeat Sjonnir the Ironshaper in the Halls of Stone on Heroic Difficulty and kill 5 Iron Sludges during the encounter."	14806	10	57	0	1541	""	0	0
 4396	-1	249	0	"Onyxia\'s Lair (10 player)"	"Defeat Onyxia in 10-player mode."	14922	10	57	0	3820	""	0	0
 4652	-1	-1	0	"Sindragosa kills (Icecrown 10 player)"	"Sindragosa kills (Icecrown 10 player)"	15062	0	57	1	1	""	0	0
 5760	-1	568	0	"Ring Out!"	"Defeat Daakara in Zul\'Aman on Heroic Difficulty without any player leaving the rectangular turquoise stonework inscribed on the floor in the center of his area."	15067	10	57	0	3768	""	0	0
 5975	-1	-1	0	"Majordomo Fandral Staghelm Heroic kills (Firelands)"	""	15096	0	57	9	1	""	0	0
-6128	-1	967	0	"Ping Pong Champion"	"Bounce the Void of Unmaking 10 times off of players, and then defeat Warlord Zon\'ozz on Normal or Heroic Difficulty."	15068	10	57	0	2242	""	0	0
+6128	-1	967	0	"Ping Pong Champion"	"Bounce the Void of the Unmaking 10 times off of players, and then defeat Warlord Zon\'ozz on Normal or Heroic Difficulty."	15068	10	57	0	2242	""	0	0
 1391	-1	616	0	"Malygos kills (10 player)"	"Malygos kills (10 player)"	14823	10	58	1	1700	""	0	0
-2078	-1	-1	0	"Traveler\'s Tundra Mammoth"	"Obtain a Traveler\'s Tundra Mammoth from Mei Francis in Dalaran."	92	10	58	0	3443	""	1	0
 2154	-1	599	0	"Brann Spankin\' New"	"Defeat the Tribunal of Ages encounter in the Halls of Stone on Heroic Difficulty without allowing Brann Bronzebeard to take any damage."	14806	10	58	0	3286	""	0	0
 4397	-1	249	0	"Onyxia\'s Lair (25 player)"	"Defeat Onyxia in 25-player mode."	14922	10	58	0	3820	""	0	0
 4684	-1	-1	0	"Sindragosa kills (Heroic Icecrown 10 player)"	"Sindragosa kills (Heroic Icecrown 10 player)"	15062	0	58	1	1	""	0	0
 5393	-1	-1	0	"Realm First! Illustrious Skinner"	"First person on the realm to achieve 525 skill in skinning."	81	0	58	256	736	""	0	0
+5749	-1	-1	0	"Vial of the Sands"	"Learn how to transform into a dragon and carry an ally."	92	10	58	0	3619	""	1	0
 5976	-1	-1	0	"Ragnaros kills (Firelands)"	""	15096	0	58	9	1	""	0	0
 5995	-1	938	0	"Moon Guard"	"Engage the Echo of Tyrande in End Time on Heroic Difficulty after surviving her Shadow Gauntlet without allowing the party\'s healer to take any damage."	15067	10	58	0	85	""	0	0
 6129	-1	967	0	"Taste the Rainbow!"	"Experience the following color combinations, and then defeat Yor\'sahj the Unsleeping on Normal or Heroic Difficulty."	15068	10	58	0	5156	""	0	0
 1394	-1	616	0	"Malygos kills (25 player)"	"Malygos kills (25 player)"	14823	10	59	1	1700	""	0	0
 1427	-1	-1	0	"Realm First! Grand Master Tailor"	"First person on the realm to achieve 450 skill in tailoring."	81	0	59	256	341	""	0	0
 1867	-1	602	0	"Timely Death"	"Defeat Loken in the Halls of Lightning on Heroic Difficulty in 2 minutes or less."	14806	10	59	0	3302	""	0	0
-2097	-1	-1	0	"Get to the Choppa!"	"Obtain a Mekgineer\'s Chopper or a Mechano-hog."	92	10	59	0	1101	""	1	0
+2084	-1	-1	0	"Ring of the Kirin Tor"	"Purchase a Signet of the Kirin Tor, Band of the Kirin Tor, Loop of the Kirin Tor, or Ring of the Kirin Tor in Dalaran."	92	10	59	0	3447	""	1	0
 4402	-1	249	0	"More Dots! (10 player)"	"Defeat Onyxia in less than 5 minutes in 10-player mode."	14922	10	59	0	3821	""	0	0
 4683	-1	-1	0	"Sindragosa kills (Icecrown 25 player)"	"Sindragosa kills (Icecrown 25 player)"	15062	0	59	1	1	""	0	0
 5977	-1	-1	0	"Ragnaros Heroic kills (Firelands)"	""	15096	0	59	9	1	""	0	0
@@ -2191,16 +2243,16 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6175	-1	967	0	"Holding Hands"	"Destroy the final Crystal Conductor during Hagara\'s lightning phase on Normal or Heroic Difficulty, while all raid members are part of the final Lightning Conduit."	15068	10	59	0	5220	""	0	0
 1753	-1	624	0	"Archavon the Stone Watcher kills (Wintergrasp 10 player)"	"Archavon the Stone Watcher kills (Wintergrasp 10 player)"	14823	10	60	1	187	""	0	0
 1834	-1	602	0	"Lightning Struck"	"Defeat General Bjarngrim in the Halls of Lightning on Heroic Difficulty while he has a Temporary Electrical Charge."	14806	10	60	0	3242	""	0	0
+2716	-1	-1	0	"Dual Talent Specialization"	"Visit your class trainer when you are at least level 30 and activate your Dual Talent Specialization."	92	10	60	0	2970	""	0	0
 4405	-1	249	0	"More Dots! (25 player)"	"Defeat Onyxia in less than 5 minutes in 25-player mode."	14922	10	60	0	3821	""	0	0
 4685	-1	-1	0	"Sindragosa kills (Heroic Icecrown 25 player)"	"Sindragosa kills (Heroic Icecrown 25 player)"	15062	0	60	1	1	""	0	0
 5394	-1	-1	0	"Realm First! Illustrious Tailor"	"First person on the realm to achieve 525 skill in tailoring."	81	0	60	256	341	""	0	0
-5749	-1	-1	0	"Vial of the Sands"	"Learn how to transform into a dragon and carry an ally."	92	10	60	0	3619	""	1	0
 5981	-1	-1	0	"Occu\'thar kills (Baradin Hold)"	""	15096	0	60	1	1	""	0	0
 6084	-1	967	0	"Minutes to Midnight"	"Defeat Ultraxion in Dragon Soul on Normal or Heroic Difficulty without any raid member being hit by Hour of Twilight more than once."	15068	10	60	0	164	""	0	0
 6127	-1	939	0	"Lazy Eye"	"Defeat Peroth\'arn in Well of Eternity on Heroic Difficulty without any party member being detected by an Eye of Peroth\'arn."	15067	10	60	0	3915	""	0	0
 1754	-1	624	0	"Archavon the Stone Watcher kills (Wintergrasp 25 player)"	"Archavon the Stone Watcher kills (Wintergrasp 25 player)"	14823	10	61	1	187	""	0	0
 2042	-1	602	0	"Shatter Resistant"	"Defeat Volkhan in the Halls of Lightning on Heroic Difficulty without allowing him to shatter more than 4 Brittle Golems."	14806	10	61	0	937	""	0	0
-2084	-1	-1	0	"Ring of the Kirin Tor"	"Purchase a Signet of the Kirin Tor, Band of the Kirin Tor, Loop of the Kirin Tor, or Ring of the Kirin Tor in Dalaran."	92	10	61	0	3447	""	1	0
+2141	-1	-1	0	"Stable Keeper"	"Obtain 10 mounts."	92	10	61	0	2165	""	0	0
 4403	-1	249	0	"Many Whelps! Handle It! (10 player)"	"Cause 50 Onyxia Whelplings to hatch within 10 seconds of Onyxia\'s liftoff, and then defeat her in 10-player mode."	14922	10	61	0	1699	""	0	0
 4653	-1	-1	0	"Victories over the Lich King (Icecrown 10 player)"	"Victories over the Lich King (Icecrown 10 player)"	15062	0	61	1	1	""	0	0
 5395	-1	-1	0	"Realm First! Grand Master Archaeologist"	"First person on the realm to achieve 450 skill in archaeology."	81	0	61	256	4727	""	0	0
@@ -2208,7 +2260,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6105	-1	967	0	"Deck Defender"	"Defeat Warmaster Blackhorn on Normal or Heroic Difficulty without allowing any Twilight Barrages to damage the Skyfire."	15068	10	61	0	4601	""	0	0
 6150	-1	938	0	"Murozond kills (End Time)"	""	15096	0	61	1	5832	""	0	0
 1817	-1	595	0	"The Culling of Time"	"Defeat the Infinite Corruptor in The Culling of Stratholme on Heroic Difficulty."	14806	10	62	0	3265	""	0	0
-2716	-1	-1	0	"Dual Talent Specialization"	"Visit your class trainer when you are at least level 30 and activate your Dual Talent Specialization."	92	10	62	0	2970	""	0	0
+2142	-1	-1	2141	"Filling Up The Barn"	"Obtain 25 mounts."	92	10	62	0	2406	""	0	0
 4406	-1	249	0	"Many Whelps! Handle It! (25 player)"	"Cause 50 Onyxia Whelplings to hatch within 10 seconds of Onyxia\'s liftoff, and then defeat her in 25-player mode."	14922	10	62	0	1699	""	0	0
 4686	-1	-1	0	"Victories over the Lich King (Heroic Icecrown 10 player)"	"Victories over the Lich King (Heroic Icecrown 10 player)"	15062	0	62	1	1	""	0	0
 5396	-1	-1	0	"Realm First! Illustrious Archaeologist"	"First person on the realm to achieve 525 skill in archaeology."	81	0	62	256	4727	""	0	0
@@ -2217,31 +2269,30 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6151	-1	939	0	"Mannoroth defeats (Well of Eternity)"	""	15096	0	62	1	5840	""	0	0
 1400	-1	616	0	"Realm First! Magic Seeker"	"Participated in the realm first defeat of Malygos in 25-player mode."	81	0	63	768	1700	"Title Reward: The Magic Seeker"	0	0
 1872	-1	595	0	"Zombiefest!"	"Kill 100 Risen Zombies in 1 minute in The Culling of Stratholme on Heroic Difficulty."	14806	10	63	0	3012	""	0	0
-2141	-1	-1	0	"Stable Keeper"	"Obtain 10 mounts."	92	10	63	0	2165	""	0	0
+2143	-1	-1	2142	"Leading the Cavalry"	"Obtain 50 mounts."	92	10	63	0	3444	"Reward: Albino Drake"	0	0
 4404	-1	249	0	"She Deep Breaths More (10 player)"	"Defeat Onyxia without anyone taking damage from a Deep Breath in 10-player mode."	14922	10	63	0	2128	""	0	0
 4687	-1	-1	0	"Victories over the Lich King (Icecrown 25 player)"	"Victories over the Lich King (Icecrown 25 player)"	15062	0	63	1	1	""	0	0
 6152	-1	940	0	"Archbishop Benedictus kills (Hour of Twilight)"	""	15096	0	63	1	5841	""	0	0
 6180	-1	967	0	"Chromatic Champion"	"Destroy Deathwing in Dragon Soul on Normal or Heroic Difficulty after beginning the encounter on each Aspect\'s platform:"	15068	10	63	0	5871	""	0	0
 456	-1	615	0	"Realm First! Obsidian Slayer"	"Participated in the realm first defeat of Sartharion the Onyx Guardian in 25-player mode."	81	0	64	768	3308	"Title Reward: Obsidian Slayer"	0	0
 2043	-1	575	0	"The Incredible Hulk"	"Force Svala Sorrowgrave to kill a Scourge Hulk on Heroic Difficulty in Utgarde Pinnacle."	14806	10	64	0	460	""	0	0
-2142	-1	-1	2141	"Filling Up The Barn"	"Obtain 25 mounts."	92	10	64	0	2406	""	0	0
+2536	1	-1	2143	"Mountain o\' Mounts"	"Obtain 100 mounts."	92	10	64	4096	2328	"Reward: Blue Dragonhawk Mount"	0	0
 4407	-1	249	0	"She Deep Breaths More (25 player)"	"Defeat Onyxia without anyone taking damage from a Deep Breath in 25-player mode."	14922	10	64	0	2128	""	0	0
 4688	-1	-1	0	"Victories over the Lich King (Heroic Icecrown 25 player)"	"Victories over the Lich King (Heroic Icecrown 25 player)"	15062	0	64	1	1	""	0	0
 6153	-1	967	0	"Morchok kills (Dragon Soul)"	""	15096	0	64	9	5831	""	0	0
 1402	-1	533	0	"Realm First! Conqueror of Naxxramas"	"Participated in the realm first defeat of Kel\'Thuzad in Naxxramas in 25-player mode."	81	0	65	768	1898	"Title Reward: Conqueror of Naxxramas"	0	0
 1873	-1	575	0	"Lodi Dodi We Loves the Skadi"	"Defeat Skadi the Ruthless in Utgarde Pinnacle on Heroic Difficulty within 3 minutes of starting the gauntlet event."	14806	10	65	0	3307	""	0	0
-2143	-1	-1	2142	"Leading the Cavalry"	"Obtain 50 mounts."	92	10	65	0	3444	"Reward: Albino Drake"	0	0
+2537	0	-1	2143	"Mountain o\' Mounts"	"Obtain 100 mounts."	92	10	65	4096	2328	"Reward: Red Dragonhawk Mount"	0	0
 2886	-1	603	0	"The Siege of Ulduar (10 player)"	"Defeat the bosses of The Siege area of Ulduar in 10-player mode."	14922	10	65	0	3844	""	0	0
 4657	-1	-1	0	"Toravon the Ice Watcher kills (Wintergrasp 10 player)"	"Toravon the Ice Watcher kills (Wintergrasp 10 player)"	15062	0	65	1	1	""	0	0
 6154	-1	967	0	"Morchok Heroic kills (Dragon Soul)"	""	15096	0	65	9	5831	""	0	0
 2156	-1	575	0	"My Girl Loves to Skadi All the Time"	"Defeat Skadi the Ruthless in Utgarde Pinnacle on Heroic Difficulty after having killed Grauf from 100% to dead in a single pass."	14806	10	66	0	3319	""	0	0
-2536	1	-1	2143	"Mountain o\' Mounts"	"Obtain 100 mounts."	92	10	66	4096	2328	"Reward: Blue Dragonhawk Mount"	0	0
 2887	-1	603	0	"The Siege of Ulduar (25 player)"	"Defeat the bosses of The Siege area of Ulduar in 25-player mode."	14922	10	66	0	3844	""	0	0
 3117	-1	603	0	"Realm First! Death\'s Demise"	"Participated in the realm first defeat of Yogg-Saron without the assistance of any Keepers in 25-player mode."	81	0	66	768	3848	"Title Reward: Death\'s Demise"	0	0
 4658	-1	-1	0	"Toravon the Ice Watcher kills (Wintergrasp 25 player)"	"Toravon the Ice Watcher kills (Wintergrasp 25 player)"	15062	0	66	1	1	""	0	0
+4888	-1	-1	0	"One Hump or Two?"	"Obtain a camel mount in Uldum (with just one hump)."	92	10	66	0	4937	""	1	0
 6155	-1	967	0	"Warlord Zon\'ozz kills (Dragon Soul)"	""	15096	0	66	9	5834	""	0	0
 2157	-1	575	0	"King\'s Bane"	"Defeat King Ymiron in Utgarde Pinnacle on Heroic Difficulty without anyone in the party triggering Bane."	14806	10	67	0	3321	""	0	0
-2537	0	-1	2143	"Mountain o\' Mounts"	"Obtain 100 mounts."	92	10	67	4096	2328	"Reward: Red Dragonhawk Mount"	0	0
 2888	-1	603	0	"The Antechamber of Ulduar (10 player)"	"Defeat the bosses of The Antechamber area of Ulduar in 10-player mode."	14922	10	67	0	3846	""	0	0
 4821	-1	-1	0	"Halion kills (Ruby Sanctum 10 player)"	"Halion kills (Ruby Sanctum 10 player)"	15062	0	67	1	1	""	0	0
 4824	-1	-1	0	"Collector\'s Edition: Mini Thor"	"Owner of the Starcraft II Collector\'s Edition Mini Thor pet."	81	0	67	0	4347	""	1	0
@@ -2250,7 +2301,6 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 2889	-1	603	0	"The Antechamber of Ulduar (25 player)"	"Defeat the bosses of The Antechamber area of Ulduar in 25-player mode."	14922	10	68	0	3846	""	0	0
 3259	-1	603	0	"Realm First! Celestial Defender"	"Participated in the realm first defeat of Algalon the Observer in 25-player mode."	81	0	68	768	3869	"Title Reward: The Celestial Defender"	0	0
 4822	-1	-1	0	"Halion kills (Heroic Ruby Sanctum 10 player)"	"Halion kills (Heroic Ruby Sanctum 10 player)"	15062	0	68	1	1	""	0	0
-4888	-1	-1	0	"One Hump or Two?"	"Obtain a camel mount in Uldum (with just one hump)."	92	10	68	0	4937	""	1	0
 6157	-1	967	0	"Yor\'sahj the Unsleeping kills (Dragon Soul)"	""	15096	0	68	9	5835	""	0	0
 1868	-1	578	0	"Make It Count"	"Defeat Ley-Guardian Eregos in The Oculus on Heroic Difficulty within 20 minutes of Drakos the Interrogator\'s death."	14806	10	69	0	3303	""	0	0
 2890	-1	603	0	"The Keepers of Ulduar (10 player)"	"Defeat the Keeper bosses of Ulduar in 10-player mode."	14922	10	69	0	3847	""	0	0

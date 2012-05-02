@@ -1,4 +1,4 @@
-id	name	field2	currencyId	Icon	itemId	
+Id	Name	field2	CurrencyId	Icon	ItemId	
 1	"Dwarf"	1	384	"Interface\Archeology\Arch-Race-Dwarf"	52843
 2	"Draenei"	1	398	"Interface\Archeology\Arch-Race-Draenei"	64394
 3	"Fossil"	1	393	"Interface\Archeology\Arch-Race-Fossil"	0
@@ -8,4 +8,6 @@ id	name	field2	currencyId	Icon	itemId
 7	"Tol\'vir"	1	401	"Interface\Archeology\Arch-Race-Tolvir"	64397
 8	"Troll"	1	385	"Interface\Archeology\Arch-Race-Troll"	63128
 27	"Vrykul"	1	399	"Interface\Archeology\Arch-Race-Vrykul"	64395
-29	"Other"	1	0	"Interface\Archeology\Arch-Race-Misc"	0
+29	"Other"	1	0	"Interface\Archeology\ARCH-RACE-MISC"	0
+229	"Pandaren"	1	676	"Interface\Archeology\ARCH-RACE-VRYKUL"	79868
+231	"Mogu"	1	677	"Interface\Archeology\ARCH-RACE-VRYKUL"	79869
