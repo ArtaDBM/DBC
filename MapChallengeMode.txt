@@ -1,4 +1,4 @@
-field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	
+field0	field1	field2	field3	field4	field5	field6	field7	field8	field9
 2	960	0	0	3	2400	1500	900	0	0
 56	961	0	0	3	2400	1500	900	0	0
 57	962	0	0	3	2400	1500	900	0	0

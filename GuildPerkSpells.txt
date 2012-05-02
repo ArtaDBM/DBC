@@ -1,4 +1,4 @@
-field0	field1	field2	
+field0	field1	field2
 1	2	78631
 2	3	78633
 3	4	78634

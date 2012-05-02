@@ -1,4 +1,4 @@
-Id	Spell_ID	field2	field3	field4	Cooldown	field6	field7	field8	
+Id	Spell_ID	field2	field3	field4	Cooldown	field6	field7	field8
 5525	0	24450	0	0	100	100	0	0
 5786	17253	50519	0	0	100	100	0	0
 5787	0	50519	0	0	100	100	0	0
