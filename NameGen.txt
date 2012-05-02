@@ -1,4 +1,5 @@
-field0	field1	field2	field3	195	"Agamand"	1	0
+field0	field1	field2	field3	
+195	"Agamand"	1	0
 196	"Andromath"	1	0
 197	"Antonidas"	1	0
 198	"Fordred"	1	0

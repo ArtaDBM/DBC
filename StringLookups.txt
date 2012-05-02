@@ -1,4 +1,5 @@
-field0	field1	1	"Interface\Cursor\Cursor.mdx"
+field0	field1	
+1	"Interface\Cursor\Cursor.mdx"
 2	"Interface\InventoryItems\InventoryArtGeometry.mdx"
 3	"Interface\Icons"
 4	"Textures\Expoint"

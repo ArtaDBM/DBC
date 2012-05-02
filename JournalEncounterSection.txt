@@ -1,4 +1,5 @@
-m_id	m_encounterId	m_section1	m_section2	m_section3	m_index	field6	newField1	m_flags	m_name	m_description	field10	m_modelId	field12	816	132	817	0	0	1	2	0	0	"Mighty Stomp"	"Throngus stomps his foot on the ground, triggering the walls of Grim Batol to Cave In. Throngus will not Mighty Stomp if he has his shield equipped."	-1	0	132368
+m_id	m_encounterId	m_section1	m_section2	m_section3	m_index	field6	newField1	m_flags	m_name	m_description	field10	m_modelId	field12	
+816	132	817	0	0	1	2	0	0	"Mighty Stomp"	"Throngus stomps his foot on the ground, triggering the walls of Grim Batol to Cave In. Throngus will not Mighty Stomp if he has his shield equipped."	-1	0	132368
 817	132	818	0	0	2	2	0	0	"Cave In"	"After the Mighty Stomp of Throngus weakens the walls of Grim Batol, pieces of stone begin to fall on top of a random player in a $74986A1 yard radius area. Players who continue to stand in that area take $74986s1 Physical damage every second."	-1	0	132153
 818	132	819	0	0	3	1	0	0	"Pick Weapon"	"Throngus has several fearsome weapons at his disposal. Periodically during the encounter, he randomly chooses between a massive Shield, a pair of Swords, or a punishing Mace. The chosen weapon grants him new abilities for a short duration of the encounter."	-1	0	134400
 819	132	823	820	0	4	0	1	0	"Shield Abilities"	""	-1	0	0

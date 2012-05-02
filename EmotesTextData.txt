@@ -1,4 +1,5 @@
-field0	field1	1	"%s agrees with %s."
+field0	field1	
+1	"%s agrees with %s."
 2	"%s agrees with you."
 3	"You agree with %s."
 4	"%s agrees."

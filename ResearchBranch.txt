@@ -1,4 +1,5 @@
-id	name	field2	currencyId	Icon	itemId	1	"Dwarf"	1	384	"Interface\Archeology\Arch-Race-Dwarf"	52843
+id	name	field2	currencyId	Icon	itemId	
+1	"Dwarf"	1	384	"Interface\Archeology\Arch-Race-Dwarf"	52843
 2	"Draenei"	1	398	"Interface\Archeology\Arch-Race-Draenei"	64394
 3	"Fossil"	1	393	"Interface\Archeology\Arch-Race-Fossil"	0
 4	"Night Elf"	1	394	"Interface\Archeology\Arch-Race-NightElf"	63127

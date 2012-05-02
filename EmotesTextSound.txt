@@ -1,4 +1,5 @@
-Id	emotesText	ChrRaces	Gender	SoundEntries	35	14	1	1	7951
+Id	emotesText	ChrRaces	Gender	SoundEntries	
+35	14	1	1	7951
 36	14	1	0	7952
 37	14	3	1	7947
 38	14	3	0	7948

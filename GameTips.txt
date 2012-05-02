@@ -1,4 +1,5 @@
-field0	field1	field2	field3	396	"|cffffd100Tip:|r Nearby questgivers that are awaiting your return are shown as a question mark on your mini-map."	1	20
+field0	field1	field2	field3	
+396	"|cffffd100Tip:|r Nearby questgivers that are awaiting your return are shown as a question mark on your mini-map."	1	20
 201	"|cffffd100Tip:|r Your spell casting can be cancelled by moving, jumping or hitting the escape key."	20	40
 221	"|cffffd100Tip:|r Clicking on a player name in the chat window lets you send a private message to them."	20	40
 258	"|cffffd100Tip:|r If you <Shift>Click on a player name in the chat window it tells you additional information about them."	20	40

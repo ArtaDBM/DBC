@@ -1,4 +1,5 @@
-id	mapareaId	area	area1	mapPointX	mapPointY	texture	width	height	offset_x	offset_y	hitRectTop	hitRectLeft	hitRectBottom	hitRectright	84	41	736	0	0	0	"BanethilHollow"	175	235	374	221	292	430	375	497
+id	mapareaId	area	area1	mapPointX	mapPointY	texture	width	height	offset_x	offset_y	hitRectTop	hitRectLeft	hitRectBottom	hitRectright	
+84	41	736	0	0	0	"BanethilHollow"	175	235	374	221	292	430	375	497
 85	41	1657	0	0	0	"Darnassus"	298	337	149	181	247	228	424	383
 87	41	261	0	0	0	"GnarlpineHold"	198	181	347	355	423	403	479	494
 88	41	259	0	0	0	"LakeAlameth"	289	202	422	310	388	498	430	604

@@ -1,4 +1,5 @@
-field0	field1	field2	field3	field4	33	"Hour of Twilight Heroic"	1	0	1
+field0	field1	field2	field3	field4	
+33	"Hour of Twilight Heroic"	1	0	1
 12	"Cataclysm Heroic"	2	0	1
 13	"Cataclysm Normal"	3	0	1
 5	"Wrath of the Lich King Heroic"	4	0	1

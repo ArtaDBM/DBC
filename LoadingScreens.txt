@@ -1,4 +1,5 @@
-Id	Name	Path	hasWideScreen	3	"Kalimdor"	"Interface\Glues\LoadingScreens\loadscreenkalimdor2.blp"	1
+Id	Name	Path	hasWideScreen	
+3	"Kalimdor"	"Interface\Glues\LoadingScreens\loadscreenkalimdor2.blp"	1
 4	"Azeroth"	"Interface\Glues\LoadingScreens\loadscreeneasternkingdom2.blp"	1
 21	"InstanceCave"	"Interface\Glues\LoadingScreens\LoadScreenCave.blp"	0
 23	"InstanceDungeon"	"Interface\Glues\LoadingScreens\LoadScreenDungeon.blp"	0

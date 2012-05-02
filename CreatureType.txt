@@ -1,4 +1,5 @@
-m_id	m_name	m_unk1	1	"Beast"	0
+m_id	m_name	m_unk1	
+1	"Beast"	0
 2	"Dragonkin"	0
 3	"Demon"	0
 4	"Elemental"	0

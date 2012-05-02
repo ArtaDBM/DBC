@@ -1,4 +1,5 @@
-field0	field1	field2	1	"APP_TITLE"	"WowError"
+field0	field1	field2	
+1	"APP_TITLE"	"WowError"
 2	"WOWERROR"	"WOWERROR"
 3	"HEADER"	"The following data will be sent to Blizzard when you click Send
 Though you can opt not to send this information, doing so will help us to improve the game."

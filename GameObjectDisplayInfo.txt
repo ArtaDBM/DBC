@@ -1,4 +1,5 @@
-Id	Name	StandSound	OpenSound	LoopSound	CloseSound	DestroySound	OpenedSound	Custom0Sound	Custom1Sound	Custom2Sound	Custom3Sound	field12	field13	field14	field15	field16	field17	field18	field19	field20	1	"World\Generic\ActiveDoodads\Chest02\Chest02.mdx"	0	1277	0	0	0	0	0	0	0	0	-1098547508	-1092155523	1005785778	1048932247	1055265412	1060092116	0	0	0
+Id	Name	StandSound	OpenSound	LoopSound	CloseSound	DestroySound	OpenedSound	Custom0Sound	Custom1Sound	Custom2Sound	Custom3Sound	field12	field13	field14	field15	field16	field17	field18	field19	field20	
+1	"World\Generic\ActiveDoodads\Chest02\Chest02.mdx"	0	1277	0	0	0	0	0	0	0	0	-1098547508	-1092155523	1005785778	1048932247	1055265412	1060092116	0	0	0
 2	"World\Generic\Orc\Passive Doodads\WantedPosters\WantedPosterStuck01.mdx"	0	0	0	0	0	0	0	0	0	0	-1096375798	-1095978547	985851761	1051957985	1050607083	1065196282	0	0	0
 3	"World\Azeroth\Stranglethorn\Buildings\TrollWatchTower\TrollWatchTower.mdx"	0	0	0	0	0	0	0	0	0	0	-1062503805	-1060725068	-1130889585	1089117771	1087780141	1097366487	0	0	0
 4	"World\Generic\Human\Passive Doodads\Wardrobe\DuskwoodWardrobe02.mdx"	0	0	0	0	0	0	0	0	0	0	-1096565213	-1082358602	999583845	1066145260	1065250925	1077109603	0	0	0

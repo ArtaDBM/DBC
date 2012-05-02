@@ -1,4 +1,5 @@
-m_ID	m_reputationIndex	m_reputationRaceMask_1	m_reputationRaceMask_2	m_reputationRaceMask_3	m_reputationRaceMask_4	m_reputationClassMask_1	m_reputationClassMask_2	m_reputationClassMask_3	m_reputationClassMask_4	m_reputationBase_1	m_reputationBase_2	m_reputationBase_3	m_reputationBase_4	m_reputationFlags_1	m_reputationFlags_2	m_reputationFlags_3	m_reputationFlags_4	m_parentFactionID	spilloverRate1	spilloverRate2	spilloverMaxRank	spilloverRank_unk	m_name_lang_1	m_name_lang_2	m_name_lang_3	1	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	5	5	"PLAYER, Human"	""	0
+m_ID	m_reputationIndex	m_reputationRaceMask_1	m_reputationRaceMask_2	m_reputationRaceMask_3	m_reputationRaceMask_4	m_reputationClassMask_1	m_reputationClassMask_2	m_reputationClassMask_3	m_reputationClassMask_4	m_reputationBase_1	m_reputationBase_2	m_reputationBase_3	m_reputationBase_4	m_reputationFlags_1	m_reputationFlags_2	m_reputationFlags_3	m_reputationFlags_4	m_parentFactionID	spilloverRate1	spilloverRate2	spilloverMaxRank	spilloverRank_unk	m_name_lang_1	m_name_lang_2	m_name_lang_3	
+1	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	5	5	"PLAYER, Human"	""	0
 2	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	5	5	"PLAYER, Orc"	""	0
 3	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	5	5	"PLAYER, Dwarf"	""	0
 4	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	5	5	"PLAYER, Night Elf"	""	0

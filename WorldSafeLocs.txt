@@ -1,4 +1,5 @@
-id	map	pos_x	pos_y	pos_z	m_name_lang	1	0	-9115	423	96	"Stormwind"
+id	map	pos_x	pos_y	pos_z	m_name_lang	
+1	0	-9115	423	96	"Stormwind"
 2	0	-9193.91	-2312.77	88.9044	"Redridge Mountains"
 3	0	-10774.26	-1189.672	33.14943	"Duskwood, Darkshire"
 4	0	-10527.5	1165.734	31.96764	"Westfall, Sentinel Hill GY"

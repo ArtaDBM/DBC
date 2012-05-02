@@ -1,4 +1,5 @@
-id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	OrderInCategory	flags	iconId	reward	reqCriteriasCount	refAchievement	6	-1	-1	0	"Level 10"	"Reach level 10."	92	10	1	4100	3268	""	0	0
+id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	OrderInCategory	flags	iconId	reward	reqCriteriasCount	refAchievement	
+6	-1	-1	0	"Level 10"	"Reach level 10."	92	10	1	4100	3268	""	0	0
 33	1	-1	0	"Nothing Boring About Borean"	"Complete 130 quests in Borean Tundra."	14863	10	1	136	3336	""	0	0
 42	-1	-1	0	"Explore Eastern Kingdoms"	"Explore the regions of Eastern Kingdoms."	97	25	1	0	3490	""	0	0
 57	-1	30	0	"Deaths in Alterac Valley"	"Deaths in Alterac Valley"	124	0	1	1	1	""	0	0

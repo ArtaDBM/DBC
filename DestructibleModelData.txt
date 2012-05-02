@@ -1,4 +1,5 @@
-Id	State0WMO	State0ImpactEffectDoodadSet	State0AmbientDoodadSet	State1WMO	State1DestrctionDoodadSet	State1ImpactEffectDoodadSet	State1AmbientDoodadSet	State2WMO	State2DestrctionDoodadSet	State2ImpactEffectDoodadSet	State2AmbientDoodadSet	State3WMO	State3InitDoodadSet	State3AmbientDoodadSet	field15	field16	field17	field18	field19	field20	field21	field22	field23	25	8459	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Id	State0WMO	State0ImpactEffectDoodadSet	State0AmbientDoodadSet	State1WMO	State1DestrctionDoodadSet	State1ImpactEffectDoodadSet	State1AmbientDoodadSet	State2WMO	State2DestrctionDoodadSet	State2ImpactEffectDoodadSet	State2AmbientDoodadSet	State3WMO	State3InitDoodadSet	State3AmbientDoodadSet	field15	field16	field17	field18	field19	field20	field21	field22	field23	25	8459	
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
 26	628	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0
 27	7541	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0
 28	7552	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0

@@ -1,4 +1,5 @@
-m_id	m_mapId	m_difficulty	m_requirement	m_resetTime	m_maxPlayers	m_difficultyString	2	1	0	""	0	0	""
+m_id	m_mapId	m_difficulty	m_requirement	m_resetTime	m_maxPlayers	m_difficultyString	
+2	1	0	""	0	0	""
 3	13	0	""	0	0	""
 4	25	0	""	0	0	""
 6	30	0	""	0	0	""

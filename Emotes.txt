@@ -1,4 +1,5 @@
-Id	SlashCommand	AnimationData	Flags	SpecProc	SpecProcParam	SoundEntries	unknown	0	"ONESHOT_NONE"	0	0	0	0	0	0
+Id	SlashCommand	AnimationData	Flags	SpecProc	SpecProcParam	SoundEntries	unknown	
+0	"ONESHOT_NONE"	0	0	0	0	0	0
 1	"ONESHOT_TALK(DNR)"	60	136	0	0	0	0
 2	"ONESHOT_BOW"	66	16385	0	0	0	0
 3	"ONESHOT_WAVE(DNR)"	67	0	0	0	0	0

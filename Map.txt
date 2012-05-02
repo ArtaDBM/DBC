@@ -1,4 +1,5 @@
-id	iname	type	flags	unk4	isPvp	name	linkedZone	hordeIntro	allianceIntro	multimap_id (10)	BattlefieldMapIconScale	ghost_entrance_map	ghost_entrance_x	ghost_entrance_y	timeOfDayOverride	addon	unkTime	maxPlayers	unk400	0	"Azeroth"	0	15965	1	0	"Eastern Kingdoms"	0	""	""	4	1	NaN	0	0	-1	0	0	0	-1
+id	iname	type	flags	unk4	isPvp	name	linkedZone	hordeIntro	allianceIntro	multimap_id (10)	BattlefieldMapIconScale	ghost_entrance_map	ghost_entrance_x	ghost_entrance_y	timeOfDayOverride	addon	unkTime	maxPlayers	unk400	
+0	"Azeroth"	0	15965	1	0	"Eastern Kingdoms"	0	""	""	4	1	NaN	0	0	-1	0	0	0	-1
 1	"Kalimdor"	0	15965	1	0	"Kalimdor"	0	""	""	3	1	NaN	0	0	-1	0	0	0	-1
 13	"test"	0	1555	2	0	"Testing"	3817	""	""	0	1	NaN	0	0	-1	0	0	0	-1
 25	"ScottTest"	0	1555	2	0	"Scott Test"	0	""	""	0	1	NaN	0	0	-1	0	0	0	-1

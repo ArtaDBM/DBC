@@ -1,4 +1,5 @@
-Id	LanguagesID	Text	1	1	"A"
+Id	LanguagesID	Text	
+1	1	"A"
 2	1	"N"
 3	1	"G"
 4	1	"O"

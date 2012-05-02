@@ -1,4 +1,5 @@
-ID	minScale	minScaleLevel	maxScale	maxScaleLevel	SkillLine	SkillLine2	ItemPetFood	petTalentType	categoryEnumId	Name	IconFile	1	0.7	1	1	60	208	270	1	0	23	"Wolf"	"Interface\Icons\Ability_Hunter_Pet_Wolf"
+ID	minScale	minScaleLevel	maxScale	maxScaleLevel	SkillLine	SkillLine2	ItemPetFood	petTalentType	categoryEnumId	Name	IconFile	
+1	0.7	1	1	60	208	270	1	0	23	"Wolf"	"Interface\Icons\Ability_Hunter_Pet_Wolf"
 2	0.7	1	1.1	60	209	270	3	0	5	"Cat"	"Interface\Icons\Ability_Hunter_Pet_Cat"
 3	0.4	1	0.6	60	203	270	1	2	17	"Spider"	"Interface\Icons\Ability_Hunter_Pet_Spider"
 4	0.6	1	1	60	210	270	63	1	1	"Bear"	"Interface\Icons\Ability_Hunter_Pet_Bear"

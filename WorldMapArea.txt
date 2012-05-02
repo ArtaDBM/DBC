@@ -1,4 +1,5 @@
-id	map	area	name	y_min	y_max	x_min	x_max	4	1	14	"Durotar"	-1962.5	-7250	1808.333	-1716.667
+id	map	area	name	y_min	y_max	x_min	x_max	
+4	1	14	"Durotar"	-1962.5	-7250	1808.333	-1716.667
 9	1	215	"Mulgore"	2204.167	-3245.833	-168.75	-3802.083
 11	1	17	"Barrens"	202.0833	-5543.75	1810.417	-2020.833
 13	1	0	"Kalimdor"	17066.6	-19733.21	12799.9	-11733.3

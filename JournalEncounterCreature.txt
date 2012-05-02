@@ -1,4 +1,5 @@
-m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6	358	89	37410	0	522228	"Glubtok"	0
+m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6	
+358	89	37410	0	522228	"Glubtok"	0
 359	90	33002	0	522234	"Helix Gearbreaker"	0
 630	90	33003	1	523206	"Lumbering Oaf"	0
 360	91	35606	0	522225	"Foe Reaper 5000"	0

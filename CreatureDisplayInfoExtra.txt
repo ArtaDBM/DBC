@@ -1,4 +1,5 @@
-ID	Race	Gender	SkinColor	FaceType	HairType	HairStyle	BeardStyle	Helm	Shoulders	Shirt	Cuirass	Belt	Legs	Boots	Rings	Gloves	Wrist	Cape	CanEquip	Texture	23	3	0	1	1	6	3	2	0	0	3900	0	8328	5848	8816	0	3052	0	0	0	"CreatureDisplayExtra-00023.blp"
+ID	Race	Gender	SkinColor	FaceType	HairType	HairStyle	BeardStyle	Helm	Shoulders	Shirt	Cuirass	Belt	Legs	Boots	Rings	Gloves	Wrist	Cape	CanEquip	Texture	
+23	3	0	1	1	6	3	2	0	0	3900	0	8328	5848	8816	0	3052	0	0	0	"CreatureDisplayExtra-00023.blp"
 30	1	0	3	3	10	4	6	2952	0	1184	0	0	0	0	0	0	0	0	0	"CreatureDisplayExtra-00030.blp"
 32	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	"CreatureDisplayExtra-00032.blp"
 36	4	0	11	0	0	0	0	0	5248	5249	5250	4300	4304	4956	3379	5251	3864	0	0	"CreatureDisplayExtra-00036.blp"

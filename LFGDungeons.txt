@@ -1,4 +1,5 @@
-m_Id	field1	field2	field3	field4	field5	field6	m_mapId	field8	field9	field10	field11	field12	field13	field14	field15	field16	field17	1	"Wailing Caverns"	15	25	19	17	20	43	0	3	1	-1	"WAILINGCAVERNS"	0	0	1	0	258
+m_Id	field1	field2	field3	field4	field5	field6	m_mapId	field8	field9	field10	field11	field12	field13	field14	field15	field16	field17	
+1	"Wailing Caverns"	15	25	19	17	20	43	0	3	1	-1	"WAILINGCAVERNS"	0	0	1	0	258
 2	"Scholomance"	38	48	42	40	43	289	0	3	1	-1	"SCHOLOMANCE"	0	0	1	0	258
 4	"Ragefire Chasm"	15	21	16	15	16	389	0	3	1	-1	"RAGEFIRECHASM"	0	0	1	0	258
 6	"Deadmines"	15	21	16	15	16	36	0	3	1	-1	"DEADMINES"	0	0	1	0	258
