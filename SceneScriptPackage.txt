@@ -37,3 +37,4 @@ field0	field1
 156	Cinematic Framework
 157	PetBattle - Brazification Pass
 159	PetBattle - Brazification Pass - Extended Attacks
+163	PetBattle - Brazification Pass - Unique Spells - Mechanical

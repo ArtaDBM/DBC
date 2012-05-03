@@ -103,7 +103,6 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 875	331	39099	0	571750	Ultraxion	0
 876	325	39101	0	536062	Yor\'sahj the Unsleeping	0
 877	332	39399	0	571752	Warmaster Blackhorn	0
-880	335	40904	0	0	Sha of Doubt	0
 881	311	39094	0	536058	Morchok	0
 895	290	39182	0	536060	Peroth\'arn	0
 896	339	21252	0	571742	Alizabal	0
@@ -375,17 +374,12 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1257	658	39487	0	0	Liu Flameheart	0
 1258	659	40301	0	0	Instructor Chillheart	0
 1265	663	40639	0	0	Jandice Barov	0
-1266	664	39506	0	0	Lorewalker Stonestep	0
 1269	665	31092	0	0	Rattlegore	0
 1270	666	40256	0	0	Lilian Voss	0
-1272	668	39498	0	0	Ook-Ook	0
 1273	669	40339	0	0	Hoptallus	6122
-1274	670	40825	0	0	Yan-Zhu the Uncasked	0
 1275	671	41154	0	0	Brother Korloff	0
 1276	674	41220	0	607643	Commander Durand	0
 1277	674	2043	1	0	High Inquisitor Whitemane	0
-1278	675	37755	0	0	Striker Ga\'dok	0
-1279	676	20556	0	0	Commander Ri\'mok	0
 1281	679	41232	2	0	Jade Quilen	0
 1282	679	41233	3	0	Jasper Quilen	0
 1283	679	41234	0	0	Amethyst Quilen	0
@@ -393,15 +387,14 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1294	677	41392	1	0	Qin-xi	0
 1295	677	41391	0	0	Jan-xi	0
 1296	682	41256	0	0	Gara\'jal the Spiritbinder	0
-1299	672	41125	0	0	Wise Mari	0
 1301	683	41502	1	0	PH Council Leather Boss	0
 1304	685	39493	0	0	Sha of Violence	0
 1305	686	41121	0	0	Taran Zhu	0
 1306	683	41504	2	0	PH Council Cloth Boss	0
 1307	683	41503	0	0	PH Council Plate Boss	0
-1308	687	41812	1	0	Qiang Steelskin	6610
-1309	687	41813	0	0	Meng Sharpfang	6585
-1310	687	41565	2	0	Sebotai Swiftfoot	6641
+1308	687	41812	1	0	Qiang Steelskin	6528
+1309	687	41813	0	0	Meng Sharpfang	6503
+1310	687	41565	2	0	Sebotai Swiftfoot	6559
 1312	688	27705	0	0	Thalnos the Soulrender	0
 1313	689	41192	0	0	Feng the Accursed	0
 1315	690	41920	0	0	Gekkan	0
@@ -424,17 +417,10 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1346	459	9584	3	0	Hazzas	0
 1347	459	6375	1	0	Weaver	0
 1348	459	7975	2	0	Morphaz	0
-1380	726	41689	2	0	Energy Charge	0
-1381	726	41593	1	0	Celestial Protector	0
-1382	726	39997	4	0	Empyreal Focus	0
 1383	726	41399	0	0	Elegon	0
-1384	726	42095	3	0	Cosmic Spark	0
 1385	725	42468	1	0	Chief Salyis	0
 1386	725	42439	0	0	Galleon	0
 1389	727	23941	0	0	Wing Leader Ner\'onok	0
-1390	682	41320	1	0	Spirit Totem	0
-1391	682	42337	3	0	Severer of Souls	0
-1392	682	41286	2	0	Shadowy Minion	0
 1393	684	40322	0	0	Darkmaster Gandling	0
 1394	728	17725	0	607556	Blood Guard Porung	0
 1400	737	43126	0	0	Amber-Shaper Un\'sok	0
@@ -449,8 +435,6 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1415	741	42645	0	0	Wind Lord Mel\'jarak	0
 1416	742	42532	0	0	Nalomoni	0
 1417	743	42730	0	0	Grand Empress Shek\'zeer	0
-1418	672	39442	2	0	Corrupt Droplet	0
-1419	672	39411	1	0	Corrupt Living Water	0
 1420	744	26852	0	0	Armsmaster Ta\'yak	0
 1421	745	42807	0	0	Imperial Vizier Zor\'lok	0
 1422	655	43122	0	0	Saboteur Kip\'tilak	0
@@ -458,3 +442,10 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1424	749	34463	0	607569	Commander Malor	0
 1425	687	41566	3	0	Zian of the Endless Shadow	0
 1427	692	43120	0	0	General Pa\'valak	0
+1428	675	43275	0	0	Striker Ga\'dok	0
+1429	676	43286	0	0	Commander Ri\'mok	0
+1430	668	39498	0	0	Ook-Ook	0
+1431	670	42969	0	0	Yan-Zhu the Uncasked	0
+1432	672	41125	0	0	Wise Mari	0
+1433	664	39506	0	0	Lorewalker Stonestep	0
+1434	335	43283	0	0	Sha of Doubt	0

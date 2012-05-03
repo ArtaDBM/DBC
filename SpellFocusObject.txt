@@ -532,3 +532,4 @@ id	name
 1774	Heartroot of Kypari Kor
 1775	Mark of the Empress
 1776	Sra\'vess Structure
+1777	Brewmoon Festival Defensive Position.

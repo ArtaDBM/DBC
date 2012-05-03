@@ -1,0 +1,198 @@
+field0	field1	field2	field3	field4	field5
+1	5879	Private %s	Private %s	1	0
+2	5880	Corporal %s	Corporal %s	2	0
+3	5881	Sergeant %s	Sergeant %s	3	0
+4	5882	Master Sergeant %s	Master Sergeant %s	4	0
+5	5883	Sergeant Major %s	Sergeant Major %s	5	0
+6	5884	Knight %s	Knight %s	6	0
+7	5885	Knight-Lieutenant %s	Knight-Lieutenant %s	7	0
+8	5886	Knight-Captain %s	Knight-Captain %s	8	0
+9	5887	Knight-Champion %s	Knight-Champion %s	9	0
+10	5888	Lieutenant Commander %s	Lieutenant Commander %s	10	0
+11	5889	Commander %s	Commander %s	11	0
+12	5890	Marshal %s	Marshal %s	12	0
+13	5891	Field Marshal %s	Field Marshal %s	13	0
+14	5892	Grand Marshal %s	Grand Marshal %s	14	0
+15	5893	Scout %s	Scout %s	15	0
+16	5894	Grunt %s	Grunt %s	16	0
+17	5895	Sergeant %s	Sergeant %s	17	0
+18	5896	Senior Sergeant %s	Senior Sergeant %s	18	0
+19	5897	First Sergeant %s	First Sergeant %s	19	0
+20	5898	Stone Guard %s	Stone Guard %s	20	0
+21	5899	Blood Guard %s	Blood Guard %s	21	0
+22	5900	Legionnaire %s	Legionnaire %s	22	0
+23	5901	Centurion %s	Centurion %s	23	0
+24	5902	Champion %s	Champion %s	24	0
+25	5903	Lieutenant General %s	Lieutenant General %s	25	0
+26	5904	General %s	General %s	26	0
+27	5905	Warlord %s	Warlord %s	27	0
+28	5906	High Warlord %s	High Warlord %s	28	0
+42	0	Gladiator %s	Gladiator %s	29	0
+43	0	Duelist %s	Duelist %s	30	0
+44	0	Rival %s	Rival %s	31	0
+45	0	Challenger %s	Challenger %s	32	0
+46	6341	Scarab Lord %s	Scarab Lord %s	33	0
+47	6407	Conqueror %s	Conqueror %s	34	0
+48	6406	Justicar %s	Justicar %s	35	0
+53	6686	%s, Champion of the Naaru	%s, Champion of the Naaru	36	0
+62	0	Merciless Gladiator %s	Merciless Gladiator %s	37	0
+63	6806	%s of the Shattered Sun	%s of the Shattered Sun	38	0
+64	6944	%s, Hand of A\'dal	%s, Hand of A\'dal	39	0
+71	0	Vengeful Gladiator %s	Vengeful Gladiator %s	40	0
+72	7530	Battlemaster %s	Battlemaster %s	41	0
+74	7533	Elder %s	Elder %s	43	0
+75	7534	Flame Warden %s	Flame Warden %s	44	0
+76	7535	Flame Keeper %s	Flame Keeper %s	45	0
+77	7565	%s the Exalted	%s the Exalted	46	0
+78	7695	%s the Explorer	%s the Explorer	47	0
+79	7748	%s the Diplomat	%s the Diplomat	48	0
+80	0	Brutal Gladiator %s	Brutal Gladiator %s	49	0
+81	7759	%s the Seeker	%s the Seeker	42	0
+82	7749	Arena Master %s	Arena Master %s	50	0
+83	7750	Salty %s	Salty %s	51	0
+84	7754	Chef %s	Chef %s	52	0
+85	5703	%s the Supreme	%s the Supreme	53	0
+86	5703	%s of the Ten Storms	%s of the Ten Storms	54	0
+87	5703	%s of the Emerald Dream	%s of the Emerald Dream	55	0
+89	5703	Prophet %s	Prophet %s	57	0
+90	5703	%s the Malefic	%s the Malefic	58	0
+91	5703	Stalker %s	Stalker %s	59	0
+92	5703	%s of the Ebon Blade	%s of the Ebon Blade	60	0
+93	5703	Archmage %s	Archmage %s	61	0
+94	5703	Warbringer %s	Warbringer %s	62	0
+95	5703	Assassin %s	Assassin %s	63	0
+96	5703	Grand Master Alchemist %s	Grand Master Alchemist %s	64	0
+97	5703	Grand Master Blacksmith %s	Grand Master Blacksmith %s	65	0
+98	5703	Iron Chef %s	Iron Chef %s	66	0
+99	5703	Grand Master Enchanter %s	Grand Master Enchanter %s	67	0
+100	5703	Grand Master Engineer %s	Grand Master Engineer %s	68	0
+101	5703	Doctor %s	Doctor %s	69	0
+102	5703	Grand Master Angler %s	Grand Master Angler %s	70	0
+103	5703	Grand Master Herbalist %s	Grand Master Herbalist %s	71	0
+104	5703	Grand Master Scribe %s	Grand Master Scribe %s	72	0
+105	5703	Grand Master Jewelcrafter %s	Grand Master Jewelcrafter %s	73	0
+106	5703	Grand Master Leatherworker %s	Grand Master Leatherworker %s	74	0
+107	5703	Grand Master Miner %s	Grand Master Miner %s	75	0
+108	5703	Grand Master Skinner %s	Grand Master Skinner %s	76	0
+109	5703	Grand Master Tailor %s	Grand Master Tailor %s	77	0
+110	5703	%s of Quel\'Thalas	%s of Quel\'Thalas	78	0
+111	5703	%s of Argus	%s of Argus	79	0
+112	5703	%s of Khaz Modan	%s of Khaz Modan	80	0
+113	8236	%s of Gnomeregan	%s of Gnomeregan	81	0
+114	5703	%s the Lion Hearted	%s the Lion Hearted	82	0
+115	5703	%s, Champion of Elune	%s, Champion of Elune	83	0
+116	5703	%s, Hero of Orgrimmar	%s, Hero of Orgrimmar	84	0
+117	5703	Plainsrunner %s	Plainsrunner %s	85	0
+118	5703	%s of the Darkspear	%s of the Darkspear	86	0
+119	5703	%s the Forsaken	%s the Forsaken	87	0
+120	7812	%s the Magic Seeker	%s the Magic Seeker	88	0
+121	7813	Twilight Vanquisher %s	Twilight Vanquisher %s	89	0
+122	7814	%s, Conqueror of Naxxramas	%s, Conqueror of Naxxramas	90	0
+123	0	%s, Hero of Northrend	%s, Hero of Northrend	91	0
+124	7820	%s the Hallowed	%s the Hallowed	92	0
+125	7849	Loremaster %s	Loremaster %s	93	0
+126	7853	%s of the Alliance	%s of the Alliance	94	0
+127	7854	%s of the Horde	%s of the Horde	95	0
+128	5703	%s the Flawless Victor	%s the Flawless Victor	96	0
+129	7857	%s, Champion of the Frozen Wastes	%s, Champion of the Frozen Wastes	97	0
+130	7858	Ambassador %s	Ambassador %s	98	0
+131	7859	%s the Argent Champion	%s the Argent Champion	99	0
+132	7860	%s, Guardian of Cenarius	%s, Guardian of Cenarius	100	0
+133	7861	Brewmaster %s	Brewmaster %s	101	0
+134	7864	Merrymaker %s	Merrymaker %s	102	0
+135	7875	%s the Love Fool	%s the Love Fool	103	0
+137	7893	Matron %s	Matron %s	104	0
+138	7894	Patron %s	Patron %s	105	0
+139	7964	Obsidian Slayer %s	Obsidian Slayer %s	106	0
+140	7965	%s of the Nightfall	%s of the Nightfall	107	0
+141	7990	%s the Immortal	%s the Immortal	108	0
+142	7991	%s the Undying	%s the Undying	109	0
+143	7997	%s Jenkins	%s Jenkins	110	0
+144	8045	Bloodsail Admiral %s	Bloodsail Admiral %s	111	0
+145	8121	%s the Insane	%s the Insane	112	0
+146	8237	%s of the Exodar	%s of the Exodar	113	0
+147	8238	%s of Darnassus	%s of Darnassus	114	0
+148	8239	%s of Ironforge	%s of Ironforge	115	0
+149	8240	%s of Stormwind	%s of Stormwind	116	0
+150	8241	%s of Orgrimmar	%s of Orgrimmar	117	0
+151	8242	%s of Sen\'jin	%s of Sen\'jin	118	0
+152	8243	%s of Silvermoon	%s of Silvermoon	119	0
+153	8244	%s of Thunder Bluff	%s of Thunder Bluff	120	0
+154	8245	%s of the Undercity	%s of the Undercity	121	0
+155	8303	%s the Noble	%s the Noble	122	0
+156	8332	Crusader %s	Crusader %s	123	0
+157	0	Deadly Gladiator %s	Deadly Gladiator %s	56	0
+158	8450	%s, Death\'s Demise	%s, Death\'s Demise	124	0
+159	8451	%s the Celestial Defender	%s the Celestial Defender	125	0
+160	8453	%s, Conqueror of Ulduar	%s, Conqueror of Ulduar	126	0
+161	8452	%s, Champion of Ulduar	%s, Champion of Ulduar	127	0
+163	0	Vanquisher %s	Vanquisher %s	128	0
+164	8467	Starcaller %s	Starcaller %s	129	0
+165	8468	%s the Astral Walker	%s the Astral Walker	130	0
+166	8469	%s, Herald of the Titans	%s, Herald of the Titans	131	0
+167	0	Furious Gladiator %s	Furious Gladiator %s	132	0
+168	8596	%s the Pilgrim	%s the Pilgrim	133	0
+169	0	Relentless Gladiator %s	Relentless Gladiator %s	134	0
+170	8777	Grand Crusader %s	Grand Crusader %s	135	0
+171	8778	%s the Argent Defender	%s the Argent Defender	136	0
+172	8977	%s the Patient	%s the Patient	137	0
+173	9043	%s the Light of Dawn	%s the Light of Dawn	138	0
+174	9045	%s, Bane of the Fallen King	%s, Bane of the Fallen King	139	0
+175	9046	%s the Kingslayer	%s the Kingslayer	140	0
+176	9138	%s of the Ashen Verdict	%s of the Ashen Verdict	141	0
+177	0	Wrathful Gladiator %s	Wrathful Gladiator %s	142	0
+188	11176	%s, Slayer of Stupid, Incompetent and Disappointing Minions	%s, Slayer of Stupid, Incompetent and Disappointing Minions	147	0
+189	11413	Assistant Professor %s	Assistant Professor %s	148	0
+190	11414	Associate Professor %s	Associate Professor %s	149	0
+191	11415	Professor %s	Professor %s	150	0
+193	11422	%s, Veteran of the Alliance	%s, Veteran of the Alliance	152	0
+194	11423	%s, Veteran of the Horde	%s, Veteran of the Horde	153	0
+195	11424	Private %s	Private %s	154	0
+196	11428	Corporal %s	Corporal %s	155	0
+197	11429	Sergeant %s	Sergeant %s	156	0
+198	11430	Master Sergeant %s	Master Sergeant %s	157	0
+199	11431	Sergeant Major %s	Sergeant Major %s	158	0
+200	11432	Knight %s	Knight %s	159	0
+201	11433	Knight-Lieutenant %s	Knight-Lieutenant %s	160	0
+202	11434	Knight-Captain %s	Knight-Captain %s	161	0
+203	11435	Knight-Champion %s	Knight-Champion %s	162	0
+204	11436	Lieutenant Commander %s	Lieutenant Commander %s	163	0
+205	11437	Commander %s	Commander %s	164	0
+206	11438	Marshal %s	Marshal %s	165	0
+207	11439	Field Marshal %s	Field Marshal %s	166	0
+208	11440	Grand Marshal %s	Grand Marshal %s	167	0
+209	11441	Scout %s	Scout %s	168	0
+210	11442	Grunt %s	Grunt %s	169	0
+211	11443	Sergeant %s	Sergeant %s	170	0
+212	11444	Senior Sergeant %s	Senior Sergeant %s	171	0
+213	11445	First Sergeant %s	First Sergeant %s	172	0
+214	11446	Stone Guard %s	Stone Guard %s	173	0
+215	11447	Blood Guard %s	Blood Guard %s	174	0
+216	11448	Legionnaire %s	Legionnaire %s	175	0
+217	11449	Centurion %s	Centurion %s	176	0
+218	11450	Champion %s	Champion %s	177	0
+219	11451	Lieutenant General %s	Lieutenant General %s	178	0
+220	11452	General %s	General %s	179	0
+221	11453	Warlord %s	Warlord %s	180	0
+222	11454	High Warlord %s	High Warlord %s	181	0
+223	11455	%s, Hero of the Alliance	%s, Hero of the Alliance	182	0
+224	11456	%s, Hero of the Horde	%s, Hero of the Horde	183	0
+225	11478	%s, The Bloodthirsty	%s, The Bloodthirsty	184	0
+226	11637	%s of the Four Winds	%s of the Four Winds	151	0
+227	11638	%s, Defender of a Shattered World	%s, Defender of a Shattered World	185	0
+228	11639	Dragonslayer %s	Dragonslayer %s	186	0
+229	11640	%s, Blackwing\'s Bane	%s, Blackwing\'s Bane	187	0
+258	12127	%s the Camel-Hoarder	%s the Camel-Hoarder	143	0
+259	12167	Warbringer %s	Warbringer %s	144	0
+260	12168	Warbound %s	Warbound %s	145	0
+266	12413	%s, Blessed Defender of Nordrassil	%s, Blessed Defender of Nordrassil	146	0
+267	12414	%s, Avenger of Hyjal	%s, Avenger of Hyjal	188	0
+276	12518	%s the Flamebreaker	%s the Flamebreaker	189	0
+278	12635	Firelord %s	Firelord %s	190	0
+279	0	Vicious Gladiator %s	Vicious Gladiator %s	191	0
+280	0	Ruthless Gladiator %s	Ruthless Gladiator %s	192	0
+281	0	Cataclysmic Gladiator %s	Cataclysmic Gladiator %s	193	0
+285	13636	%s, Savior of Azeroth	%s, Savior of Azeroth	194	0
+287	13562	%s, Destroyer\'s End	%s, Destroyer\'s End	196	0
+303	15677	Farmer %s	Farmer %s	195	0
+308	17354	%s the Beloved	%s the Beloved	197	0

@@ -1,0 +1,52 @@
+m_id	m_category	m_name	m_iconName	field4	field5	field6	field7	field8	field9	m_desc
+1	1	Currency Token Test Token 4	INV_Misc_Coin_09	0	1	0	0	0	2	Text that describes this item can be found here.
+2	1	Currency Token Test Token 2	ability_cheapshot	0	1	2	0	0	1	
+4	1	Currency Token Test Token 5	INV_Misc_Coin_07	0	4	3	0	0	1	
+22	41	Birmingham Test Item 3	INV-Sword_53	0	0	0	0	0	0	
+42	1	Badge of Justice	Spell_Holy_ChampionsBond	0	0	0	0	0	0	
+61	1	Dalaran Jewelcrafter\'s Token	INV_Misc_Gem_Variety_01	0	0	0	0	0	0	Tiffany Cartier\'s shop in Dalaran will gladly accept these tokens for unique jewelcrafting recipes.
+81	1	Epicurean\'s Award	INV_Misc_Ribbon_01	0	0	0	0	0	0	Visit special cooking vendors in Dalaran and the capital cities to to purchase unusual cooking recipes, spices, and even a fine hat!
+101	22	Emblem of Heroism	Spell_Holy_ProclaimChampion	0	0	0	0	0	0	
+102	22	Emblem of Valor	Spell_Holy_ProclaimChampion_02	0	0	0	0	0	0	
+103	2	Arena Points	Spell_Holy_ChampionsBond	0	0	0	0	0	0	
+104	2	Honor Points DEPRECATED	Spell_Holy_ChampionsBond	0	0	0	0	0	0	If you can read this, you\'ve found a bug. REPORT IT!
+121	2	Alterac Valley Mark of Honor	INV_Jewelry_Necklace_21	0	0	0	0	0	0	
+122	2	Arathi Basin Mark of Honor	INV_Jewelry_Amulet_07	0	0	0	0	0	0	
+123	2	Eye of the Storm Mark of Honor	Spell_Nature_EyeOfTheStorm	0	0	0	0	0	0	
+124	2	Strand of the Ancients Mark of Honor	INV_Jewelry_Amulet_01	0	0	0	0	0	0	
+125	2	Warsong Gulch Mark of Honor	INV_Misc_Rune_07	0	0	0	0	0	0	
+126	2	Wintergrasp Mark of Honor	INV_Jewelry_Ring_66	0	0	0	0	0	0	
+141	0	zzzOLDDaily Quest Faction Token	Spell_Holy_ChampionsGrace	0	0	0	0	0	0	
+161	2	Stone Keeper\'s Shard	INV_Misc_Platnumdisks	0	0	0	0	0	0	
+181	2	Honor Points DEPRECATED2	INV_Banner_03	0	0	0	0	0	0	If you can read this, you\'ve found a bug. REPORT IT!
+201	2	Venture Coin	INV_Misc_Coin_16	0	0	0	0	0	0	
+221	22	Emblem of Conquest	Spell_Holy_ChampionsGrace	0	0	0	0	0	0	
+241	1	Champion\'s Seal	Ability_Paladin_ArtofWar	0	0	0	0	0	0	Awarded for valiant acts in the Crusader\'s Coliseum.
+301	22	Emblem of Triumph	spell_holy_summonchampion	0	0	0	0	0	0	
+321	2	Isle of Conquest Mark of Honor	INV_Jewelry_Necklace_27	0	0	0	0	0	0	
+341	22	Emblem of Frost	inv_misc_frostemblem_01	0	0	0	0	0	0	
+361	81	Illustrious Jewelcrafter\'s Token	inv_misc_token_argentdawn3	0	0	0	0	0	0	Awarded for demonstrating great skill in jewelcrafting, these tokens can be used to purchase unique jewelcrafting plans and the fabulous Chimera\'s Eye.
+384	82	Dwarf Archaeology Fragment	trade_archaeology_dwarf_artifactfragment	0	1	5	200	0	34	
+385	82	Troll Archaeology Fragment	trade_archaeology_troll_artifactfragment	0	1	4	200	0	34	
+390	2	Conquest Points	pvpcurrency-conquest-horde	0	0	0	0	0	460	Earned as a reward for Arena or Rated Battlegrounds and used to purchase the most powerful PvP armor and weapons.
+391	2	Tol Barad Commendation	achievement_zone_tolbarad	0	0	0	0	0	2	Awarded for brave deeds performed on Tol Barad.
+392	2	Honor Points	pvpcurrency-honor-horde	0	0	0	400000	0	744	Earned as a reward for Battlegrounds and other types of PvP and used to purchase powerful PvP armor and weapons.
+393	82	Fossil Archaeology Fragment	trade_archaeology_fossil_fern	0	1	8	200	0	34	
+394	82	Night Elf Archaeology Fragment	trade_archaeology_highborne_artifactfragment	0	1	9	200	0	34	
+395	22	Justice Points	pvecurrency-justice	0	0	0	400000	0	88	Earned for defeating dungeon or older raid bosses and used to purchase powerful PvE armor and weapons.
+396	22	Valor Points	pvecurrency-valor	0	0	0	0	100000	72	Earned for defeating the most recent raid bosses or completing heroic Dungeon Finder runs and used to purchase the most powerful PvE armor and weapons.
+397	82	Orc Archaeology Fragment	trade_archaeology_orc_artifactfragment	0	1	10	200	0	34	
+398	82	Draenei Archaeology Fragment	trade_archaeology_draenei_artifactfragment	0	1	11	200	0	34	
+399	82	Vrykul Archaeology Fragment	trade_archaeology_vrykul_artifactfragment	0	1	12	200	0	34	
+400	82	Nerubian Archaeology Fragment	trade_archaeology_nerubian_artifactfragment	0	1	13	200	0	34	
+401	82	Tol\'vir Archaeology Fragment	trade_archaeology_titan_fragment	0	1	14	200	0	34	
+402	1	Chef\'s Award	achievement_profession_chefhat	0	0	0	0	0	0	Awarded to the finest chefs of Pandaria.  Can be redeemed at a special cooking vendor in the Valley of the Four Winds.
+416	1	Mark of the World Tree	inv_misc_markoftheworldtree	0	0	0	0	0	1024	Granted by the Guardians of Hyjal. Can be used to purchase reinforcements for the Invasion of the Firelands.
+483	89	Conquest Arena Meta	pvpcurrency-conquest-horde	0	0	0	0	0	1484	
+484	89	Conquest Rated BG Meta	pvpcurrency-conquest-horde	0	0	0	0	0	1484	
+515	1	Darkmoon Prize Ticket	inv_misc_ticket_darkmoon_01	0	0	0	0	0	0	Awarded for winning games or doing favors at the Darkmoon Faire.
+614	22	Mote of Darkness	spell_shadow_sealofkings	0	0	0	0	0	1024	Extracted from the forces of Deathwing, this dark energy can be used to power amazing magics.
+615	22	Essence of Corrupted Deathwing	inv_elemental_primal_shadow	2764	0	0	0	0	1024	Extracted from Deathwing himself, this dark energy powers the most fearsome of incantations.
+676	82	Pandaren Archaeology Fragment	trade_archaeology_vrykul_artifactfragment	0	1	39	200	0	34	
+677	82	Mogu Archaeology Fragment	trade_archaeology_vrykul_artifactfragment	0	1	40	200	0	34	
+692	89	Conquest Random BG Meta	pvpcurrency-conquest-horde	0	0	0	0	0	1484	

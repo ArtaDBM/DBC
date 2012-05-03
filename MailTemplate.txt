@@ -306,4 +306,6 @@ We\'ve supplied you with a whole new set of high-level gear, but attached you\'l
 361	Our Gratitude	"Under the guise of Fat Long-Fat, I once asked you, \Why do you fight?\"" Some of us fight out of fear. Some fight for a sheer love of violence. Some in anger. In hatred. In doubt.$b$bEllia Ravenmane fought out of despair.$b$bBut you... I don\'t see any of this in you. Which is why I chose you to protect my people.$b$bYou will always hold a place of honor among the heroes of my order, $n. You have our gratitude.$b$b- Chi-Ji, the Red Crane"""
 364	Heart of the Nightwing	Grasped tightly and clutched to one\'s breast, this enchanted heart of volcanic glass can transform the bearer into an Obsidian Nightwing.
 365	Time For a Celebration!	Yo, $n!$B$BSince we\'re neighbors now, I thought it was right to celebrate!$B$BCome on down to the Halfhill Market anytime and take a load off!$B$BI\'ll even let you shoot off these fireworks at the market. Just don\'t set anything on fire, like Chee Chee did that one time...$B$BAnyways, see you soon!$B$BYour neighbor,$B$BGina Mudclaw$B$BHalfhill Market: The best local market with the best local prices!
+366	My Captured Pet	"TEMP TEXT!!
+I didn\'t have room for this pet in my journal and my bags were all full, so I mailed it to myself!"
 "- Minigob Manabonk"""		

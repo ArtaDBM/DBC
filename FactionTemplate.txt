@@ -1116,3 +1116,4 @@ m_ID	m_faction	m_flags	m_factionGroup	m_friendGroup	m_enemyGroup	m_enemies_1	m_e
 2577	1145	32	0	0	15	67	469	14	0	0	0	0	0
 2578	1268	33	8	8	1	1269	1270	974	973	1268	0	0	0
 2579	1268	32	8	8	1	1269	1270	974	973	1268	0	0	0
+2580	31	0	0	1	8	0	0	0	0	31	0	0	0

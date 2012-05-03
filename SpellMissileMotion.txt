@@ -1559,25 +1559,12 @@ transMag = (1 - (transMag * transMag)) * maxMagnitude"	0	1
 		transUp = progress * (rand1 - .50) + .5
 	end"	0	3
 2044	Missile - 3		0	3
-2064	Morgan Test	"local angle = 0
-local maxMagnitude = startDistance * 0.5
+2064	Morgan Test	"local magnitude = 0
+local spinRate = 1440
 
-transAngle = angle
-transMag = (progress * 2) - 1
-transMag = (1 - (transMag * transMag)) * maxMagnitude
-
-local noise = 2;
-local outerWheelMag = 4 * (progress)
-
-if ( missileIndex > 12 ) then 
-	outerWheelMag = outerWheelMag * 2;
-end
-
-local count = missileCount / 2 
-
-local smallAngle = (360/count ) * missileIndex 
-local transRight = math.cos(smallAngle) * outerWheelMag + rand1*noise ;
-local transFront = math.sin(smallAngle) * outerWheelMag + rand2*noise ;"	0	24
+transUp = magnitude * ( 1 - progress )
+modelPitch = time * spinRate
+"	0	1
 2084	Creature - Flame Leviathan - Rockets (Spiral)	"local maxHeight = 5 + (startDistance * .08)
 
 local newness = 1 - (progress * progress)
@@ -3389,11 +3376,11 @@ if (missileIndex > 0) then
 	transRight = outerWheelMag * sin ( missileAngle )
 	transFront = -1.5 + 0.75 * progress
 	scale = 0.25
+	faceImpactPos = 1
 else
 	scale = 1
 end
 
-faceImpactPos = 1
 
 
 "	0	4
@@ -3900,18 +3887,18 @@ modelYaw = time * spinRate
 transFront = distanceToImpactPos - distanceToFirePos
 "	0	1
 2996	Whirling Blade	"local spinRate = 1440
-local modelRoll = 90
+--local modelRoll = 90
 
 local modelYaw = time * spinRate
 
-if (time>1.0) then
-	local expectedProgress = (6/30) + ((time-1)*24/30)
-	local actualProgress = 1-(distanceToImpactPos/totalDistance)
-	local missingProgress = expectedProgress-actualProgress
-	local distanceToCatchUp = missingProgress*totalDistance	
-
-	speedOffset = distanceToCatchUp * 10 * (time-1)
-end
+--if (time>1.0) then
+--	local expectedProgress = (6/30) + ((time-1)*24/30)
+--	local actualProgress = 1-(distanceToImpactPos/totalDistance)
+--	local missingProgress = expectedProgress-actualProgress
+--	local distanceToCatchUp = missingProgress*totalDistance	
+--
+--	speedOffset = distanceToCatchUp * 10 * (time-1)
+--end
 "	0	1
 2997	Parabola (Pitch Spin Slow, Model Rolled 90)	"local angle = 0
 local maxMagnitude = startDistance * .15
@@ -3993,3 +3980,18 @@ transMag = (1 - (transMag * transMag)) * maxMagnitude
 modelRoll = 80
 modelPitch = time * spinRate
 "	0	1
+3007	Meteor Strike (50 Yards)	"local magnitude = 50
+
+transUp = magnitude * ( 1 - progress )
+"	0	1
+3008	Meteor Strike (50 Yards, Spin)	"local magnitude = 50
+local spinRate = 1440
+
+transUp = magnitude * ( 1 - progress )
+modelPitch = time * spinRate
+"	0	1
+3009	Brewmoon Festival - Brew Strike Reverse	"local magnitude = 0
+local spinRate = 1440
+
+transUp = magnitude * ( 1 - progress )
+modelPitch = time * spinRate"	0	1

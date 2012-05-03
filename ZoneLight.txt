@@ -1,0 +1,60 @@
+field0	field1	field2	field3
+60	BoreanTundra	571	914
+61	DragonBlight	571	825
+62	GrizzlyHills	571	959
+63	HowlingFjord	571	862
+64	HowlingGrizzly	571	1847
+65	Icecrown	571	1703
+66	Sholazar	571	1796
+67	StormPeaks	571	1777
+68	Wintergrasp	571	1792
+69	ZulDrak	571	1589
+70	CrystalSong	571	1740
+139	Durotar	1	204
+140	Durotar Org	1	239
+141	Azshara main	1	247
+142	Ashenvale	1	324
+145	PlagueLandsWest	0	2546
+146	PlagueLandsWest Lake	0	31
+147	Uldum	1	2515
+153	Barrens Main	1	193
+154	Barrens Green Water	1	206
+155	Twilight Highlands Main	0	2506
+156	Hyjal Main	1	1972
+157	Glineas Main	0	1866
+158	Silver Pine Main	0	28
+159	Mullgore Main	1	202
+162	Alterac Main	0	13
+187	Shadow Moon Main	530	519
+236	Loch Modan	0	26
+237	Twilight Hammer Main Camp	0	2595
+282	Moonglade	1	196
+283	Winterspring	1	259
+292	Wetlands	0	58
+293	Feralas Main	1	217
+294	Silithus	1	249
+295	Duskwallow	1	198
+299	Badlands	0	21
+300	ThousandNeedles	1	230
+308	Arathi Highlands	0	12
+323	Twilight Obsidian Forest	0	2543
+375	FireLands_Main_Raid	720	3254
+376	FireLands_Hex	720	3249
+377	FireLands_Lava_Raid	720	3260
+399	Island	930	356
+439	Valley Four Winds Jungle	870	3383
+441	Kun Lai Summit - Main	870	3387
+443	Jade Forest Main	870	3402
+450	Valley of Four Winds Farmland	870	3467
+461	Twilight Realm Dragon Soul Main	940	3500
+462	Twilight Realm Fog 2	967	3499
+463	Twilight Realm Main 2	967	3478
+464	Turtle Main	860	3525
+465	Turtle Top Head	860	3524
+476	Vale of Eternal Blossoms	870	3592
+520	Mantid Zone North	870	3620
+521	Kun Lai Summit Upper Valley	870	3584
+523	V4W Southern Coast Beach Light	870	3613
+571	Mantid Zone South	870	3694
+581	Vale of Eternal Blossoms West	870	3752
+595	Kun Lai Mountains	870	3472

@@ -19,7 +19,7 @@ field0	field1	field2	field3	field4	field5	field6	field7
 27	13529	0	0	2	0	0	
 28	4101	0	0	0	0	0	
 31	9953	0	0	0	0	0	
-32	68	0	0	0	0	0	
+32	210	100	100	0	0	159	Dispatcher_OnlyAnimateTheEffects1toN(1, ... )
 33	13527	0	0	0	0	0	
 36	20104	200	500	2	0	0	
 37	1714	0	250	2	0	0	
@@ -31,11 +31,11 @@ field0	field1	field2	field3	field4	field5	field6	field7
 43	17720	0	250	1	0	0	
 44	11538	0	0	2	0	0	
 45	17805	0	0	2	0	0	
-46	17	0	250	0	0	0	
+46	25869	0	250	0	0	159	Dispatcher_OnlyTurnAnimateTheEffects1toN( 1, ... )
 47	32	200	500	2	0	0	
 48	19151	0	0	0	0	0	
-49	107	100	250	0	0	0	
-50	322	150	250	0	0	0	
+49	10041	100	250	2	0	0	
+50	970	150	250	0	0	0	
 51	70	100	250	1	0	0	
 52	24994	500	100	1	0	0	
 53	20125	250	100	1	0	0	
@@ -64,3 +64,22 @@ field0	field1	field2	field3	field4	field5	field6	field7
 78	17805	0	0	2	0	0	
 79	13633	0	0	0	0	0	
 81	23956	250	250	0	0	159	Dispatcher_MultiAttack(...)
+82	3942	250	250	0	0	159	Dispatcher_VanishAttackOnMultiHit( ... )
+83	0	250	250	2	0	0	
+84	184	100	100	2	0	0	
+85	750	250	250	0	0	159	Dispatcher_OnlyAnimateTheEffects1toN( 1, ... )
+86	23956	250	250	0	0	159	Dispatcher_MultiAttack(...)
+87	23956	250	250	0	0	159	Dispatcher_LeapIntoMeleeOnlyPlayN( 1, ... )
+88	6440	250	250	1	0	0	
+89	84	0	0	2	0	0	
+90	23956	250	250	0	0	159	Dispatcher_Stampede( 4, ...)
+91	23956	250	250	0	0	159	"Dispatcher_HugeKnockbackOnMultiHit(...);"
+93	23956	250	250	0	0	42	Dispatcher_MultiAttack(...)
+94	10998	100	250	2	0	0	
+95	11081	0	0	2	0	0	
+96	25827	250	250	1	0	159	Dispatcher_AlternateVisualOnMultiHit( 25829 , ... )
+97	1263	1000	250	2	0	163	Dispatcher_IonCannon( ... )
+98	173	250	750	2	0	0	
+99	13	250	250	1	0	0	
+100	5019	150	150	1	0	0	
+101	18184	0	0	2	0	0	

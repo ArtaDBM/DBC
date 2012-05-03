@@ -327,13 +327,11 @@ m_id	m_mapId	m_difficulty	m_requirement	m_resetTime	m_maxPlayers	m_difficultyStr
 2121	996	5	You must have completed the Terrace of Endless Spring achievement before attempting Heroic difficulty.	604800	10	RAID_DIFFICULTY3
 2122	996	6	You must have completed the Terrace of Endless Spring achievement before attempting Heroic difficulty.	604800	25	RAID_DIFFICULTY4
 2123	1019	0		0	0	
-2142	1024	1		0	0	
-2143	1024	2		0	0	
 2148	1028	1		0	0	
 2149	1028	2		0	0	
 2151	1029	1		0	0	
 2152	1029	2		0	0	
-2153	1030	1		0	0	
+2153	1030	1		0	3	
 2154	1030	2		0	0	
 2155	1031	1		0	0	
 2156	1031	2		0	0	
@@ -350,10 +348,10 @@ m_id	m_mapId	m_difficulty	m_requirement	m_resetTime	m_maxPlayers	m_difficultyStr
 2509	1035	2		0	0	
 2510	1050	1		0	0	
 2511	1050	2		0	0	
-2512	1009	3		604800	10	
-2513	1009	4		604800	25	
-2514	1009	5		604800	10	
-2515	1009	6		604800	25	
+2512	1009	3	You must be at least level 90 and in a raid group to enter.	604800	10	
+2513	1009	4	You must be at least level 90 and in a raid group to enter.	604800	25	
+2514	1009	5	You must have completed the Heart of Fear achievement before attempting Heroic difficulty.	604800	10	
+2515	1009	6	You must have completed the Heart of Fear achievement before attempting Heroic difficulty.	604800	25	
 2517	1051	1	You must be at least level 90 to enter.	0	3	
 2518	1051	2		0	0	
 2519	996	3	You must have completed Heart of Fear achievement before attempting the Terrace of Endless Spring.	604800	10	

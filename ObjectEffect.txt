@@ -228,3 +228,4 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 1077	Run	759	2	0	1	27166	0	0	0	0	0
 1078	Sha Tendril	760	2	0	1	27203	0	0	0	0	0
 1081	Pandaren_Cart_Death	761	1	0	1	26912	0	0	0	0	0
+1082	Gorilla_Pet_Attack	762	4	1	1	11672	0	0	0	0	0

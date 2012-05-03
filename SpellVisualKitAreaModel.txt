@@ -75,3 +75,8 @@ field0	field1	field2	field3	field4	field5	field6
 176	spells\shaman_unleashedearth_01.mdx	5	2000	0	2	1
 178	Spells\CallLightning_Impact.mdx	0	0	3	0	1
 180	Spells\Fel_RainOfFire_Impact_Base.mdx	0	0	25	0	1
+181	spells\enchantments\wind_high.mdx	5	1000	0	0	1
+182	spells\acid_ground_cloud.mdx	7	3000	0	6	1.5
+183	spells\bloodyexplosiongreen.mdx	7	350	0	3	5
+184	spells\fear_state_head.mdx	7	1000	0	6	5
+185	spells\acid_ground_cloud_purple.mdx	7	5000	0	6	2

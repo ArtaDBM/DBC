@@ -1,0 +1,11 @@
+field0	field1	field2	field3
+2	1283	0	Farmer Fung considers you a %s. Farmer Fung likes Marsh Lilies and Forest Pheasant Roast.
+16	1277	0	Chee Chee considers you a %s. Chee Chee likes Blue Feathers and Hozen Stir Fry.
+17	1275	0	Ella considers you a %s. Ella likes Jade Cats and Shrimp Dumplings.
+18	1282	0	Fish Felreed considers you a %s. Fish likes Jade Cats and Twin Fish Platters.
+19	1281	0	Gina Mudclaw considers you a %s. Gina likes Marsh Lilies and Swirling Mist Soup.
+20	1279	0	Haohan Mudclaw considers you a %s. Haohan likes Ruby Shards and Charbroiled Tiger Steak.
+21	1273	0	Jogu the Drunk considers you a %s. Jogu likes Lovely Apples and Jade Forest Fried Rice.
+22	1276	0	Old Hillpaw considers you a %s. Old Hillpaw likes Blue Feathers and Braised Wolf.
+23	1278	0	Sho considers you a %s. Sho likes Lovely Apples and Eternal Blossom Fish.
+24	1280	0	Tina Mudclaw considers you a %s. Tina likes Ruby Shards and Fire Spirit Hot Pot.

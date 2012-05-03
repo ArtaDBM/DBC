@@ -155,3 +155,4 @@ field0	field1
 759	Verming_Movement
 760	Pandaren
 761	Pandern_Cart_Death
+762	Gorilla_Pet_Attack

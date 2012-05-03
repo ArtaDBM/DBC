@@ -340,3 +340,4 @@ field0	field1	field2	field3	field4	field5
 1378	0	0	Dire Beast	0	0
 1380	0	0	Divine Star	0	0
 1383	0	0	Heart of the Wild	0	0
+1384	0	0	Priest - Psyfiend	0	0

@@ -1,0 +1,61 @@
+field0	field1	field2	field3
+1	2	0	Stranger
+2	2	8400	Acquaintance
+3	2	16800	Buddy
+4	2	24200	Friend
+5	2	33600	Good Friend
+6	2	42000	Best Friend
+59	16	0	Stranger
+60	16	8400	Acquaintance
+61	16	16800	Buddy
+62	16	24200	Friend
+63	16	33600	Good Friend
+64	16	42000	Best Friend
+65	17	0	Stranger
+66	17	8400	Acquaintance
+67	17	16800	Buddy
+68	17	24200	Friend
+69	17	33600	Good Friend
+70	17	42000	Best Friend
+71	18	0	Stranger
+72	18	8400	Acquaintance
+73	18	16800	Buddy
+74	18	24200	Friend
+75	18	33600	Good Friend
+76	18	42000	Best Friend
+77	19	0	Stranger
+78	19	8400	Acquaintance
+79	19	16800	Buddy
+80	19	24200	Friend
+81	19	33600	Good Friend
+82	19	42000	Best Friend
+83	20	0	Stranger
+84	20	8400	Acquaintance
+85	20	16800	Buddy
+86	20	24200	Friend
+87	20	33600	Good Friend
+88	20	42000	Best Friend
+89	21	0	Stranger
+90	21	8400	Acquaintance
+91	21	16800	Buddy
+92	21	24200	Friend
+93	21	33600	Good Friend
+94	21	42000	Best Friend
+95	22	0	Stranger
+96	22	8400	Acquaintance
+97	22	16800	Buddy
+98	22	24200	Friend
+99	22	33600	Good Friend
+100	22	42000	Best Friend
+101	23	0	Stranger
+102	23	8400	Acquaintance
+103	23	16800	Buddy
+104	23	24200	Friend
+105	23	33600	Good Friend
+106	23	42000	Best Friend
+107	24	0	Stranger
+108	24	8400	Acquaintance
+109	24	16800	Buddy
+110	24	24200	Friend
+111	24	33600	Good Friend
+112	24	42000	Best Friend

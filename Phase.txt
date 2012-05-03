@@ -1046,3 +1046,20 @@ field0	field1	field2
 1385	Cosmetic - Westerly Rest - Yaks	20
 1386	Cosmetic - Westerly Rest - Meat	20
 1387	Cosmetic - Easterly Rest - Meat	20
+1388	Cosmetic - Daggle Bombstrider 2	20
+1389	Cosmetic - Grookin Flapmaster	20
+1390	Cosmetic - Eastwind Rest - Yaks	20
+1391	Cosmetic - See Skeer the Bloodseeker	20
+1392	Cosmetic - See Xaril the Poisoned Mind	20
+1393	Cosmetic - Westwind Rest - Adm. Taylor Position 1	20
+1394	Cosmetic - Westwind Rest - Adm. Taylor Position 2	20
+1395	Cosmetic - Westwind Rest - Pandaren Prisoners Rescued	20
+1396	Cosmetic - Eastwind Rest - Pandaren Prisoners Rescued	20
+1397	Cosmetic - Eastwind Rest - Nazgrim Position 2	20
+1398	Cosmetic - Eastwind Rest - Nazgrim Position 1	20
+1399	Yak Temple - Niuzao Temple Under Siege	4
+1400	Cosmetic - See Inactive Beacon	20
+1401	Cosmetic - See Active Beacon	20
+1402	Cosmetic - See Kaz\'tik 1	20
+1403	Theramore - Post Scenario (Destroyed)	4
+1404	Cosmetic - See Kaz\'tik [Summon]	20

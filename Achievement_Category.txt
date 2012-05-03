@@ -1,7 +1,7 @@
 id	parent	name	order
-1	-1	Statistics	12
+1	-1	Statistics	13
 21	1	Player vs. Player	10
-81	-1	Feats of Strength	10
+81	-1	Feats of Strength	11
 92	-1	General	1
 95	-1	Player vs. Player	4
 96	-1	Quests	2
@@ -28,7 +28,7 @@ id	parent	name	order
 152	21	Rated Arenas	1
 153	21	Battlegrounds	2
 154	21	World	3
-155	-1	World Events	8
+155	-1	World Events	9
 156	155	Winter Veil	9
 158	155	Hallow\'s End	7
 159	155	Noblegarden	3
@@ -38,7 +38,7 @@ id	parent	name	order
 163	155	Children\'s Week	4
 165	95	Arena	1
 168	-1	Dungeons & Raids	5
-169	-1	Professions	6
+169	-1	Professions	7
 170	169	Cooking	1
 171	169	Fishing	2
 172	169	First Aid	3
@@ -46,7 +46,7 @@ id	parent	name	order
 178	132	Secondary Skills	1
 187	155	Love is in the Air	2
 191	130	Gear	4
-201	-1	Reputation	7
+201	-1	Reputation	8
 14777	97	Eastern Kingdoms	1
 14778	97	Kalimdor	2
 14779	97	Outland	3
@@ -86,7 +86,7 @@ id	parent	name	order
 15073	95	Battle for Gilneas	9
 15074	95	Twin Peaks	10
 15075	95	Tol Barad	11
-15076	-1	Guild	11
+15076	-1	Guild	12
 15077	15076	Quests	2
 15078	15076	Player vs. Player	3
 15079	15076	Dungeons & Raids	4
@@ -112,10 +112,14 @@ id	parent	name	order
 15113	97	Pandaria	6
 15114	201	Pandaria	5
 15115	168	Dungeon Challenges	9
-15117	-1	Pet Battles	9
+15117	-1	Pet Battles	10
 15118	15117	Collect	1
 15119	15117	Battle	2
 15120	15117	Level	3
 15151	15079	Dungeon Challenges	9
 15153	15079	Pandaria Dungeon	7
 15154	15079	Pandaria Raid	8
+15162	95	Silvershard Mines	13
+15163	95	Temple of Kotmogu	14
+15164	14807	Mists of Pandaria	8
+15165	-1	Scenarios	6

@@ -18,3 +18,5 @@ field0	field1	field2	field3	field4
 36	Mists of Pandaria Heroic	1	0	1
 37	Mists of Pandaria Normal	2	0	1
 38	Scenarios	23	0	1
+40	Mists of Pandaria Raid (25)	14	0	2
+41	Mists of Pandaria Raid (10)	13	0	2

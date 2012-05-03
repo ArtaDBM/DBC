@@ -24,7 +24,7 @@ field0	field1	field2	field3	field4	field5
 140	21327	58	2	Summon and defeat and defeat the playful fire spirit, Liuyang.	Little Liuyang
 141	21332	58	3	Summon and defeat the wandering yaungol warrior, Chagan Firehoof.	Chagan Firehoof
 142	21334	58	4	Summon and defeat the Feng the monkey monk, and then claim your reward from Wodin.	Face-Biter Feng
-154	21845	63	0	Collect the ingredients for Mayor Bramblestaff.	The Brewmoon Festival!
+154	21845	63	0	Help Mayor Bramblestaff\'s assistants gather the ingredients for the Kun-Lai Kicker.	The Brewmoon Festival!
 155	21849	63	2	Stop the Yaungol attack on Binan Village.	The Yaungol attack!
 156	21851	63	3	Defeat Warbringer Qobi.	Warbringer Qobi
 157	21853	63	1	Investigate the Yaungol sightings.	The Scouts Report.
@@ -32,3 +32,7 @@ field0	field1	field2	field3	field4	field5
 160	21995	65	1	Escort Blanche down Thunderpaw Road.	Road to Thunderpaw
 161	21999	65	2	Defeat Borokhula the Destroyer.	Save Thunderpaw Refuge
 166	21050	39	2	Destroy the Abomination of Anger.	Destroy the Sha
+167	22571	68	0	[PH] Kill Zhun	[PH] Kill Zhun
+168	22596	69	0	Destroy the guardian of Zan\'vess.	Guardian of Zan\'vess
+169	22598	69	1	Collect a large quantity of amber and kill the mantid invaders.	The Gold Flows Freely
+170	22601	69	2	Eliminate the mantid secret weapon, the mutant amber scorpion.	The Secret Weapon

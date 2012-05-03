@@ -1,0 +1,12 @@
+field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	field11	field12	field13
+1	1	PET	Warrior	0	0	WARRIOR	4	50	0	0	2	0	1
+2	0	PET	Paladin	0	0	PALADIN	10	58	0	0	2	0	0
+3	2	PET	Hunter	0	0	HUNTER	9	406	0	0	1	1	2
+4	3	PET	Rogue	0	0	ROGUE	8	2	0	0	1	2	1
+5	0	PET	Priest	0	0	PRIEST	6	2	0	0	1	0	0
+6	6	PET	Death Knight	0	0	DEATHKNIGHT	15	122	165	2	2	0	0
+7	0	PET	Shaman	0	0	SHAMAN	11	26	0	0	1	2	0
+8	0	PET	Mage	0	0	MAGE	3	2	0	0	1	0	0
+9	0	DEMON	Warlock	0	0	WARLOCK	5	134	0	0	1	0	0
+10	4	PET	Monk	0	0	MONK	53	514	0	4	1	2	1
+11	0	PET	Druid	0	0	DRUID	7	10	0	0	1	0	0

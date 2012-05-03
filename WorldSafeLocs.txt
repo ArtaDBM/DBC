@@ -1133,7 +1133,7 @@ id	map	pos_x	pos_y	pos_z	m_name_lang
 3529	860	1570.62	3.756.878	3.113.509	Shen-zin Su - West Side - Corpse Catcher 041
 3530	860	1.585.818	3.706.159	2.307.611	Shen-zin Su - West Side - Corpse Catcher 042
 3531	860	1.586.431	3653.24	2.436.897	Shen-zin Su - West Side - Corpse Catcher 043
-3549	999	-3.815.885	-4.793.408	1.082.775	Theramore Scenario - Rez Loc, Horde
+3549	999	-3.815.885	-4.793.408	1.082.775	Scenario - Theramore - Rez Loc, Horde
 3552	998	1.889.372	1.156.542	1.507.662	Valley of Power - BG - Graveyard - Alliance (Rectangle)
 3553	998	1.675.799	1.522.344	1.676.312	Valley of Power - BG - Graveyard - Horde (Rectangle)
 3554	998	8.383.733	1.266.111	5.213.761	Valley of Power - BG - Graveyard - Alliance (Circle)
@@ -1584,8 +1584,8 @@ id	map	pos_x	pos_y	pos_z	m_name_lang
 4022	1010	1560.49	2.126.962	1.390.441	CTF3 - Horde Graveyard (Base)
 4023	870	9.578.837	-2474.01	1.805.047	Jade Temple - Exit Target
 4024	960	9.533.698	-2487.5	1.804.306	Jade Temple - Entrance Target
-4025	870	3.631.288	2.538.408	7.699.122	Shadowpan Hideout - Exit Target
-4026	959	3.657.288	2.551.917	7.669.661	Shadowpan Hideout - Entrance Target
+4025	870	3631.29	2538.41	769.912	Shadowpan Hideout - Exit Target
+4026	959	3657.29	2551.92	766.966	Shadowpan Hideout - Entrance Target
 4027	1005	2.208.066	-1.255.969	4.281.259	Brewmaster Scenario 01 Graveyard
 4049	961	-7.321.146	1.266.127	116.108	Stormstout Brewery - Entrance Target
 4052	870	2.236.118	3.131.976	3.796.547	Vale of Eternal Blossoms, Temp GY
@@ -1737,7 +1737,7 @@ id	map	pos_x	pos_y	pos_z	m_name_lang
 4248	870	3.982.997	1.121.291	497.214	Corpse Location: 1008 - Mogu\'shan Vaults
 4249	1049	2.029.196	4.707.899	1.543.232	Scenario - Black Ox Temple
 4250	1050	-577.132	3.853.205	0.5493062	Scenario - Tyri\'vess
-4251	1048	-3.090.458	7.054.896	0.7228665	Unga Ingoo Start
+4251	1048	-3101.01	729.672	0.747235	Unga Ingoo Start
 4252	1051	1.736.451	3.025.903	4.758.858	Brewmoon Festival Start
 4253	1051	1.847.608	3.663.125	4.823.574	Brewmoon Festival Graveyard
 4258	429	-1.702.768	1.788.638	-3.475.613	Dire Maul Dungeon - Corpse Location - West
@@ -1763,7 +1763,13 @@ id	map	pos_x	pos_y	pos_z	m_name_lang
 4285	0	3.237.345	-4.058.776	1.084.757	Corpse Location: 329 - Stratholme - Service Entrance
 4286	1005	2.249.792	-1.124.648	4.855.298	Lightning Lager Start
 4287	1030	9.052.222	2.354.082	9.756.213	Scenario - Crypt of Forgotten Kings
-4288	1035	1.733.351	1.333.297	1.055.556	Scenario - Katmogu - Start
+4288	1035	1.780.467	1.602.674	3.431.691	Scenario - Katmogu - Start
 4290	870	1536.88	-1793.37	246.2	Mogu\'shan Palace - Exit Teleport Target BETA
 4291	870	1536.93	-1793.33	246.2	Mogu\'shan Palace - GY - BETA
 4292	0	-11341.02	1.576.549	9.372.838	Deadmines Rear Exit Target
+4293	996	-1020.97	-3146.92	283.587	Sha Raid - Entrance Target (LFR)
+4294	1008	3861.08	1044.91	490.073	Mogu Raid - LFR First Half - Entrance Target
+4295	1008	4276.98	1462.39	445.461	Mogu Raid - LFR Second Half - Entrance Target
+4296	1009	-2351.16	459.964	422.341	Mantid Raid - LFR First Half - Entrance Target
+4297	1009	-1926.55	475.847	470.958	Mantid Raid - LFR Second Half - Entrance Target
+4298	870	9.275.955	-2.503.578	1.805.042	The Jade Forest, East Temple Interior Quests GY

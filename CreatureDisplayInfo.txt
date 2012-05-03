@@ -4448,7 +4448,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 5551	49	0	3696	1	255					1	0	49	0	0	0	0
 5552	50	0	3698	1	255					1	0	46	0	0	0	0
 5553	49	0	3699	1	255					0	0	49	0	0	0	0
-5554	631	0	0	0.5	255	OrangeTabby				1	0	0	0	0	0	0
+5554	631	0	0	0.5	255	OrangeTabby				1	0	548	0	0	0	0
 5555	631	0	0	0.5	255	SilverTabby				1	0	0	0	0	0	0
 5556	631	0	0	0.5	255	Bombay				1	0	0	0	0	0	0
 5557	132	0	0	0.1	255	CrabSkinBronze				0	0	0	0	0	0	0
@@ -4744,7 +4744,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 6296	142	0	0	1	255	FrogBlueSpots				0	0	0	0	0	0	0
 6297	142	0	0	1	255	Frogtropical				0	0	0	0	0	0	0
 6298	373	0	0	0.25	255	OwlBlue				-1	0	0	0	0	0	0
-6299	373	0	0	0.25	255	OwlBlack				-1	0	0	0	0	0	0
+6299	373	0	0	0.25	255	OwlBlack				-1	0	555	0	0	0	0
 6300	373	0	0	0.25	255	OwlGrey				-1	0	0	0	0	0	0
 6301	55	0	3828	1	150					1	0	0	0	0	0	0
 6302	114	0	0	1	255	RabbitSkin				0	0	0	0	0	0	0
@@ -15602,7 +15602,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 21359	2471	0	0	1.85	255	FelOrc_Black				-1	0	0	0	0	0	0
 21360	2573	0	0	0.45	255	gorillapet				-1	0	0	0	0	0	0
 21361	2299	0	13885	1.85	255					-1	0	0	0	0	0	0
-21362	2574	0	0	0.3	255					0	0	228	0	0	0	0
+21362	2574	0	0	0.3	255					0	0	228	0	0	631	0
 21363	2299	0	12310	1.85	255					-1	0	0	0	0	0	0
 21364	2299	2366	12698	3.25	255					-1	0	0	0	0	0	0
 21365	551	68	0	1	160	FelGuardSkinBlack				-1	0	0	0	0	0	0
@@ -25674,8 +25674,8 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 31768	2542	2395	0	2	255	EtherialSkinRobeBWhite				1	0	0	304	0	0	0
 31769	2401	0	0	1.5	255	OgreMageLordSkinBlack512	TogaYellow			3	0	0	0	0	0	0
 31770	2401	0	0	1.5	255	OgreMageLordSkinYellow512	TogaBlue			2	0	0	0	0	0	0
-31771	3337	3200	0	1	255	monstrouseel_black_1	monstrouseel_black_2			0	0	0	0	0	0	0
-31773	3337	3200	0	1	255	monstrouseel_blue_1	monstrouseel_blue_2			0	0	0	0	0	0	0
+31771	3337	0	0	1	255	monstrouseel_black_1	monstrouseel_black_2			0	0	0	0	0	0	0
+31773	3337	0	0	1	255	monstrouseel_blue_1	monstrouseel_blue_2			0	0	0	0	0	0	0
 31774	3337	0	0	1	255	monstrouseel_green_1	monstrouseel_green_2			0	0	0	0	0	0	0
 31775	3337	0	0	1	255	monstrouseel_red_1	monstrouseel_red_2			0	0	0	0	0	0	0
 31776	3337	0	0	2	255	monstrouseel_white_1	monstrouseel_white_2			0	0	0	0	0	0	0
@@ -25877,7 +25877,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 31981	3361	0	0	3	255	ArcticCondorGold	ArcticCondorGold	ArcticCondorGold		-1	0	0	0	0	0	0
 31982	3362	0	0	1	255	Gilgoblin	GilgoblinHair00_00			-1	0	0	0	0	0	0
 31983	2353	0	21155	1	255					-1	0	0	0	0	0	0
-31984	3337	3200	0	1	255	monstrouseel_white_1	monstrouseel_white_2			0	0	0	0	0	0	0
+31984	3337	0	0	1	255	monstrouseel_white_1	monstrouseel_white_2			0	0	0	0	0	0	0
 31985	3363	0	0	1	255	MercilessOneAqua				2	0	0	0	0	0	0
 31986	3364	0	0	1	255	ProtoDragon_NorthrendBlack	ProtoDragon_NorthrendHairBlack			-1	0	0	0	0	0	0
 31987	3365	0	0	1	255	GoblinShredderMountSkin2_01	GoblinShredderMountSkin2_02			2	0	0	0	0	0	0
@@ -26004,7 +26004,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 32121	3362	0	0	1	255	GilgoblinPurple	GilgoblinHair00_00			-1	0	0	0	0	0	0
 32122	3362	2354	0	1	255	GilgoblinRed	GilgoblinHair00_00			-1	0	0	0	0	0	0
 32123	3362	2354	0	1	255	GilgoblinTeal	GilgoblinHair00_00			-1	0	0	0	0	0	0
-32124	3337	3200	0	0.4	255	monstrouseel_blue_1	monstrouseel_blue_2			0	0	0	0	0	0	0
+32124	3337	0	0	0.4	255	monstrouseel_blue_1	monstrouseel_blue_2			0	0	0	0	0	0	0
 32125	76	0	0	0.75	255	FrenzySkinBlue				-1	0	0	0	0	0	0
 32126	203	0	0	0.9	255	DragonSkin1Green	DragonSkin2Green	DragonSkin3Green		3	0	0	0	0	0	0
 32127	73	0	0	0.5	155	DireWolfSkinLightBlue	DireWolfSkinLightBlueAlpha			1	0	0	0	0	0	0
@@ -30045,13 +30045,13 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 36289	49	0	24015	1	255					0	0	0	0	0	0	0
 36290	831	0	24016	1	255					0	0	366	0	0	0	0
 36291	58	0	23967	1	255					1	0	80	0	0	0	0
-36292	3337	3200	0	0.3	255	monstrouseel_black_1	monstrouseel_black_2			0	0	0	0	0	0	0
-36293	3337	3200	0	0.3	255	monstrouseel_blue_1	monstrouseel_blue_2			0	0	0	0	0	0	0
+36292	3337	0	0	0.3	255	monstrouseel_black_1	monstrouseel_black_2			0	0	0	0	0	0	0
+36293	3337	0	0	0.3	255	monstrouseel_blue_1	monstrouseel_blue_2			0	0	0	0	0	0	0
 36294	58	0	23968	1	255					1	0	81	0	0	0	0
 36296	58	0	23969	1	255					1	0	81	0	0	0	0
 36297	3337	0	0	0.3	255	monstrouseel_green_1	monstrouseel_green_2			0	0	0	0	0	0	0
 36298	3337	0	0	0.3	255	monstrouseel_red_1	monstrouseel_red_2			0	0	0	0	0	0	0
-36299	3337	3200	0	0.3	255	monstrouseel_white_1	monstrouseel_white_2			0	0	0	0	0	0	0
+36299	3337	0	0	0.3	255	monstrouseel_white_1	monstrouseel_white_2			0	0	0	0	0	0	0
 36300	58	0	23970	1	255					1	0	80	0	0	0	0
 36301	58	0	23971	1	255					1	0	80	0	0	0	0
 36302	3052	0	0	1	255					0	0	0	0	0	0	0
@@ -33008,7 +33008,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 39503	4184	0	0	2.5	255					0	0	0	0	0	0	0
 39504	4185	0	0	2.5	255					0	0	0	0	0	0	0
 39505	110	0	0	0.5	255	WaterElementalSkin				-1	0	0	317	0	0	0
-39506	3967	0	25705	1.5	255					1	0	0	0	0	0	0
+39506	3967	0	27338	1.5	255					1	0	0	0	0	0	0
 39507	4150	0	0	12	255					1	1	0	0	0	0	0
 39508	4178	0	0	0.8	255	HozuMonkeyRed				0	0	0	0	1	0	0
 39509	4186	4027	0	6	255				achievment_boss_spineofdeathwing	1	1	0	0	0	0	0
@@ -33789,7 +33789,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 40578	4345	0	0	1.25	255	YaunkaBodyWhite	YaunkaHairBlue	Armor1		-1	0	0	0	819	0	0
 40579	2260	0	0	0.2	255					-1	0	0	0	0	0	0
 40580	4601	0	0	1.75	255	YaunkaBodyWhite	YaunkaHairBrown	Armor1		-1	0	0	0	562	0	0
-40581	3337	3200	0	1.5	255	monstrouseel_white_1	monstrouseel_white_2			0	0	0	0	0	0	0
+40581	3337	0	0	1.5	255	monstrouseel_white_1	monstrouseel_white_2			0	0	0	0	0	0	0
 40583	3337	0	0	1.5	255	monstrouseel_red_1	monstrouseel_red_2			0	0	0	0	0	0	0
 40584	4257	0	0	0.4	255	WaterStrider	WaterStrider	WaterStrider		-1	0	0	0	0	0	0
 40585	4257	0	0	0.6	255	WaterStriderWhite	WaterStriderWhite	WaterStriderWhite		-1	0	0	0	0	0	0
@@ -34155,7 +34155,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 40974	4207	0	0	1	100	SiberianTigerFrost				1	0	0	0	0	0	0
 40975	4293	0	0	1	255	SherpaBodyBlue1	SherpaGeoYellow2	SherpaBackpackTan3		0	0	0	0	22056	0	0
 40976	4349	0	0	1	255	FogCreatureGreen1	FogCreatureGreen2	FogCreatureGreen3		1	0	0	0	0	0	0
-40977	4349	0	0	1	255	FogCreatureOrange1	FogCreatureOrange2	FogCreatureOrange3		1	0	0	0	0	0	0
+40977	4349	0	0	1	255	FogCreatureOrange1	FogCreatureOrange2	FogCreatureOrange3		1	0	660	0	0	0	0
 40978	4349	0	0	1	255	FogCreaturePurple1	FogCreaturePurple2	FogCreaturePurple3		1	0	0	0	0	0	0
 40979	3968	0	26828	1	255					1	0	0	0	0	0	0
 40980	3967	4012	26488	1	255					-1	0	0	0	0	0	0
@@ -34256,7 +34256,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 41082	4178	0	0	1.5	255	HozuMonkeyWhite	HozuArmorMailATeal	HelmHozuArmorMailRed		0	0	0	0	8	0	0
 41083	4178	0	0	1.2	255	HozuMonkeyWhite	HozuArmorMailBBlue	HelmHozuArmorMailBlue		0	0	0	0	11	0	0
 41084	4178	0	0	1.5	255	HozuMonkeyWhite	HozuArmorClothCGreen	HelmHozuArmorClothGreen		0	0	0	0	6	0	0
-41085	4309	0	0	2	255	Mogu1Terracotta	Mogu1Terracotta	Mogu1Terracotta		0	0	0	0	49	0	0
+41085	4309	0	0	2	255	Mogu1Terracotta	Mogu2Terracotta	Mogu3TerraCotta		0	0	0	0	52	0	0
 41086	4309	0	0	2	255	Mogu1Obsidian	Mogu2Obsidian	Mogu3Obsidian		0	0	0	0	50	0	0
 41087	4309	0	0	2	255	Mogu1Obsidian	Mogu2Obsidian	Mogu3Obsidian		0	0	0	0	51	0	0
 41088	4309	0	0	2	255	Mogu1Obsidian	Mogu2Obsidian	Mogu3Obsidian		0	0	0	0	52	0	0
@@ -34460,7 +34460,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 41296	3451	0	0	0.8	255	CrocodileCataclysmGreen				0	0	0	0	0	0	0
 41297	3451	0	0	1.2	255	CrocodileCataclysmBlue				0	0	0	0	0	0	0
 41298	3337	0	0	0.75	255	monstrouseel_red_1	monstrouseel_red_2			0	0	0	0	0	0	0
-41299	3337	3200	0	0.75	255	monstrouseel_white_1	monstrouseel_white_2			0	0	0	0	0	0	0
+41299	3337	0	0	0.75	255	monstrouseel_white_1	monstrouseel_white_2			0	0	0	0	0	0	0
 41300	3337	0	0	0.75	255	monstrouseel_green_1	monstrouseel_green_2			0	0	0	0	0	0	0
 41301	4174	0	0	0.6	255	Verming_White				0	0	0	0	0	629	0
 41304	4420	0	0	1	255	YakGodWhite	YakGodRuneGlowColor	YakGodRuneGlowAlphat		2	0	0	0	0	0	0
@@ -34755,7 +34755,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 41609	4290	4107	0	3.75	255	Quilin_stonegray				1	0	0	0	0	0	0
 41610	4420	0	0	2	100	YakGodWhite	YakGodRuneGlowColor	YakGodRuneGlowAlphat		2	0	0	0	0	0	178
 41632	2613	0	26665	1	255					0	0	0	0	0	0	0
-41635	4349	0	0	1	100	FogCreatureOrange1	FogCreatureOrange2	FogCreatureOrange3		1	0	0	0	0	0	0
+41635	4349	0	0	1	100	FogCreatureOrange1	FogCreatureOrange2	FogCreatureOrange3		1	0	660	0	0	0	0
 41636	4345	0	0	1.2	255	YaunkaBodyBlue	YaunkaHairBlack	Armor4		-1	0	0	0	273	0	0
 41637	4345	0	0	1.2	255	YaunkaBodyBlue	YaunkaHairBlue	Armor4		-1	0	0	0	290	0	0
 41638	4345	0	0	1.2	255	YaunkaBodyBlue	YaunkaHairRed	Armor4		-1	0	0	0	307	0	0
@@ -34956,7 +34956,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 41849	1731	0	0	1	255				ability_monk_staffstrike	-1	0	0	0	0	0	0
 41851	4436	0	0	1	255					0	0	0	0	0	0	0
 41852	4343	0	0	1.6	175	Jinyu1Teal	Jinyu2CasterRed			-1	0	0	0	2	0	0
-41853	4537	0	0	1.2	255				ability_mount_whitetiger	0	0	0	0	0	0	0
+41853	4537	0	0	1	255				ability_mount_whitetiger	0	0	0	0	0	0	0
 41854	4309	0	0	2.5	255	Mogu1Obsidian	Mogu2EliteBlack	Mogu3orange		0	0	0	0	66	0	0
 41855	2942	0	26764	1.7	255					1	0	78	0	0	0	0
 41856	2942	0	26545	1	255					1	0	0	0	0	0	0
@@ -35054,7 +35054,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 41948	4384	0	0	1.75	255	SpikySprite_brown	pineneedle_01			0	2	0	0	0	0	0
 41949	30	0	0	0.2	255	MineSpiderSkinSteel				1	0	0	0	0	0	0
 41950	4345	0	0	2	255	YaunkaBodyWhite	YaunkaHairBrown	Armor2		-1	0	0	0	802	0	0
-41951	185	0	26809	1	255					1	0	0	0	0	0	0
+41951	2942	0	26809	1	255					1	0	0	0	0	0	0
 41952	185	0	26810	1	255					1	0	78	0	0	0	0
 41953	185	0	26811	1	255					1	0	78	0	0	0	0
 41954	185	0	26812	1	255					1	0	78	0	0	0	0
@@ -35206,7 +35206,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 42105	2715	0	0	4	255	Nerubian_Albino				-1	0	0	0	0	0	0
 42106	3967	0	26821	0.7	255					1	0	0	0	0	0	0
 42107	4503	0	0	1	255				inv_stone_13	1	0	0	0	0	0	0
-42108	185	0	26809	1	255					0	0	0	0	0	0	0
+42108	2942	0	26809	1	255					0	0	0	0	0	0	0
 42109	3295	0	0	1	255				inv_misc_bomb_09	0	0	0	0	0	0	0
 42110	3967	0	26901	1	255					0	0	0	0	0	0	0
 42111	3968	0	26902	1	255					0	0	0	0	0	0	0
@@ -35263,7 +35263,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 42166	2371	0	0	1.25	255	RockFlayer02				0	0	0	0	0	0	0
 42167	4509	0	0	0.1	255				inv_fishingpole_02	0	0	0	0	0	0	0
 42168	3968	4012	26830	1.5	255					-1	0	0	0	0	0	0
-42169	2371	0	0	6	255	ROCKFLAYERELITEGREEN				0	0	0	0	0	0	0
+42169	4525	0	0	3.25	255	mantid_red	mantidarmor_orange	mantidarmor_orange		0	0	0	0	16658	0	0
 42170	4349	0	0	0.75	255	FogCreatureOrange1	FogCreatureOrange2	FogCreatureOrange3		1	0	0	0	0	0	0
 42171	4187	0	0	1.5	255	YakBlack				1	0	0	0	0	0	0
 42172	3967	0	26913	1	255					1	0	0	0	0	0	0
@@ -35286,7 +35286,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 42190	4343	0	0	3.5	255	Jinyu1Orange	Jinyu2CasterGold			-1	0	656	0	3	0	0
 42191	51	0	26919	1.25	255					-1	0	0	0	0	0	0
 42192	4382	0	0	1.5	255	RidingYakBrown	RidingYakSaddleyellow			1	0	0	0	0	0	0
-42193	2371	0	0	2.5	255	RockFlayer05				0	0	0	0	0	0	0
+42193	4525	0	0	2.5	255	mantid_black	mantidarmor_blue	mantidarmor_blue		0	0	0	0	4385	0	0
 42194	51	0	26921	1.25	255					0	0	0	0	0	0	0
 42195	2206	0	0	4	255					1	0	0	0	0	0	0
 42196	51	0	26922	1.25	255					0	0	0	0	0	0	0
@@ -35300,7 +35300,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 42204	3967	0	26925	1	255					1	0	0	0	0	0	0
 42205	3967	0	26821	0.7	255					1	0	0	0	0	0	186
 42206	4584	0	0	2	255	FlyingNerubianBlue				0	0	0	0	0	0	0
-42207	2371	0	0	4	255	RockFlayer02				0	0	0	0	0	0	0
+42207	4525	0	0	2.75	255	mantid_black	mantidarmor_blue	mantidarmor_blue		0	0	0	0	4386	0	0
 42208	51	0	26926	1.25	255					0	0	0	0	0	0	0
 42209	51	0	26927	1.25	255					0	0	0	0	0	0	0
 42210	52	0	26928	1.25	255					0	0	0	0	0	0	0
@@ -35400,7 +35400,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 42316	3967	0	26973	1	255					-1	0	0	0	0	0	0
 42317	3967	0	26974	1	255					-1	0	0	0	0	0	0
 42318	4237	0	0	0.08	150					-1	0	0	0	0	0	0
-42319	4309	0	0	2	255	Mogu1Jade	Mogu2Green	Mogu3Jade		-1	0	0	0	48	0	0
+42319	4309	0	0	2	255	Mogu1Jade	Mogu2Green	Mogu3Jade		-1	0	0	0	50	0	0
 42320	3968	4012	26975	1	255					-1	0	0	0	0	0	0
 42321	4523	0	0	1	255				inv_knife_1h_common_b_01	0	0	0	0	0	0	0
 42322	4384	0	0	1.35	255	SpikySprite_green	pineneedle_01			0	2	0	0	0	0	0
@@ -35417,7 +35417,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 42333	3451	0	0	2.5	255	CrocodileCataclysmBlack				0	0	0	0	0	0	0
 42334	134	0	0	1	255	SquirrelDiseased				0	0	0	0	0	0	0
 42335	141	0	0	0.3	255	EntSkinRed				-1	0	0	0	0	0	0
-42336	4309	0	0	2.5	255	Mogu1Caster	Mogu2Caster	Mogu3Caster		0	0	0	0	16	0	0
+42336	4309	0	0	2.1	255	Mogu1Caster	Mogu2Caster	Mogu3Caster		0	0	0	0	20	0	0
 42337	9	0	0	2	255	GHOST2	GHOSTSKIN			-1	0	0	305	0	0	190
 42341	4524	0	0	1	255					0	0	0	0	0	0	0
 42342	132	0	0	0.35	255	CrabSkinSaphire				0	0	0	0	0	0	0
@@ -35520,8 +35520,8 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 42448	4290	0	0	2.25	255	Quilin_gray	Quilin_gray	Quilin_gray		-1	0	0	0	0	0	0
 42449	4536	0	0	1	255				ability_mount_whitetiger	0	0	0	0	0	0	0
 42450	4309	0	0	1.5	255	Mogu1Blue	Mogu2Warrior	Mogu3Blue		0	0	0	0	34	0	0
-42451	4309	0	0	2	255	Mogu1Green	Mogu2Warrior	Mogu3Green		0	0	0	0	35	0	0
-42452	4309	0	0	1.5	255	Mogu1Blue	Mogu2Blue	Mogu3Blue		0	0	0	0	49	0	0
+42451	4309	0	0	1.7	255	Mogu1Green	Mogu2Warrior	Mogu3Green		0	0	0	0	35	0	0
+42452	4309	0	0	1.7	255	Mogu1Orange	Mogu2Orange	Mogu3orange		0	0	0	0	49	0	0
 42453	4290	0	0	1.5	255	Quilin_gray				1	0	0	0	0	0	0
 42454	1211	0	0	0.3	255	DiemetradonSkinGreen				-1	0	0	0	0	0	0
 42455	4309	0	0	1.66	255	Mogu1Elite	Mogu2Elite	Mogu3Elite		0	0	0	0	65	0	0
@@ -35535,7 +35535,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 42463	2439	2298	0	0.2	255	FireFlySkinBlue				-1	0	0	341	0	0	0
 42464	1211	0	0	0.3	255	DiemetradonSkinYellow				-1	0	0	0	0	0	0
 42465	3968	0	27021	1	255					0	0	0	0	0	0	0
-42466	4525	0	0	1.4	255	mantid	mantid	mantid		0	0	0	0	0	0	0
+42466	4525	0	0	1.4	255	mantid_black	mantidarmor_orange	mantidarmor_orange		0	0	0	0	0	0	0
 42467	177	0	0	0.3	255	FaerieDragon_Ghost				-1	0	480	0	0	0	0
 42468	4284	0	0	3	255	WaterDragonManRed	WaterDragonManArmorRed			1	0	0	0	547	0	0
 42469	4284	0	0	2	255	WaterDragonManRed	WaterDragonManArmorRed			1	0	0	0	818	0	0
@@ -35862,13 +35862,13 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 42798	3968	0	27190	1	255					1	0	0	0	0	0	0
 42799	4558	0	0	0.2	255	mantidtank_red	mantidtank_wings_red			-1	0	0	0	0	0	0
 42800	4525	0	0	1.4	255	mantid	mantid	mantid		0	0	0	0	4616	0	0
-42801	4525	0	0	2	255	mantid	mantid	mantid		0	0	0	0	12875	0	0
+42801	4525	0	0	1	255	mantid_yellow	mantidarmor_yellow	mantid		0	0	0	0	9031	0	0
 42802	3967	0	27191	1	255					1	0	0	0	0	0	0
 42803	4309	0	0	1.5	255	Mogu1Stone	Mogu2Stone	Mogu3Stone		0	0	0	0	34	0	0
 42804	60	0	26148	1	255					1	0	130	0	0	0	0
 42805	3968	0	27193	1	255					-1	0	0	0	0	0	0
 42806	3967	4012	27192	1	255					-1	0	0	0	0	0	0
-42807	4590	0	0	3	255	MantidGrandVisier1	MantidGrandVisier2	MantidGrandVisier3		-1	0	0	0	0	0	0
+42807	4590	0	0	3.75	255	MantidGrandVisier1	MantidGrandVisier2	MantidGrandVisier3		-1	0	0	0	0	0	0
 42808	4219	0	0	0.25	255	GoldfishRed				-1	0	0	0	0	0	0
 42809	49	0	27196	0.9	255					0	0	115	0	0	0	0
 42810	3968	0	27197	1	255					-1	0	0	0	0	0	0
@@ -35935,7 +35935,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 42872	3433	0	0	0.65	255	raven				0	0	0	0	0	0	0
 42873	4309	0	0	2.5	255	Mogu1Blue	Mogu2CasterWhite	Mogu3CasterWhite		0	0	0	0	19	0	0
 42874	4516	0	0	0.3	255	RidingDragonTurtlePurple				0	0	0	0	0	0	0
-42875	2371	0	0	2	255	RockFlayer06var1				0	0	0	0	0	0	0
+42875	4525	0	0	2	255	mantid_purple	mantidarmor_yellow	mantidarmor_yellow		0	0	0	0	8739	0	0
 42876	4519	0	0	0.9	255	WaterStriderMount_Yellow1	WaterStriderMount_Yellow2	WaterStriderMount_Yellow_Pulse		-1	0	0	0	0	0	0
 42877	4516	0	0	5	255	RidingDragonTurtleBlue				1	0	0	0	0	0	0
 42878	4406	0	0	1	255				spell_nature_naturetouchdecay	0	0	0	0	0	0	0
@@ -35966,7 +35966,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 42903	3967	3069	27279	1.2	255					-1	0	0	0	0	0	0
 42904	4410	0	0	1	255				spell_lifegivingseed	0	0	0	0	0	0	0
 42905	4411	0	0	1.5	255				ability_druid_flourish	0	0	0	0	0	0	0
-42906	140	0	0	0.55	255	SheepBlack				0	0	0	0	0	0	0
+42906	140	0	0	0.55	255	SheepBlack				0	0	498	0	0	0	0
 42907	3968	0	27280	1.25	255					-1	0	0	0	0	0	0
 42908	182	0	27281	1	255					-1	0	0	0	0	0	0
 42909	183	0	27282	1	255					-1	0	0	0	0	0	0
@@ -36167,15 +36167,15 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 43109	2295	0	0	0.75	255	WindSerpentSkinOutland2	WindSerpentWingSkinOutland2			-1	0	0	0	0	0	0
 43110	4207	0	0	1.5	255	SiberianTigerRed				1	0	0	0	0	0	0
 43111	2295	0	0	0.75	255	WindSerpentSkinOutland	WindSerpentWingSkinOutland			-1	0	0	0	0	0	0
-43113	4525	0	0	2.5	255	mantid_red	mantidarmor_orange	mantidarmor_orange		-1	0	0	0	16672	0	0
-43114	4525	0	0	1	255	mantid	mantid	mantid		-1	0	0	0	12800	0	0
-43115	4525	0	0	1	255	mantid_black	mantid_black	mantid_black		-1	0	0	0	4118	0	0
-43116	4525	0	0	1.5	255	mantid_black	mantid_black	mantid_black		-1	0	0	0	4372	0	0
-43117	4525	0	0	1.5	255	mantid	mantid	mantid		-1	0	0	0	12544	0	0
+43113	4525	0	0	2.5	255	mantid_green	mantidarmor_orange	mantidarmor_orange		-1	0	0	0	16672	0	0
+43114	4525	0	0	1	255	mantid_red	mantidarmor_orange	mantid_green		-1	0	0	0	12800	0	0
+43115	4525	0	0	1	255	mantid_purple	mantidarmor_blue	mantidarmor_blue		-1	0	0	0	4118	0	0
+43116	4525	0	0	1.5	255	mantid_purple	mantidarmor_white	mantidarmor_white		-1	0	0	0	4372	0	0
+43117	4525	0	0	1.5	255	mantid_green	mantidarmor_yellow	mantidarmor_yellow		-1	0	0	0	12544	0	0
 43118	4525	0	0	1.5	255	mantid_green	mantidarmor_blue	mantidarmor_blue		0	0	0	0	4352	0	0
 43119	4525	0	0	2	255	mantid_black	mantidarmor_white	mantidarmor_white		0	0	0	0	16675	0	0
 43120	4525	0	0	4	255	mantid_red	mantidarmor_yellow	mantidarmor_yellow		0	0	0	0	16673	0	0
-43121	4525	0	0	1	255	mantid_green	mantidarmor_orange	mantidarmor_orange		0	0	0	0	4096	0	0
+43121	4525	0	0	1	255	mantid_green	mantidarmor_orange	mantidarmor_orange		0	0	0	0	0	0	0
 43122	4525	0	0	2.5	255	mantid_green	mantidarmor_white	mantidarmor_white		-1	0	0	0	17188	0	0
 43123	4603	0	0	2	255					-1	0	0	0	0	0	0
 43124	4606	0	0	2	255					-1	0	0	0	0	0	0
@@ -36183,19 +36183,19 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 43126	4525	0	0	3.5	255	mantid_purple	mantidarmor_white	mantidarmor_white		1	0	0	0	9035	0	0
 43127	4366	0	0	1	255	cricket_green				-1	0	0	0	0	0	0
 43128	4366	0	0	1	255	cricket_white				-1	0	0	0	0	0	0
-43129	4525	0	0	1.5	255	mantid_black				-1	0	0	0	16640	0	0
+43129	4525	0	0	1.5	255	mantid_black	mantidarmor_white			-1	0	0	0	16657	0	0
 43130	4525	0	0	1	255	mantid_black	mantidarmor_yellow			-1	0	0	0	12560	0	0
-43131	4525	0	0	1	255	mantid_black				-1	0	0	0	8960	0	0
-43132	4525	0	0	1	255	mantid_black				-1	0	0	0	16390	0	0
-43133	4525	0	0	1	255	mantid_black	mantid_black	mantid_black		-1	0	0	0	16384	0	0
-43134	4525	0	0	1.75	255	mantid_black				-1	0	0	0	16658	0	0
-43135	4525	0	0	2	255	mantid_black				-1	0	0	0	16658	0	0
+43131	4525	0	0	1	255	mantid_black	mantidarmor_blue			-1	0	0	0	8960	0	0
+43132	4525	0	0	1	255	mantid_black	mantidarmor_yellow			-1	0	0	0	16390	0	0
+43133	4525	0	0	1	255	mantid_black	mantidarmor_orange	mantid_black		-1	0	0	0	16384	0	0
+43134	4525	0	0	1.75	255	mantid_black	mantidarmor_white			-1	0	0	0	16658	0	0
+43135	4525	0	0	2	255	mantid_black	mantidarmor_blue			-1	0	0	0	16658	0	0
 43136	4525	0	0	1.5	255	mantid_black				-1	0	0	0	16658	0	0
 43137	3602	0	0	0.1	255					-1	0	0	0	0	0	0
 43138	4607	0	0	2	255					0	0	0	0	0	0	0
-43139	4525	0	0	4	255	mantid_black				-1	0	0	0	16658	0	0
-43140	4525	0	0	5	255	mantid_black				-1	0	0	0	16658	0	0
-43141	4525	0	0	3.5	255					2	0	0	0	16660	0	0
+43139	4525	0	0	4	255	mantid_black	mantidarmor_blue			-1	0	0	0	16658	0	0
+43140	4525	0	0	5	255	mantid_black	mantidarmor_orange			-1	0	0	0	16658	0	0
+43141	4525	0	0	3.5	255	mantid_green	mantidarmor_white	mantidarmor_white		2	0	0	0	16660	0	0
 43142	4219	0	0	0.08	255	Goldfish				-1	0	0	0	0	0	0
 43143	3773	0	0	6	255	HordeScorpionAmber				-1	0	0	0	0	0	0
 43144	4383	0	0	2.75	255	MushanBeast_Brown				3	0	0	0	0	0	0
@@ -36203,9 +36203,9 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 43146	3968	0	27390	1.1	255					-1	0	0	0	0	0	0
 43147	3968	0	27392	1.1	255					-1	0	0	0	0	0	0
 43148	3967	0	27391	1	255					-1	0	0	0	0	0	0
-43149	4525	0	0	1	255	mantid	mantid	mantid		0	0	0	0	4112	0	0
-43150	4525	0	0	1.5	255	mantid	mantid	mantid		0	0	0	0	8723	0	0
-43151	4525	0	0	2	255	mantid_red	mantid_red	mantid_red		0	0	0	0	8764	0	0
+43149	4525	0	0	1	255	mantid_green	mantidarmor_orange	mantidarmor_orange		0	0	0	0	4112	0	0
+43150	4525	0	0	1.5	255	mantid_green	mantidarmor_orange	mantidarmor_orange		0	0	0	0	8723	0	0
+43151	4525	0	0	2	255	mantid_red	mantidarmor_white	mantidarmor_white		0	0	0	0	8764	0	0
 43152	111	0	0	1.1	255	ChickenSkinBrown				0	0	0	0	0	0	0
 43153	111	0	0	0.9	255	ChickenSkin				0	0	0	0	0	0	0
 43154	4525	0	0	0.75	255	mantid_purple	mantidarmor_yellow	mantidarmor_yellow		0	0	0	0	8192	0	0
@@ -36213,7 +36213,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 43156	871	132	0	0.2	255	SilithidScarabSkinTan				-1	0	0	0	0	0	0
 43157	871	132	0	0.3	255	SilithidScarabSkinGold				1	0	0	0	0	0	0
 43158	4525	0	0	3	255	mantid_black	mantidarmor_yellow			0	0	0	0	12577	0	0
-43159	4525	0	0	4	255	mantid_black	mantidarmor_yellow			0	0	0	0	16714	0	0
+43159	4525	0	0	4	255	mantid_yellow	mantidarmor_yellow			0	0	0	0	16714	0	0
 43160	4525	0	0	3	255	mantid_yellow	mantidarmor_yellow	mantidarmor_yellow		0	0	0	0	4387	0	0
 43161	4525	0	0	1.5	255	mantid_purple	mantidarmor_white	mantidarmor_white		0	0	0	0	8778	0	0
 43162	57	0	27395	1.5	255					0	0	0	0	0	0	0
@@ -36227,7 +36227,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 43170	3773	0	0	15	255	HordeScorpionAmber				-1	0	0	0	0	0	0
 43171	3967	0	27399	1	255					1	0	0	0	0	0	0
 43172	4608	0	0	0.4	255					0	0	0	0	0	629	0
-43173	4525	0	0	6	255	mantid_black				-1	0	0	0	16658	0	0
+43173	4525	0	0	6	255	mantid_black	mantidarmor_blue			-1	0	0	0	16658	0	0
 43174	3523	0	0	8	255	RingWormAmber	RingWormAmberAlpha			-1	0	0	0	0	0	0
 43175	4608	0	0	0.25	255	Verming_Yellow				0	0	0	0	0	629	0
 43176	1731	0	0	3.5	255					-1	0	0	0	0	0	0
@@ -36254,7 +36254,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 43197	4525	0	0	4	255	mantid_red	mantidarmor_yellow			-1	0	0	0	9015	0	0
 43198	4525	0	0	1.5	255	mantid_green	mantidarmor_white			-1	0	0	0	12560	0	0
 43199	30	0	0	0.2	255	MineSpiderSkinBlood				1	0	0	0	0	0	0
-43200	4453	0	0	3	255	HoppingGhostBlue	HoppingGhostGlow			0	0	0	0	0	0	0
+43200	4453	0	0	3	255	HoppingGhostPurple	HoppingGhostGlow			0	0	0	0	0	0	0
 43201	4611	0	0	1	255				inv_cask_01	0	0	0	0	0	0	0
 43202	4290	0	0	4	255	Quilin_jade				1	0	0	0	0	0	0
 43203	4612	0	0	1	255					0	0	0	0	0	0	0
@@ -36273,6 +36273,112 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 43216	3744	0	0	0.75	255					0	0	0	0	0	0	0
 43220	4293	0	0	1	255	SherpaBodyBlue1	SherpaGeoRed2	SherpaBackpackTan3		0	0	0	0	25958	0	0
 43221	3778	3461	0	0.2	255	WarpStalkerSkinRed				0	0	0	0	0	0	0
-43222	4309	0	0	2.1	255	Mogu1Elite	Mogu2Elite	Mogu3Elite		0	0	0	0	66	0	0
-43223	4614	0	0	1	255					0	0	0	0	0	0	0
+43222	4309	0	0	1.9	255	Mogu1Elite	Mogu2Elite	Mogu3Elite		0	0	0	0	66	0	0
+43223	4614	0	0	0.15	255					0	0	0	0	0	0	0
 43224	4525	0	0	1.5	255	mantid	mantid	mantid		0	0	0	0	8240	0	0
+43225	2631	0	0	1.15	255	SnowyEagle				-1	0	0	0	0	0	0
+43226	2631	0	0	1.2	255	LightBrownEagle				-1	0	0	0	0	0	0
+43227	1731	0	0	0.2	255					-1	0	0	0	0	0	0
+43228	4207	0	0	2	255	SiberianTigerBrown				1	0	0	0	0	0	0
+43229	4453	0	0	1	255	HoppingGhostWhite	HoppingGhostGlow			0	0	0	0	0	0	0
+43230	49	0	27411	1.3	255					0	0	48	0	0	0	0
+43231	3967	0	27092	1	255					1	0	0	0	0	0	0
+43232	4615	0	0	3.5	255					0	0	0	0	0	0	0
+43233	3968	0	27412	1.05	255					-1	0	0	0	0	0	0
+43234	4611	0	0	1	255					0	0	0	0	0	0	0
+43235	3967	0	27413	1	255					0	0	0	0	0	0	0
+43236	3967	0	27414	1	255					0	0	0	0	0	0	0
+43237	3968	0	27415	1	255					0	0	0	0	0	0	0
+43238	3968	0	27416	1	255					0	0	0	0	0	0	0
+43239	3967	0	27417	1	255					0	0	0	0	0	0	0
+43240	3967	0	27418	1	255					0	0	0	0	0	0	0
+43241	3968	0	27419	1	255					0	0	0	0	0	0	0
+43242	3968	0	27420	1	255					0	0	0	0	0	0	0
+43243	4200	0	0	1.75	255	CraneWhite				-1	0	0	0	0	0	0
+43244	3968	0	27421	0.95	255					-1	0	642	0	0	0	0
+43245	3967	4116	26793	1	255					0	0	643	0	0	0	0
+43247	57	0	27422	1	255					0	0	146	0	0	0	0
+43249	4616	0	0	1	255					0	0	0	0	0	0	0
+43250	3193	0	0	1	180	MistFoxSkinArctic				0	0	0	0	0	0	0
+43251	4383	0	0	0.9	255	MushanBeast_Black				3	0	0	0	0	0	0
+43252	4617	0	0	2.5	255					0	0	0	0	0	0	0
+43253	4600	3319	0	8	255	HordeScorpionAmber	HordeScorpionArmorAmber			1	0	0	0	0	0	0
+43254	4618	3845	0	1.5	255					0	0	0	0	0	0	0
+43255	4619	3909	0	0.2	255					0	0	544	0	0	0	0
+43256	4620	3069	0	1	255					1	0	325	0	0	0	0
+43257	161	0	0	0.5	255	PrarieDog				1	0	491	0	0	0	0
+43258	161	0	0	0.75	255	PrarieDog				1	0	491	0	0	0	0
+43259	4477	0	0	0.75	255	otterWhite	otterWhite	otterWhite		0	0	0	0	0	0	0
+43260	4477	0	0	0.65	255	otterWhite	otterWhite	otterWhite		0	0	0	0	0	0	0
+43261	4525	0	0	2	255	mantid_purple	mantidarmor_blue	mantidarmor_blue		0	0	0	0	8752	0	0
+43262	4525	0	0	3	255	mantid_black	mantidarmor_blue	mantidarmor_blue		0	0	0	0	8721	0	0
+43263	4525	0	0	2	255	mantid_purple	mantidarmor_orange	mantidarmor_orange		0	0	0	0	12560	0	0
+43264	4525	0	0	2	255	mantid_green	mantidarmor_blue			0	0	0	0	4386	0	0
+43265	4525	0	0	2.5	255	mantid_black	mantidarmor_orange	mantidarmor_orange		0	0	0	0	17152	0	0
+43266	4525	0	0	4	255	mantid_red	mantidarmor_white	mantidarmor_white		0	0	0	0	4886	0	0
+43267	4525	0	0	2	255	mantid_green	mantidarmor_white	mantidarmor_white		0	0	0	0	8476	0	0
+43268	4284	0	0	1.2	255	WaterDragonManGreen	WaterDragonManArmorGreen			1	0	0	0	787	0	0
+43269	4525	0	0	1	255	mantid_green	mantid_green	mantid_green		0	0	0	0	8704	0	0
+43270	4284	0	0	1.1	255	WaterDragonManGreen	WaterDragonManArmorGreen			1	0	0	0	273	0	0
+43271	141	0	0	1	255	EntSkinPurple				0	0	471	0	0	0	0
+43272	4284	0	0	1.3	255	WaterDragonManGreen	WaterDragonManArmorGreen			1	0	0	0	817	0	0
+43273	141	0	0	0.5	255	EntSkinPurple				0	0	471	0	0	0	0
+43274	4525	0	0	2	255	mantid_black	mantidarmor_blue			-1	0	0	0	8960	0	0
+43275	4525	0	0	3	255	mantid_green	mantidarmor_orange	mantid_green		-1	0	0	0	16384	0	0
+43276	4525	0	0	2	255	mantid_purple	mantidarmor_blue			-1	0	0	0	8967	0	0
+43277	4453	0	0	1	255	HoppingGhostBlue	HoppingGhostGlow			0	0	0	0	0	0	0
+43278	4525	0	0	1	255	mantid_purple	mantidarmor_blue			-1	0	0	0	8960	0	0
+43279	4453	0	0	1	255	HoppingGhostGreen	HoppingGhostGlow			0	0	0	0	0	0	0
+43280	4453	0	0	1.8	255	HoppingGhostPurple	HoppingGhostGlow			0	0	0	0	0	0	0
+43281	4453	0	0	1	255	HoppingGhostWhite	HoppingGhostGlow			0	0	0	0	0	0	0
+43282	4525	0	0	1	255	mantid_green	mantidarmor_yellow			-1	0	0	0	12560	0	0
+43283	4436	4138	0	0.75	255					-1	0	0	0	0	0	0
+43284	2439	2299	0	0.3	255	FireFlySkinBlack				-1	0	0	338	0	0	0
+43285	4309	0	0	1.7	255	Mogu1Caster	Mogu2CasterWhite	Mogu3CasterWhite		0	0	0	0	20	0	0
+43286	4525	0	0	3	255	mantid_green	mantidarmor_white			-1	0	0	0	16658	0	0
+43287	4309	0	0	1.5	255	Mogu1Blue	Mogu2Blue	Mogu3Blue		0	0	0	0	51	0	0
+43288	4309	0	0	1.5	255	Mogu1Green	Mogu2Green	Mogu3Green		0	0	0	0	51	0	0
+43289	4525	0	0	0.8	255	mantid_black	mantidarmor_white			-1	0	0	0	16657	0	0
+43290	631	0	0	2	255	Birman				1	0	0	0	0	0	0
+43291	4621	0	0	1	255	ThresherShark_blue				0	0	0	0	0	0	0
+43292	4382	0	0	4	255	RidingYakBlack	RidingYakSaddleBlack			1	0	0	0	0	0	0
+43293	3378	0	0	0.35	255	DeepSeaTurtle				0	0	0	0	0	0	0
+43294	3378	0	0	0.25	255	DeepSeaTurtleBlue				0	0	0	0	0	0	0
+43295	3378	0	0	0.3	255	DeepSeaTurtleGreen				0	0	0	0	0	0	0
+43296	3378	0	0	0.4	255	DeepSeaTurtlePurple				0	0	0	0	0	0	0
+43297	4284	0	0	1.5	255	WaterDragonManDarkBlue	WaterDragonManArmorDarkBlue			1	0	0	0	274	0	0
+43298	4603	0	0	0.5	255					-1	0	0	0	0	0	0
+43299	1731	1608	0	1	255				spell_shaman_lavasurge	1	0	0	0	0	0	0
+43300	3967	0	27424	1	255					1	0	0	0	0	0	0
+43301	3968	0	27425	1	255					1	0	0	0	0	0	0
+43302	4434	0	0	0.5	255					-1	0	0	0	0	0	0
+43303	4622	0	0	0.5	255					-1	0	0	0	0	0	0
+43304	4178	0	0	2.2	255	HozuMonkeyWhite	HozuArmorMailCTeal	HelmHozuArmorMailTeal		0	0	0	0	13	0	0
+43305	4623	0	0	1	255					-1	0	0	0	0	0	0
+43306	4624	0	0	1	255					-1	0	0	0	0	0	0
+43307	4345	2395	0	2	255	YaunkaBodyRed	YaunkaHairYellow	Armor4		-1	0	0	0	0	0	0
+43308	4345	2395	0	2	255	YaunkaBodyBrown	YaunkaHairBlack	Armor3		-1	0	0	0	0	0	0
+43309	4345	2395	0	2	255	YaunkaBodyBlue	YaunkaHairRed	Armor2		-1	0	0	0	0	0	0
+43310	4345	2395	0	2	255	YaunkaBodyBlack	YaunkaHairBlue	Armor1		-1	0	0	0	564	0	0
+43311	142	0	0	1.2	255	FrogBlueSpots				0	0	0	0	0	0	0
+43312	3967	0	27426	1.5	255					0	0	0	0	0	0	0
+43313	1731	1608	0	1	255				spell_fire_flare	1	0	0	0	0	0	0
+43314	4525	0	0	1.5	255	mantid_green	mantidarmor_blue			0	0	0	0	17209	0	0
+43315	4525	0	0	2	255	mantid_green	mantidarmor_orange			0	0	0	0	16715	0	0
+43316	4525	0	0	1.4	255	mantid_green	mantidarmor_blue			0	0	0	0	8723	0	0
+43317	4525	0	0	1.5	255	mantid_green	mantidarmor_blue			0	0	0	0	13124	0	0
+43318	4525	0	0	1.5	255	mantid_green	mantidarmor_orange			0	0	0	0	13075	0	0
+43319	4525	0	0	1.5	255	mantid_green	mantidarmor_white			0	0	0	0	16696	0	0
+43320	4309	0	0	1.9	255	Mogu1Obsidian	Mogu2Obsidian	Mogu3Obsidian		0	0	0	0	52	0	0
+43321	3968	0	26361	1	255					1	0	0	0	0	0	0
+43322	4525	0	0	1.75	255	mantid_green	mantidarmor_white	mantidarmor_white		0	0	0	0	8995	0	0
+43323	4328	0	0	0.5	255	SilkwormGreen				-1	0	0	0	0	0	0
+43324	4328	0	0	0.5	255	SilkwormBlue				-1	0	0	0	0	0	0
+43325	4328	0	0	1	255	SilkwormRed				-1	0	0	0	0	0	0
+43326	4328	0	0	1	255	Silkworm				-1	0	0	0	0	0	0
+43327	4625	0	0	0.4	255					0	0	0	0	0	0	0
+43328	3967	0	27427	1	255					0	0	643	0	0	0	0
+43329	4626	0	0	6	255	RidingDragonTurtleGreen				1	0	0	0	0	0	0
+43330	4309	0	0	1.5	255	Mogu1Green	Mogu2Green	Mogu3Green		0	0	0	0	50	0	0
+43331	4309	0	0	1.5	255	Mogu1Green	Mogu2Green	Mogu3Green		0	0	0	0	49	0	0
+43332	3968	0	27078	1	255					0	0	0	0	0	0	0
