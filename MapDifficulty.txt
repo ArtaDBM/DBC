@@ -299,7 +299,7 @@ m_id	m_mapId	m_difficulty	m_requirement	m_resetTime	m_maxPlayers	m_difficultyStr
 1923	980	0		0	0	
 1924	967	5	You must have completed the Destroyer\'s End achievement before attempting Heroic difficulty.	604800	10	RAID_DIFFICULTY3
 1925	967	6	You must have completed the Destroyer\'s End achievement before attempting Heroic difficulty.	604800	25	RAID_DIFFICULTY4
-2011	994	1	You must be at least level 87 to enter.	86400	5	DUNGEON_DIFFICULTY1
+2011	994	1	You must be at least level 87 to enter.	0	5	DUNGEON_DIFFICULTY1
 2012	994	2	Heroic Difficulty requires you to be level 90.	86400	5	DUNGEON_DIFFICULTY2
 2013	995	1		0	0	
 2014	995	2		0	0	
@@ -310,8 +310,6 @@ m_id	m_mapId	m_difficulty	m_requirement	m_resetTime	m_maxPlayers	m_difficultyStr
 2038	1001	2	Heroic Difficulty requires you to be level 90.	86400	5	DUNGEON_DIFFICULTY2
 2045	1004	1	You must be at least level 23 to enter.	0	5	DUNGEON_DIFFICULTY_5PLAYER
 2046	1004	2	Heroic Difficulty requires you to be level 90.	86400	5	DUNGEON_DIFFICULTY_5PLAYER_HEROIC
-2047	1005	1		0	0	
-2048	1005	2		0	0	
 2058	1007	1	You must be at least level 33 to enter.	0	5	DUNGEON_DIFFICULTY1
 2059	1007	2	Heroic Difficulty requires you to be level 90.	86400	5	DUNGEON_DIFFICULTY2
 2060	1008	3	You must be at least level 90 and in a raid group to enter.	604800	10	RAID_DIFFICULTY1
@@ -322,38 +320,19 @@ m_id	m_mapId	m_difficulty	m_requirement	m_resetTime	m_maxPlayers	m_difficultyStr
 2075	1011	2	You must be at least level 90 to enter.	86400	5	DUNGEON_DIFFICULTY1
 2076	1008	5	You must have completed the Mogu\'shan Vaults achievement before attempting Heroic difficulty.	604800	10	RAID_DIFFICULTY3
 2077	1008	6	You must have completed the Mogu\'shan Vaults achievement before attempting Heroic difficulty.	604800	25	RAID_DIFFICULTY4
-2086	1014	1		0	0	
+2086	1014	1		0	5	
 2087	1014	2		0	0	
 2121	996	5	You must have completed the Terrace of Endless Spring achievement before attempting Heroic difficulty.	604800	10	RAID_DIFFICULTY3
 2122	996	6	You must have completed the Terrace of Endless Spring achievement before attempting Heroic difficulty.	604800	25	RAID_DIFFICULTY4
 2123	1019	0		0	0	
-2148	1028	1		0	0	
-2149	1028	2		0	0	
-2151	1029	1		0	0	
-2152	1029	2		0	0	
-2153	1030	1		0	3	
-2154	1030	2		0	0	
-2155	1031	1		0	0	
-2156	1031	2		0	0	
 2157	1032	1		0	0	
 2158	1032	2		0	0	
-2161	1035	1		0	0	
-2248	1043	0		0	0	
-2503	1048	1		0	0	
-2504	1048	2		0	0	
 2505	999	2		0	0	
 2506	1000	2		0	0	
-2507	1049	1		0	0	
-2508	1049	2		0	0	
-2509	1035	2		0	0	
-2510	1050	1		0	0	
-2511	1050	2		0	0	
 2512	1009	3	You must be at least level 90 and in a raid group to enter.	604800	10	
 2513	1009	4	You must be at least level 90 and in a raid group to enter.	604800	25	
 2514	1009	5	You must have completed the Heart of Fear achievement before attempting Heroic difficulty.	604800	10	
 2515	1009	6	You must have completed the Heart of Fear achievement before attempting Heroic difficulty.	604800	25	
-2517	1051	1	You must be at least level 90 to enter.	0	3	
-2518	1051	2		0	0	
 2519	996	3	You must have completed Heart of Fear achievement before attempting the Terrace of Endless Spring.	604800	10	
 2520	996	4	You must have completed Heart of Fear achievement before attempting the Terrace of Endless Spring.	604800	25	
 2556	967	7		0	25	RAID_DIFFICULTY2
@@ -366,3 +345,10 @@ m_id	m_mapId	m_difficulty	m_requirement	m_resetTime	m_maxPlayers	m_difficultyStr
 2582	961	8	Heroic Difficulty requires you to be level 90.	0	5	DUNGEON_DIFFICULTY_5PLAYER_HEROIC
 2583	962	8	Heroic Difficulty requires you to be level 90.	0	5	DUNGEON_DIFFICULTY2
 2584	1011	8	You must be at least level 90 to enter.	0	5	DUNGEON_DIFFICULTY1
+2587	1030	1		0	5	
+2588	1024	1		0	5	
+2589	1031	1		0	5	
+2590	1035	1		0	5	
+2591	1050	1		0	5	
+2592	1048	1		0	5	
+2595	1005	1		0	5	

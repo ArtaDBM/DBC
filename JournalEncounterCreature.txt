@@ -378,8 +378,8 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1270	666	40256	0	0	Lilian Voss	0
 1273	669	40339	0	0	Hoptallus	6122
 1275	671	41154	0	0	Brother Korloff	0
-1276	674	41220	0	607643	Commander Durand	0
-1277	674	2043	1	0	High Inquisitor Whitemane	0
+1276	674	41220	1	607643	Commander Durand	0
+1277	674	2043	0	0	High Inquisitor Whitemane	0
 1281	679	41232	2	0	Jade Quilen	0
 1282	679	41233	3	0	Jasper Quilen	0
 1283	679	41234	0	0	Amethyst Quilen	0
@@ -399,10 +399,7 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1313	689	41192	0	0	Feng the Accursed	0
 1315	690	41920	0	0	Gekkan	0
 1316	691	41448	0	0	Sha of Anger	0
-1318	693	27394	0	0	Vizier Jin\'bak	0
-1319	693	33011	1	0	Sap Globule	0
 1321	695	42101	0	608310	Dark Shaman Koranthal	0
-1324	698	41987	0	0	King Everything	0
 1326	660	42264	0	0	Houndmaster Braun	0
 1334	708	42058	0	0	Kuai the Brute	0
 1335	708	42059	1	0	Ming the Cunning	0
@@ -420,7 +417,7 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1383	726	41399	0	0	Elegon	0
 1385	725	42468	1	0	Chief Salyis	0
 1386	725	42439	0	0	Galleon	0
-1389	727	23941	0	0	Wing Leader Ner\'onok	0
+1389	727	43151	0	0	Wing Leader Ner\'onok	0
 1393	684	40322	0	0	Darkmaster Gandling	0
 1394	728	17725	0	607556	Blood Guard Porung	0
 1400	737	43126	0	0	Amber-Shaper Un\'sok	0
@@ -431,11 +428,8 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1405	713	42368	0	0	Garalon	0
 1407	738	42169	0	0	Commander Vo\'jak	0
 1412	729	42811	0	0	Lei Shi	0
-1413	729	20076	1	0	Animated Protector	0
 1415	741	42645	0	0	Wind Lord Mel\'jarak	0
-1416	742	42532	0	0	Nalomoni	0
 1417	743	42730	0	0	Grand Empress Shek\'zeer	0
-1420	744	26852	0	0	Armsmaster Ta\'yak	0
 1421	745	42807	0	0	Imperial Vizier Zor\'lok	0
 1422	655	43122	0	0	Saboteur Kip\'tilak	0
 1423	748	5285	0	607729	Obsidian Sentinel	0
@@ -449,3 +443,10 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1432	672	41125	0	0	Wise Mari	0
 1433	664	39506	0	0	Lorewalker Stonestep	0
 1434	335	43283	0	0	Sha of Doubt	0
+1435	698	41987	0	0	Xin the Weaponmaster	0
+1436	743	43158	1	0	Dynasty Warrior	0
+1437	743	43159	2	0	Empyreal General	0
+1439	693	43197	0	0	Vizier Jin\'bak	0
+1444	742	42532	0	0	Tsulong	7003
+1465	742	42533	1	0	Tsulong	7020
+1466	744	43141	0	0	Blade Lord Ta\'yak	0

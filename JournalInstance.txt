@@ -37,7 +37,7 @@ Heroes brave enough to infiltrate the brooding depths of the stronghold must con
 239	70	0	608225	608186	608264	175	Uldaman	NYI
 240	43	0	608229	608190	608313	180	Wailing Caverns	NYI
 241	209	0	608230	608191	608267	185	Zul\'Farrak	NYI
-246	1007	0	608215	608176	608254	620	Scholomance	PH
+246	1007	0	608215	608176	608254	620	Scholomance	Individuals seeking to master the powers of undeath know well of Scholomance, the infamous school of necromancy located in the dark and foreboding crypts beneath Caer Darrow. In recent years, several of the instructors have changed, but the institution remains under the control of Darkmaster Gandling, a particularly sadistic and insidious practitioner of necromantic magic.
 247	558	0	608193	608154	608232	205	Auchenai Crypts	NYI
 248	543	0	608207	608168	608246	210	Hellfire Ramparts	NYI
 249	585	0	608208	608169	608247	215	Magisters\' Terrace	NYI
@@ -70,15 +70,15 @@ Heroes brave enough to infiltrate the brooding depths of the stronghold must con
 284	650	0	608224	608185	608263	370	Trial of the Champion	NYI
 285	574	0	608226	608187	608265	375	Utgarde Keep	NYI
 286	575	0	608227	608188	608266	380	Utgarde Pinnacle	NYI
-302	961	0	521746	521743	527422	635	Stormstout Brewery	PH
-303	962	0	521746	521743	527422	601	Gate of the Setting Sun	PH
-311	1001	0	608214	608175	608253	610	Scarlet Halls	PH
+302	961	0	521746	521743	527422	635	Stormstout Brewery	When Chen Stormstout arrived in the Valley of the Four Winds, he journeyed to the renowned brewery of his namesake, hoping to connect with his relatives. What he found was his ancestral home in disarray. Under the watch of the incompetent Uncle Gao, loathsome virmen and unruly hozen have infiltrated the brewery, sparking a destructive revel that will soon devastate the region\'s supply of tasty beer.
+303	962	0	521746	521743	527422	601	Gate of the Setting Sun	For generations, a massive wall called the Serpent\'s Spine has protected the denizens of Pandaria from periodic assaults by the rampaging, insect-like mantid. This brutal race\'s cycle of aggression recently began earlier than expected, catching the wall\'s defenders off guard. As the mightiest mantid warriors charge the battle-worn gates, Pandaria must hold back the most devastating army in the land\'s recorded history.
+311	1001	0	608214	608175	608253	610	Scarlet Halls	The Crusade\'s fiercest warriors, those who have held their ground and fought to defend the monastery throughout these dark times, are rapidly preparing an army within the Scarlet Halls. These soldiers are bound by their hatred of the unliving, and they are willing to sacrifice everything for their order\'s righteous cause.
 312	959	0	521746	521743	527422	625	Shado-Pan Monastery	PH
-313	960	0	521746	521743	527422	640	Temple of the Jade Serpent	PH
-316	1004	0	608214	608175	608253	615	Scarlet Monastery	PH
-317	1008	0	521746	521743	527422	655	Mogu\'shan Vaults	PH
-320	996	0	521746	521743	527422	665	Terrace of Endless Spring	PH
-321	994	0	521746	521743	527422	605	Mogu\'shan Palace	PH
+313	960	0	521746	521743	527422	640	Temple of the Jade Serpent	Rising high above the east coast of Pandaria, the Temple of the Jade Serpent stands as a sacred monument to the legendary pandaren emperor Shao Hao\'s victory over the Sha of Doubt thousands of years ago. Recently, a disastrous conflict in the Jade Forest unleashed the sha, and several of the entities  have raided the temple\'s most treasured stores of wisdom and knowledge.
+316	1004	0	608214	608175	608253	615	Scarlet Monastery	The Crusade\'s fanatical leaders direct their followers from the Scarlet Cathedral, at the heart of the monastery grounds. This heavily guarded location functions as the order\'s headquarters, and some of the most zealous and intolerant crusaders roam the halls of this once-hallowed place.
+317	1008	0	521746	521743	527422	655	Mogu\'shan Vaults	The mogu, proud of their supremacy, kept lengthy records of their accomplishments within a great complex of vaults. Guarded by ferocious magical beings, these sacred chambers have remained silent since the mogu\'s departure.
+320	996	0	521746	521743	527422	665	Terrace of Endless Spring	Straddling the mountain range between the Jade Forest and the Vale of Eternal Blossoms, the Terrace of Endless Spring has been a sacred refuge for millennia. Its peaceful fountains are said to have the power to heal and rejuvenate, but when the Sha of Fear attacked, many of the complex\'s guardians turned on each other in fits of terror.
+321	994	0	521746	521743	527422	605	Mogu\'shan Palace	The ancient Mogu\'shan Palace is the last true bastion of the mogu\'s strength. Three of their great clans recently gathered at this stunning location to meet with their king, Xin the Weaponmaster. This mighty ruler has formulated a bold plan to unite his scattered people and reclaim the glory of their fallen empire. With turmoil gripping Pandaria, Xin\'s lofty dream of conquest could become reality.
 322	996	0	521746	521743	527422	660	Pandaria	PH
-324	1011	0	521746	521743	527422	630	Siege of Niuzao Temple	PH
+324	1011	0	521746	521743	527422	630	Siege of Niuzao Temple	Niuzao Temple extends across two fortified islands far beyond a towering wall called the Serpent\'s Spine. For years, tenacious pandaren defenders have protected the narrow bridges connecting the isles, staving off any would-be invaders. Yet recently, the mantid created their own bridge--a massive tree root--and seized one of the islands by surprise. Now, these brutal insectoids are poised to assault Niuzao\'s remaining guardians.
 330	1009	0	521746	521743	527422	650	Heart of Fear	PH

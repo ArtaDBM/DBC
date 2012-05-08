@@ -314,14 +314,14 @@ Temple of Kotmogu is a 10 vs 10 powerball battleground where each side attempts 
 1014	MonkAreaScenario	1	9453149	1	Scenario: Peak of Serenity	0			-1	1	NaN	0	0	-1	4	0	0	-1
 1019	RuinsOfTheramore	0	15965	1	Ruins of Theramore	0			3	1	NaN	0	0	-1	4	0	0	1
 1024	PandaFishingVillageScenario	1	8404573	1	Scenario: Greenstone Village	0			-1	1	NaN	0	0	-1	4	0	0	-1
-1028	MoguRuinsScenario	1	8404573	1	(UNUSED) Scenario: Mogu Ruins	0			-1	1	NaN	0	0	-1	4	0	0	-1
-1029	AncientMoguCryptScenario	1	8396317	1	(UNUSED) Scenario: Mogu Crypt	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1028	MoguRuinsScenario	5	8404573	1	(UNUSED) Scenario: Mogu Ruins	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1029	AncientMoguCryptScenario	5	8396317	1	(UNUSED) Scenario: Mogu Crypt	0			-1	1	NaN	0	0	-1	4	0	0	-1
 1030	AncientMoguCyptDestroyedScenario	1	7709	1	Scenario: Crypt of Forgotten Kings	0			-1	1	NaN	0	0	-1	4	0	0	-1
 1031	ProvingGroundsScenario	1	8396381	1	Scenario: Proving Grounds	0			0	1	NaN	0	0	-1	4	0	0	-1
 1032	PetBattleJadeForest	1	8404573	1	Pet Battle - Jade Forest	0			-1	1	NaN	0	0	-1	4	0	0	-1
 1035	ValleyOfPowerScenario	1	8396381	1	Scenario: Temple of Katmogu	0			-1	1	NaN	0	0	-1	4	0	0	-1
-1043	RingOfValorScenario	0	7773	1	Hellscream Arena	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1043	RingOfValorScenario	5	7773	1	Hellscream Arena	0			-1	1	NaN	0	0	-1	4	0	0	-1
 1048	BrewmasterScenario03	1	8404573	1	Scenario: Unga Ingoo	0			-1	1	NaN	0	0	-1	4	0	0	-1
-1049	BlackOxTempleScenario	1	8404573	1	(UNUSED) Scenario: Black Ox Temple	0			-1	1	NaN	0	0	-1	4	0	0	-1
-1050	ScenarioKlaxxiIsland	1	8404573	1	Scenario: Tyr\'vess	0			-1	1	NaN	0	0	-1	4	0	0	-1
-1051	ScenarioBrewmaster04	1	8404573	1	Scenario: Brewmoon Festival	0			-1	1	NaN	0	0	0	4	0	0	-1
+1049	BlackOxTempleScenario	5	8404573	1	(UNUSED) Scenario: Black Ox Temple	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1050	ScenarioKlaxxiIsland	1	8404573	1	Scenario: Assault on Zan\'vess	0			-1	1	NaN	0	0	720	4	0	0	-1
+1051	ScenarioBrewmaster04	5	8404573	1	Scenario: Brewmoon Festival	0			-1	1	NaN	0	0	0	4	0	0	-1

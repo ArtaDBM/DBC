@@ -97,7 +97,7 @@ As a master of fiendish magic and recipient of the satyr curse, Peroth\'arn stan
 331	0	824	0.500329	0.45809	4247	187	5	-1	Ultraxion	More an abomination of dark energy than a dragon, Ultraxion has spent his short life absorbing the essence of captured nether dragons. Ultraxion is the only twilight dragon Deathwing has praised, and his arrogance is overshadowed only by the crackling energies surging through his twisted form. Loyal to his master, Ultraxion swears to bring about the fall of Wyrmrest Temple.
 332	512	824	0.481521	0.171771	4027	187	6	-1	Warmaster Blackhorn	Though once vast in number, only a few dozen twilight dragons now remain. Astride these hardened survivors are the last vestiges of the Twilight\'s Hammer\'s army: the elite drake riders of Deathwing\'s personal escort. Led by the insidious Warmaster Blackhorn, they move with unholy purpose, driven to protect their dark master.
 333	514	824	0.478702	0.538485	4040	187	8	-1	Madness of Deathwing	A warped mass of molten hatred and unfathomable power, this formless, mindless horror cannot be stopped. Whatever was left of Neltharion the Earth-Warder is long gone, his mind and soul corrupted and devoured by his Old God masters. All this monstrous being desires is destruction, annihilation, and the end of all things.
-335	633	867	0.60893	0.590663	4072	313	4	-1	Sha of Doubt	PH
+335	633	867	0.60893	0.590663	4072	313	4	-1	Sha of Doubt	The physical manifestation of suspicion was trapped in the Jade Forest after Emperor Shao Hao defeated the entity 10,000 years ago. The Sha of Doubt then grew obsessed with the Jade Serpent--Yu\'lon, the Spirit of Wisdom and Foresight--and now delights in the thought of corrupting her home.
 339	252	752	0.479042	0.179641	4120	75	3	-17	Alizabal, Mistress of Hate	The Kirin Tor imprisoned Alizabal in their formidable Violet Hold not long after corrupt magi summoned the shivarra into Azeroth. Despite arcane wards restricting her powers, the demon\'s malicious influence alone caused her guards to murder one another in sudden fits of rage. Her transfer to Baradin Hold prior to the Cataclysm has only aggravated the ruined prison\'s increasingly dire conditions.
 340	497	820	0.367197	0.530952	4138	184	1	-1	Echo of Baine	Enraged by his failure to protect the world and, most importantly, the Horde, this time-ravaged shade of Baine Bloodhoof lingers within the ruins of the Obsidian Dragonshrine. Although he\'s still as powerful as the tauren high chieftain from the present, within this shattered future Azeroth, this guilt-ridden echo is little more than a discordant vessel of unquenchable malice and anger.
 341	502	819	0.473824	0.513754	4150	186	3	-1	Archbishop Benedictus	Archbishop Benedictus is the revered leader of the Church of the Holy Light. For years, his wise guidance has been instrumental in seeing humanity through bleak times. Yet beneath his apparent benevolence lies the shocking truth that Benedictus has pledged himself to the eradication of all life on Azeroth through the agency of his dark master... Deathwing.
@@ -340,62 +340,70 @@ Alzzin the Wildshaper begins the encounter in Satyr form but can change his form
 642	40	524	0.606558	0.688525	0	286	2	-1	Gortok Palehoof (needs abilities)	nyi
 643	40	524	0.684426	0.362705	0	286	3	-1	Skadi the Ruthless (needs abilities)	nyi
 644	40	524	0.415301	0.534836	0	286	4	-1	King Ymiron (needs abilities)	nyi
-649	649	875	0.441137	0.606901	5034	303	4	-1	Raigonn	PH
-654	640	871	0.618823	0.447748	5376	311	2	-1	Armsmaster Harlan	PH
-655	649	875	0.461435	0.878891	5390	303	1	-1	Saboteur Kip\'tilak	PH
-656	640	871	0.393775	0.156292	5395	311	2	-1	Flameweaver Koegler	Ashamed of their past, the Scarlet Crusade has tasked Flameweaver Koegler to erase any past transgressions of the Crusade, which involves burning the pages of history.
+649	649	875	0.441137	0.606901	5034	303	4	-1	Raigonn	This colossal mantid spearheads the assault against the gates. Acting as a living battering ram, Raigonn mercilessly hammers the pandaren defenses, seeking to decimate any and all obstacles barring the mantid\'s ruthless invasion of Pandaria.
+654	640	871	0.618823	0.447748	5376	311	2	-1	Armsmaster Harlan	The weapons of the Scarlet Crusade are many, and new initiates must be indoctrinated in the use of blade, hammer, arrow, and shield--effective tools against the undead. Armsmaster Harlan has dedicated his life to the art of wielding these indelicate instruments, and he is pleased to provide a demonstration for the Crusade\'s blasphemous enemies.
+655	649	875	0.461435	0.878891	5390	303	1	-1	Saboteur Kip\'tilak	The mantid are no strangers to warfare, using technology to turn the tide of battle. The pandaren stand little chance against munitions experts such as Kip\'tilak, who strike deep behind enemy lines and threaten to destroy the already weakening fortifications from within.
+656	640	871	0.393775	0.156292	5395	311	2	-1	Flameweaver Koegler	Flameweaver Koegler trains the Scarlet Crusade\'s more magically minded adepts in the subtle applications of the arcane. Fire is his specialty, and he has used his skills to burn the order\'s historical tomes, erasing the Crusade\'s past failures. Apart from books, Koegler\'s flames have rendered many--undead, students, and trespassers alike--into piles of smoking ash.
 657	652	877	0.239513	0.259811	5435	312	2	-1	Master Snowdrift	PH
-658	633	867	0.480379	0.5318	5501	313	3	-1	Liu Flameheart	PH
-659	151	763	0.652879	0.604144	5524	246	1	-1	Instructor Chillheart	
-660	639	871	0.548038	0.288227	5606	311	1	-1	Houndmaster Braun	PH
-663	152	763	0.599743	0.1831	5532	246	2	3	Jandice Barov	PH After years of being ignored in the basement of Scholomance, Jandice has returned. She has been doing quite a bit of study in the field of Arcana.
-664	633	867	0.261164	0.751015	5536	313	2	3	Lorewalker Stonestep	The Sha have infested the library of the Temple of the Jade Serpent. They have taken form of the various characters of Pandaren lore. You must defeat them in order to bring peace to the ancient library.
-665	152	763	0.484438	0.26184	5552	246	3	3	Rattlegore	PH
-666	152	763	0.518268	0.470907	5558	246	4	3	Lilian Voss	PH
-668	636	876	0.55751	0.491204	5586	302	1	3	Ook-Ook	PH
-669	637	876	0.38295	0.456698	5590	302	2	3	Hoptallus	PH
-670	638	876	0.488498	0.517592	5595	302	3	3	Yan-Zhu the Uncasked	PH
-671	648	874	0.493976	0.524096	5600	316	2	-1	Brother Korloff	
-672	633	867	0.445196	0.192828	5612	313	1	-1	Wise Mari	PH
+658	633	867	0.480379	0.5318	5501	313	3	-1	Liu Flameheart	Since she was a cub, the priestess Liu Flameheart has studied the cycle of rebirth for the Jade Serpent, Yu\'lon. When the Sha of Doubt attacked, Liu was the first to resist, but she was also the first to succumb to corruption. Now she is consumed with uncertainty, fearing she may not have the strength to ensure Yu\'lon\'s rebirth.
+659	151	763	0.652879	0.604144	5524	246	1	-1	Instructor Chillheart	"Course: Introduction to the Dark Arts
+
+Instructor Chillheart journeyed from Northrend to teach aspiring necromancers discipline, harshly punishing those who disappoint her. She commands the icy chill of the north and masterfully uses Scholomance\'s libraries to deadly effect."
+660	639	871	0.548038	0.288227	5606	311	1	-1	Houndmaster Braun	The quickest and surest way to detect the undead is by the scent of rot they carry, and even the most veteran soldier cannot match the olfactory sense of a hound. Houndmaster Braun has bred and trained a savage pack of canines to aid the crusaders in hunting down their foe--living and undead.
+663	152	763	0.599743	0.1831	5532	246	2	3	Jandice Barov	"Course: Advanced Illusions
+
+Barov\'s spirit lurked in the recesses of Scholomance for years, but now she has taken a more active role in educating the next generation of magi. Her vast knowledge of illusions has made her both a valued educator and a dangerous opponent to anyone foolish enough to draw her ire."
+664	633	867	0.261164	0.751015	5536	313	2	3	Lorewalker Stonestep	The Sha of Doubt\'s minions gleefully invaded the Temple of the Jade Serpent\'s library, creating twisted, destructive versions of heroes and other characters of pandaren lore. Despite his best efforts, Lorewalker Stonestep has been unable to restore these manifestations of the past to their uncorrupted forms.
+665	152	763	0.484438	0.26184	5552	246	3	3	Rattlegore	"Course: Reanimation 101
+
+Rattlegore was thought to have been destroyed in Andorhal, but Gandling immediately began preparations to reanimate the clattering terror so he could guard against intruders. The darkmaster sought to make Rattlegore more ferocious than ever, imbuing him with an insatiable desire to harvest raw materials from his enemies."
+666	152	763	0.518268	0.470907	5558	246	4	3	Lilian Voss	"Course: Reeducation
+
+The undead Lilian Voss strangled her father--a high priest of the Scarlet Crusade--for treachery, and then started a rampage that eventually led her into the shadowy corridors of Scholomance. Rather than destroy the intruder, Darkmaster Gandling graciously decided to show Voss how to embrace her grim fate. The anger and runeblades she had once directed at the school are now turned toward Gandling\'s enemies."
+668	636	876	0.55751	0.491204	5586	302	1	3	Ook-Ook	Even for a hozen, Ook-Ook has a reputation for being uncouth and raucous. The monstrous creature and his cronies recently broke into the Stormstout Brewery and cracked open its precious beer casks to throw the greatest party of all time: the Ookfest.
+669	637	876	0.38295	0.456698	5590	302	2	3	Hoptallus	Hoptallus is the bane of farmers throughout the Valley of the Four Winds-a virmen of mythic proportions that can consume entire fields of crops in a single night. Word has spread that the giant pest and his offspring have infested the brewery and begun devouring its stores of rice and barley.
+670	638	876	0.488498	0.517592	5595	302	3	3	Yan-Zhu the Uncasked	In a desperate attempt to save the family brewery, Uncle Gao set about concocting what he believed would be the ultimate ale, a full-bodied elixir of depthless flavor. Yet his bold experiment resulted in a bitter and extremely volatile alemental creature, dubbed Yan-Zhu the Uncasked.
+671	648	874	0.493976	0.524096	5600	316	2	-1	Brother Korloff	Brother Korloff first learned of the monk\'s deadly arts from pandaren ambassadors as they journeyed through Azeroth. When the crusader demonstrated this martial style to his superiors, they unanimously ordered Korloff to train an entire generation of initiates in the ways of the monk.
+672	633	867	0.445196	0.192828	5612	313	1	-1	Wise Mari	The revered jinyu waterspeaker Wise Mari has found knowledge and foresight countless times in the Fountain of the Everseeing. But when the Sha of Doubt corrupted the familiar currents, Mari was overwhelmed with limitless distrust and suspicion.
 673	651	877	0.450609	0.243572	5621	312	1	-1	Gu Cloudstrike	PH
-674	648	874	0.490964	0.804217	5635	316	3	3	High Inquisitor Whitemane	PH
-675	650	875	0.491204	0.271989	5642	303	2	-1	Striker Ga\'dok	PH
-676	649	875	0.462787	0.237483	5666	303	3	-1	Commander Ri\'mok	PH
-677	110	604	0.500329	0.45809	5670	317	6	-1	Will of the Emperor	PH
-679	132	754	0.2455094	0.7020959	5691	317	1	-1	The Stone Guard	PH
-682	132	754	0.2455094	0.7020959	5742	317	3	-1	Gara\'jal the Spiritbinder	PH
-683	0	886	0.7659	0.489175	5818	320	1	-1	Protectors of the Endless	PH
-684	154	763	0.502029	0.324763	5795	246	5	3	Darkmaster Gandling	The Darkmaster attacks players with Incinerate and Immolate and periodically assigns one a Harsh Lesson, sending the player to a side room to fight Expired Test Subjects. When a tank or healer is sent, Gandling channels Rise!
+674	648	874	0.490964	0.804217	5635	316	3	3	High Inquisitor Whitemane	At a young age, Sally Whitemane witnessed her family succumb to the horrific plague of undeath as they were traveling through northern Lordaeron. She was then forced to destroy her parents and siblings when they rose as mindless Scourge minions, leaving her racked by guilt and rage. Ever since that day, the fearsome priestess has found fulfillment and pleasure in only one thing: the destruction of undead.
+675	650	875	0.491204	0.271989	5642	303	2	-1	Striker Ga\'dok	The strikers are an aerial component of the mantid empire\'s massive army. Among them are seasoned aces such as Ga\'dok. Able to singlehandedly rain fiery devastation upon scores of enemies, Ga\'dok and his minions seek to bring death from above to the gates\' defenders.
+676	649	875	0.462787	0.237483	5666	303	3	-1	Commander Ri\'mok	Commander Ri\'mok oversees the mantid ground forces relentlessly besieging the towering gates. Unimpressed by the defenders, Ri\'mok calls upon countless reinforcements to vanquish those foolish enough to stand in his way.
+677	110	604	0.500329	0.45809	5670	317	6	-1	Will of the Emperor	The core chamber of the vaults is protected by stone soldiers who have been motionless for centuries. They are row upon row of warriors, statues armed for a battle that never began. What treasures do they guard? And what is their tie to the titanic power buried with them here in the shadows?
+679	132	754	0.2455094	0.7020959	5691	317	1	-1	The Stone Guard	The first line of defense against those daring to enter the vaults is a stolid row of enchanted, bestial statues. Hard as granite and ceaseless in their vigil, the sentries of the Stone Guard present an insurmountable wall of flame, fangs, and claws.
+682	132	754	0.2455094	0.7020959	5742	317	3	-1	Gara\'jal the Spiritbinder	Leader of the Zandalar trolls\' assault on the vaults, Gara\'jal is determined to crack open this trove of ancient mystery and bring back whatever arcane power and knowledge he can find. Gifted with dark talents and surrounded by a loyal cadre of Zandalar mystics, he has broken through the outer walls and will not rest until the vaults belong to him.
+683	0	886	0.7659	0.489175	5818	320	1	-1	Protectors of the Endless	When the Sha of Fear invaded the Terrace of Endless Spring, three venerated jinyu protectors were corrupted, and they betrayed the other mortal sentinels, slaying them all. The twisted guardians have now turned their attention to any intruders who might interrupt the sha\'s  attack on the area\'s last defenses.
+684	154	763	0.502029	0.324763	5795	246	5	3	Darkmaster Gandling	"Course: Advanced Studies
+
+The recent defeat in Andorhal has put Darkmaster Gandling in the foulest of moods. More than ever, all students of Scholomance are advised to impress him at every turn. Pupils who dissatisfy the headmaster will be removed from class to perform lab work... or become lab work."
 685	653	877	0.474966	0.608931	5810	312	3	3	Sha of Violence	PH
 686	0	877	0.721245	0.474967	5827	312	4	-1	Taran Zhu	PH
 687	191	766	0	0	5835	317	4	-1	The Spirit Kings	PH
-688	641	874	0.262048	0.456325	5862	316	1	-1	Thalnos the Soulrender	PH
-689	191	766	0	0	5871	317	2	-1	Feng the Accursed	PH
-690	655	885	0.447903	0.759134	5911	321	2	-1	Gekkan	[PH] Leader of the Glintrok clan, Gekkan is an expert at rallying his subordinates and never travels without an entourage.
+688	641	874	0.262048	0.456325	5862	316	1	-1	Thalnos the Soulrender	"Thalnos earned repute in the Scarlet Crusade for the brutal torture methods he used to \purify\"" new recruits. Ultimately, the sadistic mage contracted the plague of undeath and arose as a fearsome skeletal being. The vengeful Thalnos now prowls the monastery\'s graveyard, commanding apparitions and zombified creatures to attack anyone who trespasses on his unholy domain."""
+689	191	766	0	0	5871	317	2	-1	Feng the Accursed	Long ago, Feng Shri was the Mogu\'shan Vaults\' caretaker, tasked with preserving the treasures kept within these shadowy halls. After years of faithful service, he was caught stealing from the shelves�although some say he was framed by a jealous underling�and the mogu ruler punished him with a fatal curse. The doomed spirit of Feng Shri has wandered the vaults ever since, communing with the shades of past mogu heroes and warlords.
+690	655	885	0.447903	0.759134	5911	321	2	-1	Gekkan	As the mogu clans battle for supremacy, the cunning Gekkan leads his fearsome saurok raiding party into the palace\'s fabled treasure caches. Loyalty is not usually ascribed to these ruthless reptilian beings, but Gekkan\'s courage and tactical brilliance inspire a sense of honor in his soldiers.
 691	0	809	0.676254	0.746318	5937	322	1	-1	Sha of Anger	PH
-692	191	766	0	0	5955	324	3	-1	General Pa\'valak	
-693	191	766	0	0	5957	324	1	-1	Vizier Jin\'bak	PH
+692	191	766	0	0	5955	324	3	-1	General Pa\'valak	The pragmatic General Pa\'valak does not fear the pandaren or their allies, and he does not differentiate between using his own might and that of his mantid armies to defeat his enemies. Victory is the only honor he seeks, and Pa\'valak will not tolerate failure should his minions fall short of their goal.
+693	191	766	0	0	5957	324	1	-1	Vizier Jin\'bak	Vizier Jin\'bak roams just beyond the mantid\'s natural bridge, collecting the tree root\'s precious sap. Using his vast alchemical knowledge, this formidable being is transforming the substance into weapons and other tools that will help advance the siege on Niuzao Temple.
 694	136	680	0.69273	0.650206	5961	226	1	-1	Adarogg	nyi
 695	136	680	0.540467	0.300412	5963	226	2	-1	Dark Shaman Koranthal	nyi
 696	136	680	0.40878	0.574074	5965	226	3	-1	Slagmaw	nyi
 697	136	680	0.342936	0.816872	5967	226	4	-1	Lava Guard Gordoth	nyi
-698	656	885	0.402832	0.861004	5970	321	3	3	Xin the Weaponmaster	PH
-708	654	885	0.401895	0.70433	6015	321	0	-1	Trial of the King	PH
-709	0	886	0.308525	0.493234	6086	320	4	-1	Sha of Fear	"*Face your fears in up to 3 epic battles!
-*Become the Champion of the Light!
-*Waffles not included."
-713	0	747	0.819691	0.45809	6122	330	4	-1	Garalon	[PH] LOL LOOK AT HIS TINY WINGS
-725	0	807	0.716849	0.644829	6141	322	1	-1	Salyis\' Warband	[PH] What if we just put cannons on everything?
-726	191	766	0	0	6171	317	5	-1	Elegon	PH
-727	191	766	0	0	6204	324	4	-1	Wing Leader Ner\'onok	PH
+698	656	885	0.402832	0.861004	5970	321	3	3	Xin the Weaponmaster	The title of weaponmaster has many definitions among Azeroth\'s inhabitants. To Xin, it means that mogu weaponry obeys his every command. The king is more than willing to demonstrate his deadly skills to anyone who questions his right to rule Pandaria.
+708	654	885	0.401895	0.70433	6015	321	0	-1	Trial of the King	Ming the Cunning, Kuai the Brute, and Haiyan the Unstoppable have journeyed to the palace with their clans, vying to prove their worth to their king. Yet these mogu factions are plagued with bitter rivalries. Violence threatens to flood the palatial grounds unless the bickering clans can find a way to test their strength without coming to blows with one another.
+709	0	886	0.308525	0.493234	6086	320	4	-1	Sha of Fear	The Sha of Fear is the physical manifestation of terror in Pandaria. Imprisoned by the legendary pandaren emperor Shao Hao long ago, the entity has been newly strengthened by rising conflict across the island.
+713	0	747	0.819691	0.45809	6122	330	3	-1	Garalon	PH
+725	0	807	0.716849	0.644829	6141	322	1	-1	Salyis\'s Warband	The ruthless saurok roam Pandaria, stealing what they can and harassing the island\'s other inhabitants. The most infamous of these reptilian pillagers are Chief Salyis and his warband. For years, the saurok commander and his raiders have stormed through the Valley of the Four Winds atop Galleon, a colossal and well-armed mushan that is more a moving fortress than a simple mount.
+726	191	766	0	0	6171	317	5	-1	Elegon	Dedicated to the advancement of their empire, the mogu salvaged and repurposed titan technology to generate untold power in the depths of this ancient complex. Why these energies have been focused into the cold will of a celestial dragon is a mystery that lies at the very heart of the vaults.
+727	191	766	0	0	6477	324	4	-1	Wing Leader Ner\'onok	Wing Leader Ner\'onok\'s decisive blows have won a hundred battles. The small gains General Pa\'valak has made are nothing compared to the victory Ner\'onok believes he could achieve if he were in command. Although his aerial attacks have thus far devastated the temple\'s guardians, the winged terror still longs for a chance to prove his superiority over the general.
 728	222	710	0.296846	0.146568	6216	259	2	-1	Blood Guard Porung	nyi
-729	0	886	0.538566	0.493234	6219	320	3	-1	Lei Shi	Lei Shi casts Spray instead of attacking normally. She periodically casts Hide and Get Away! At specific health values she casts Protect and summons Animated Protectors to defend her.
-737	191	766	0	0	6243	330	5	-1	Amber-Shaper Un\'sok	Mantid vivimancer [PH]
-738	191	766	0	0	6274	324	2	-1	Commander Vo\'jak	A veteran of the mantid army, Commander Vo\'jak stands defending the rear of the siege. PH
-741	191	766	0	0	6328	330	4	-1	Wind Lord Mel\'jarak	nyi
-742	0	886	0.690121	0.493234	6310	320	2	-1	Nalomoni	PH
-743	191	766	0	0	6336	330	6	-1	Grand Empress Shek\'zeer	PH - Not Complete
-744	191	766	0	0	6345	330	0	-1	Blade Lord Ta\'yak	The martial grandmaster of the Mantid empire, he has no equal with the blade. His role is now to teach young mantid warriors the combat arts of the Mantid. He truly enjoys matching blades with opponents, and has a very odd and even temper. He�s the kind of opponent that analyzes and determines the weakness of an opponent, and only then strikes. He�s very patient, doesn�t fluster, and waits for the perfect opportunity.
-745	191	766	0	0	6424	330	1	-1	Imperial Vizier Zor\'lok	Not just a fanclub member, the fanclub _president_
+729	0	886	0.538566	0.493234	6493	320	3	-1	Lei Shi	For countless years, this friendly water spirit frolicked in the Fountains of Endless Spring with childlike wonder and glee. When fighting suddenly broke out in this peaceful place, Lei Shi saw the crystal-clear water turn cloudy and murky, and terror fell over her mind.
+737	191	766	0	0	6243	330	5	-1	Amber-Shaper Un\'sok	PH
+738	191	766	0	0	6274	324	2	-1	Commander Vo\'jak	"What Commander Vo\'jak lacks in strategic brilliance, he makes up for with raw ferocity. His devastating strikes were crucial to the mantid\'s exploitation of their insidious bridge, allowing them to infiltrate the island. Yet devising battle plans is for the mantid general; Vo\'jak craves only blood."
+741	191	766	0	0	6328	330	4	-1	Wind Lord Mel\'jarak	PH
+742	0	886	0.690121	0.493234	6310	320	2	-1	Tsulong	Legends speak of a spiraling, golden serpent that can sometimes be seen high in the sky, basking in the sunlight above the clouds. The few who claim to have observed it themselves say the creature is fiercely protective of the terrace.
+743	191	766	0	0	6336	330	6	-1	Grand Empress Shek\'zeer	PH
+744	191	766	0	0	6345	330	2	-1	Blade Lord Ta\'yak	PH
+745	191	766	0	0	6424	330	1	-1	Imperial Vizier Zor\'lok	PH
 748	171	692	0.289425	0.597403	6448	239	4	-1	Obsidian Sentinel	nyi
 749	155	765	0.29932	0.411874	6452	236	3	-1	Commander Malor	
