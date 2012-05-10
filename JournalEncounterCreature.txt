@@ -444,8 +444,6 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1433	664	39506	0	0	Lorewalker Stonestep	0
 1434	335	43283	0	0	Sha of Doubt	0
 1435	698	41987	0	0	Xin the Weaponmaster	0
-1436	743	43158	1	0	Dynasty Warrior	0
-1437	743	43159	2	0	Empyreal General	0
 1439	693	43197	0	0	Vizier Jin\'bak	0
 1444	742	42532	0	0	Tsulong	7003
 1465	742	42533	1	0	Tsulong	7020

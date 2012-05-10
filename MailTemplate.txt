@@ -214,6 +214,8 @@ New Avalon, Scarlet Lands
 263	It\'s Time to Pity Some Fools!	Get out there and spread some Mohawk Love.
 264	You got Manabonked!	"Hey there $n,
    Remember when you got sheeped in Dalaran?  Yeah, that was me, Minigob Manabonk!  I just wanted to send you a letter to let you know who sheeped you.  Also, because you were such a good sport about it I\'m sending you a wand of my own.  Now you can \Manabonk\"" your friends.  When you do, tell them \""Minigob Manabonk sent you.\"""
+		
+"- Minigob Manabonk"""		
 265	The Argent Tournament	The Argent Crusade invites you to test your skills in honorable combat against other heroes of Azeroth at the Argent Tournament. The champions of the world\'s great nations have gathered at the Argent Tournament Grounds in northeastern Icecrown to face all challengers.
 266	Congratulations!	On behalf of the Steamwheedle Fighting Circuit, we congratulate you for your successes in this arena season.$B$BIn recognition of your skill and savagery, we hereby bestow upon you this Deadly Gladiator\'s Frost Wyrm.  May it serve you well.
 267	Congratulations!	On behalf of the Steamwheedle Fighting Circuit, we congratulate you for your successes in this arena season.$B$BIn recognition of your skill and savagery, we hereby bestow upon you this Furious Gladiator\'s Frost Wyrm.  May it serve you well.
@@ -308,4 +310,4 @@ We\'ve supplied you with a whole new set of high-level gear, but attached you\'l
 365	Time For a Celebration!	Yo, $n!$B$BSince we\'re neighbors now, I thought it was right to celebrate!$B$BCome on down to the Halfhill Market anytime and take a load off!$B$BI\'ll even let you shoot off these fireworks at the market. Just don\'t set anything on fire, like Chee Chee did that one time...$B$BAnyways, see you soon!$B$BYour neighbor,$B$BGina Mudclaw$B$BHalfhill Market: The best local market with the best local prices!
 366	My Captured Pet	"TEMP TEXT!!
 I didn\'t have room for this pet in my journal and my bags were all full, so I mailed it to myself!"
-"- Minigob Manabonk"""		
+367	Congratulations!	On behalf of the Steamwheedle Fighting Circuit, we congratulate you for your successes in this arena season.$B$BIn recognition of your skill and savagery, we hereby bestow upon you this Cataclysmic Gladiator\'s Twilight Drake.  May it serve you well.

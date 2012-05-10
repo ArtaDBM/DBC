@@ -1910,7 +1910,7 @@ Burning Spirit increases the damage of Ambassador Flamelash by $14744s1% and inc
 4502	379	4503	0	0	2	2	3	0	Shock	Golem Lord Argelmach inflicts Nature damage to a player.	3	0	136115
 4503	379	0	0	0	3	2	3	128	Lightning Shield	Golem Lord Argelmach surrounds himself with $15507n balls of lightning.  There is a $15507h% chance that the Lightning Shield will retailate against any attack players make. When retaliating, the Lightning Shield inflicts Nature damage and consumes one ball of lightning.  The Lightning Shield persists until all the balls of lightning are consumed.	3	0	136051
 4504	381	4505	0	0	1	2	3	0	Mighty Blow	Phalanx inflicts Physical damage to a player and knocks them back.	3	0	132939
-4505	381	4506	0	0	2	2	3	0	Thunderclap	Phalanx inflicts Nature damage to all players within $15588a1 yards.  Thunderclap slows the melee attack speed of all players it hits by $15588s3% and reduces their movement speed for $15588d.	3	0	136105
+4505	381	4506	0	0	2	2	3	0	Thunderclap	Phalanx inflicts Nature damage to all players within $15588a1 yards.  Thunderclap slows the melee attack speed of all players it hits by $15588s3% and reduces their movement speed by 57% for $15588d.	3	0	136105
 4506	381	0	0	0	3	2	3	0	Fireball Volley	Phalanx inflicts Fire damage to all players within $15285a1 yards.	3	0	135812
 4507	325	0	0	3981	8	1	2	0	Mana Void	A Mana Void leeches all the mana from every ranged spell caster and healer, storing the mana within itself. Destroying the Mana Void evenly returns the total of the leeched mana via Mana Diffusion to players within $110742A1 yards.	-16	0	0
 4508	378	4509	0	0	1	2	2	0	Sunder Armor	General Angerforge reduces the armor of a player for $15572d, increasing the physical damage they take.	3	0	132363
@@ -1955,7 +1955,7 @@ Burning Spirit increases the damage of Ambassador Flamelash by $14744s1% and inc
 4547	372	0	4566	0	1	0	3	0	You Shall be Judged!	High Justice Grimstone sentences players to death in the Ring of Law.  Players must face randomly selected monsters and defeat them to proceed.	3	0	0
 4548	372	4555	4549	4566	3	1	2	0	Burrowing Thundersnout		3	8184	0
 4549	372	4550	0	4548	4	2	2	64	Lizard Bolt	The Burrowing Thundersnout inflicts Nature damage to a player.	3	0	136048
-4550	372	4551	0	4548	5	2	2	0	Thunderclap	The Burrowing Thundersnout inflicts Nature damage to all players within $15548a1 yards.  Thunderclap reduces the melee attack speed of players by $15548s3% and their movement speed by 33% for $15548d.	3	0	136105
+4550	372	4551	0	4548	5	2	2	0	Thunderclap	The Burrowing Thundersnout inflicts Nature damage to all players within $15548a1 yards.  Thunderclap reduces the melee attack speed of players by $15548s3% and their movement speed by 55% for $15548d.	3	0	136105
 4551	372	0	0	4548	6	2	2	128	Disjunction	The Burrowing Thundersnout affects players within $14533a1 yards with Disjunction. Disjunction increases the Fire, Frost, and Arcane damage taken by the player by $14533s1% for $14533d.	3	0	135990
 4552	392	4553	0	0	1	2	1	0	Intimidating Roar	Urok Doomhowl roars, causing all players within $16508A2 yards to flee in fear for $16508d.	-1	0	132154
 4553	392	4554	0	0	2	2	1	0	Rend	Urok Doomhowl rends his current target, inflicting Physical damage every $16509t1 seconds.	-1	0	132155
@@ -2168,7 +2168,7 @@ Burning Spirit increases the damage of Ambassador Flamelash by $14744s1% and inc
 4760	431	4761	0	0	2	2	0	0	Repulsive Gaze	Princess Theradras gazes at her current target, fearing all players within $21869A1 yards for $21869d.	-1	0	132154
 4761	431	4762	0	0	3	2	0	0	Boulder	Princess Theradras hurls a boulder at a random player, inflicting Physical damage, interrupting casting and stunning them for $22592d.	-1	0	132324
 4762	431	0	0	0	4	2	0	0	Dust Field	Princess Theadras shakes the ground, inflicting Nature damage to all players within $21868A1 yards, knocking them back.	-1	0	136018
-4763	432	4764	0	0	1	2	0	0	Thrash	Tuten\'kash thrashes, attacking 2 additional time.	-1	0	132152
+4763	432	4764	0	0	1	2	0	0	Thrash	Tuten\'kash thrashes, attacking 2 additional times.	-1	0	132152
 4764	432	4765	0	0	2	2	0	512	Virulent Poison	Tuten\'kash\'s melee attacks have a chance to poison his current target, inflicting 11 Nature damage every $12251t1 seconds for $12251d.	-1	0	136016
 4765	432	4766	0	0	3	2	0	0	Web Spray	Tuten\'kash sprays web, immobilizing all players in front of him for $12252d.	-1	0	132149
 4766	432	0	0	0	4	2	0	256	Curse of Tuten\'kash	Tuten\'kash curses all players within $12255A1 yards, reducing their casting speed by $12255s1% and increasing the time between their attacks by $12255s2% for $12255d.	-1	0	136020
@@ -2758,12 +2758,12 @@ The Swarm also inflicts $111644s1 damage every $111643t1 sec. to enemies within 
 5373	556	5374	0	5372	7	2	0	0	Slime Spray	Broggok sprays slime, inflicting $30913s1 Nature damage to all players in front of him.	-1	0	136007
 5374	556	5375	0	5372	8	2	0	0	Poison Cloud	Broggok creates a poison cloud beneath him. The poison cloud grows in size over time and inflicts Nature damage to all players in it.	-1	0	136006
 5375	556	0	0	5372	9	2	0	512	Poison Bolt	Broggok shoots poison at a player, inflicting Nature damage, then additional Nature damage every $30917t2 seconds for $30917d.	-1	0	136016
-5376	654	5377	0	0	1	2	0	48	Blades of Light	Harlan jumps into the center of the room and begins to spin rapidly with his axe. While spinning, Harlan inflicts Physical damage to all targets within the range of his axe. Harlan carries away targets damaged in this way as he continues spinning around the room.	-1	0	132369
-5377	654	5378	0	0	2	2	0	0	Dragon\'s Reach	Harlan inflicts $111217s1% of his normal melee damage to all targets in front of him.	-1	0	132338
+5376	654	5377	0	0	1	2	0	48	Blades of Light	Harlan jumps into the center of the room and begins to spin rapidly with his axe. While spinning, Harlan inflicts  $111215m1% weapon damage as Physical damage to all targets within $111394A1 yards. Harlan carries away targets damaged in this way as he continues spinning around the room.	-1	0	132369
+5377	654	5378	0	0	2	2	0	0	Dragon\'s Reach	Harlan inflicts $111217m1% of his normal melee damage to all targets in front of him.	-1	0	132338
 5378	654	0	5379	0	3	2	0	0	Call for Help	Harlan periodically calls two Scarlet Defenders to come to his aid throughout the encounter.	-1	0	132333
 5379	654	0	5380	5378	4	1	0	0	Scarlet Defender	Scarlet Defenders feature heavy armor to protect them from all damage.	-1	40776	0
-5380	654	5381	0	5379	5	2	0	33	Heavy Armor	While a Scarlet Defender wears their Heavy Armor, they take $113959s1% less damage until their armor breaks from taking $113959s2 damage. Defenders also take $111323s1% less damage from area effect damage.	-1	0	463553
-5381	654	0	0	5379	6	1	0	0	Unarmored	Scarlet Defenders who receive sufficient damage lose their Heavy Armor and take $112920s1% additional damage.	-1	40698	0
+5380	654	5381	0	5379	5	2	0	33	Heavy Armor	While a Scarlet Defender wears their Heavy Armor, they take $113959m1% less damage until their armor breaks from taking $113959m2 damage. Defenders also take $111323m1% less damage from area effect damage.	-1	0	463553
+5381	654	0	0	5379	6	1	0	0	Unarmored	Scarlet Defenders who receive sufficient damage lose their Heavy Armor and take $112920m1% additional damage.	-1	40698	0
 5382	557	5385	5383	0	1	1	1	0	Shadowmoon Channeler	Five Shadowmoon Channelers defend Keli\'dan the Breaker during his fel ritual.	-1	0	0
 5383	557	5384	0	5382	2	2	0	0	Shadow Bolt	Shadowmoon Channelers hurl bolts of dark magic at a player, inflicting Shadow damage.	-1	0	136197
 5384	557	0	0	5382	3	2	0	0	Mark of Shadow	Shadowmoon Channelers mark a player, increasing their Shadow damage taken for $30937d.	-1	0	136230
@@ -2778,9 +2778,9 @@ The Swarm also inflicts $111644s1 damage every $111643t1 sec. to enemies within 
 5393	655	5394	0	0	4	2	2	32	Sabotage	Saboteur Kip\'tilak attaches four explosives to the back of a random player. When Sabotage expires, the charges explode outward in the four cardinal directions inflicting $107215s2 Fire damage to all players in their path. Sabotage inflicts $113645m2 Fire damage to the victim when the explosion occurs.	2	0	133713
 5394	655	6446	0	0	5	2	2	48	World in Flames	When Saboteur Kip\'tilak reaches 60% and 30% remaining health, he rapidly throws five sets of Stable Munitions at random locations. After Kip\'tilak finishes throwing the Stable Munitions, he then detonates all five explosive charges.	2	0	236228
 5395	656	5397	5396	0	1	2	0	0	Book Burner	Flameweaver Kogler tries to light the books ablaze containing the Scarlet Crusade\'s past. Players may intercept the fiery bolt, which inflicts $113364s2 Fire damage. If Koegler\'s attack succesfully hits the books, they begin to burn.	-1	0	460698
-5396	656	0	0	5395	2	2	1	0	Burning Books	The Burning Books inflict $113620s1 Fire damage every $113620t1 sec to enemies within $113620A1 for $113620d.	-1	0	460698
+5396	656	0	0	5395	2	2	1	0	Burning Books	The Burning Books inflict $113620s1 Fire damage every $113620t1 sec to enemies within $113620A1 yards for $113620d.	-1	0	460698
 5397	656	5398	0	0	3	2	0	128	Greater Dragon\'s Breath	Koegler unleashes a sweeping series of attacks that mimic the deadly fire breath of a Dragon. The Breath inflicts $113653s1 Fire damage, an additional $113653s2 Fire damage every $113653t2 sec., and confuses the target for $113653d.	-1	0	134153
-5398	656	5399	0	0	4	2	0	128	Quickened Mind	Flameweaver Koegler casts this prepatory spell, making his next three spell\'s cast time nearly instant.	-1	0	136031
+5398	656	5399	0	0	4	2	0	128	Quickened Mind	Flameweaver Koegler casts this preparatory spell, making his next three spells\' cast time nearly instant.	-1	0	136031
 5399	656	5400	0	0	5	2	0	64	Fireball Volley	Flameweaver Koegler unleashes a barrage of Fireballs, inflicting $113691s1 Fire damage to all enemies within $113691A1 yards.	-1	0	525023
 5400	656	0	0	0	6	2	0	192	Pyroblast	Flameweaver Koegler casts a huge Pyroblast at his current target, inflicting $113690s1 Fire damage, then an additional $113690s2 Fire damage every $113690t2 sec. for $113690d.	-1	0	135808
 5401	558	5402	0	0	1	2	0	0	Arcane Resonance	Commander Sarannis infuses her weapon with Arcane power, granting her melee attacks a chance to increase her target\'s damage taken from Arcane by $34794s1 for $34794d.	-1	0	132323
@@ -3396,34 +3396,32 @@ In Heroic Difficulty, Conjure Flame Sphere inflicts $59509s1 Fire damage to play
 6084	585	6085	0	0	14	2	1	0	Mind Flay	Krik\'thir the Gatewatcher flays a player\'s mind, inflicting $52586s1 Shadow damage every second and reduces their movement speed for $52586d.	-1	0	136208
 6085	585	0	0	0	15	2	1	256	Curse of Fatigue	Krik\'thir the Gatewatcher curses all players within $52592A1 yards, inflicting $52592s1 Shadow damage and slowing	-1	0	136201
 6086	709	6089	6091	0	1	0	1	0	The Terrace of Endless Spring	The Sha of Fear looms atop the Terrace, attempting to consume the pure light emanating from its center.	-1	0	0
-6087	709	6096	6113	6086	9	1	0	0	Heart of Fear	The heart of the Sha can be targeted and attacked separately. It takes $118962s1% increased damage from attacks and spells, but is immune to area of effect abilities.	-1	41772	0
-6088	709	6087	6097	6086	7	1	0	0	Terror Spawn	The Sha periodically summons a pair of Terror Spawns to attack players. A bulwark of dark energy protecting each Terror Spawn deflects spells and attacks that strike the front of the creature.	-1	41677	0
-6089	709	6090	6098	0	12	0	1	0	The Outer Shrines	The group of players transported by Ominous Cackle must defeat one of three Sha possessed crossbowmen. The former terrace guardians Yang Guoshi, Cheng Kang, and Jinlun Kun attack the players.	-1	0	0
-6090	709	0	6110	0	17	0	3	8	The Dread Expanse	On heroic difficulty the Sha of Fear retreats to the Dread Expanse at low remaining health, dragging players along with him. This watery wasteland is a place of the Sha\'s making where he has access to a new set of abilities.	12	0	0
+6088	709	6096	6097	6086	7	1	0	0	Terror Spawn	The Sha periodically summons a pair of Terror Spawns to attack players. A bulwark of dark energy protecting each Terror Spawn deflects spells and attacks that strike the front of the creature.	-1	41677	0
+6089	709	6090	6098	0	10	0	1	0	The Outer Shrines	The group of players transported by Ominous Cackle must defeat one of three Sha possessed crossbowmen. The former terrace guardians Yang Guoshi, Cheng Kang, and Jinlun Kun attack the players.	-1	0	0
+6090	709	0	6110	0	15	0	3	8	The Dread Expanse	On heroic difficulty the Sha of Fear retreats to the Dread Expanse at low remaining health, dragging players along with him. This watery wasteland is a place of the Sha\'s making where he has access to a new set of abilities.	12	0	0
 6091	709	6093	6092	6086	2	0	0	0	Pure Light	A narrow column of uncorrupted light still projects skyward from the center of the terrace. When a player stands in this light it bends, forming a protective wall that extends back from this Champion of the Light in a \'V\' shape. This attracts the attention of the Sha of Fear, who fixates on the Champion.	-1	0	0
 6092	709	0	0	6091	3	2	1	0	Wall of Light	The Champion and other players standing within the wall of light take $117964s1% reduced damage from all sources. The wall also deflects the Sha\'s Breath of Fear attack.	-1	0	135954
 6093	709	6094	0	6086	4	2	0	0	Breath of Fear	The Sha of Fear unleashes a horrible breath attack, inflicting $119414O1 Shadow damage to all enemies over $119414d. Affected enemies are feared for the duration. Players standing behind the Wall of Light are unaffected.	-1	0	252997
 6094	709	6095	0	6086	5	2	0	0	Eerie Skull	The Sha throws a skull at a player\'s location, inflicting $119495s1 Shadow damage and reducing the casting speed of enemies within $119495A1 yards of the impact point by $119495s2% for $119495d.	-1	0	237569
 6095	709	6088	0	6086	6	2	0	0	Ominous Cackle	The Sha cackles ominously and teleports a group of players to one of the outer shrines to battle a former guardian of the terrace.	-1	0	136206
-6096	709	0	0	6086	11	2	0	0	Reaching Attack	The Sha strikes at a distant target, inflicting $119775s1 Shadow damage and increasing Shadow damage taken by $119775s2% for $119775d. The Sha uses this ability when no targets are in melee range.	-1	0	136199
+6096	709	0	0	6086	9	2	0	0	Reaching Attack	The Sha strikes at a distant target, inflicting $119775s1 Shadow damage and increasing Shadow damage taken by $119775s2% for $119775d. The Sha uses this ability when no targets are in melee range.	-1	0	136199
 6097	709	0	0	6088	8	2	1	0	Penetrating Bolt	The Terror Spawn hurls a bolt of dark magic at random player, inflicting $119086s1 Shadow damage and increasing Shadow damage taken by $119086s2% for $119086d.	-1	0	607851
-6098	709	6099	0	6089	13	2	0	0	Shoot	The caster shoots at the target, inflicting $119862s1 Physical damage.	-1	0	461846
-6099	709	6100	0	6089	14	2	0	0	Dread Spray	The caster rapidly fires sprays of Dread Bolts at enemy targets for $120047d. The caster gains immunity to taunt for the duration. Each spray of Dread Bolts fires in a cone in front of the caster, inflicting $119983s1 Shadow damage and afflicting the target for $119983d. At $119983u stacks, the Dread Spray fears the target for $119985d.	-1	0	132323
-6100	709	6101	0	6089	15	2	0	0	Death Blossom	The caster spins in a circle, unleashing a hail of bolts in all directions for $119888d. Each bolt that strikes an enemy inflicts $119887s1 Physical damage.	-1	0	461120
-6101	709	0	0	6089	16	2	0	0	Fearless	Defeating any of the possessed crossbowmen returns the group to the central terrace and grants them complete immunity to Fear and Horror effects for $118977d. This effect cannot be removed by the Heart of Fear.	-1	0	135889
-6102	709	6104	6103	6090	20	2	2	0	Implacable Strike	The Sha unleashes an Implacable Strike in the direction of his current target that inflicts $120672s1 damage to enemies up to $120672A1 yards away.	12	0	135784
-6103	709	0	0	6102	21	2	3	0	Naked and Afraid	The Sha strips the gear from his current target before performing Implacable Strike, reducing the target\'s armor and chance to dodge by $120669s1% for $120669d.	12	0	236272
-6104	709	6105	0	6090	22	2	2	0	Waterspout	The Sha agitates the water under several players, creating a series of waterspouts. Each waterspout takes $120519t1 sec. to form and explode, inflicting $120521s1 Frost damage to enemies within $120521A1 yds.	12	0	132852
-6105	709	6106	0	6090	23	2	2	0	Huddle in Terror	The Sha terrifies several players, causing them to cower in fear and inflicting $120629s1 Shadow damage every $120629t1 sec. for $120629d.	12	0	460699
-6106	709	6107	0	6090	24	2	2	0	Submerge	The Sha disappears below the surface of the Dread Expanse for a short time, then emerges under a random player and inflicts $120458s1 Frost damage to enemies within $120458A1 yds. The Sha summons a Dread Spawn at his location every time he submerges.	12	0	538567
-6107	709	0	6108	6090	25	1	2	0	Dread Spawn	This creature fixates on the current champion of the light. If a new player becomes the champion the Dread Spawn changes targets.	12	41677	0
-6108	709	6109	0	6107	26	2	3	0	Shadow Bolt	The Dread Spawn emits Shadow Bolts. Each bolt inflicts $120438s1 Shadow damage to a random player.	12	0	136197
-6109	709	0	0	6107	27	2	3	0	Eternal Darkness	The Dread Spawn kills his current target when he reaches melee range.	12	0	136222
-6110	709	6102	6112	6090	18	0	2	0	Pure Light	The uncorrupted light from the terrace binds itself to the current champion and takes on a new form. It grows stronger, granting the champion immunity to fear and horror effects and reduces their damage taken by $120268s2%.	12	0	0
-6112	709	0	0	6110	19	2	3	0	Transfer Light	The champion can use this ability to move the Pure Light to a targeted friendly player.	12	0	135973
-6113	709	0	0	6087	10	2	1	0	Heart of Fear	The Heart of Fear saps the courage of its attackers, inflicting $118966s1 Shadow damage and causing them to flee in terror when it suffers damage. This effect removes normal fear immunities, but does not affect players with Fearless.	-1	0	237557
+6098	709	6099	0	6089	11	2	0	0	Shoot	The caster shoots at the target, inflicting $119862s1 Physical damage.	-1	0	461846
+6099	709	6100	0	6089	12	2	0	0	Dread Spray	The caster rapidly fires sprays of Dread Bolts at enemy targets for $120047d. The caster gains immunity to taunt for the duration. Each spray of Dread Bolts fires in a cone in front of the caster, inflicting $119983s1 Shadow damage and afflicting the target for $119983d. At $119983u stacks, the Dread Spray fears the target for $119985d.	-1	0	132323
+6100	709	6101	0	6089	13	2	0	0	Death Blossom	The caster spins in a circle, unleashing a hail of bolts in all directions for $119888d. Each bolt that strikes an enemy inflicts $119887s1 Physical damage.	-1	0	461120
+6101	709	0	0	6089	14	2	0	0	Fearless	Defeating any of the possessed crossbowmen returns the group to the central terrace and grants them $118977s1% increased damage and immunity to Fear and Horror effects for $118977d.	-1	0	538565
+6102	709	6104	6103	6090	18	2	2	0	Implacable Strike	The Sha unleashes an Implacable Strike in the direction of his current target that inflicts $120672s1 damage to enemies up to $120672A1 yards away.	12	0	135784
+6103	709	0	0	6102	19	2	3	0	Naked and Afraid	The Sha strips the gear from his current target before performing Implacable Strike, reducing the target\'s armor and chance to dodge by $120669s1% for $120669d.	12	0	236272
+6104	709	6105	0	6090	20	2	2	0	Waterspout	The Sha agitates the water under several players, creating a series of waterspouts. Each waterspout takes $120519t1 sec. to form and explode, inflicting $120521s1 Frost damage to enemies within $120521A1 yds.	12	0	132852
+6105	709	6106	0	6090	21	2	2	0	Huddle in Terror	The Sha terrifies several players, causing them to cower in fear and inflicting $120629s1 Shadow damage every $120629t1 sec. for $120629d.	12	0	460699
+6106	709	6107	0	6090	22	2	2	0	Submerge	The Sha disappears below the surface of the Dread Expanse for a short time, then emerges under a random player and inflicts $120458s1 Frost damage to enemies within $120458A1 yds. The Sha summons a Dread Spawn at his location every time he submerges.	12	0	538567
+6107	709	0	6108	6090	23	1	2	0	Dread Spawn	This creature fixates on the current champion of the light. If a new player becomes the champion the Dread Spawn changes targets.	12	41677	0
+6108	709	6109	0	6107	24	2	3	0	Shadow Bolt	The Dread Spawn emits Shadow Bolts. Each bolt inflicts $120438s1 Shadow damage to a random player.	12	0	136197
+6109	709	0	0	6107	25	2	3	0	Eternal Darkness	The Dread Spawn kills his current target when he reaches melee range.	12	0	136222
+6110	709	6102	6112	6090	16	0	2	0	Pure Light	The uncorrupted light from the terrace binds itself to the current champion and takes on a new form. It grows stronger, granting the champion immunity to fear and horror effects and reduces their damage taken by $120268s2%.	12	0	0
+6112	709	0	0	6110	17	2	3	0	Transfer Light	The champion can use this ability to move the Pure Light to a targeted friendly player.	12	0	135973
 6114	459	0	4942	0	1	0	1	0	The Wardens of the Dream	Dreamscythe, Weaver, Morphaz and Hazzas defend the Shade of Eranikus with their lives.	-1	0	0
-6122	713	6266	6265	0	1	2	0	1	Furious Swipe	Inflicts $122735s1 Physical damage to targets in a large cone in front of Garalon. If Garalon fails to hit at least 2 targets, he will become furious.	-1	0	132141
+6122	713	6266	6265	0	1	2	0	1	Furious Swipe	Garalon performs a Furious Swipe to targets in a large cone in front of him, inflicting $122735s1 Physical damage. If Garalon fails to hit at least 2 targets with his Furious Swipe, he gains Fury.	-1	0	132141
 6141	725	6199	0	0	1	2	0	0	Fire Shot	Saurok Skirmishers riding on Galleon\'s back fire flaming crossbow bolts at random players, inflicting $121673s1 Fire damage.	-1	0	132312
 6142	725	6200	0	0	3	2	0	1	Cannon Barrage	Chief Salyis orders his minions to fire off eight powerful cannon blasts. Each blast inflicts $121600s1 Fire damage to players within $121600a1 yards and knocks them back.	-1	0	252185
 6171	726	6174	6172	0	1	0	1	32	Energy Vortex	An active Energy Vortex transforms any player or creature who stands in it, granting a small taste of the Titan\'s true power.	-1	0	0
@@ -3481,47 +3479,49 @@ Performing actions counteracts this effect and if the target breaks free they be
 6240	664	5542	6241	5537	7	0	3	0	Stage One: Extinguishing the Suns	Players must extinguish the suns from the sky. Defeating each Sun causes Haunting Sha to appear and attack Zao Sunseeker and the players.	3	0	0
 6241	664	5540	5538	6240	8	1	2	0	Sun		3	39529	0
 6243	737	6246	6244	0	1	0	1	0	Stage One: Worthy Test Subjects?		-1	0	0
-6244	737	6245	6261	6243	2	2	0	0	Amber Scalpel	Un\'sok carves the ground with a focused beam of pure amber energy, dealing $121995s1 Nature damage every $121994t1 sec at the point of contact, and leaving Molten Amber residue that deals $122005s1 Fire damage every $122004t1 sec to enemies who touch it. Some of this residue congeals into Living Amber oozes.	-1	0	135279
-6245	737	6248	0	6243	4	2	0	4	Parasitic Growth	Amber-Shaper Un\'sok causes amber to grow within the body of a random target, dealing $121949s1 Nature damage every $121949t1 sec. This strain of amber absorbs healing energy, increasing the damage it deals to its host in direct proportion to any healing received. After $121949d, the unstable parasite dissipates without a trace.	-1	0	576313
-6246	737	6247	6254	0	13	0	1	0	Stage Two: Un\'sok\'s Greatest Creation	When Un\'sok reaches 60% health, he calls forth a massive Amber Monstrosity to fight beside him. Un\'sok continues to attack with his full arsenal of abilities seen in Stage One.	-1	0	0
-6247	737	0	6258	0	19	0	1	0	Stage Three: Un\'sok Unleashed	Upon witnessing the destruction of his greatest creation, Un\'sok channels power from the amber pools lining his chamber and prepares to make his final stand. During this phase, Un\'sok no longer uses Amber Scalpel, but now casts Reshape Life with greatly increased frequency.	-1	0	0
-6248	737	0	6249	6243	5	2	0	0	Reshape Life	Un\'sok unleashes a torrent of amber at a player, transforming the target into a misshapen mass of flowing amber that is hostile to players and monsters alike.	-1	0	0
-6249	737	0	6263	6248	6	1	0	0	Mutated Construct	While transformed, the player continuously expends Willpower to retain control over the twisted form, at the rate of 2 per second, beginning with a maximum of 100. When Willpower runs out, the player dies and the Mutated Construct continues to act, uncontrolled.	-1	42890	0
-6250	737	6251	0	6249	8	2	0	0	Amber Strike	Deal $122389s1 Nature damage to the current hostile target, interrupting normal spellcasting, including a target\'s attempt to trigger an Amber Explosion. Amber Strike also destabilizes the target, increasing damage taken by $123059s1% for $123059d. Stacks.	-1	0	132109
-6251	737	6259	0	6249	9	2	0	0	Break Free	Once the physical form of the amber construct has been damaged to below 20% of its maximum health, the player may break free with a great surge of will, regaining their natural form.	-1	0	135791
-6252	737	6253	0	6249	11	2	0	32	Struggle for Control	With a surge of will, the player can expend 8 Willpower to force the mutated form to cease all action for $122395d, increasing damage taken by $124802s1% for the $124802d.	-1	0	136035
-6253	737	0	0	6249	12	2	0	0	Smash	Transformed players use this simple melee attack in lieu of their auto-attack, dealing $122960s1 Physical damage to a target.	-1	0	132109
-6254	737	6264	6255	6246	14	1	0	0	Amber Monstrosity	This towering behemoth is formed entirely of flowing amber, and stands as a triumph of Un\'sok\'s research into creating life from the mantids\' amber.	-1	42889	0
-6255	737	6256	0	6254	15	2	0	0	Amber Explosion	The Monstrosity releases a massive explosion of amber energy, dealing $122402s1 Nature damage to all players.	-1	0	236305
-6256	737	6257	0	6254	16	2	0	0	Massive Stomp	The Monstrosity stomps the ground forcefully, dealing $122408s1 Physical damage to all enemies within $122408A1 yards and knocking them back.	-1	0	132847
-6257	737	0	0	6254	17	2	0	1	Fling	The Monstrosity grabs its current target in one of its massive hands and hurls the hapless victim at a distant player, causing $122457s1 Physical damage to targets within $122457A1 yards of the point of impact, stunning them for $122457d.	-1	0	463444
+6244	737	6245	6261	6243	2	2	0	0	Amber Scalpel	Un\'sok carves the ground with a focused beam of pure amber energy. The beam inflicts $121995s1 Nature damage every $121994t1 sec. at the point of contact, and leaves behind Molten Amber residue. The residue inflicts $122005s1 Fire damage every $122004t1 sec. to players who touch it. Some of this residue congeals into Living Amber oozes.	-1	0	135279
+6245	737	6248	0	6243	4	2	0	4	Parasitic Growth	Amber-Shaper Un\'sok causes amber to grow within the body of a random target, inflicting $121949s1 Nature damage every $121949t1 sec. This strain of amber absorbs healing energy, increasing the damage it inflicts to its host in direct proportion to any healing received. After $121949d, the unstable parasite dissipates without a trace.	-1	0	576313
+6246	737	6247	6254	0	13	0	1	0	Stage Two: Un\'sok\'s Greatest Creation	When Un\'sok reaches 60% remaining health, he calls forth a massive Amber Monstrosity to fight beside him. Un\'sok continues to attack with his full arsenal of abilities from Stage One.	-1	0	0
+6247	737	0	6258	0	19	0	1	0	Stage Three: Un\'sok Unleashed	Upon witnessing the destruction of his greatest creation, Un\'sok channels power from the amber pools lining his chamber and prepares to make his final stand. Un\'sok no longer uses Amber Scalpel, but now casts Reshape Life with greatly increased frequency.	-1	0	0
+6248	737	0	6249	6243	5	2	0	0	Reshape Life	Un\'sok unleashes a torrent of amber at a player, transforming the target into a misshapen mass of flowing amber that is hostile to players and monsters alike.	-1	0	463485
+6249	737	0	6263	6248	6	1	1	0	Mutated Construct	While transformed, the player continuously expends Willpower to retain control over the twisted form, at the rate of 2 per second, beginning with a maximum of 100. When Willpower runs out, the player dies and the Mutated Construct continues to act, uncontrolled.	-1	42890	0
+6250	737	6251	0	6249	8	2	0	0	Amber Strike	The construct inflicts $122389s1 Nature damage to the current hostile target and interrupt snormal spellcasting. This includes a target\'s attempt to trigger an Amber Explosion. Amber Strike also destabilizes the target, increasing damage taken by $123059s1% for $123059d. This effect stacks.	-1	0	132109
+6251	737	6259	0	6249	9	2	0	0	Break Free	Once the physical form of the amber construct has been damaged to 20% of its remaining health, the player breaks free with a great surge of will. The player then regains their natural form.	-1	0	135791
+6252	737	6253	0	6249	11	2	0	32	Struggle for Control	With a surge of will, the player expends 8 Willpower to force the mutated form to cease all action for $122395d. This also increases the mutated form\'s damage taken by $124802s1% for the $124802d.	-1	0	136035
+6253	737	0	0	6249	12	2	0	0	Smash	Transformed players use this simple melee attack in lieu of their normal attack, inflicting $122960s1 Physical damage to a target.	-1	0	132109
+6254	737	6264	6255	6246	14	1	0	0	Amber Monstrosity	Un\'sok formed this towering behemoth entirely of flowing amber, and it stands as a triumph of Un\'sok\'s research into creating life from the mantids\' amber.	-1	42889	0
+6255	737	6256	0	6254	15	2	0	0	Amber Explosion	The Monstrosity releases a massive explosion of amber energy, inflicting $122402s1 Nature damage to all players.	-1	0	236305
+6256	737	6257	0	6254	16	2	0	0	Massive Stomp	The Monstrosity stomps the ground forcefully, inflicting $122408s1 Physical damage to all enemies within $122408A1 yards and knocking them back.	-1	0	132847
+6257	737	0	0	6254	17	2	0	1	Fling	The Monstrosity grabs its current target in one of its massive hands and hurls the hapless victim at a distant player, causing $122457s1 Physical damage to targets within $122457A1 yards of the point of impact and stunning them for $122457d.	-1	0	463444
 6258	737	6260	0	6247	20	2	0	0	Concentrated Mutation	Un\'sok draws massive amounts of amber energy into his body, increasing his damage dealt by $122556s1% and attack speed by $122556s2%.	-1	0	236305
-6259	737	6252	0	6249	10	2	0	0	Consume Amber	A transformed player may consume a pool of Burning Amber left behind by a defeated Living Amber. Doing so restores $123156s2 Willpower, but also bolsters the mutated form, increasing current and maximum health by $122516s1.	-1	0	576313
-6260	737	0	0	6247	21	2	0	0	Volatile Amber	Un\'sok\'s siphoning agitates the pools of amber around the room, causing them to periodically emit bursts of amber that fly through the air at high velocity, each of which deals $123014s1 Nature damage to any player it strikes. If a missile strikes a player who is transformed into a Mutated Construct, it heals them for $123198s1% of their health.	-1	0	525023
-6261	737	0	0	6244	3	1	0	0	Living Amber	"Each of these animated amber oozes focuses mindlessly on a random player, emanating a Corrosive Aura that deals $122349s1 Nature damage every $122348t1 sec to all players. When destroyed, each ooze Bursts in a shower of amber, dealing $122532s1 Nature damage to enemies within $122532A1 yards$[0,1,2,3 and healing any other Living Amber within that radius for $122532s2% of their maximum health$].$[2,3 
+6259	737	6252	0	6249	10	2	0	0	Consume Amber	A transformed player consumes a pool of Burning Amber left behind by a defeated Living Amber. The consumption restores $123156s2 Willpower, but also bolsters the mutated form, increasing its current and maximum health by $122516s1.	-1	0	576313
+6260	737	6548	0	6247	21	2	0	0	Volatile Amber	Un\'sok\'s siphoning agitates the pools of amber around the room, causing them to periodically emit bursts of amber that fly through the air at high velocity. Each amber burst inflicts $123014s1 Nature damage to any player it strikes. If a missile strikes a player while they are transformed into a Mutate Construct, it heals them for $123198s1% of their health.	-1	0	525023
+6261	737	0	0	6244	3	1	0	0	Living Amber	"Each of these animated amber oozes focuses mindlessly on a random player, emanating a Corrosive Aura that inflicts $122349s1 Nature damage every $122348t1 sec to all players. Each ooze Bursts in a shower of amber when destroyed, inficting $122532s1 Nature damage to enemies within $122532A1 yards and healing any other Living Amber within that radius for $122532s2% of their maximum health.$[2,3 
 
-In Heroic difficulty, dissolved Living Amber will reconstitute after 30 seconds.$]"	-1	33921	0
+In Heroic difficulty, dissolved Living Amber will reconstitute after 30 seconds.$]$[4
+
+In Looking for Raid difficulty, destroying a Living Amber does not heal other nearby Living Amber.$]"	-1	33921	0
 6262	660	5608	0	0	3	2	0	0	Bloody Mess	"Houndmaster Braun\'s knives\' attacks inflict $114056s1 damage to an enemy every $114056t sec. for $114056d. This effect stacks.
 
 Braun applies this effect to any target hit by Piercing Throw or Death Blossom."	-1	0	236268
-6263	737	6250	0	6249	7	2	0	16	Amber Explosion	The amber encircling the mutated player compels the unleashing of a massive explosion, dealing $122398s1 Nature damage to all players if allowed to complete.	-1	0	236305
-6264	737	0	0	6246	18	2	0	0	Amber Carapace	While the Amber Monstrosity is alive, Amber-Shaper Un\'sok is shielded by an Amber Carapace, reducing all damage taken by $122540s1%.	-1	0	132847
-6265	713	0	0	6122	2	2	0	1	Fury	When Galaron fails to hit at least $s2 targets, he becomes furious, increasing damage dealt by $122754s1% and movement speed by $122754s3% for $122754d. This effect stacks.	-1	0	132141
-6266	713	6267	0	0	3	2	0	16	Crush	"Garalon crushes his foes, inflicting $122774s2 Physical damage to enemies within $122774A2 yards and $122774s3 Physical damage to all enemies. Garalon\'s massive bulk also knocks enemies down for $122774d.  Garalon will Crush foes if he detects their presence beneath him.$[1,2
+6263	737	6250	0	6249	7	2	0	16	Amber Explosion	The amber encircling the mutated player compels the unleashing of a massive explosion, inflicting $122398s1 Nature damage to all players.	-1	0	236305
+6264	737	0	0	6246	18	2	0	0	Amber Carapace	While the Amber Monstrosity lives, an Amber Carapace shields Amber-Shaper Un\'sok. The Carapace reduces his damage taken by $122540s1%.	-1	0	132847
+6265	713	0	0	6122	2	2	0	1	Fury	Fury increases Garalon\'s damage dealt by $122754s1% and movement speed by $122754s3% for $122754d. This effect stacks.	-1	0	132141
+6266	713	6267	0	0	3	2	0	16	Crush	"Garalon crushes his foes, inflicting $122774s3 Physical damage to all players. Any player within $122774A2 yards receives an additional $122774s2 Physical damage as Garalon\'s body slams down upon them. Garalon\'s massive bulk also knocks down all players for $122774d. Garalon crushes foes whenever he detects their presence beneath him.$[1,2
 
-In Normal Difficulty, Garalon will also Crush foes when Pheromones are passed to a new target.$[2,3
+In Normal Difficulty, Garalon also crushes foes when Pheromones passes to a new target.$[2,3
 
-In Heroic Difficulty, Garalon will Crush foes periodically.$]"	-1	0	451165
-6267	713	6270	6268	0	4	2	0	32	Pheromones	"Garalon surrounds a player with powerful pheromones, fixating on the target.  
+In Heroic Difficulty, Garalon periodically crushes foes.$]"	-1	0	451165
+6267	713	6270	6268	0	4	2	1	32	Pheromones	"Garalon surrounds a player with powerful pheromones, fixating on the target.  
 
-Every $122835t1 seconds, Pheromones inflicts $123092s2 Nature damage, increases the player\'s Sensitivity to Nature damage, and spawns a Pheromone Trail.
+Every $122835t1 sec. the Pheromones inflict $123092s2 Nature damage and Sensitivity on the target, then spawn a Pheramone Trail.
 
-Pheromones can be passed to allies in close proximity."	-1	0	136044
-6268	713	6269	0	6267	5	2	0	0	Sensitivity	Exposure to Garalon\'s Pheromones renders the player extra sensitive, increasing Nature damage taken by $123081s1% for $123081d.  This effect stacks.	-1	0	575589
-6269	713	0	0	6267	6	2	0	0	Pheromone Trail	Inflicts $123120s1 Nature damage to players within $123120A1 yards.	-1	0	136044
-6270	713	6294	6271	0	7	1	1	2	Garalon\'s Legs	Garalon\'s legs can be attacked separately from his body.	-1	42852	0
-6271	713	6272	0	6270	8	2	0	0	Weak Point	Close proximity to Garalon\'s leg allows attackers to see weak points, increasing damage dealt to the leg by $123423s1%.	-1	0	132295
-6272	713	6273	0	6270	9	2	0	0	Broken Leg	Breaking one of Garalon\'s legs damages Garalon for $122786s3% of his maximum health and reduces Garalon\'s movement speed by $122786s1%.  Stacks up to $122786U times.	-1	0	460686
+Pheromones pass to allies in close proximity."	-1	0	136044
+6268	713	6269	0	6267	5	2	0	0	Sensitivity	Exposure to Garalon\'s Pheromones renders the player extra sensitive, increasing their Nature damage taken by $123081s1% for $123081d. This effect stacks.	-1	0	575589
+6269	713	0	0	6267	6	2	0	0	Pheromone Trail	The Pheromone Trail on the ground inflicts $123120s1 Nature damage to players within $123120A1 yards.	-1	0	136044
+6270	713	6294	6271	0	7	1	1	2	Garalon\'s Legs	Players attack Garalon\'s legs separately from his body.	-1	42852	0
+6271	713	6272	0	6270	8	2	0	0	Weak Point	Close proximity to Garalon\'s leg allows attackers to see weak points, increasing their damage dealt to the leg by $123423s1%.	-1	0	132295
+6272	713	6273	0	6270	9	2	0	0	Broken Leg	Breaking one of Garalon\'s legs damages Garalon for $122786s3% of his maximum health and reduces Garalon\'s movement speed by $122786s1%.  This effect stacks up to $122786U times.	-1	0	460686
 6273	713	0	0	6270	10	2	0	0	Mend Leg	Garalon periodically mends one of his broken legs, restoring it to full health.	-1	0	136043
 6274	738	6279	6278	0	1	0	3	0	The Escaped Prisoners	The mantid captured these three Pandaren during the initial attack on Niuzao Temple, but the prisoners were able to break free of their bindings and fight back. Now they stand ready to do whatever it takes to end the siege.	2	0	0
 6278	738	0	0	6274	2	2	0	160	Caustic Tar	"Players can order Li and Lo Chu to throw ready barrels of Caustic Tar onto the battlefield. Caustic Tar inflicts on any unit standing within the tar $120269m1 Nature damage, reduces movement speed by 50%, and increases damage taken by $120778m1%. This effect stacks.
@@ -3542,15 +3542,15 @@ Thousand Blades also removes the Caustic Tar effect."	-1	0	132369
 6290	738	0	0	6282	8	2	1	32	Unstable Blast	The Sik\'thik Demolisher carries unstable explosives and explodes when damaged or killed, inflicting $121981m1 to all targets within $121981A1 yards.	-1	0	136173
 6292	693	0	0	0	6	0	3	0	Heroic Difficulty	Siege of Niuzao Temple is only available on Heroic Difficulty.	1	0	0
 6293	738	0	0	0	14	0	3	0	Heroic Difficulty	Siege of Niuzao Temple is only available on Heroic Difficulty.	1	0	0
-6294	713	0	6295	0	11	2	2	8	Damaged	In Heroic difficulty, Garalon becomes significantly damaged upon reaching 33% health.	12	0	538768
-6295	713	6296	0	6294	12	2	2	32	Pheromones	When damaged, Garalon will ignore the fixate effects of Pheromones, and periodically apply Pheromones to additional players.	12	0	136044
-6296	713	0	0	6294	13	2	2	1	Melee Attack	When damaged, Garalon will begin to use his normal melee attack against enemies.	12	0	615303
+6294	713	0	6295	0	11	2	2	8	Damaged	In Heroic difficulty, Garalon gains the Damaged effect upon reaching 33% remaining health.	12	0	538768
+6295	713	6296	0	6294	12	2	2	32	Pheromones	While Garalon has the Damaged effect, Garalon ignores the fixate effects of Pheromones and periodically applies Pheromones to additional players.	12	0	136044
+6296	713	0	0	6294	13	2	2	1	Melee Attack	While Garalon has the Damaged effect, Garalon uses his normal melee attack.	12	0	615303
 6297	727	0	6203	0	4	0	1	32	Treacherous Winds	Twice during the fight Nero\'nok lifts off and flies to the other end of the bridge. Upon landing he periodically channels Gusting Winds until interrupted.	-1	0	0
 6299	741	0	6332	0	6	0	1	0	The Swarm	Wind Lord Mel\'jarak fights alongside his most trusted warriors.	-1	0	0
 6300	741	6305	6301	6299	9	1	0	0	Sra\'thik Amber-Trapper		-1	43085	0
-6301	741	6303	6302	6300	10	2	0	0	Amber Prison	"Sra\'thik Amber-Trappers imprison a random player in amber, stunning them until they are freed.
+6301	741	6303	6302	6300	10	2	0	0	Amber Prison	"Sra\'thik Amber-Trappers imprison a random player in amber, stunning them until freed.
 
-Players can smash an Amber Prison by interacting with it, freeing imprisoned allies. Players who destroy Amber Prisons are afflicted with Residue."	-1	0	463563
+Players can smash an Amber Prison and free the imprisoned allies inside by interacting with it. Residue afflicts players who destroy Amber Prisons."	-1	0	463563
 6302	741	0	0	6301	11	2	0	0	Residue	Residue prevents a player from destroying Amber Prisons for $122055d.	-1	0	135732
 6303	741	0	6304	6300	12	2	0	0	Corrosive Resin	Sra\'thik Amber-Trappers cover a player in 5 stacks of Corrosive Resin, inflicting $122064s1 Nature damage every second per stack. Moving while afflicted by Corrosive Resin removes a stack of Corrosive Resin and creates a Corrosive Resin Pool at the player\'s location.	-1	0	576313
 6304	741	0	0	6303	13	2	0	0	Corrosive Resin Pool	Corrosive Resin Pools inflict $122125s1 Nature damage every second to all players within the pool.	-1	0	535291
@@ -3559,55 +3559,55 @@ Players can smash an Amber Prison by interacting with it, freeing imprisoned all
 6307	741	0	0	6305	16	2	0	128	Quickening	Zar\'thik Battle-Menders quicken all of Mel\'jarak\'s swarm, increasing all damage done and melee attack speed by $122149s1% for $122149d. This effect stacks.	-1	0	132845
 6308	675	0	0	0	7	0	3	0	Heroic Difficulty	Gate of the Setting Sun is only available on Heroic Difficulty.	1	0	0
 6309	676	0	0	0	6	0	3	0	Heroic Difficulty	Gate of the Setting Sun is only available on Heroic Difficulty.	1	0	0
-6310	742	6315	6311	0	1	0	1	0	The Night	Tsulong struggles at Night with the Sha corrupting his emotions. Bringing Tsulongi\'s remaining health to zero while at Night permanently destroys the Sha\'s influence over him. When he reaches 100 energy, he temporarily purges the Sha\'s influence and the Day comes out.	-1	0	0
+6310	742	6315	6311	0	1	0	1	0	The Night	Tsulong struggles at Night with the Sha corrupting his emotions. Bringing Tsulong\'s remaining health to zero while at Night permanently destroys the Sha\'s influence over him. When he reaches 100 energy, he temporarily purges the Sha\'s influence and the Day comes out.	-1	0	0
 6311	742	6312	0	6310	2	2	0	32	Dread Shadows	The Dread Shadows created by the Sha within Tsulong inflict $122768s1 Shadow damage on all players and increases their Dread Shadows damage taken by $122768s2%. This effect stacks.	-1	0	236295
 6312	742	6313	0	6310	3	2	0	128	Nightmares	The Sha within Tsulong projects Nightmares at the location of a random player. The Nightmares inflict $122777s1 Shadow damage and fear players within $122777A1 yards of the impact for $122777d.	-1	0	136214
 6313	742	6314	0	6310	4	2	0	1	Shadow Breath	Tsulong expels out Sha energy in a 30 degree cone in front of him, inflicting $122752s1 Shadow damage and increasing Shadow damage taken by $122752s2% for $122752d. This effect stacks.	-1	0	236302
-6314	742	0	0	6310	5	2	0	32	Sunbeam	Tsulong\'s attempts to resist the Sha allows him to protect the players from Dread Shadows. Tsulong summons a Sunbeam onto the battlefield, and the Sunbeam grants immunity to Dread Shadows for players standing within the beam. The protected area of the Sunbeam shrinks over time as more players stand within it.	-1	0	135981
-6315	742	0	6316	0	6	0	1	0	The Day	Tsulong gains the upper hand during the Day against the Sha corrupting hhis emotions. Players may heal and aid Tsulong during the Day, and bringing his remaining health to 100% while in the Day permanently destroys the Sha\'s influence over him. When she reaches 100 energy, the Sha corrupts his emotions and the Night comes out.	-1	0	0
-6316	742	6318	6317	6315	7	1	0	0	Embodied Terror	Embodied Terrors spawn as the Sha fights to control Tsulong. When players destroy an Embodied Terror, five Fright Spawns burst out.	-1	42420	0
-6317	742	0	0	6316	8	2	0	128	Terrorize	The Embodied Terror casts Terrorize on both a random player and on Tsulong. The terror inflicts $123018s1% of the player\'s current health as Shadow damage every $123011t1 sec. for $123011d. Tsulong suffers $123012s1% of her total health as Shadow damage every $123012t1 sec. for $123012d.	-1	0	236296
-6318	742	6320	6319	6315	9	1	0	0	Fright Spawn	Five Fright Spawns appear when players destroy an Embodied Terror.	-1	40625	0
-6319	742	0	0	6318	10	2	0	128	Fright	A Fright Spawn unleashes a wave of Fright, inflicting $123036s1 Shadow damage and fear on players within $123036A1 yards for $123036d.	-1	0	136183
-6320	742	6323	6321	6315	11	1	0	0	Unstable Sha	Unstable Sha appear around Tsulong and then move towards him, inflicting massive Shadow damage to Nalomoni if they reach him.	-1	41677	0
-6321	742	6322	0	6320	12	2	0	0	Unstable Bolt	The Unstable Sha unleashes shadowy energy at a random player, inflicting $122881s1 Shadow damage on the target. The Unstable Bolt also damages the Unstable Sha for $122907s1% of its maximum health.	-1	0	136181
-6322	742	0	0	6320	13	2	0	0	Instability	If an Unstable Sha reaches Tsulong, it inflicts $123697s2 Shadow damage on Tsulong and disappears.	-1	0	607852
-6323	742	0	6324	6315	14	2	0	0	Sun Breath	Tsulong breathes out solar energy in a 60 degree cone in front of him, inflicting $122855s1 Nature damage to Sha within $122855A1 yards and stunning them for $122855d. The breath also places the Bathed in Light effect on players within its area.	-1	0	535045
-6324	742	0	0	6323	15	2	0	0	Bathed in Light	The warmth of the Sun instantly restores $122858s2% of a player\'s total mana and increases their healing done by $122858s1% for $122858d.	-1	0	535045
-6325	743	6337	6326	6336	2	2	0	0	Dissonance Field	"The Empress creates a dissonance field which disrupts the sound associated with magic. The dissonance field will absorb nearby magical effects received until it runs out of resonance. Once its resonance depletes, it will cause a Sonic Discharge.
+6314	742	6550	0	6310	5	2	0	32	Sunbeam	Tsulong\'s attempts to resist the Sha allows him to protect the players from Dread Shadows. Tsulong summons a Sunbeam onto the battlefield, and the Sunbeam grants immunity to Dread Shadows for players standing within the beam. The protected area of the Sunbeam shrinks over time as more players stand within it.	-1	0	135981
+6315	742	0	6316	0	7	0	1	0	The Day	Tsulong gains the upper hand during the Day against the Sha corrupting his emotions. Players may heal and aid Tsulong during the Day, and bringing his remaining health to 100% while in the Day permanently destroys the Sha\'s influence over him. When he reaches 100 energy, the Sha corrupts his emotions and the Night comes out.	-1	0	0
+6316	742	6318	6317	6315	8	1	0	0	Embodied Terror	Embodied Terrors spawn as the Sha fights to control Tsulong. When players destroy an Embodied Terror, five Fright Spawns burst out.	-1	42420	0
+6317	742	0	0	6316	9	2	0	128	Terrorize	The Embodied Terror casts Terrorize on both a random player and on Tsulong. The terror inflicts $123018s1% of the player\'s current health as Shadow damage every $123011t1 sec for $123011d. Tsulong suffers $123012s1% of his total health as Shadow damage every $123012t1 sec. for $123012d.	-1	0	236296
+6318	742	6320	6319	6315	10	1	0	0	Fright Spawn	Five Fright Spawns appear when players destroy an Embodied Terror.	-1	40625	0
+6319	742	0	0	6318	11	2	0	128	Fright	A Fright Spawn unleashes a wave of Fright, inflicting $123036s1 Shadow damage and fear on players within $123036A1 yards for $123036d.	-1	0	136183
+6320	742	6323	6321	6315	12	1	0	0	Unstable Sha	Unstable Sha appear around Tsulong and then move towards him, inflicting massive Shadow damage to Tsulong if they reach him.	-1	41677	0
+6321	742	6322	0	6320	13	2	0	0	Unstable Bolt	The Unstable Sha unleashes shadowy energy at a random player, inflicting $122881s1 Shadow damage on the target. The Unstable Bolt also damages the Unstable Sha for $122907s1% of its maximum health.	-1	0	136181
+6322	742	0	0	6320	14	2	0	0	Instability	If an Unstable Sha reaches Tsulong, it inflicts $123697s2 Shadow damage on Tsulong and disappears.	-1	0	607852
+6323	742	6551	6324	6315	15	2	0	0	Sun Breath	Tsulong breathes out solar energy in a 60 degree cone in front of him, inflicting $122855s1 Nature damage to Sha within $122855A1 yards and stunning them for $122855d. The breath also places the Bathed in Light effect on players within its area.	-1	0	535045
+6324	742	0	0	6323	16	2	0	0	Bathed in Light	The warmth of the Sun instantly restores $122858s2% of a player\'s total mana and increases their healing done by $122858s1% for $122858d.	-1	0	535045
+6325	743	6337	6326	6336	2	2	0	0	Dissonance Field	"The Empress creates a dissonance field which disrupts the sound associated with magic. The dissonance field absorbs nearby magical effects until it runs out of resonance. Once its resonance depletes, the field erupts in a Sonic Discharge.
 
-Additionally, casting magical effects near the dissonance field will deplete it of resonance."	-1	0	237546
-6326	743	0	0	6325	3	2	0	0	Sonic Discharge	Deals $123504s1 Sonic damage to all players.	-1	0	237546
+Players casting magical effects near the dissonance field also deplete it of resonance."	-1	0	237546
+6326	743	0	0	6325	3	2	0	0	Sonic Discharge	The Sonic Discharge inflicts $123504s1 Physical damage to all players.	-1	0	237546
 6327	672	0	5616	5612	5	2	0	32	Call Water	Wise Mari summons a Corrupt Living Water from one of the four smaller fountains to attack the players.	-1	0	135862
-6328	741	6329	0	0	1	2	0	0	Whirling Blade	Wind Lord Mel\'jarak hurls his blade at a player\'s location inflicting $121898s1 Physical damage to all players in its path. After the blade reaches its destination it will return to Wind Lord Mel\'jarak, inflicting $121898s1 Physical damage to all players in its path.	-1	0	236303
-6329	741	6330	0	0	2	2	0	0	Rain of Blades	Wind Lord Mel\'jarak flies into the air and begins to rain blades down on all players, inflicting $122407s1 Physical damage to all players. Wind Lord Mel\'jarak will throw blades 3 times before landing.	-1	0	615303
-6330	741	6331	0	0	3	2	0	0	Cowards!	If Wind Lord Mel\'jarak senses that more than 4 of his warriors are incapacitated, he dispels all forms of crowd control from all of them.	-1	0	132351
-6331	741	6344	0	0	4	2	0	0	Recklessness	When Wind Lord Mel\'jarak sees a group of his warriors fall in battle, he becomes reckless, increasing all damage done and taken by $122354s1%. This effect stacks.	-1	0	132352
+6328	741	6329	0	0	1	2	0	0	Whirling Blade	Wind Lord Mel\'jarak hurls his blade at a random player\'s location, inflicting $121898s1 Physical damage to all players in the blade\'s path. After the blade reaches its destination, it returns to Wind Lord Mel\'jarak. The blade also inflicts $121898s1 Physical damage to all players in its return path.	-1	0	236303
+6329	741	6330	0	0	2	2	0	0	Rain of Blades	Wind Lord Mel\'jarak flies into the air and rains blades down on all players, inflicting $122407s1 Physical damage. Wind Lord Mel\'jarak throw three sets of blades before he lands.	-1	0	615303
+6330	741	6331	0	0	3	2	0	0	Cowards!	If Wind Lord Mel\'jarak senses that players incapacitate more than 4 of his Mantid warriors, he dispels all forms of crowd control from every warrior.	-1	0	132351
+6331	741	6344	0	0	4	2	0	0	Recklessness	When Wind Lord Mel\'jarak sees a group of his warriors fall in battle, he becomes reckless. This increases his damage dealt and taken by $122354s1%. This effect stacks.	-1	0	132352
 6332	741	6333	0	6299	7	2	0	0	Fate of the Swarm	Each group of Mel\'jarak\'s swarm shares health with their fellow swarm members.	-1	0	537253
-6333	741	6300	0	6299	8	2	0	0	Impaling Spear	"Up to 4 players can use the weapon racks left by the Mantid army to gain the Impaling Spear ability.
+6333	741	6300	0	6299	8	2	0	0	Impaling Spear	"Up to four players can use the weapon racks left by the Mantid army to gain the Impaling Spear ability.
 
-Impaling Spear stuns your current target for $122224d. Any damage taken directly will cause the target to break free."	-1	0	615361
+Impaling Spear stuns a target for $122224d. Any damage dealt directly to the target by a player causes the target to break free."	-1	0	615361
 6334	741	0	6335	6299	17	1	0	0	Kor\'thik Elite Blademaster		-1	43087	0
 6335	741	0	0	6334	18	2	0	0	Kor\'thik Strike	Kor\'thik Elite Blademasters focus a single player and strike them in unison, each inflicting $123962s1 Physical damage.	-1	0	615302
-6336	743	6340	6325	0	1	0	1	0	A perilous battle!		-1	0	0
-6337	743	6338	0	6336	4	2	0	1	Eyes of the Empress	"The Empress gazes deeply into the eyes of her current target. Standing directly into the gaze of the Empress will eventually turn you into a sha minion.
+6336	743	6340	6325	0	1	0	1	0	Stage One: A Perilous Battle!		-1	0	0
+6337	743	6338	6544	6336	4	2	0	1	Eyes of the Empress	The Empress gazes deeply into the eyes of her current target, inflicting the target with the Eyes of the Empress effect. This effect stacks up to $123707s1 times. The Empress charms and transforms a player into a Servant of the Empress if the effect reaches maximum stacks.	-1	0	133016
+6338	743	6339	0	6336	6	2	0	0	Dread Screech	"Grand Empress Shek\'zeer lets loose a Dread Screech at two random players, inflicting $123743s1 Physical damage to each player and their nearby allies within $123743A1 yards.$[1,3,4
 
-At $123707s1 stacks, the target becomes charmed."	-1	0	133016
-6338	743	6339	0	6336	5	2	0	0	Dread Screech	Inflicts $123743s1 Sonic damage to a player and their nearby allies within $123743A1 yards.	-1	0	252188
-6339	743	6342	0	6336	6	2	0	0	Cry of Terror	The Empress incites terror on random players, causing them to inflict$123743s1 Shadow damage to all allies every $123788t1 second.	-1	0	136131
-6340	743	6341	6478	0	8	0	0	0	The Empress Retreats!	When the Empress runs of out sha energy, she retreats to her chrysalis and calls for her royal guard.	-1	0	0
-6341	743	0	6343	0	17	0	0	0	Ultimate Corruption!	At 30%, the Sha of Fear breaks the Empress\' chrysalis and imbues her with a profound corruption.	-1	0	0
-6342	743	0	0	6336	7	2	0	8	Heart of Fear	The Empress lashes out a swirling heart of dark energy, which selects 3 random players and inflicts Shadow damage in their direction. Standing between the heart and the selected player will cause you to take the damage instead of them.	-1	0	132851
-6343	743	6486	0	6341	18	2	0	1	Eyes of the Empress	"The Empress gazes deeply into the eyes of her current target. Standing directly into the gaze of the Empress will eventually turn you into a sha minion.
+In 25 Player raids, Shek\'zeer looses a Dread Screech at five random players.$]"	-1	0	252188
+6339	743	6342	0	6336	7	2	0	0	Cry of Terror	The Empress incites terror on a random player, causing them to inflict $123743s1 Shadow damage to players every $123788t1 sec.	-1	0	136131
+6340	743	6341	6545	0	9	0	1	0	Stage Two: The Empress Retreats!	When the Empress runs of out sha energy, she retreats to her chrysalis and calls for her royal guard.	-1	0	0
+6341	743	0	6343	0	21	0	1	0	Stage Three: Ultimate Corruption!	At 30% remaining health, the Sha of Fear breaks the Empress\' chrysalis and imbues her with a profound corruption.	-1	0	0
+6342	743	0	0	6336	8	2	2	8	Heart of Fear	The Empress lashes out a swirling heart of dark energy, which targets 2 random players and inflicts $125638s2 Shadow damage in their direction. If a player stands between the heart and a targeted player, then they take the damage instead of the target.	12	0	132851
+6343	743	6547	6546	6341	22	2	0	1	Eyes of the Empress	The Empress gazes deeply into the eyes of her current target, inflicting the target with the Eyes of the Empress effect. This effect stacks up to $123707s1 times. The Empress charms and transforms a player into a Servant of the Empress if the effect reaches maximum stacks.	-1	0	133016
+6344	741	6299	0	0	5	2	2	8	Call to Arms	Wind Lord Mel\'jarak calls for a group of his swarm to aid him, breaking them free from crowd control effects and making them immune to crowd control effects for $d.	12	0	236313
+6345	744	6346	0	0	1	2	0	0	Tempest Slash	Blade Lord Ta\'yak slashes the air, creating a tornado that inflicts $122853s1 Nature damage and knocks away any enemies in it\'s path.	-1	0	236154
+6346	744	6347	0	0	2	2	0	32	Unseen Strike	Blade Lord Ta\'yak fixes his eyes on a random player and then disappears. He reappears 5 sec. later and inflicts $122994s1 Physical damage split amongst all players in a $122994a1 yard long cone in front of him.	-1	0	458737
+6347	744	6348	0	0	3	2	0	0	Wind Step	Blade Lord Ta\'yak teleports to random player and inflicts a quick strike. The blow causes all targets within $123459A1 yards to bleed for $123180s1 Physical damage every $123180t1 sec. for $123180d1.	-1	0	135863
+6348	744	6349	0	0	4	2	0	0	Intensify	Blade Lord Ta\'yak\'s fury intensifies during the encounter. Every $123470t1 sec. Ta\'yak increases his damage dealt by $123471s1% and his haste by $123471s2%. This effect stacks.	-1	0	136088
+6349	744	6350	0	0	5	2	0	1	Overwhelming Assault	Blade Lord Ta\'yak performs an overwheming attack on his current target, inflicting $123474s1% of a normal melee swing\'s attack. The attack leaves the target\'s defenses exposed, increasing the target\'s damage taken when an Overwhelming Assault lands by $123474s2% for $123474d.	-1	0	236317
+6350	744	0	0	0	6	2	0	0	Storm Unleashed	"Blade Lord Ta\'yak traps all of the players within a mass of tornados, moving them to one end of the hall. The constant buffeting of the powerful winds on every player inflicts $124783s1 Nature damage every $124785t1 sec. This damage increases with Ta\'yak\'s current Intensity level.
 
-At $123707s1 stacks, the target becomes charmed."	-1	0	133016
-6344	741	6299	0	0	5	2	2	0	Call to Arms	Wind Lord Mel\'jarak calls for a group of his swarm to aid him, breaking them free from crowd control effects and making them immune to crowd control effects for $d.	12	0	236313
-6345	744	6346	0	0	1	2	0	0	Tempest Slash	Blade Lord Ta\'yak slashes the air creating a tornado that deals $122853s1 Nature damage and knocking away any enemies in it\'s path.	-1	0	236154
-6346	744	6347	0	0	2	2	0	32	Unseen Strike	Blade Lord Ta\'yak fixes his eyes on an enemy and disappears, reappearing 5 secs later and infcliting $122994s1 Physical damage split amongst all enemies near his target.	-1	0	458737
-6347	744	6348	0	0	3	2	0	0	Wind Step	Blade Lord Ta\'yak teleports to a target and inflicts a quick strike causing all targets within 10 yards to bleed for $123180s1 damage every $123180t1 sec for $123180d1.	-1	0	135863
-6348	744	6349	0	0	4	2	0	0	Intensify	Blade Lord Ta\'yak gains increased $123471s1 damage and haste every 30 secs.	-1	0	136088
-6349	744	6350	0	0	5	2	0	1	Overwhelming Assault	Blade Lord Ta\'yak inflicts $123474s1% weapon damage to his current target and increases damage from further Overwhelming Assaults by $123474s2% for $d1.	-1	0	236317
-6350	744	0	0	0	6	2	0	0	Storm Unleashed	Blade Lord Ta\'yak unleashes a torrent of tornados which inflict $123599s1 Nature damage and knock target away.	-1	0	572029
+Ta\'yak then assumes position at the opposite end of the hall, then unleashes a barrage of tornados towards the players. Tornados that pass over players knock the player away."	-1	0	572029
 6351	586	6352	0	0	1	2	0	512	Leech Poison	Hadronox poisons all players within $53030A1 yards for $53030d, draining $53030s1 health every second, transfering it to himself. If any player dies while afflicted, Hadronox will be healed for $53800s1% of his maximum health.	-1	0	136067
 6352	586	6353	0	0	2	2	0	0	Acid Cloud	Hadronox sprays acid at a player\'s location, creating a cloud that inflicts $53400s1 Nature damage every second to all players inside of it. Acid Cloud lasts for $53400d.	-1	0	136006
 6353	586	6354	0	0	3	2	0	0	Web Grab	Hadronox shoots out a sticky web, inflicting $57731s2 Physical damage to all players witihin $57731A1 yards, pulling them towards him.	-1	0	136113
@@ -3736,20 +3736,20 @@ Players standing in Noise Cancelling zones suffer $122706s1% less damage from th
 6475	399	4637	0	4635	4	2	0	128	Chromatic Chaos	Gyth is empowered with chromatic energy, increasing his chance to hit by $16337s1 and reduces his damage taken by $16337s2% for $16337d.	-1	0	135753
 6476	419	0	0	0	2	1	1	0	Chomper	Chomper fights alongside Grubbis.	-1	4906	0
 6477	727	6204	0	0	1	0	0	0	Hurl Brick	Ner\'onok throws rubble from the damage bridge at his target, inflicting Physical damage equal to $121762s1% of weapon damage.	-1	0	0
-6478	743	6480	6479	6340	9	1	0	0	Dynasty Warrior		-1	43158	0
-6479	743	6481	0	6478	10	2	0	0	Fixate	The Dynasty Warrior fixates on a random player for $124070d.	-1	0	236188
-6480	743	0	6483	6340	13	1	0	0	Empyreal General		-1	43159	0
-6481	743	6482	0	6478	11	2	0	0	Dispatch	The Dynasty Warrior will periodically shoot blades at random players, inflicting $124080s1 damage.	-1	0	615303
-6482	743	0	0	6478	12	2	0	32	Sticky Resin	"The Dynasty Warrior coats the ground in a sticky resin which will cling to players that pass through it, slowing their movement speed by $124097s1%. After $124097d, the resin will slide off of the player and back onto the ground. 
+6478	743	6480	6479	6340	11	1	0	0	Kor\'thik Windblade		-1	43158	0
+6479	743	6481	0	6478	12	2	0	0	Fixate	The Kor\'thik Windblade fixates on a random player for $124070d.	-1	0	236188
+6480	743	0	6483	6340	17	1	0	0	Amberguard Elite		-1	43159	0
+6481	743	6553	0	6478	13	2	0	0	Dispatch	The Kor\'thik Windblade periodically shoots blades at random players, inflicting $124080s1 Physical damage.	-1	0	615303
+6482	743	0	6552	6478	15	2	0	32	Sticky Resin	"The Kor\'thik Windblade coats the ground in a sticky resin which clings to players that pass through it, slowing their movement speed by $124097s1%. After $124097d, the resin slides off of the player and back onto the ground. 
 
-Amassing enough amber resin into one area will eventually cause it to congeal and harden, forming an Amber Trap."	-1	0	525026
-6483	743	6484	0	6480	14	2	0	0	Poison Bomb	The Empyreal General hurls poison bombs at players, inflicting $124777s1 Nature damage.	-1	0	538441
-6484	743	6485	0	6480	15	2	0	0	Toxic Slime	The Empyreal General inflicts $124807s2 Nature damage to players in a $124807A1 yard cone in front of it.	-1	0	134437
-6485	743	0	0	6480	16	2	0	1	Poison-Drenched Blades	The poison-drenched blades of the Empyreal General  seeps into every pore of his current enemy target, causing them to erupt with a toxic substance. The fumes from this poison cause the attacks of nearby friendly players to occasionally deal additional $124833 s1 Nature damage.	-1	0	0
-6486	743	6487	0	6341	19	2	0	0	Calamity	The Empress inflicts damage equal to $124845s1% of all players\' health.	-1	0	136189
-6487	743	6488	0	6341	20	2	0	0	Consuming Terror	The Empress inflicts $124849s2 Shadow damage and fears players in a $124849A1 yard cone in front of her.	-1	0	136204
-6488	743	6489	0	6341	21	2	0	0	Visions of Demise	The Empress inflicts a vision of the enemy\'s demise. After $124862d they will be feared, and inflict $124868s1 Shadow damage to all surrounding allies within $124868A1 yards.	-1	0	237298
-6489	743	0	0	6341	22	2	0	8	Heart of Fear	The Empress lashes out a swirling heart of dark energy, which selects 3 random players and inflicts Shadow damage in their direction. Standing between the heart and the selected player will cause you to take the damage instead of them.	-1	0	0
+Amassing enough amber resin into one area causes it to congeal and harden, forming an Amber Trap."	-1	0	525026
+6483	743	6484	0	6480	18	2	0	0	Poison Bomb	The Amberguard Elite hurls poison bombs at random players, inflicting $124777s1 Nature damage.	-1	0	538441
+6484	743	6485	0	6480	19	2	0	0	Toxic Slime	The Amberguard Elite inflicts $124807s2 Nature damage to players in a $124807A1 yard cone in front of it.	-1	0	134437
+6485	743	0	0	6480	20	2	0	1	Poison-Drenched Armor	The poison-drenched blades of the Amberguard Elite seeps into every pore of his current enemy target, causing them to erupt with a toxic substance. The fumes from this poison cause the attacks of nearby friendly players to occasionally deal additional $124833 s1 Nature damage.	-1	0	132108
+6486	743	6487	0	6341	25	2	0	0	Calamity	The Empress inflicts Shadow damage to each player equal to $124845s1% of their current health.	-1	0	136189
+6487	743	6488	0	6341	26	2	0	128	Consuming Terror	The Empress unleashes a Consuming Terror in a $124849A1 yard cone in front of her, inflicting $124849s1 Shadow damage and fearing players within the cone for $124849d.	-1	0	136204
+6488	743	6489	0	6341	27	2	0	128	Visions of Demise	The Empress inflicts on two random players a vision of the their own demise. The vision reveals itself to the player after $124862d., and they then suffer in fear and inflict $124868s1 Shadow damage every $124863t2 sec. to all surrounding allies within $124868A1 yards for $124863d.	-1	0	237298
+6489	743	0	0	6341	28	2	2	8	Heart of Fear	The Empress lashes out a swirling heart of dark energy, which targets 3 random players and inflicts Shadow damage in their direction. If a player stands between the heart and a targeted player, then they take the damage instead of the target.	12	0	132851
 6490	674	5641	0	5638	7	2	2	64	Heal	After resurrecting Commander Durand, High Inquisitor Whitemane begins to use her Heal spell. This spell heals her target for $12039s1 damage.	3	0	135915
 6491	690	0	0	5924	13	2	1	64	Dark Bolt	The Glintrok Hexxer unleashes a Dark Bolt at his current target, inflicting damage equivalent to its melee swing as Shadow damage.	-1	0	425953
 6492	690	0	0	5922	10	2	1	64	Fire Bolt	The Glintrok Oracle unleashes a Fire Bolt at his current target, inflicting damage equivalent to its melee swing as Fire damage.	-1	0	135809
@@ -3759,3 +3759,14 @@ Amassing enough amber resin into one area will eventually cause it to congeal an
 6526	679	5779	0	5771	11	2	0	1	Rend Flesh	Rends the flesh of the target, causing Physical damage every $125206t1 sec.	-1	0	132141
 6527	679	5782	0	5773	17	2	0	1	Rend Flesh	Rends the flesh of the target, causing Physical damage every $125206t1 sec.	-1	0	132141
 6528	679	5785	0	5774	23	2	0	1	Rend Flesh	Rends the flesh of the target, causing Physical damage every $125206t1 sec.	-1	0	132141
+6544	743	0	0	6337	5	1	0	0	Servant of the Empress	A player transformed and charmed by the Empress into her servant inflicts $123713s4% more damage and $123713s6% more healing, has $123713s5% increased health, and becomes immune to crowd control effects and snares.	-1	41677	0
+6545	743	6478	0	6340	10	2	0	0	Band of Valor	Members of the Empress\' Royal Guard inflict $125422s1% more damage and take $125422s2% less damage for every other member of the Royal Guard within $125419a1 yards.	-1	0	132333
+6546	743	0	0	6343	23	1	0	1	Servant of the Empress	A player transformed and charmed by the Empress into her servant inflicts $123713s4% more damage and $123713s6% more healing, has $123713s5% increased health, and becomes immune to crowd control effects and snares.	-1	41677	0
+6547	743	6486	0	6341	24	2	0	0	Sha Energy	"Grand Empress Shek\'zeer emits Sha Energy at two random players, inflicting $125464s1 Shadow damage.$[1,3,4
+
+In 25 Player raids, Shek\'zeer emits Sha Energy at five random players.$]"	-1	0	237566
+6548	737	0	0	6247	22	2	2	16	Amber Globule	Un\'sok causes two spheres of destructive amber to form from the pools at the edges of the room, each of which fixates on a random player. If an Amber Globule comes into contact with its primary target, it explodes, dealing $125508s1 Nature damage to all players within $125508A1 yards. If two Amber Globules touch each other, their energies will neutralize and dissipate harmlessly.	12	0	463485
+6550	742	0	0	6310	6	1	2	8	The Dark of Night	The Dark of Night appears at a random location and moves towards the nearest Sunbeam. The Dark of Night extinguishes a Sunbeam upon reaching it.	12	42973	0
+6551	742	0	0	6315	17	1	2	12	The Light of Day	The Light of Day appears at a random location. Interacting with The Light of Day restores Mana every $123716t1 sec. and increases healing done by for $123716d. The amount of mana restored increases while the healing done decreases over the duration of the effect.	12	42960	0
+6552	743	0	0	6482	16	2	0	32	Amber Trap	Being encased in amber deals $125822s2% of the encapsulated victim\'s health every $125822t2 seconds.	-1	0	463485
+6553	743	6482	0	6478	14	2	0	0	Sonic Blade	The Kor\'thik Windblade slashes his current target with a sonic blade, dealing $125886s1% weapon damage and interrupting spellcast.	-1	0	252188

@@ -301,8 +301,8 @@ This battlefield is coveted by the blood elves for its rich energy deposits."	21
 Temple of Kotmogu is a 10 vs 10 powerball battleground where each side attempts to control the Mogu Artifact for as long as possible in different scoring zones."	"The Horde and Alliance wage battle for the ancient Mogu artifact that is foretold to hold great powers.
 
 Temple of Kotmogu is a 10 vs 10 powerball battleground where each side attempts to control the Mogu Artifact for as long as possible in different scoring zones."	251	1	NaN	0	0	-1	4	0	0	-1
-999	BFTAllianceScenario	1	15965	1	(UNUSED) Scenario: Theramore - Alliance	0			3	1	NaN	0	0	0	4	0	0	-1
-1000	BFTHordeScenario	1	15965	1	(UNUSED) Scenario: Theramore - Horde	0			-1	1	NaN	0	0	-1	4	0	0	-1
+999	BFTAllianceScenario	1	15965	1	Scenario: Theramore (H)	0			3	1	NaN	0	0	1260	4	0	0	-1
+1000	BFTHordeScenario	1	15965	1	Scenario: Theramore (A)	0			-1	1	NaN	0	0	360	4	0	0	-1
 1001	ScarletSanctuaryArmoryAndLibrary	1	9444957	1	Scarlet Halls	0			190	1	0	2869	-820	-1	4	0	0	-1
 1004	ScarletMonasteryCathedralGY	1	9444957	1	Scarlet Monastery	0			190	1	NaN	0	0	-1	4	0	0	-1
 1005	BrewmasterScenario01	1	8396381	1	Scenario: Lightning Lager	0			-1	1	NaN	0	0	-1	4	0	0	-1
@@ -320,7 +320,7 @@ Temple of Kotmogu is a 10 vs 10 powerball battleground where each side attempts 
 1031	ProvingGroundsScenario	1	8396381	1	Scenario: Proving Grounds	0			0	1	NaN	0	0	-1	4	0	0	-1
 1032	PetBattleJadeForest	1	8404573	1	Pet Battle - Jade Forest	0			-1	1	NaN	0	0	-1	4	0	0	-1
 1035	ValleyOfPowerScenario	1	8396381	1	Scenario: Temple of Katmogu	0			-1	1	NaN	0	0	-1	4	0	0	-1
-1043	RingOfValorScenario	5	7773	1	Hellscream Arena	0			-1	1	NaN	0	0	-1	4	0	0	-1
+1043	RingOfValorScenario	0	7773	1	Hellscream Arena	0			-1	1	NaN	0	0	-1	4	0	0	-1
 1048	BrewmasterScenario03	1	8404573	1	Scenario: Unga Ingoo	0			-1	1	NaN	0	0	-1	4	0	0	-1
 1049	BlackOxTempleScenario	5	8404573	1	(UNUSED) Scenario: Black Ox Temple	0			-1	1	NaN	0	0	-1	4	0	0	-1
 1050	ScenarioKlaxxiIsland	1	8404573	1	Scenario: Assault on Zan\'vess	0			-1	1	NaN	0	0	720	4	0	0	-1

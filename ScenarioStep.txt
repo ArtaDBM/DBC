@@ -25,14 +25,27 @@ field0	field1	field2	field3	field4	field5
 141	21332	58	3	Summon and defeat the wandering yaungol warrior, Chagan Firehoof.	Chagan Firehoof
 142	21334	58	4	Summon and defeat the Feng the monkey monk, and then claim your reward from Wodin.	Face-Biter Feng
 154	21845	63	0	Help Mayor Bramblestaff\'s assistants gather the ingredients for the Kun-Lai Kicker.	The Brewmoon Festival!
-155	21849	63	2	Stop the Yaungol attack on Binan Village.	The Yaungol attack!
+155	21849	63	2	Stop the Bataari invasion on Binan Village.	The Yaungol attack!
 156	21851	63	3	Defeat Warbringer Qobi.	Warbringer Qobi
 157	21853	63	1	Investigate the Yaungol sightings.	The Scouts Report.
 159	21993	65	0	Assist Blanche in Brewing her famous Boomer\'s Brew.	Make Boomer\'s Brew
 160	21995	65	1	Escort Blanche down Thunderpaw Road.	Road to Thunderpaw
 161	21999	65	2	Defeat Borokhula the Destroyer.	Save Thunderpaw Refuge
 166	21050	39	2	Destroy the Abomination of Anger.	Destroy the Sha
-167	22571	68	0	[PH] Kill Zhun	[PH] Kill Zhun
-168	22596	69	0	Destroy the guardian of Zan\'vess.	Guardian of Zan\'vess
-169	22598	69	1	Collect a large quantity of amber and kill the mantid invaders.	The Gold Flows Freely
-170	22601	69	2	Eliminate the mantid secret weapon, the mutant amber scorpion.	The Secret Weapon
+167	22571	68	3	Defeat General Zhun, Herald of the Thunder King.	Kill General Zhun
+168	22596	69	0	Cross the Briny Muck and destroy the guardian of Zan\'vess.	Guardian of Zan\'vess
+169	22598	69	1	Weaken the mantid forces of Zan\'vess and steal their amber.	The Gold Flows Freely
+170	22601	69	2	Eliminate the mantid\'s secret weapon, the venomsting matriarch.	The Secret Weapon
+171	22730	68	0	Rescue the captured Golden Lotus expedition.	Rescue the Golden Lotus
+172	22732	68	1	Stop Loremaster Fu\'s execution.	Stop the Execution
+173	22737	68	2	Defeat the defenders of the four ancient Mogu artifacts.	Capture the Artifacts
+174	0	70	0	[PH] Defeat the three masters.	[PH] Defeat Masters
+175	0	71	0	Find Jaina Proudmoore in the ruins of Theramore.	Find Jaina
+179	22975	72	0	Rig powder barrels on all six ships.	To the Waterline!
+180	22989	72	1	Inform Blastmaster Sparkfuse of your success.	The Blastmaster
+181	22977	72	2	Slay Baldruc and his gryphons.	Gryphon, Down
+182	22980	72	3	Destroy Big Bessa and sabotage any unmanned tanks.	Tanks for Nothing!
+183	22986	72	4	Slay Hedric Evencane and free Thalen Songweaver from Foothold Citadel.	Fly, Spy!
+184	0	71	1	Destroy any remaining horde in the ruins of Theramore.  (optional) Lay to rest the remains of any fallen Theramore citizens.	Cleansing the Filth
+185	0	71	2	Destroy the horde siege engine that yet remains in the ruins of Theramore.	Destroy the Destroyer
+186	0	71	3	Retrieve the banner of Theramore from the horde shaman.	One Last Request

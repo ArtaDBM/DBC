@@ -284,7 +284,7 @@ m_id	m_mapId	m_difficulty	m_requirement	m_resetTime	m_maxPlayers	m_difficultyStr
 1866	960	2	Heroic Difficulty requires you to be level 90.	86400	5	DUNGEON_DIFFICULTY_5PLAYER_HEROIC
 1867	961	1	You must be at least level 85 to enter.	0	5	DUNGEON_DIFFICULTY_5PLAYER
 1868	961	2	Heroic Difficulty requires you to be level 90.	86400	5	DUNGEON_DIFFICULTY_5PLAYER_HEROIC
-1869	962	1	Gate of the Setting Sun requires you to be level 90.	0	5	DUNGEON_DIFFICULTY1
+1869	962	1	Gate of the Setting Sun is only available as a Heroic Difficulty level 90 dungeon.	0	5	DUNGEON_DIFFICULTY1
 1870	962	2	Heroic Difficulty requires you to be level 90.	86400	5	DUNGEON_DIFFICULTY2
 1875	967	3	You must be at least level 85 and in a raid group to enter.	604800	10	RAID_DIFFICULTY1
 1876	967	4	You must be at least level 85 and in a raid group to enter.	604800	25	RAID_DIFFICULTY2
@@ -304,8 +304,8 @@ m_id	m_mapId	m_difficulty	m_requirement	m_resetTime	m_maxPlayers	m_difficultyStr
 2013	995	1		0	0	
 2014	995	2		0	0	
 2022	998	0		0	0	
-2023	999	1		0	0	
-2024	1000	1		0	0	
+2023	999	1		0	3	
+2024	1000	1		0	3	
 2037	1001	1	You must be at least level 21 to enter.	0	5	DUNGEON_DIFFICULTY1
 2038	1001	2	Heroic Difficulty requires you to be level 90.	86400	5	DUNGEON_DIFFICULTY2
 2045	1004	1	You must be at least level 23 to enter.	0	5	DUNGEON_DIFFICULTY_5PLAYER
@@ -316,7 +316,7 @@ m_id	m_mapId	m_difficulty	m_requirement	m_resetTime	m_maxPlayers	m_difficultyStr
 2061	1008	4	You must be at least level 90 and in a raid group to enter.	604800	25	RAID_DIFFICULTY2
 2066	289	2		0	0	
 2072	1010	0		0	0	
-2074	1011	1	You must be at least level 90 to enter.	0	5	DUNGEON_DIFFICULTY1
+2074	1011	1	Siege of Niuzao Temple is only available as a Heroic Difficulty level 90 dungeon.	0	5	DUNGEON_DIFFICULTY1
 2075	1011	2	You must be at least level 90 to enter.	86400	5	DUNGEON_DIFFICULTY1
 2076	1008	5	You must have completed the Mogu\'shan Vaults achievement before attempting Heroic difficulty.	604800	10	RAID_DIFFICULTY3
 2077	1008	6	You must have completed the Mogu\'shan Vaults achievement before attempting Heroic difficulty.	604800	25	RAID_DIFFICULTY4

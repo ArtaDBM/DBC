@@ -8,7 +8,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 12	-1	-1	11	Level 70	Reach level 70.	92	10	7	4100	3274		0	0
 13	-1	-1	12	Level 80	Reach level 80.	92	10	8	4100	3275		0	0
 15	-1	-1	1017	Plenty of Pets	Collect 15 unique companion pets.	15118	10	2	131072	1522		0	0
-16	-1	-1	0	Did Somebody Order a Knuckle Sandwich?	Raise your unarmed skill to 400.	81	0	231	0	1997		0	0
+16	-1	-1	0	Did Somebody Order a Knuckle Sandwich?	Raise your unarmed skill to 400.	81	0	239	0	1997		0	0
 31	-1	-1	0	A Simple Re-Quest	Complete a daily quest every day for five consecutive days.	96	10	15	0	3481		0	0
 32	-1	-1	508	2000 Quests Completed	Complete 2000 quests.	96	10	7	0	3415		0	0
 33	1	-1	0	Nothing Boring About Borean	Complete 130 quests in Borean Tundra.	14863	10	1	136	3336		0	0
@@ -24,7 +24,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 43	-1	-1	0	Explore Kalimdor	Explore the regions of Kalimdor.	97	25	2	131072	3491		0	0
 44	-1	-1	0	Explore Outland	Explore the regions of Outland.	97	25	3	131072	3492		0	0
 45	-1	-1	0	Explore Northrend	Explore the regions of Northrend.	97	25	4	131072	3493	Reward: Tabard of the Explorer	0	0
-46	-1	-1	0	World Explorer	Explore Eastern Kingdoms, Kalimdor, Outland, Northrend, and the areas revealed by the Cataclysm.	97	50	6	131072	2759	Title Reward: The Explorer	0	0
+46	-1	-1	0	World Explorer	Explore Eastern Kingdoms, Kalimdor, Outland, Northrend, the areas revealed by the Cataclysm, and Pandaria.	97	50	6	131072	2759	Title Reward: The Explorer	0	0
 49	-1	30	0	Alterac Valley victories	Alterac Valley victories	153	0	10	1	1		0	0
 50	-1	566	0	Eye of the Storm victories	Eye of the Storm victories	153	0	21	1	1		0	0
 51	-1	529	0	Arathi Basin victories	Arathi Basin victories	153	0	13	1	1		0	0
@@ -51,7 +51,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 105	-1	-1	0	Warsong Gulch victories	Warsong Gulch victories	153	0	33	1	4		0	0
 107	-1	-1	0	Creatures killed	Creatures killed	135	0	1	9	4		0	0
 108	-1	-1	0	Critters killed	Critters killed	135	0	4	1	4		0	0
-110	-1	-1	0	Lich King 5-player boss killed the most	Lich King 5-player boss killed the most	14807	0	21	17	4		0	1467
+110	-1	-1	0	Lich King 5-player boss killed the most	Lich King 5-player boss killed the most	14807	0	9	17	4		0	1467
 112	-1	-1	0	Deaths from drowning	Deaths from drowning	126	0	1	1	4		0	0
 113	-1	-1	0	Deaths from fatigue	Deaths from fatigue	126	0	3	1	4		0	0
 114	-1	-1	0	Deaths from falling	Deaths from falling	126	0	4	1	4		0	0
@@ -213,44 +213,44 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 407	-1	-1	406	High Five: 1750	Earn a 1750 personal rating in the 5v5 bracket of the arena.	165	10	17	0	3045		0	0
 408	-1	-1	0	Hot Streak	Win ten ranked matches in a row.	165	10	20	0	11		0	0
 409	-1	-1	0	Last Man Standing	Be the sole survivor at the end of a ranked 5v5 match.	165	10	22	0	2176		0	0
-411	-1	-1	0	Murky	Proud owner of Murky from the 2005 BlizzCon in Anaheim, California.	81	0	100	0	2316		1	0
-412	-1	-1	0	Murloc Costume	Proud owner of the Murloc Costume from the 2007 BlizzCon in Anaheim, California.	81	0	101	0	1751		1	0
-414	-1	-1	0	Tyrael\'s Hilt	Proud owner of Tyrael\'s Hilt from the 2008 World Wide Invitational in Paris, France.	81	0	99	0	2657		1	0
-415	-1	-1	0	Big Blizzard Bear	Proud owner of the Big Blizzard Bear from the 2008 BlizzCon.	81	0	102	131072	3895		1	0
-416	-1	-1	0	Scarab Lord	Opened the gates of Ahn\'Qiraj.	81	0	207	0	3567		0	0
-418	-1	-1	0	Merciless Gladiator	Achieved Merciless Gladiator title.	81	0	192	0	3593		0	0
-419	-1	-1	0	Vengeful Gladiator	Achieved Vengeful Gladiator title.	81	0	193	0	3594		0	0
-420	-1	-1	0	Brutal Gladiator	Achieved Brutal Gladiator title.	81	0	194	0	3595		0	0
-424	-1	-1	0	Why? Because It\'s Red	Obtain a Red Qiraji Resonating Crystal.	81	0	176	131072	1812		1	0
-425	-1	-1	0	Atiesh, Greatstaff of the Guardian	Wielder of Atiesh, Greatstaff of the Guardian.	81	0	179	0	2757		1	0
-426	-1	-1	0	Warglaives of Azzinoth	Wielder of a set of Warglaives of Azzinoth.	81	0	181	0	2596		0	0
-428	-1	-1	0	Thunderfury, Blessed Blade of the Windseeker	Wielder of Thunderfury, Blessed Blade of the Windseeker.	81	0	178	0	2756		0	0
-429	-1	-1	0	Sulfuras, Hand of Ragnaros	Wielder of Sulfuras, Hand of Ragnaros.	81	0	177	0	2444		0	0
-430	-1	-1	0	Amani War Bear	Owner of Amani War Bear.	81	0	175	131072	957		1	0
-431	-1	-1	0	Hand of A\'dal	"Earned the title, \Hand of A\'dal\""."""	81	0	145	0	2570		0	0
-432	-1	-1	0	Champion of the Naaru	"Earned the title, \Champion of the Naaru\""."""	81	0	144	0	2843		0	0
-433	1	-1	0	Grand Marshal	"Earned the title, \Grand Marshal\""."""	81	0	143	0	3371		0	0
-434	1	-1	0	Field Marshal	"Earned the title, \Field Marshal\""."""	81	0	142	0	3370		0	0
-435	1	-1	0	Commander	"Earned the title, \Commander\""."""	81	0	140	0	3368		0	0
-436	1	-1	0	Lieutenant Commander	"Earned the title, \Lieutenant Commander\""."""	81	0	139	0	3367		0	0
-437	1	-1	0	Knight-Champion	"Earned the title, \Knight-Champion\""."""	81	0	138	0	3366		0	0
-438	1	-1	0	Knight-Captain	"Earned the title, \Knight-Captain\""."""	81	0	137	0	3365		0	0
-439	1	-1	0	Knight	"Earned the title, \Knight\""."""	81	0	135	0	3363		0	0
-440	1	-1	0	Sergeant Major	"Earned the title, \Sergeant Major\""."""	81	0	134	0	3362		0	0
-441	1	-1	0	Master Sergeant	"Earned the title, \Master Sergeant\""."""	81	0	133	0	3361		0	0
-442	1	-1	0	Private	"Earned the title, \Private\""."""	81	0	130	0	3358		0	0
-443	0	-1	0	High Warlord	"Earned the title, \High Warlord\""."""	81	0	128	0	3357		0	0
-444	0	-1	0	Lieutenant General	"Earned the title, \Lieutenant General\""."""	81	0	125	0	3354		0	0
-445	0	-1	0	Warlord	"Earned the title, \Warlord\""."""	81	0	127	0	3356		0	0
-446	0	-1	0	General	"Earned the title, \General\""."""	81	0	126	0	3355		0	0
-447	0	-1	0	Champion	"Earned the title, \Champion\""."""	81	0	124	0	3353		0	0
-448	0	-1	0	Centurion	"Earned the title, \Centurion\""."""	81	0	123	0	3352		0	0
-449	0	-1	0	Blood Guard	"Earned the title, \Blood Guard\""."""	81	0	121	0	3350		0	0
-450	0	-1	0	Senior Sergeant	"Earned the title, \Senior Sergeant\""."""	81	0	118	0	3347		0	0
-451	0	-1	0	Stone Guard	"Earned the title, \Stone Guard\""."""	81	0	120	0	3349		0	0
-452	0	-1	0	First Sergeant	"Earned the title, \First Sergeant\""."""	81	0	119	0	3348		0	0
-453	0	-1	0	Sergeant	"Earned the title, \Sergeant\""."""	81	0	117	0	3346		0	0
-454	0	-1	0	Scout	"Earned the title, \Scout\""."""	81	0	115	0	3344		0	0
+411	-1	-1	0	Murky	Proud owner of Murky from the 2005 BlizzCon in Anaheim, California.	81	0	101	0	2316		1	0
+412	-1	-1	0	Murloc Costume	Proud owner of the Murloc Costume from the 2007 BlizzCon in Anaheim, California.	81	0	102	0	1751		1	0
+414	-1	-1	0	Tyrael\'s Hilt	Proud owner of Tyrael\'s Hilt from the 2008 World Wide Invitational in Paris, France.	81	0	100	0	2657		1	0
+415	-1	-1	0	Big Blizzard Bear	Proud owner of the Big Blizzard Bear from the 2008 BlizzCon.	81	0	103	131072	3895		1	0
+416	-1	-1	0	Scarab Lord	Opened the gates of Ahn\'Qiraj.	81	0	215	0	3567		0	0
+418	-1	-1	0	Merciless Gladiator	Achieved Merciless Gladiator title.	81	0	193	0	3593		0	0
+419	-1	-1	0	Vengeful Gladiator	Achieved Vengeful Gladiator title.	81	0	194	0	3594		0	0
+420	-1	-1	0	Brutal Gladiator	Achieved Brutal Gladiator title.	81	0	195	0	3595		0	0
+424	-1	-1	0	Why? Because It\'s Red	Obtain a Red Qiraji Resonating Crystal.	81	0	177	131072	1812		1	0
+425	-1	-1	0	Atiesh, Greatstaff of the Guardian	Wielder of Atiesh, Greatstaff of the Guardian.	81	0	180	0	2757		1	0
+426	-1	-1	0	Warglaives of Azzinoth	Wielder of a set of Warglaives of Azzinoth.	81	0	182	0	2596		0	0
+428	-1	-1	0	Thunderfury, Blessed Blade of the Windseeker	Wielder of Thunderfury, Blessed Blade of the Windseeker.	81	0	179	0	2756		0	0
+429	-1	-1	0	Sulfuras, Hand of Ragnaros	Wielder of Sulfuras, Hand of Ragnaros.	81	0	178	0	2444		0	0
+430	-1	-1	0	Amani War Bear	Owner of Amani War Bear.	81	0	176	131072	957		1	0
+431	-1	-1	0	Hand of A\'dal	"Earned the title, \Hand of A\'dal\""."""	81	0	146	0	2570		0	0
+432	-1	-1	0	Champion of the Naaru	"Earned the title, \Champion of the Naaru\""."""	81	0	145	0	2843		0	0
+433	1	-1	0	Grand Marshal	"Earned the title, \Grand Marshal\""."""	81	0	144	0	3371		0	0
+434	1	-1	0	Field Marshal	"Earned the title, \Field Marshal\""."""	81	0	143	0	3370		0	0
+435	1	-1	0	Commander	"Earned the title, \Commander\""."""	81	0	141	0	3368		0	0
+436	1	-1	0	Lieutenant Commander	"Earned the title, \Lieutenant Commander\""."""	81	0	140	0	3367		0	0
+437	1	-1	0	Knight-Champion	"Earned the title, \Knight-Champion\""."""	81	0	139	0	3366		0	0
+438	1	-1	0	Knight-Captain	"Earned the title, \Knight-Captain\""."""	81	0	138	0	3365		0	0
+439	1	-1	0	Knight	"Earned the title, \Knight\""."""	81	0	136	0	3363		0	0
+440	1	-1	0	Sergeant Major	"Earned the title, \Sergeant Major\""."""	81	0	135	0	3362		0	0
+441	1	-1	0	Master Sergeant	"Earned the title, \Master Sergeant\""."""	81	0	134	0	3361		0	0
+442	1	-1	0	Private	"Earned the title, \Private\""."""	81	0	131	0	3358		0	0
+443	0	-1	0	High Warlord	"Earned the title, \High Warlord\""."""	81	0	129	0	3357		0	0
+444	0	-1	0	Lieutenant General	"Earned the title, \Lieutenant General\""."""	81	0	126	0	3354		0	0
+445	0	-1	0	Warlord	"Earned the title, \Warlord\""."""	81	0	128	0	3356		0	0
+446	0	-1	0	General	"Earned the title, \General\""."""	81	0	127	0	3355		0	0
+447	0	-1	0	Champion	"Earned the title, \Champion\""."""	81	0	125	0	3353		0	0
+448	0	-1	0	Centurion	"Earned the title, \Centurion\""."""	81	0	124	0	3352		0	0
+449	0	-1	0	Blood Guard	"Earned the title, \Blood Guard\""."""	81	0	122	0	3350		0	0
+450	0	-1	0	Senior Sergeant	"Earned the title, \Senior Sergeant\""."""	81	0	119	0	3347		0	0
+451	0	-1	0	Stone Guard	"Earned the title, \Stone Guard\""."""	81	0	121	0	3349		0	0
+452	0	-1	0	First Sergeant	"Earned the title, \First Sergeant\""."""	81	0	120	0	3348		0	0
+453	0	-1	0	Sergeant	"Earned the title, \Sergeant\""."""	81	0	118	0	3346		0	0
+454	0	-1	0	Scout	"Earned the title, \Scout\""."""	81	0	116	0	3344		0	0
 456	-1	615	0	Realm First! Obsidian Slayer	Participated in the realm first defeat of Sartharion the Onyx Guardian in 25-player mode.	81	0	91	768	3308	Title Reward: Obsidian Slayer	0	0
 457	-1	-1	0	Realm First! Level 80	First person on the realm to achieve level 80.	81	0	1	256	3275		0	0
 458	-1	-1	0	Realm First! Level 80 Rogue	First rogue on the realm to achieve level 80.	81	0	31	256	1834		0	0
@@ -263,12 +263,12 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 465	-1	-1	0	Realm First! Level 80 Paladin	First paladin on the realm to achieve level 80.	81	0	10	256	25		0	0
 466	-1	-1	0	Realm First! Level 80 Druid	First druid on the realm to achieve level 80.	81	0	7	256	261		0	0
 467	-1	-1	0	Realm First! Level 80 Shaman	First shaman on the realm to achieve level 80.	81	0	4	256	38		0	0
-468	0	-1	0	Grunt	"Earned the title, \Grunt\""."""	81	0	116	0	3345		0	0
-469	0	-1	0	Legionnaire	"Earned the title, \Legionnaire\""."""	81	0	122	0	3351		0	0
-470	1	-1	0	Corporal	"Earned the title, \Corporal\""."""	81	0	131	0	3359		0	0
-471	1	-1	0	Sergeant	"Earned the title, \Sergeant\""."""	81	0	132	0	3360		0	0
-472	1	-1	0	Knight-Lieutenant	"Earned the title, \Knight-Lieutenant\""."""	81	0	136	0	3364		0	0
-473	1	-1	0	Marshal	"Earned the title, \Marshal\""."""	81	0	141	0	3369		0	0
+468	0	-1	0	Grunt	"Earned the title, \Grunt\""."""	81	0	117	0	3345		0	0
+469	0	-1	0	Legionnaire	"Earned the title, \Legionnaire\""."""	81	0	123	0	3351		0	0
+470	1	-1	0	Corporal	"Earned the title, \Corporal\""."""	81	0	132	0	3359		0	0
+471	1	-1	0	Sergeant	"Earned the title, \Sergeant\""."""	81	0	133	0	3360		0	0
+472	1	-1	0	Knight-Lieutenant	"Earned the title, \Knight-Lieutenant\""."""	81	0	137	0	3364		0	0
+473	1	-1	0	Marshal	"Earned the title, \Marshal\""."""	81	0	142	0	3369		0	0
 477	-1	574	0	Utgarde Keep	Defeat the bosses in Utgarde Keep.	14806	10	1	0	3226		0	0
 478	-1	576	0	The Nexus	Defeat the bosses in The Nexus.	14806	10	3	0	3227		0	0
 479	-1	595	0	The Culling of Stratholme	Defeat the bosses in Caverns of Time: Stratholme.	14806	10	23	0	3248		0	0
@@ -321,7 +321,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 557	-1	-1	0	Superior	Equip a superior item in every slot with a minimum item level of 187.	92	10	31	0	133		0	0
 558	-1	-1	0	Greedy	Win a greed roll on a superior or better item above level 185 by rolling 100.	92	10	37	0	2802		0	0
 559	-1	-1	0	Needy	Win a need roll on a superior or better item above level 185 by rolling 100.	92	10	38	0	2801		0	0
-560	-1	-1	0	Deadliest Catch	Fish up Gahz\'ranka in Zul\'Gurub using the Mudskunk Lure.	81	0	255	0	1751		0	0
+560	-1	-1	0	Deadliest Catch	Fish up Gahz\'ranka in Zul\'Gurub using the Mudskunk Lure.	81	0	263	0	1751		0	0
 561	-1	-1	0	D.E.H.T.A\'s Little P.I.T.A.	Uphold D.E.H.T.A\'s beliefs by completing all of the quests up to and including the Assassination of Harold Lane.	14863	10	13	0	3476		0	0
 562	-1	533	0	The Arachnid Quarter (10 player)	Defeat the bosses of The Arachnid Quarter of Naxxramas in 10-player mode.	14922	10	6	0	1899		0	0
 563	-1	533	0	The Arachnid Quarter (25 player)	Defeat the bosses of The Arachnid Quarter of Naxxramas in 25-player mode.	14922	10	7	0	1899		0	0
@@ -410,10 +410,10 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 659	-1	-1	0	The Botanica	Defeat Warp Splinter.	14805	10	14	0	3642		1	0
 660	-1	-1	0	The Arcatraz	Defeat Harbinger Skyriss.	14805	10	15	0	3659		1	0
 661	-1	-1	0	Magister\'s Terrace	Defeat Kael\'thas Sunstrider.	14805	10	16	0	3665		1	0
-662	-1	-1	0	Collector\'s Edition: Mini-Diablo	Owner of the World of Warcraft Collector\'s Edition Mini-Diablo pet.	81	0	106	0	2795		1	0
-663	-1	-1	0	Collector\'s Edition: Panda	Owner of the World of Warcraft Collector\'s Edition Panda pet.	81	0	107	0	2531		1	0
-664	-1	-1	0	Collector\'s Edition: Zergling	Owner of the World of Warcraft Collector\'s Edition Zergling pet.	81	0	108	0	214		1	0
-665	-1	-1	0	Collector\'s Edition: Netherwhelp	Owner of the The Burning Crusade\'s Collector\'s Edition Netherwhelp pet.	81	0	109	0	2449		1	0
+662	-1	-1	0	Collector\'s Edition: Mini-Diablo	Owner of the World of Warcraft Collector\'s Edition Mini-Diablo pet.	81	0	107	0	2795		1	0
+663	-1	-1	0	Collector\'s Edition: Panda	Owner of the World of Warcraft Collector\'s Edition Panda pet.	81	0	108	0	2531		1	0
+664	-1	-1	0	Collector\'s Edition: Zergling	Owner of the World of Warcraft Collector\'s Edition Zergling pet.	81	0	109	0	214		1	0
+665	-1	-1	0	Collector\'s Edition: Netherwhelp	Owner of the The Burning Crusade\'s Collector\'s Edition Netherwhelp pet.	81	0	110	0	2449		1	0
 666	-1	-1	0	Auchenai Crypts	Defeat Exarch Maladaar.	14805	10	6	0	3590		1	0
 667	-1	543	0	Heroic: Hellfire Ramparts	Defeat the leaders of Hellfire Ramparts on Heroic Difficulty.	14805	10	17	0	3680		0	0
 668	-1	542	0	Heroic: The Blood Furnace	Defeat Keli\'dan the Breaker on Heroic Difficulty.	14805	10	18	0	3629		0	0
@@ -431,15 +431,15 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 680	-1	553	0	Heroic: The Botanica	Defeat Warp Splinter on Heroic Difficulty.	14805	10	30	0	3642		0	0
 681	-1	-1	0	Heroic: The Arcatraz	Defeat Harbinger Skyriss on Heroic Difficulty.	14805	10	31	0	3659		1	0
 682	-1	585	0	Heroic: Magister\'s Terrace	Defeat Kael\'thas Sunstrider on Heroic Difficulty.	14805	10	32	0	3664		0	0
-683	-1	-1	0	Collector\'s Edition: Frost Wyrm Whelp	Owner of the Wrath of the Lich King\'s Collector\'s Edition Frost Wyrm Whelp pet.	81	0	110	0	3752		1	0
-684	-1	-1	0	Onyxia\'s Lair (Level 60)	Defeat the classic, level 60 version of Onyxia.	81	0	212	0	3820		1	0
+683	-1	-1	0	Collector\'s Edition: Frost Wyrm Whelp	Owner of the Wrath of the Lich King\'s Collector\'s Edition Frost Wyrm Whelp pet.	81	0	111	0	3752		1	0
+684	-1	-1	0	Onyxia\'s Lair (Level 60)	Defeat the classic, level 60 version of Onyxia.	81	0	220	0	3820		1	0
 685	-1	-1	0	Blackwing Lair	Defeat Nefarian.	14808	10	23	0	3817		1	0
 686	-1	-1	0	Molten Core	Defeat Ragnaros.	14808	10	22	0	3819		1	0
 687	-1	-1	0	Temple of Ahn\'Qiraj	Defeat C\'Thun.	14808	10	24	0	3677		1	0
-688	-1	-1	0	Zul\'Gurub	Defeat Hakkar.	81	0	254	0	3651		0	0
+688	-1	-1	0	Zul\'Gurub	Defeat Hakkar.	81	0	262	0	3651		0	0
 689	-1	-1	0	Ruins of Ahn\'Qiraj	Defeat Ossirian the Unscarred.	14808	10	21	0	3681		1	0
 690	-1	-1	0	Karazhan	Defeat Prince Malchezaar in Karazhan.	14805	10	33	0	3828		1	0
-691	-1	-1	0	Zul\'Aman	Defeat Zul\'jin in the Zul\'Aman raid.	81	0	265	0	3630		0	0
+691	-1	-1	0	Zul\'Aman	Defeat Zul\'jin in the Zul\'Aman raid.	81	0	273	0	3630		0	0
 692	-1	-1	0	Gruul\'s Lair	Defeat Gruul the Dragonkiller in Gruul\'s Lair.	14805	10	34	0	3628		1	0
 693	-1	-1	0	Magtheridon\'s Lair	Defeat Magtheridon in Magtheridon\'s Lair.	14805	10	35	0	3640		1	0
 694	-1	-1	0	Serpentshrine Cavern	Defeat Lady Vashj in Serpentshrine Cavern.	14805	10	36	0	3658		1	0
@@ -450,7 +450,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 699	-1	-1	0	World Wide Winner	Win a ranked arena match in Blade\'s Edge, Nagrand, The Ring of Valor, Dalaran Sewers and the Ruins of Lordaeron.	165	10	5	0	535		0	0
 700	0	-1	0	Freedom of the Horde	Obtain an Insignia or Medallion of the Horde.	95	10	36	0	2811		1	0
 701	1	-1	0	Freedom of the Alliance	Obtain an Insignia or Medallion of the Alliance.	95	10	37	0	2812		1	0
-705	-1	-1	0	Master of Arms	Raise four weapon skills to 400.	81	0	229	0	279		0	0
+705	-1	-1	0	Master of Arms	Raise four weapon skills to 400.	81	0	237	0	279		0	0
 706	0	-1	0	Frostwolf Howler	Obtain a Frostwolf Howler.	14801	10	14	131072	2826		0	0
 707	1	-1	0	Stormpike Battle Charger	Obtain a Stormpike Battle Charger.	14801	10	15	131072	2827		0	0
 708	0	-1	0	Hero of the Frostwolf Clan	Gain exalted reputation with the Frostwolf Clan.	14801	10	16	0	2828		0	0
@@ -459,13 +459,13 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 711	1	-1	0	Knight of Arathor	Gain exalted reputation with The League of Arathor.	14802	10	13	0	1934		0	0
 712	0	-1	0	Warsong Outrider	Gain exalted reputation with the Warsong Outriders.	14804	10	11	0	282		0	0
 713	1	-1	0	Silverwing Sentinel	Gain exalted reputation with the Silverwing Sentinels.	14804	10	12	0	131		0	0
-714	0	-1	0	The Conqueror	Raise your reputation values in Warsong Gulch, Arathi Basin and Alterac Valley to Exalted.	95	20	40	131072	2563	Title Reward: Conqueror	0	0
-725	-1	-1	0	Thori\'dal, the Stars\' Fury	Wielder of Thori\'dal, the Stars\' Fury.	81	0	183	0	2842		0	0
+714	0	-1	0	The Conqueror	Raise your reputation values in Warsong Gulch, Arathi Basin and Alterac Valley to Exalted.	95	20	40	0	2563	Title Reward: Conqueror	0	0
+725	-1	-1	0	Thori\'dal, the Stars\' Fury	Wielder of Thori\'dal, the Stars\' Fury.	81	0	184	0	2842		0	0
 726	-1	-1	0	Mr. Pinchy\'s Magical Crawdad Box	Fish your way to Mr. Pinchy\'s Magical Crawdad Box.	171	10	12	0	2105		1	0
 727	-1	-1	0	Call in the Cavalry	Obtain one of the war mounts through the honor system.	95	10	38	131072	1178		1	0
 728	-1	-1	0	Explore Durotar	Explore Durotar, revealing the covered areas of the world map.	14778	10	1	0	3532		0	0
-729	-1	-1	0	Deathcharger\'s Reins	Obtain the Deathcharger\'s Reins from Rivendare in Stratholme.	81	0	151	131072	1241		1	0
-730	-1	-1	0	Skills to Pay the Bills	Obtain 450 skill points in Fishing, First Aid, and Cooking.	169	10	11	131072	1657		0	0
+729	-1	-1	0	Deathcharger\'s Reins	Obtain the Deathcharger\'s Reins from Rivendare in Stratholme.	81	0	152	131072	1241		1	0
+730	-1	-1	0	Skills to Pay the Bills	Obtain 450 skill points in Fishing, First Aid, and Cooking.	169	10	11	0	1657		0	0
 731	-1	-1	116	Professional Expert	Obtain 225 skill points in a profession.	169	10	2	0	2846		1	0
 732	-1	-1	731	Professional Artisan	Obtain 300 skill points in a profession.	169	10	3	0	2846		1	0
 733	-1	-1	732	Professional Master	Obtain 375 skill points in a profession.	169	10	4	0	2846		1	0
@@ -543,23 +543,23 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 868	-1	-1	0	Explore Isle of Quel\'Danas	Explore Isle of Quel\'Danas, revealing the covered areas of the world map.	14777	10	25	0	3557		1	0
 869	-1	-1	239	50000 Honorable Kills	Get 50000 honorable kills.	95	10	12	135168	3461		0	0
 870	-1	-1	869	100000 Honorable Kills	Get 100000 honorable kills.	95	10	13	143360	3453	Title Reward: Of the Horde or Of the Alliance	0	0
-871	-1	-1	0	Avast Ye, Admiral!	Obtain the Bloodsail Admiral\'s Hat... and try to get some fresh air every now and then.	81	0	149	0	2421	Title: Bloodsail Admiral	0	0
+871	-1	-1	0	Avast Ye, Admiral!	Obtain the Bloodsail Admiral\'s Hat... and try to get some fresh air every now and then.	81	0	150	0	2421	Title: Bloodsail Admiral	0	0
 872	-1	489	0	Frenzied Defender	Return 5 flags in a single Warsong Gulch battle.	14804	10	5	0	3484		0	0
 873	0	30	0	Frostwolf Perfection	Win Alterac Valley without losing a tower or captain. You must also control all of the Alliance\'s towers.	14801	20	12	0	2898		0	0
 875	-1	-1	398	Vengefully Dedicated	Win 200 ranked arena matches.	165	10	3	0	3594		0	0
 876	-1	-1	875	Brutally Dedicated	Win 300 ranked arena matches.	165	10	4	0	3595	Reward: Tabard of Brute Force	0	0
 877	-1	-1	0	The Cake Is Not A Lie	Bake a Delicious Chocolate Cake.	170	10	8	0	2917		0	0
 878	-1	-1	0	One That Didn\'t Get Away	Catch one of the rare fish in the list below.	171	10	13	0	2918		1	0
-879	-1	-1	0	Old School Ride	Owner of one of the original epic mounts that are no longer attainable.	81	0	150	131072	1177		1	0
-880	-1	-1	0	Swift Zulian Tiger	Obtain the Swift Zulian Tiger from High Priest Thekal in Zul\'Gurub.	81	0	153	131072	1181		1	0
-881	-1	-1	0	Swift Razzashi Raptor	Obtain the Swift Razzashi Raptor from Bloodlord Mandokir in Zul\'Gurub.	81	0	154	131072	1180		1	0
-882	-1	-1	0	Fiery Warhorse\'s Reins	Obtain the Fiery Warhorse\'s Reins from Attumen the Huntsman in Karazhan.	81	0	155	131072	1715		1	0
-883	-1	-1	0	Reins of the Raven Lord	Obtain the Reins of the Raven Lord from Anzu in Sethekk Halls.	81	0	156	131072	2467		1	0
-884	-1	-1	0	Swift White Hawkstrider	Obtain the Swift White Hawkstrider from Kael\'thas Sunstrider in Magister\'s Terrace.	81	0	157	131072	2399		1	0
-885	-1	-1	0	Ashes of Al\'ar	Obtain the Ashes of Al\'ar from Kael\'thas Sunstrider in Tempest Keep.	81	0	158	131072	1927		1	0
-886	-1	-1	0	Swift Nether Drake	Obtain the Swift Nether Drake from Arena Season 1 of The Burning Crusade.	81	0	164	131072	2333		1	0
-887	-1	-1	0	Merciless Nether Drake	Obtain the Merciless Nether Drake from Arena Season 2 of The Burning Crusade.	81	0	165	131072	2333		1	0
-888	-1	-1	0	Vengeful Nether Drake	Obtain the Vengeful Nether Drake from Arena Season 3 of The Burning Crusade.	81	0	166	131072	2333		1	0
+879	-1	-1	0	Old School Ride	Owner of one of the original epic mounts that are no longer attainable.	81	0	151	131072	1177		1	0
+880	-1	-1	0	Swift Zulian Tiger	Obtain the Swift Zulian Tiger from High Priest Thekal in Zul\'Gurub.	81	0	154	131072	1181		1	0
+881	-1	-1	0	Swift Razzashi Raptor	Obtain the Swift Razzashi Raptor from Bloodlord Mandokir in Zul\'Gurub.	81	0	155	131072	1180		1	0
+882	-1	-1	0	Fiery Warhorse\'s Reins	Obtain the Fiery Warhorse\'s Reins from Attumen the Huntsman in Karazhan.	81	0	156	131072	1715		1	0
+883	-1	-1	0	Reins of the Raven Lord	Obtain the Reins of the Raven Lord from Anzu in Sethekk Halls.	81	0	157	131072	2467		1	0
+884	-1	-1	0	Swift White Hawkstrider	Obtain the Swift White Hawkstrider from Kael\'thas Sunstrider in Magister\'s Terrace.	81	0	158	131072	2399		1	0
+885	-1	-1	0	Ashes of Al\'ar	Obtain the Ashes of Al\'ar from Kael\'thas Sunstrider in Tempest Keep.	81	0	159	131072	1927		1	0
+886	-1	-1	0	Swift Nether Drake	Obtain the Swift Nether Drake from Arena Season 1 of The Burning Crusade.	81	0	165	131072	2333		1	0
+887	-1	-1	0	Merciless Nether Drake	Obtain the Merciless Nether Drake from Arena Season 2 of The Burning Crusade.	81	0	166	131072	2333		1	0
+888	-1	-1	0	Vengeful Nether Drake	Obtain the Vengeful Nether Drake from Arena Season 3 of The Burning Crusade.	81	0	167	131072	2333		1	0
 889	-1	-1	891	Fast and Furious	Learn the journeyman riding skill.	92	10	21	0	836		0	0
 890	-1	-1	889	Into The Wild Blue Yonder	Learn the expert riding skill.	92	10	22	0	2054		0	0
 891	-1	-1	0	Giddy Up!	Learn the apprentice riding skill.	92	10	20	0	1176		1	0
@@ -576,7 +576,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 903	-1	-1	0	Shattrath Divided	Earn Exalted status with The Scryers or The Aldor.	14865	10	12	0	2174		1	0
 905	-1	-1	0	Old Man Barlowned	Complete each of Old Man Barlo\'s 5 fishing daily quests listed below.	171	10	17	0	3693		0	0
 906	-1	-1	0	Kickin\' It Up a Notch	Complete each of The Rokk\'s 4 cooking daily quests listed below.	170	10	9	0	2923		0	0
-907	1	-1	0	The Justicar	Raise your reputation values in Warsong Gulch, Arathi Basin and Alterac Valley to Exalted.	95	20	41	131072	2924	Title Reward: Justicar	0	0
+907	1	-1	0	The Justicar	Raise your reputation values in Warsong Gulch, Arathi Basin and Alterac Valley to Exalted.	95	20	41	0	2924	Title Reward: Justicar	0	0
 908	1	-1	0	Call to Arms!	Complete 100 battlegrounds at max level.	95	10	42	136	2841		0	0
 909	0	-1	0	Call to Arms!	Complete 100 battlegrounds at max level.	95	10	43	136	2841		0	0
 910	-1	-1	0	Elders of the Dungeons	Honor the Elders which are located inside the dungeons.	160	10	14	0	2218		0	0
@@ -599,8 +599,8 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 928	-1	-1	0	Extra bank slots purchased	Extra bank slots purchased	191	0	7	1	1		0	0
 931	-1	-1	0	Total factions encountered	Total factions encountered	147	0	8	1	1		0	0
 932	-1	-1	0	Total 5-player dungeons entered	Total 5-player dungeons entered	14807	0	1	1	1		0	0
-933	-1	-1	0	Total 10-player raids entered	Total 10-player raids entered	14807	0	14	1	1		0	0
-934	-1	-1	0	Total 25-player raids entered	Total 25-player raids entered	14807	0	15	1	1		0	0
+933	-1	-1	0	Total 10-player raids entered	Total 10-player raids entered	14807	0	2	1	1		0	0
+934	-1	-1	0	Total 25-player raids entered	Total 25-player raids entered	14807	0	3	1	1		0	0
 937	-1	-1	0	Elune\'s Blessing	Complete the Elune\'s Blessing quest by defeating Omen.	160	10	9	0	2821		0	0
 938	-1	-1	0	The Snows of Northrend	Complete all of Hemet Nesingwary quests in Northrend up to and including Post-partum Aggression.	14863	10	17	0	1581		0	0
 939	-1	-1	0	Hills Like White Elekk	Complete all of Hemet Nesingwary quests in Nagrand up to and including The Ultimate Bloodsport.	14862	10	1	0	2165		0	0
@@ -609,18 +609,18 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 942	1	-1	0	The Diplomat	Raise your reputation level from Unfriendly to Exalted with Timbermaw Hold, Sporeggar and the Kurenai.	201	25	17	0	2737	Title Reward: The Diplomat	0	0
 943	0	-1	0	The Diplomat	Raise your reputation level from Unfriendly to Exalted with Timbermaw Hold, Sporeggar and The Mag\'har.	201	25	18	0	2737	Title Reward: The Diplomat	0	0
 944	-1	-1	0	They Love Me In That Tunnel	Earn Exalted status with Timbermaw Hold.	14864	15	2	0	3685		0	0
-945	-1	-1	0	The Argent Champion	Earn Exalted status with the Argent Dawn and the Argent Crusade.	201	25	19	131072	2139	Title Reward: The Argent Champion	0	0
+945	-1	-1	0	The Argent Champion	Earn Exalted status with the Argent Dawn and the Argent Crusade.	201	25	19	0	2139	Title Reward: The Argent Champion	0	0
 946	-1	-1	0	The Argent Dawn	Earn Exalted status with the Argent Dawn.	14864	15	1	0	1608		0	0
 947	-1	-1	0	The Argent Crusade	Earn Exalted status with the Argent Crusade.	14866	15	1	0	1672		0	0
 948	1	-1	0	Ambassador of the Alliance	Earn Exalted reputation with all six Alliance factions.	201	10	16	0	3375	Title Reward: Ambassador	0	0
 949	-1	-1	0	Tuskarrmageddon	Earn Exalted status with The Kalu\'ak.	14866	15	2	0	3702		0	0
 950	-1	-1	0	Frenzyheart Tribe	Earn Exalted status with the Frenzyheart Tribe.	14866	10	3	0	956		0	0
 951	-1	-1	0	The Oracles	Earn Exalted status with the The Oracles.	14866	10	4	0	1751		0	0
-952	-1	-1	0	Mercenary of Sholazar	Earn Exalted status with the The Oracles and the Frenzyheart Tribe.	14866	10	5	131072	229		0	0
+952	-1	-1	0	Mercenary of Sholazar	Earn Exalted status with the The Oracles and the Frenzyheart Tribe.	14866	10	5	0	229		0	0
 953	-1	-1	0	Guardian of Cenarius	Earn Exalted status with the Cenarion Circle and Cenarion Expedition.	201	25	20	0	553	Title Reward: Guardian of Cenarius	0	0
 955	-1	-1	0	Hydraxian Waterlords	Earn Exalted status with the Hydraxian Waterlords.	14864	10	3	0	2134		0	0
 956	-1	-1	0	Brood of Nozdormu	Earn Exalted status with the Brood of Nozdormu.	14864	10	4	0	1701		0	0
-957	-1	-1	0	Hero of the Zandalar Tribe	Earn exalted status with the Zandalar Tribe.	81	0	256	0	2745		0	0
+957	-1	-1	0	Hero of the Zandalar Tribe	Earn exalted status with the Zandalar Tribe.	81	0	264	0	2745		0	0
 958	-1	-1	0	Sworn to the Deathsworn	Earn Exalted status with the Ashtongue Deathsworn.	14865	10	13	0	3696		0	0
 959	-1	-1	0	The Scale of the Sands	Earn Exalted status with The Scale of the Sands.	14865	10	14	0	2937		0	0
 960	-1	-1	0	The Violet Eye	Earn Exalted status with The Violet Eye.	14865	10	15	0	1487		0	0
@@ -643,14 +643,14 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 977	-1	-1	976	1000 Daily Quests Complete	Complete 1000 daily quests.	96	10	13	0	3428		0	0
 978	-1	-1	32	3000 Quests Completed	Complete 3000 quests.	96	50	8	0	3414	Title Reward: The Seeker	0	0
 979	-1	-1	0	The Mask Task	Obtain a Mask during Hallow\'s End.	158	10	5	0	2954		1	0
-980	-1	-1	0	The Horseman\'s Reins	Obtain The Horseman\'s Reins from The Headless Horseman in the Scarlet Monastery during Hallow\'s End.	81	0	152	131072	2628		1	0
+980	-1	-1	0	The Horseman\'s Reins	Obtain The Horseman\'s Reins from The Headless Horseman in the Scarlet Monastery during Hallow\'s End.	81	0	153	131072	2628		1	0
 981	-1	-1	0	That Sparkling Smile	Show off your sparkling smile by using a Tooth Pick.	158	10	7	0	3510		0	0
 1005	0	-1	0	Know Thy Enemy	Get an honorable, killing blow on seven different races.	95	10	18	0	245		0	0
 1006	0	-1	0	City Defender	Kill 50 enemy players in any of your home cities.	95	10	23	136	3575		0	0
 1007	-1	-1	0	The Wyrmrest Accord	Earn Exalted status with The Wyrmrest Accord.	14866	10	6	0	3684		0	0
 1008	-1	-1	0	The Kirin Tor	Earn Exalted status with The Kirin Tor.	14866	10	7	0	3682		0	0
 1009	-1	-1	0	Knights of the Ebon Blade	Earn Exalted status with the Knights of the Ebon Blade.	14866	10	8	0	3683		0	0
-1010	-1	-1	0	Northrend Vanguard	Gain Exalted reputation with the Argent Crusade, Wyrmrest Accord, Kirin Tor and Knights of the Ebon Blade.	14866	20	9	131072	2207		0	0
+1010	-1	-1	0	Northrend Vanguard	Gain Exalted reputation with the Argent Crusade, Wyrmrest Accord, Kirin Tor and Knights of the Ebon Blade.	14866	20	9	0	2207		0	0
 1011	0	-1	0	The Winds of the North	Gain Exalted reputation with the Horde Expedition.	14866	20	10	0	2625		0	0
 1012	1	-1	0	The Winds of the North	Gain Exalted reputation with the Alliance Vanguard.	14866	20	11	0	2413		0	0
 1014	-1	-1	518	35 Exalted Reputations	Raise 35 reputations to Exalted.	201	10	9	0	3603		0	0
@@ -722,8 +722,8 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1100	-1	469	0	Nefarian kills (Blackwing Lair)	Nefarian kills (Blackwing Lair)	14821	5	25	1	1699		0	0
 1101	-1	531	0	C\'Thun kills (Temple of Ahn\'Qiraj)	C\'Thun kills (Temple of Ahn\'Qiraj)	14821	5	26	1	1826		0	0
 1102	-1	309	0	Hakkar kills (Zul\'Gurub)	Hakkar kills (Zul\'Gurub)	14821	5	21	1	2804		0	0
-1103	-1	-1	0	Lich King 5-player dungeons completed (final boss killed)	Lich King 5-player dungeons completed (final boss killed)	14807	0	16	9	1		0	0
-1104	-1	-1	0	Lich King 10-player raids completed (final boss killed)	Lich King 10-player raids completed (final boss killed)	14807	0	17	9	1		0	0
+1103	-1	-1	0	Lich King 5-player dungeons completed (final boss killed)	Lich King 5-player dungeons completed (final boss killed)	14807	0	4	9	1		0	0
+1104	-1	-1	0	Lich King 10-player raids completed (final boss killed)	Lich King 10-player raids completed (final boss killed)	14807	0	5	9	1		0	0
 1106	-1	-1	0	Deaths in Eye of the Storm	Deaths in Eye of the Storm	124	0	4	1	1		0	0
 1107	-1	-1	0	Deaths in 3v3	Deaths in 3v3	123	0	2	1	1		0	0
 1108	-1	-1	0	Deaths in 5v5	Deaths in 5v5	123	0	3	1	1		0	0
@@ -784,7 +784,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1200	-1	-1	0	Secondary skills at maximum skill	Secondary skills at maximum skill	132	0	3	33	1		0	0
 1201	-1	-1	0	Professions at maximum skill	Professions at maximum skill	132	0	2	33	1		0	0
 1203	0	-1	0	Strange Brew	Drink the Brewfest beers listed below.	162	10	2	0	1780		0	0
-1205	-1	-1	0	Hero of Shattrath	Gained exalted status with The Scryers and The Aldor.	81	0	146	0	2175		0	0
+1205	-1	-1	0	Hero of Shattrath	Gained exalted status with The Scryers and The Aldor.	81	0	147	0	2175		0	0
 1206	-1	-1	0	To All The Squirrels I\'ve Loved Before	Show the critters of Azeroth how much you /love them.	92	10	40	0	3132		0	0
 1225	-1	530	0	Outland Angler	Catch a fish in each of the specific nodes listed below.	171	10	18	0	3691		0	0
 1229	-1	-1	0	Revived by druids	Revived by druids	127	0	3	9	1		0	0
@@ -834,16 +834,16 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1280	0	-1	0	Flirt With Disaster	Get completely smashed, put on your best perfume, throw a handful of rose petals on Jeremiah Payson and then kiss him. You\'ll regret it in the morning.	187	10	6	0	1846		0	0
 1281	-1	-1	0	The Rocket\'s Red Glare	Shoot off 10 Red Rocket Clusters in 25 seconds or less.	160	10	7	0	2368		0	0
 1282	-1	-1	0	Fa-la-la-la-Ogri\'la	Complete the Bomb Them Again! quest while mounted on a flying reindeer during the Feast of Winter Veil.	156	10	5	0	3700		1	0
-1283	-1	-1	0	Classic Dungeonmaster	Complete the classic dungeon achievements listed below.	168	10	8	131072	1949		0	0
-1284	-1	-1	0	Outland Dungeonmaster	Complete the Burning Crusade dungeon achievements listed below.	168	10	10	131072	1948		0	0
-1285	-1	-1	0	Classic Raider	Complete the classic raid achievements listed below.	168	20	9	131072	3203		0	0
-1286	-1	-1	0	Outland Raider	Complete the Burning Crusade raid achievements listed below.	168	20	12	131072	3204		0	0
-1287	-1	-1	0	Outland Dungeon Hero	Complete the heroic Burning Crusade dungeon achievements listed below.	168	20	11	131072	1762		0	0
-1288	-1	-1	0	Northrend Dungeonmaster	Complete the Northrend dungeon achievements listed below.	168	10	13	131072	1947		0	0
-1289	-1	-1	0	Northrend Dungeon Hero	Complete the heroic Northrend dungeon achievements listed below.	168	20	14	131072	857		0	0
+1283	-1	-1	0	Classic Dungeonmaster	Complete the classic dungeon achievements listed below.	168	10	9	131072	1949		0	0
+1284	-1	-1	0	Outland Dungeonmaster	Complete the Burning Crusade dungeon achievements listed below.	168	10	11	131072	1948		0	0
+1285	-1	-1	0	Classic Raider	Complete the classic raid achievements listed below.	168	20	10	131072	3203		0	0
+1286	-1	-1	0	Outland Raider	Complete the Burning Crusade raid achievements listed below.	168	20	13	131072	3204		0	0
+1287	-1	-1	0	Outland Dungeon Hero	Complete the Burning Crusade Heroic dungeon achievements listed below.	168	20	12	131072	1762		0	0
+1288	-1	-1	0	Northrend Dungeonmaster	Complete the Northrend dungeon achievements listed below.	168	10	14	131072	1947		0	0
+1289	-1	-1	0	Northrend Dungeon Hero	Complete the Northrend Heroic dungeon achievements listed below.	168	20	15	131072	857		0	0
 1291	-1	-1	0	Lonely?	Enjoy a Buttermilk Delight with someone in Dalaran at a Romantic Picnic during the Love is in the Air celebration.	187	10	8	0	2545		0	0
-1292	-1	-1	0	Yellow Brewfest Stein	Proud owner of the 2007 Vintage Yellow Brewfest Stein.	81	0	210	0	3082		1	0
-1293	-1	-1	0	Blue Brewfest Stein	Proud owner of the 2008 Vintage Blue Brewfest Stein.	81	0	213	0	3083		1	0
+1292	-1	-1	0	Yellow Brewfest Stein	Proud owner of the 2007 Vintage Yellow Brewfest Stein.	81	0	218	0	3082		1	0
+1293	-1	-1	0	Blue Brewfest Stein	Proud owner of the 2008 Vintage Blue Brewfest Stein.	81	0	221	0	3083		1	0
 1295	-1	-1	0	Crashin\' & Thrashin\'	Gain 25 crashes with your Crashin\' Thrashin\' Racer during the Feast of Winter Veil.	156	10	7	0	2367		0	0
 1296	-1	601	0	Watch Him Die	Defeat Krik\'thir the Gatewatcher in Azjol-Nerub on Heroic Difficulty while Watcher Gashra, Watcher Narji, and Watcher Silthik are still alive.	14806	10	39	0	3250		0	0
 1297	-1	601	0	Hadronox Denied	Defeat Hadronox in Azjol-Nerub on Heroic Difficulty before he webs the top doors and prevents more creatures from spawning.	14806	10	40	0	3251		0	0
@@ -932,17 +932,17 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1426	-1	-1	0	Realm First! Grand Master Skinner	First person on the realm to achieve 450 skill in skinning.	81	0	81	256	736		0	0
 1427	-1	-1	0	Realm First! Grand Master Tailor	First person on the realm to achieve 450 skill in tailoring.	81	0	84	256	341		0	0
 1428	-1	-1	0	Mine Sweeper	Get caught in 10 consecutive land mine explosions in the Sparksocket Minefield without landing.	14863	10	20	0	1755		0	0
-1436	-1	-1	0	Friends In High Places	Obtain a Zhevra mount through the Recruit-a-Friend program.	81	0	225	131072	1716		1	0
+1436	-1	-1	0	Friends In High Places	Obtain a Zhevra mount through the Recruit-a-Friend program.	81	0	233	131072	1716		1	0
 1456	-1	-1	0	Fish and other things caught	Fish and other things caught	178	0	9	1	1		0	0
 1457	-1	-1	0	Explore Crystalsong Forest	Explore Crystalsong Forest, revealing the covered areas of the world map.	14780	10	7	0	3471		0	0
 1458	-1	-1	0	Continent with the most Honorable Kills	Continent with the most Honorable Kills	136	0	3	17	1		0	381
 1462	-1	-1	0	Badges of Justice acquired	Badges of Justice acquired	130	0	2	1	1		0	0
-1463	-1	-1	0	Realm First! Northrend Vanguard	First player on the realm to gain Exalted reputation with the Argent Crusade, Wyrmrest Accord, Kirin Tor and Knights of the Ebon Blade.	81	0	97	256	2207		0	0
+1463	-1	-1	0	Realm First! Northrend Vanguard	First person on the realm to gain Exalted reputation with the Argent Crusade, Wyrmrest Accord, Kirin Tor and Knights of the Ebon Blade.	81	0	97	256	2207		0	0
 1464	-1	-1	0	Emblems of Heroism acquired	Emblems of Heroism acquired	130	0	3	1	1		0	0
 1465	-1	-1	0	Emblems of Valor acquired	Emblems of Valor acquired	130	0	4	1	1		0	0
 1466	1	-1	0	Most Alliance factions at Exalted	Most Alliance factions at Exalted	147	0	6	33	1		0	0
-1467	-1	-1	0	Lich King 5-player bosses killed	Lich King 5-player bosses killed	14807	10	19	9	2813		0	0
-1485	-1	-1	0	Lich King 5-player different bosses killed	Lich King 5-player different bosses killed	14807	0	20	33	1		0	1467
+1467	-1	-1	0	Lich King 5-player bosses killed	Lich King 5-player bosses killed	14807	10	7	9	2813		0	0
+1485	-1	-1	0	Lich King 5-player different bosses killed	Lich King 5-player different bosses killed	14807	0	8	33	1		0	1467
 1486	-1	-1	0	Strand of the Ancients Honorable Kills	Strand of the Ancients Honorable Kills	136	0	14	1	1		0	0
 1487	-1	-1	0	Total Killing Blows	Total Killing Blows	137	0	1	1	1		0	0
 1488	-1	-1	0	World Killing Blows	Cumulative for Azeroth, Northrend etc.	137	0	2	9	4		0	0
@@ -1006,12 +1006,12 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1563	1	-1	0	Hail to the Chef	Complete the cooking achievements listed below.	170	10	42	143360	3678	Title Reward: Chef	0	0
 1576	-1	-1	0	Of Blood and Anguish	Complete the Ring of Blood quests in Nagrand and the Ampitheater of Anguish quests in Zul\'Drak.	96	10	19	0	1599		0	0
 1596	-1	-1	0	Guru of Drakuru	Complete the main storyline quests involving Drakuru listed below.	14863	10	18	0	3479		0	0
-1636	-1	-1	0	Competitor\'s Tabard	Proud owner of a Competitor\'s Tabard from the 2008 Spirit of Competition event.	81	0	216	0	2970		0	0
-1637	-1	-1	0	Spirit of Competition	Proud owner of a Spirit of Competition pet from the 2008 Spirit of Competition event.	81	0	218	0	2970		0	0
+1636	-1	-1	0	Competitor\'s Tabard	Proud owner of a Competitor\'s Tabard from the 2008 Spirit of Competition event.	81	0	224	0	2970		0	0
+1637	-1	-1	0	Spirit of Competition	Proud owner of a Spirit of Competition pet from the 2008 Spirit of Competition event.	81	0	226	0	2970		0	0
 1638	-1	-1	0	Skyshattered	Defeat Captain Skyshatter in the Dragonmaw race on Netherwing Ledge.	14865	10	16	0	1928		0	0
 1656	1	-1	0	Hallowed Be Thy Name	Complete the Hallow\'s End achievements listed below.	155	10	12	131072	3514	Title Reward: The Hallowed	0	0
 1657	0	-1	0	Hallowed Be Thy Name	Complete the Hallow\'s End achievements listed below.	155	10	13	131072	3514	Title Reward: The Hallowed	0	0
-1658	-1	-1	0	Champion of the Frozen Wastes	Defeat the dungeon and raid bosses listed below.	168	10	15	131072	182	Title Reward: Champion of the Frozen Wastes	0	0
+1658	-1	-1	0	Champion of the Frozen Wastes	Defeat the dungeon and raid bosses listed below.	168	10	16	131072	182	Title Reward: Champion of the Frozen Wastes	0	0
 1676	1	-1	0	Loremaster of Eastern Kingdoms	Complete the Eastern Kingdoms quest achievements listed below.	14861	10	23	131072	3490		0	0
 1677	0	-1	0	Loremaster of Eastern Kingdoms	Complete the Eastern Kingdoms quest achievements listed below.	14861	10	24	131072	3490		0	0
 1678	1	-1	0	Loremaster of Kalimdor	Complete the Kalimdor quest achievements listed below.	15081	10	28	131072	3491		0	0
@@ -1040,8 +1040,8 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1702	-1	-1	0	Sweet Tooth	Sample the Love is in the Air candies listed below.	187	10	16	0	1855		0	0
 1703	-1	-1	0	My Love is Like a Red, Red Rose	Obtain a Bouquet of Red or Ebon Roses during the Love is in the Air celebration.	187	10	10	0	1937		1	0
 1704	-1	-1	0	I Pitied The Fool	Pity the Love Fool in the locations specified below.	187	10	7	0	2339		0	0
-1705	-1	-1	0	Clockwork Rocket Bot	Proud owner of the 2007 Vintage Winter Veil gift, the Clockwork Rocket Bot.	81	0	219	0	1859		1	0
-1706	-1	-1	0	Crashin\' Thrashin\' Racer	Proud owner of the 2008 Vintage Winter Veil gift, the Crashin\' Thrashin\' Racer.	81	0	220	0	1859		0	0
+1705	-1	-1	0	Clockwork Rocket Bot	Proud owner of the 2007 Vintage Winter Veil gift, the Clockwork Rocket Bot.	81	0	227	0	1859		1	0
+1706	-1	-1	0	Crashin\' Thrashin\' Racer	Proud owner of the 2008 Vintage Winter Veil gift, the Crashin\' Thrashin\' Racer.	81	0	228	0	1859		0	0
 1707	1	-1	0	Fool For Love	Complete the Love is in the Air achievements listed below.	155	10	3	131072	3699	Title Reward: The Love Fool	0	0
 1716	-1	-1	0	Battleground with the most Killing Blows	Battleground with the most Killing Blows	137	0	6	17	1		0	1491
 1717	-1	571	0	Wintergrasp Victory	Win the battle for Wintergrasp.	14901	10	1	0	187		0	0
@@ -1066,20 +1066,20 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 1753	-1	624	0	Archavon the Stone Watcher kills (Wintergrasp 10 player)	Archavon the Stone Watcher kills (Wintergrasp 10 player)	14823	10	60	1	187		0	0
 1754	-1	624	0	Archavon the Stone Watcher kills (Wintergrasp 25 player)	Archavon the Stone Watcher kills (Wintergrasp 25 player)	14823	10	61	1	187		0	0
 1755	-1	571	0	Within Our Grasp	Attack Wintergrasp and succeed in 10 minutes or less.	14901	10	3	0	145		0	0
-1756	-1	-1	0	Lich King 25-player bosses killed	Lich King 25-player bosses killed	14807	0	25	9	1		0	0
+1756	-1	-1	0	Lich King 25-player bosses killed	Lich King 25-player bosses killed	14807	0	13	9	1		0	0
 1757	1	607	0	Defense of the Ancients	Defend the beach without losing any walls.	14881	10	5	0	276		0	0
-1759	-1	-1	0	Lich King 25-player different bosses killed	Lich King 25-player different bosses killed	14807	0	26	33	1		0	1756
-1760	-1	-1	0	Lich King 25-player boss killed the most	Lich King 25-player boss killed the most	14807	0	27	17	1		0	1756
+1759	-1	-1	0	Lich King 25-player different bosses killed	Lich King 25-player different bosses killed	14807	0	14	33	1		0	1756
+1760	-1	-1	0	Lich King 25-player boss killed the most	Lich King 25-player boss killed the most	14807	0	15	17	1		0	1756
 1761	-1	607	0	The Dapper Sapper	Plant 100 Seaforium charges which successfully damage a wall. 	14881	10	7	0	2565		0	0
 1762	1	607	0	Not Even a Scratch	Win a Strand of the Ancients battle without losing any siege vehicles.	14881	10	9	0	457		0	0
 1763	-1	607	0	Artillery Veteran	Destroy 100 vehicles using a turret.	14881	10	11	0	2244		0	0
 1764	-1	607	0	Drop It!	Kill 100 players carrying seaforium.	14881	10	13	0	454		0	0
 1765	-1	607	0	Steady Hands	Disarm 2 seaforium charges in a single battle.	14881	10	4	0	1755		0	0
 1766	-1	607	0	Ancient Protector	Kill 10 players in the Courtyard of the Ancients in a single battle.	14881	10	15	0	2957		0	0
-1768	-1	-1	0	Lich King 25-player raids completed (final boss killed)	Lich King 25-player raids completed (final boss killed)	14807	0	18	9	1		0	0
-1770	-1	-1	0	Lich King 10-player bosses killed	Lich King 10-player bosses killed	14807	0	22	9	1		0	0
-1771	-1	-1	0	Lich King 10-player different bosses killed	Lich King 10-player different bosses killed	14807	0	23	33	1		0	1770
-1772	-1	-1	0	Lich King 10-player boss killed the most	Lich King 10-player boss killed the most	14807	0	24	17	1		0	1770
+1768	-1	-1	0	Lich King 25-player raids completed (final boss killed)	Lich King 25-player raids completed (final boss killed)	14807	0	6	9	1		0	0
+1770	-1	-1	0	Lich King 10-player bosses killed	Lich King 10-player bosses killed	14807	0	10	9	1		0	0
+1771	-1	-1	0	Lich King 10-player different bosses killed	Lich King 10-player different bosses killed	14807	0	11	33	1		0	1770
+1772	-1	-1	0	Lich King 10-player boss killed the most	Lich King 10-player boss killed the most	14807	0	12	17	1		0	1770
 1773	-1	-1	0	Beverage consumed most	Beverage consumed most	145	0	17	17	1		0	346
 1774	-1	-1	0	Different beverages consumed	Different beverages consumed	145	0	18	33	1		0	346
 1775	-1	-1	0	Different foods eaten	Different foods eaten	145	0	20	33	1		0	347
@@ -1150,8 +1150,8 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 2002	-1	-1	2001	100 Cooking Awards	Obtain 100 Cooking Awards.	170	10	20	136	2468		0	0
 2016	1	-1	0	Grizzled Veteran	Complete the Grizzly Hills PvP daily quests listed below.	95	10	46	0	3343		0	0
 2017	0	-1	0	Grizzled Veteran	Complete the Grizzly Hills PvP daily quests listed below.	95	10	47	0	3343		0	0
-2018	-1	-1	0	Timear Foresees	Complete the Northrend daily dungeon quests listed below.	81	0	214	0	2215		0	0
-2019	-1	-1	0	Proof of Demise	Completed the Northrend daily dungeon quests listed below.	81	0	217	0	3028		0	0
+2018	-1	-1	0	Timear Foresees	Complete the Northrend daily dungeon quests listed below.	81	0	222	0	2215		0	0
+2019	-1	-1	0	Proof of Demise	Completed the Northrend daily dungeon quests listed below.	81	0	225	0	3028		0	0
 2036	-1	576	0	Intense Cold	Defeat Keristrasza in The Nexus on Heroic Difficulty without allowing Intense Cold to reach more than two stacks.	14806	10	37	0	2965		0	0
 2037	-1	576	0	Chaos Theory	Defeat Anomalus in The Nexus on Heroic Difficulty without destroying any Chaotic Rifts.	14806	10	38	0	3392		0	0
 2038	-1	619	0	Respect Your Elders	Defeat Elder Nadox in Ahn\'kahet on Heroic Difficulty without killing any Ahn\'kahar Guardians.	14806	10	43	0	3393		0	0
@@ -1176,18 +1176,18 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 2058	-1	604	0	Snakes. Why\'d It Have To Be Snakes?	Defeat Slad\'ran in Gundrak on Heroic Difficulty without getting snake wrapped.	14806	10	55	0	2936		0	0
 2076	-1	-1	0	Armored Brown Bear	Obtain an Armored Brown Bear from Mei Francis in Dalaran.	92	10	53	131072	3497		1	0
 2077	-1	-1	0	Wooly Mammoth	Obtain a Wooly Mammoth from Mei Francis in Dalaran.	92	10	54	131072	3443		1	0
-2078	-1	-1	0	Traveler\'s Tundra Mammoth	Obtain a Traveler\'s Tundra Mammoth from Mei Francis in Dalaran.	92	10	55	131072	3443		1	0
-2079	-1	-1	0	Tabard of the Protector	Obtained a Tabard of the Protector from the Dark Portal event.	81	0	230	0	2637		0	0
+2078	-1	-1	0	Traveler\'s Tundra Mammoth	Obtain a Traveler\'s Tundra Mammoth from Mei Francis in Dalaran.	92	10	55	0	3443		1	0
+2079	-1	-1	0	Tabard of the Protector	Obtained a Tabard of the Protector from the Dark Portal event.	81	0	238	0	2637		0	0
 2080	-1	-1	0	Black War Mammoth	Obtain a Black War Mammoth.	14901	10	10	131072	3444		1	0
-2081	-1	-1	0	Grand Black War Mammoth	Obtain a Grand Black War Mammoth.	81	0	204	131072	3444		1	0
+2081	-1	-1	0	Grand Black War Mammoth	Obtain a Grand Black War Mammoth.	81	0	212	131072	3444		1	0
 2082	-1	-1	0	Ice Mammoth	Obtain an Ice Mammoth.	14866	10	12	0	3446		1	0
 2083	-1	-1	0	Grand Ice Mammoth	Obtain a Grand Ice Mammoth.	14866	10	13	0	3446		1	0
 2084	-1	-1	0	Ring of the Kirin Tor	Purchase a Signet of the Kirin Tor, Band of the Kirin Tor, Loop of the Kirin Tor, or Ring of the Kirin Tor in Dalaran.	92	10	58	0	3447		1	0
-2085	-1	-1	0	50 Stone Keeper\'s Shards	Loot 50 Stone Keeper\'s Shards.	81	0	258	0	3448		0	0
-2086	-1	-1	2085	100 Stone Keeper\'s Shards	Loot 100 Stone Keeper\'s Shards.	81	0	259	0	3448		0	0
-2087	-1	-1	2086	250 Stone Keeper\'s Shards	Loot 250 Stone Keeper\'s Shards.	81	0	260	0	3448		0	0
-2088	-1	-1	2087	500 Stone Keeper\'s Shards	Loot 500 Stone Keeper\'s Shards.	81	0	261	0	3448		0	0
-2089	-1	-1	2088	1000 Stone Keeper\'s Shards	Loot 1000 Stone Keeper\'s Shards.	81	0	262	0	3448		0	0
+2085	-1	-1	0	50 Stone Keeper\'s Shards	Loot 50 Stone Keeper\'s Shards.	81	0	266	0	3448		0	0
+2086	-1	-1	2085	100 Stone Keeper\'s Shards	Loot 100 Stone Keeper\'s Shards.	81	0	267	0	3448		0	0
+2087	-1	-1	2086	250 Stone Keeper\'s Shards	Loot 250 Stone Keeper\'s Shards.	81	0	268	0	3448		0	0
+2088	-1	-1	2087	500 Stone Keeper\'s Shards	Loot 500 Stone Keeper\'s Shards.	81	0	269	0	3448		0	0
+2089	-1	-1	2088	1000 Stone Keeper\'s Shards	Loot 1000 Stone Keeper\'s Shards.	81	0	270	0	3448		0	0
 2090	-1	-1	0	Challenger	Earn the Challenger title in an arena season.	165	10	23	0	3596		1	0
 2091	-1	-1	0	Gladiator	Earn the Gladiator title in an arena season.	165	10	26	12288	3599	Rewards: Custom Gladiator mount and Master Riding	1	0
 2092	-1	-1	0	Duelist	Earn the Duelist title in an arena season.	165	10	25	4096	3598		1	0
@@ -1195,11 +1195,11 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 2094	-1	571	0	A Penny For Your Thoughts	Fish up the copper coins listed below from the Dalaran fountain.	171	10	32	0	3451		0	0
 2095	-1	571	0	Silver in the City	Fish up the silver coins listed below from the Dalaran fountain.	171	10	33	0	3450		0	0
 2096	-1	-1	0	The Coin Master	Complete the coin fishing achievements listed below.	171	10	43	131072	2993	Reward: Titanium Seal of Dalaran	0	0
-2097	-1	-1	0	Get to the Choppa!	Obtain a Mekgineer\'s Chopper or a Mechano-hog.	92	10	56	131072	1101		1	0
-2116	-1	-1	0	Tabard of the Argent Dawn	Obtained a Tabard of the Argent Dawn from the Scourge Invasion event.	81	0	232	0	2637		0	0
-2136	-1	-1	0	Glory of the Hero	Complete the Heroic Dungeon achievements listed below.	168	25	16	131072	3494	Reward: Red Proto-Drake	0	0
-2137	-1	-1	0	Glory of the Raider (10 player)	Complete the 10-player raid achievements listed below.	168	25	17	131072	3499		0	0
-2138	-1	-1	0	Glory of the Raider (25 player)	Complete the 25-player raid achievements listed below.	168	25	18	131072	2044		0	0
+2097	-1	-1	0	Get to the Choppa!	Obtain a Mekgineer\'s Chopper or a Mechano-hog.	92	10	56	0	1101		1	0
+2116	-1	-1	0	Tabard of the Argent Dawn	Obtained a Tabard of the Argent Dawn from the Scourge Invasion event.	81	0	240	0	2637		0	0
+2136	-1	-1	0	Glory of the Hero	Complete the Heroic dungeon achievements listed below.	168	25	17	131072	3494	Reward: Red Proto-Drake	0	0
+2137	-1	-1	0	Glory of the Raider (10 player)	Complete the 10-player raid achievements listed below.	168	25	18	131072	3499		0	0
+2138	-1	-1	0	Glory of the Raider (25 player)	Complete the 25-player raid achievements listed below.	168	25	19	131072	2044		0	0
 2139	-1	533	0	The Safety Dance (25 player)	Defeat Heigan the Unclean in Naxxramas without anyone in the raid dying in 25-player mode.	14922	10	27	0	2116		0	0
 2140	-1	-1	0	Momma Said Knock You Out (25 player)	Defeat Grand Widow Faerlina in Naxxramas without dispelling or preventing frenzy in 25-player mode.	14922	10	29	0	543		0	0
 2141	-1	-1	0	Stable Keeper	Obtain 10 mounts.	92	10	60	131072	2165		0	0
@@ -1229,8 +1229,8 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 2183	-1	533	0	Spore Loser (25 player)	Defeat Loatheb in Naxxramas without killing any spores in 25-player mode.	14922	10	35	0	3099		0	0
 2184	-1	533	0	Just Can\'t Get Enough (10 player)	Defeat Kel\'Thuzad in Naxxramas while killing at least 18 abominations in his chamber in 10 player mode.	14922	10	40	0	2623		0	0
 2185	-1	533	0	Just Can\'t Get Enough (25 player)	Defeat Kel\'Thuzad in Naxxramas while killing at least 18 abominations in his chamber in 25-player mode.	14922	10	41	0	2623		0	0
-2186	-1	533	0	The Immortal	Within one raid lockout period, defeat every boss in Naxxramas without allowing any raid member to die during any of the boss encounters in 25-player mode.	81	0	241	0	2143	Title Reward: The Immortal	0	0
-2187	-1	533	0	The Undying	Within one raid lockout period, defeat every boss in Naxxramas without allowing any raid member to die during any of the boss encounters in 10-player mode.	81	0	240	0	2292	Title Reward: The Undying	0	0
+2186	-1	533	0	The Immortal	Within one raid lockout period, defeat every boss in Naxxramas without allowing any raid member to die during any of the boss encounters in 25-player mode.	81	0	249	0	2143	Title Reward: The Immortal	0	0
+2187	-1	533	0	The Undying	Within one raid lockout period, defeat every boss in Naxxramas without allowing any raid member to die during any of the boss encounters in 10-player mode.	81	0	248	0	2292	Title Reward: The Undying	0	0
 2188	-1	229	0	Leeeeeeeeeeeeeroy!	Kill 50 rookery whelps within 15 seconds.	14808	10	25	0	3495	Title: Jenkins	0	0
 2189	-1	607	0	Artillery Expert	Destroy 5 vehicles using a turret in a single battle.	14881	10	12	0	1617		0	0
 2190	-1	607	0	Drop It Now!	Kill 5 players carrying seaforium in a single battle.	14881	10	14	0	2908		0	0
@@ -1248,14 +1248,14 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 2256	-1	-1	0	Northern Exposure	Kill one of the extremely rare and hard to find Northrend creatures listed below.	14780	10	10	0	3637		1	0
 2257	-1	-1	2256	Frostbitten	Kill all of the extremely rare and hard to find Northrend creatures listed below.	14780	25	11	131072	3638		0	2256
 2277	-1	-1	0	Summons accepted	Summons accepted	134	0	2	1	1		0	0
-2316	-1	-1	0	Brutal Nether Drake	Obtain the Brutal Nether Drake from Arena Season 4 of The Burning Crusade.	81	0	167	131072	2333		1	0
-2336	-1	-1	0	Insane in the Membrane	Raise your reputation with the areas listed below.	81	0	180	0	2938	Title Reward: The Insane	0	0
-2357	-1	-1	0	Dreadsteed of Xoroth	Completed the Dreadsteed of Xoroth warlock quest.	81	0	184	0	1715		0	0
-2358	-1	-1	0	Charger	Completed the paladin quest to obtain a Charger.	81	0	187	0	1716		1	0
-2359	-1	-1	0	Swift Flight Form	Completed the druid quest to obtain Swift Flight Form.	81	0	191	0	2274		0	0
+2316	-1	-1	0	Brutal Nether Drake	Obtain the Brutal Nether Drake from Arena Season 4 of The Burning Crusade.	81	0	168	131072	2333		1	0
+2336	-1	-1	0	Insane in the Membrane	Raise your reputation with the areas listed below.	81	0	181	0	2938	Title Reward: The Insane	0	0
+2357	-1	-1	0	Dreadsteed of Xoroth	Completed the Dreadsteed of Xoroth warlock quest.	81	0	185	0	1715		0	0
+2358	-1	-1	0	Charger	Completed the paladin quest to obtain a Charger.	81	0	188	0	1716		1	0
+2359	-1	-1	0	Swift Flight Form	Completed the druid quest to obtain Swift Flight Form.	81	0	192	0	2274		0	0
 2396	-1	-1	0	Battleground played the most	Battleground played the most	153	0	3	17	1		0	839
 2397	-1	-1	0	Battleground won the most	Battleground won the most	153	0	7	17	1		0	840
-2398	-1	-1	0	WoW\'s 4th Anniversary	Logged in during WoW\'s 4th Anniversary.	81	0	233	0	2917		0	0
+2398	-1	-1	0	WoW\'s 4th Anniversary	Logged in during WoW\'s 4th Anniversary.	81	0	241	0	2917		0	0
 2416	-1	-1	0	Hard Boiled	Lay an egg in Un\'Goro Crater\'s Golakka Hot Springs as a rabbit during the Noblegarden celebration.	159	10	6	0	3711		0	0
 2417	-1	-1	0	Chocolate Lover	Eat 25 Noblegarden Chocolates during the Noblegarden celebration.	159	10	2	0	3706		0	0
 2418	-1	-1	2417	Chocoholic	Eat 100 Noblegarden Chocolates during the Noblegarden celebration.	159	10	3	0	3706		0	0
@@ -1264,9 +1264,9 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 2421	1	-1	0	Noble Garden	Hide a Brightly Colored Egg in Stormwind City.	159	10	10	0	3329		0	0
 2422	-1	-1	0	Shake Your Bunny-Maker	Use Spring Flowers to place rabbit ears upon females of at least 18th level.	159	10	11	0	1216		0	0
 2436	-1	-1	0	Desert Rose	Use Spring Robes to plant a flower in each of the deserts listed below.	159	10	12	0	3060		0	0
-2456	-1	-1	0	Vampire Hunter	Slew Prince Tenris Mirkblood and acquired his Vampiric Batling pet.	81	0	182	0	1577		1	0
+2456	-1	-1	0	Vampire Hunter	Slew Prince Tenris Mirkblood and acquired his Vampiric Batling pet.	81	0	183	0	1577		1	0
 2476	0	571	0	Destruction Derby	Destroy each of the vehicles listed below.	14901	10	6	0	3505		0	0
-2496	-1	-1	0	The Fifth Element	Obtain an Aqual Quintessence.	81	0	185	0	2134		0	0
+2496	-1	-1	0	The Fifth Element	Obtain an Aqual Quintessence.	81	0	186	0	2134		0	0
 2497	0	-1	0	Spring Fling	Find your pet Spring Rabbit another one to love in each of the towns listed below.	159	10	8	0	3202		0	0
 2516	-1	-1	1250	Lil\' Game Hunter	Collect 75 unique companion pets.	15118	10	5	4096	1522	Reward: Little Fawn\'s Salt Lick	0	0
 2536	1	-1	2143	Mountain o\' Mounts	Obtain 100 mounts.	92	10	63	135168	2328	Reward: Blue Dragonhawk Mount	0	0
@@ -1348,8 +1348,8 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 2893	-1	603	0	The Descent into Madness (25 player)	Defeat the bosses of The Descent into Madness area of Ulduar in 25-player mode.	14922	10	73	0	3848		0	0
 2894	-1	-1	0	The Secrets of Ulduar (10 player)	Defeat every boss in Ulduar in 10-player mode.	14922	25	74	131072	3849		0	0
 2895	-1	-1	0	The Secrets of Ulduar (25 player)	Defeat every boss in Ulduar in 25-player mode.	14922	25	75	131072	3849		0	0
-2903	-1	603	0	Champion of Ulduar	Defeat each boss in Ulduar in 10-player mode without allowing any raid member to die to that boss at any point during that raid lockout period.	81	0	251	0	2292	Title Reward: Champion of Ulduar	0	0
-2904	-1	603	0	Conqueror of Ulduar	Defeat each boss in Ulduar in 25-player mode without allowing any raid member to die to that boss at any point during that raid lockout period.	81	0	252	0	2143	Title Reward: Conqueror of Ulduar	0	0
+2903	-1	603	0	Champion of Ulduar	Defeat each boss in Ulduar in 10-player mode without allowing any raid member to die to that boss at any point during that raid lockout period.	81	0	259	0	2292	Title Reward: Champion of Ulduar	0	0
+2904	-1	603	0	Conqueror of Ulduar	Defeat each boss in Ulduar in 25-player mode without allowing any raid member to die to that boss at any point during that raid lockout period.	81	0	260	0	2143	Title Reward: Conqueror of Ulduar	0	0
 2905	-1	603	0	Unbroken (10 player)	Defeat Flame Leviathan on the first try without anyone repairing their vehicle in 10-player mode.	14922	10	78	0	325		0	0
 2906	-1	603	0	Unbroken (25 player)	Defeat Flame Leviathan on the first try without anyone repairing their vehicle in 25-player mode.	14922	10	79	0	325		0	0
 2907	-1	603	0	Three Car Garage (10 player)	Defeat Flame Leviathan while in each of the following vehicles in 10-player mode.	14922	10	80	0	656		0	0
@@ -1398,8 +1398,8 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 2954	-1	603	0	Disarmed (25 player)	Destroy both of Kologarn\'s arms and then Kologarn himself within 12 seconds in 25-player mode.	14922	10	127	0	560		1	0
 2955	-1	603	0	If Looks Could Kill (10 player)	Defeat Kologarn without any raid member being hit by Focused Eyebeams in 10-player mode.	14922	10	128	0	2446		0	0
 2956	-1	603	0	If Looks Could Kill (25 player)	Defeat Kologarn without any raid member being hit by Focused Eyebeams in 25-player mode.	14922	10	129	0	2446		0	0
-2957	-1	-1	0	Glory of the Ulduar Raider (10 player)	Complete the 10-player raid achievements listed below.	168	25	19	131072	3876	Reward: Rusted Proto-Drake 	0	0
-2958	-1	-1	0	Glory of the Ulduar Raider (25 player)	Complete the 25-player raid achievements listed below.	168	25	20	131072	3877	Reward: Ironbound Proto-Drake	0	0
+2957	-1	-1	0	Glory of the Ulduar Raider (10 player)	Complete the 10-player raid achievements listed below.	168	25	20	131072	3876	Reward: Rusted Proto-Drake 	0	0
+2958	-1	-1	0	Glory of the Ulduar Raider (25 player)	Complete the 25-player raid achievements listed below.	168	25	21	131072	3877	Reward: Ironbound Proto-Drake	0	0
 2959	-1	603	0	Rubble and Roll (10 player)	Defeat Kologarn after causing at least 25 Rubble creatures to spawn in 10-player mode.	14922	10	130	0	2380		0	0
 2960	-1	603	0	Rubble and Roll (25 player)	Defeat Kologarn after causing at least 25 Rubble creatures to spawn in 25-player mode.	14922	10	131	0	2380		0	0
 2961	-1	603	0	Cheese the Freeze (10 player)	Defeat Hodir without any raid member being hit by Flash Freeze in 10-player mode.	14922	10	136	0	56		0	0
@@ -1431,8 +1431,8 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 2997	-1	603	0	Shadowdodger (25 player)	Defeat General Vezax without any raid member being hit by Shadow Crash in 25-player mode.	14922	10	177	0	1939		0	0
 3002	-1	603	0	Supermassive (25 player)	Defeat Algalon the Observer after closing 3 Black Holes within 10 seconds in 25-player mode.	14922	10	201	0	2848		0	0
 3003	-1	603	0	Supermassive (10 player)	Defeat Algalon the Observer after closing 3 Black Holes within 10 seconds in 10-player mode.	14922	10	200	0	2848		0	0
-3004	-1	603	0	He Feeds On Your Tears (10 player)	Defeat Algalon the Observer in 10-player mode without any raid member dying to Algalon at any point during that raid lockout period.	81	0	249	0	3197		0	0
-3005	-1	603	0	He Feeds On Your Tears (25 player)	Defeat Algalon the Observer in 25-player mode without any raid member dying to Algalon at any point during that raid lockout period.	81	0	250	0	3197		0	0
+3004	-1	603	0	He Feeds On Your Tears (10 player)	Defeat Algalon the Observer in 10-player mode without any raid member dying to Algalon at any point during that raid lockout period.	81	0	257	0	3197		0	0
+3005	-1	603	0	He Feeds On Your Tears (25 player)	Defeat Algalon the Observer in 25-player mode without any raid member dying to Algalon at any point during that raid lockout period.	81	0	258	0	3197		0	0
 3006	-1	603	0	Crazy Cat Lady (10 player)	Defeat Auriaya without destroying her Sanctum Sentries in 10-player mode.	14922	10	132	0	3870		0	0
 3007	-1	603	0	Crazy Cat Lady (25 player)	Defeat Auriaya without destroying her Sanctum Sentries in 25-player mode.	14922	10	133	0	3870		0	0
 3008	-1	603	0	Drive Me Crazy (10 player)	Defeat Yogg-Saron without any raid member going insane in 10-player mode.	14922	10	190	0	77		0	0
@@ -1454,7 +1454,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 3059	-1	603	0	Heartbreaker (25 player)	Defeat XT-002 Deconstructor after destroying his heart in 25-player mode.	14922	10	113	0	3875		0	0
 3076	-1	603	0	Nine Lives (10 player)	Defeat the Feral Defender while defeating Auriaya in 10-player mode.	14922	10	134	0	836		0	0
 3077	-1	603	0	Nine Lives (25 player)	Defeat the Feral Defender while defeating Auriaya in 25-player mode.	14922	10	135	0	836		0	0
-3096	-1	-1	0	Deadly Gladiator\'s Frost Wyrm	Obtain the Deadly Gladiator\'s Frost Wyrm from Arena Season 5 of Wrath of the Lich King.	81	0	168	131072	3913		1	0
+3096	-1	-1	0	Deadly Gladiator\'s Frost Wyrm	Obtain the Deadly Gladiator\'s Frost Wyrm from Arena Season 5 of Wrath of the Lich King.	81	0	169	131072	3913		1	0
 3097	-1	603	0	Dwarfageddon (10 player)	Destroy 100 Steelforged Defenders in 10 seconds on the Ulduar gauntlet in 10-player mode.	14922	10	76	0	3779		0	0
 3098	-1	603	0	Dwarfageddon (25 player)	Destroy 100 Steelforged Defenders in 10 seconds on the Ulduar gauntlet in 25-player mode.	14922	10	77	0	3779		0	0
 3117	-1	603	0	Realm First! Death\'s Demise	Participated in the realm first defeat of Yogg-Saron without the assistance of any Keepers in 25-player mode.	81	0	93	768	3848	Title Reward: Death\'s Demise	0	0
@@ -1463,7 +1463,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 3137	-1	624	0	Emalon the Storm Watcher (25 player)	Defeat Emalon the Storm Watcher in 25 player mode.	14901	10	14	0	2350		0	0
 3138	-1	603	0	Not-So-Friendly Fire (10 player)	Force Mimiron to kill an Assault Bot with a Rocket Strike in 10-player mode.	14922	10	172	0	2665		0	0
 3141	-1	603	3157	Two Lights in the Darkness (10 player)	Defeat Yogg-Saron with the assistance of two or fewer Keepers in 10-player mode.	14922	10	183	0	2206		0	0
-3142	-1	-1	0	Val\'anyr, Hammer of Ancient Kings	Wielder of Val\'anyr, Hammer of Ancient Kings.	81	0	186	0	3818		0	0
+3142	-1	-1	0	Val\'anyr, Hammer of Ancient Kings	Wielder of Val\'anyr, Hammer of Ancient Kings.	81	0	187	0	3818		0	0
 3157	-1	603	0	Three Lights in the Darkness (10 player)	Defeat Yogg-Saron with the assistance of three or fewer Keepers in 10-player mode.	14922	10	182	0	2206		0	0
 3158	-1	603	3141	One Light in the Darkness (10 player)	Defeat Yogg-Saron with the assistance of one or fewer Keepers in 10-player mode.	14922	10	184	0	2206		0	0
 3159	-1	603	3158	Alone in the Darkness (10 player)	Defeat Yogg-Saron without the assistance of any Keepers in 10-player mode.	14922	10	185	0	2206		0	0
@@ -1495,17 +1495,17 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 3258	-1	603	0	Freya victories (Ulduar 25 player)	Freya victories (Ulduar 25 player)	14963	10	24	1	1700		0	0
 3259	-1	603	0	Realm First! Celestial Defender	Participated in the realm first defeat of Algalon the Observer in 25-player mode.	81	0	94	768	3869	Title Reward: The Celestial Defender	0	0
 3296	-1	-1	0	Cooking with Style	Obtain a Chef\'s Hat.	170	10	30	0	3678		0	0
-3316	-1	603	0	Herald of the Titans	Defeat Algalon the Observer in 10-player mode at level 80 without anyone in the raid wearing any equipment with an item level higher than is available in 10-player Ulduar.	81	0	253	0	3869	Title Reward: Herald of the Titans	0	0
-3336	-1	-1	0	Deadly Gladiator	Achieved Deadly Gladiator title.	81	0	195	0	3596		0	0
-3356	1	-1	0	Winterspring Frostsaber	Obtain a Winterspring Frostsaber.	81	0	206	131072	1510		1	0
-3357	0	-1	0	Venomhide Ravasaur	Obtain a Venomhide Ravasaur.	81	0	209	131072	1584		1	0
-3436	-1	-1	0	Furious Gladiator	Achieved Furious Gladiator title.	81	0	196	0	3597		0	0
+3316	-1	603	0	Herald of the Titans	Defeat Algalon the Observer in 10-player mode at level 80 without anyone in the raid wearing any equipment with an item level higher than is available in 10-player Ulduar.	81	0	261	0	3869	Title Reward: Herald of the Titans	0	0
+3336	-1	-1	0	Deadly Gladiator	Achieved Deadly Gladiator title.	81	0	196	0	3596		0	0
+3356	1	-1	0	Winterspring Frostsaber	Obtain a Winterspring Frostsaber.	81	0	214	131072	1510		1	0
+3357	0	-1	0	Venomhide Ravasaur	Obtain a Venomhide Ravasaur.	81	0	217	131072	1584		1	0
+3436	-1	-1	0	Furious Gladiator	Achieved Furious Gladiator title.	81	0	197	0	3597		0	0
 3456	-1	-1	0	Dead Man\'s Party	Dance with Catrina to become a skeleton during the Day of the Dead.	155	10	14	0	3932		0	0
 3457	-1	-1	0	The Captain\'s Booty	Drink with the Dread Captain DeMeza to join her crew during Pirates\' Day.	155	10	9	0	2421		0	0
 3478	1	-1	0	Pilgrim	Complete the Pilgrim\'s Bounty achievements listed below.	155	10	15	131072	3936	Reward: Pilgrim Title & Plump Turkey Pet	0	0
-3496	-1	-1	0	A Brew-FAST Mount	Obtain an epic Brewfest mount.	81	0	205	131072	354		1	0
+3496	-1	-1	0	A Brew-FAST Mount	Obtain an epic Brewfest mount.	81	0	213	131072	354		1	0
 3516	-1	-1	0	Deaths in Ulduar	Deaths in Ulduar	125	0	13	1	1		0	0
-3536	-1	-1	0	The Marine Marine	Proud owner of Grunty\'s Heavy Murloc Egg from the 2009 BlizzCon.	81	0	103	0	2316		1	0
+3536	-1	-1	0	The Marine Marine	Proud owner of Grunty\'s Heavy Murloc Egg from the 2009 BlizzCon.	81	0	104	0	2316		1	0
 3556	1	-1	0	Pilgrim\'s Paunch	Acquire the Spirit of Sharing from a complete Bountiful Table feast at every Alliance capital.	14981	10	4	0	3709		0	0
 3557	0	-1	0	Pilgrim\'s Paunch	Acquire the Spirit of Sharing from a complete Bountiful Table feast at every Horde capital.	14981	10	5	0	3709		0	0
 3558	-1	-1	0	Sharing is Caring	Pass one of every dish at a Bountiful Table.	14981	10	10	0	79		0	0
@@ -1519,15 +1519,15 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 3582	-1	-1	0	Terokkar Turkey Time	Defeat Talon King Ikiss while wearing a Pilgrim\'s Hat and either a Pilgrim\'s Dress, Robe, or Attire.	14981	10	11	0	3631		0	0
 3596	1	-1	0	Pilgrim\'s Progress	Complete each of the Pilgrim\'s Bounty dailies.	14981	10	8	0	3966		0	0
 3597	0	-1	0	Pilgrim\'s Progress	Complete each of the Pilgrim\'s Bounty dailies.	14981	10	9	0	3966		0	0
-3618	-1	-1	0	Murkimus the Gladiator	Proud owner of a Murkimus the Gladiator pet.	81	0	201	131072	370		1	0
-3636	-1	-1	0	Jade Tiger	Logged in during the Jade Tiger giveaway.	81	0	202	0	283		0	0
+3618	-1	-1	0	Murkimus the Gladiator	Proud owner of a Murkimus the Gladiator pet.	81	0	209	131072	370		1	0
+3636	-1	-1	0	Jade Tiger	Logged in during the Jade Tiger giveaway.	81	0	210	0	283		0	0
 3656	0	-1	0	Pilgrim	Complete the Pilgrim\'s Bounty achievements listed below.	155	10	16	131072	3936	Reward: Pilgrim Title & Plump Turkey Pet	0	0
 3676	1	-1	0	A Silver Confidant	Earn both exalted status with The Silver Covenant and the right to represent a city in the Argent Tournament.	14941	10	33	0	2383	Unlocks Silver Covenant dailies at the Argent Tournament.	0	0
 3677	0	-1	0	The Sunreavers	Earn both exalted status with The Sunreavers and the right to represent a city in the Argent Tournament.	14941	10	34	0	3976	Unlocks Sunreaver dailies at the Argent Tournament.	0	0
 3736	-1	-1	0	Pony Up!	Purchase and use an Argent Pony from Dame Evniki Kapsalis, the Crusader\'s Quartermaster.	14941	10	6	0	1176		0	0
-3756	-1	-1	0	Furious Gladiator\'s Frost Wyrm	Obtain the Furious Gladiator\'s Frost Wyrm from Arena Season 6 of Wrath of the Lich King.	81	0	169	131072	3913		1	0
-3757	-1	-1	0	Relentless Gladiator\'s Frost Wyrm	Obtain the Relentless Gladiator\'s Frost Wyrm from Arena Season 7 of Wrath of the Lich King.	81	0	170	131072	3913		1	0
-3758	-1	-1	0	Relentless Gladiator	Achieved Relentless Gladiator title.	81	0	197	0	3598		0	0
+3756	-1	-1	0	Furious Gladiator\'s Frost Wyrm	Obtain the Furious Gladiator\'s Frost Wyrm from Arena Season 6 of Wrath of the Lich King.	81	0	170	131072	3913		1	0
+3757	-1	-1	0	Relentless Gladiator\'s Frost Wyrm	Obtain the Relentless Gladiator\'s Frost Wyrm from Arena Season 7 of Wrath of the Lich King.	81	0	171	131072	3913		1	0
+3758	-1	-1	0	Relentless Gladiator	Achieved Relentless Gladiator title.	81	0	198	0	3598		0	0
 3776	-1	628	0	Isle of Conquest Victory	Win Isle of Conquest.	15003	10	1	0	4002		0	0
 3777	-1	628	3776	Isle of Conquest Veteran	Complete 100 victories in Isle of Conquest.	15003	10	2	0	3378		0	0
 3778	0	650	0	Trial of the Champion	Defeat the bosses in the Trial of the Champion.	14806	10	25	0	370		0	0
@@ -1538,19 +1538,19 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 3802	-1	-1	0	Argent Confessor	On separate visits to the Trial of the Champion, get credit for defeating Argent Confessor Paletress after suppressing five different memories of the past on Heroic Difficulty.	14806	10	73	0	2792		5	0
 3803	-1	-1	0	The Faceroller	Defeat Eadric the Pure in the Trial of the Champion with his own hammer on Heroic Difficulty.	14806	10	74	0	42		0	0
 3804	-1	-1	0	I\'ve Had Worse	Defeat the Black Knight in the Trial of the Champion on Heroic Difficulty without any player in the group being hit by a ghoul explosion.	14806	10	75	0	1652		0	0
-3808	-1	-1	0	A Tribute to Skill (10 player)	In the Trial of the Grand Crusader, reach a Tribute Chest with at least 25 attempts remaining in 10-player mode.	81	0	242	0	3293		0	0
-3809	-1	-1	3808	A Tribute to Mad Skill (10 player)	In the Trial of the Grand Crusader, reach a Tribute Chest with at least 45 attempts remaining in 10-player mode.	81	0	243	0	4008		0	0
-3810	-1	-1	3809	A Tribute to Insanity (10 player)	In the Trial of the Grand Crusader, reach a Tribute Chest with 50 attempts remaining in 10-player mode.	81	0	244	0	3916		0	0
+3808	-1	-1	0	A Tribute to Skill (10 player)	In the Trial of the Grand Crusader, reach a Tribute Chest with at least 25 attempts remaining in 10-player mode.	81	0	250	0	3293		0	0
+3809	-1	-1	3808	A Tribute to Mad Skill (10 player)	In the Trial of the Grand Crusader, reach a Tribute Chest with at least 45 attempts remaining in 10-player mode.	81	0	251	0	4008		0	0
+3810	-1	-1	3809	A Tribute to Insanity (10 player)	In the Trial of the Grand Crusader, reach a Tribute Chest with 50 attempts remaining in 10-player mode.	81	0	252	0	3916		0	0
 3812	-1	-1	3916	Call of the Grand Crusade (25 player)	Defeat every boss in the Trial of the Grand Crusader in 25-player Heroic mode.	14922	10	205	0	3744		0	0
 3813	-1	-1	0	Upper Back Pain (25 player)	Defeat Icehowl while at least 4 Snobolds remain alive in 25-player mode.	14922	10	207	0	1665		1	0
 3815	-1	-1	0	Salt and Pepper (25 player)	Defeat the Twin Val\'kyr in 3 minutes or less in 25-player mode.	14922	10	214	0	4005		1	0
 3816	-1	-1	0	The Traitor King (25 player)	Kill 25 Swarm Scarabs within 30 seconds in 25-player mode.	14922	10	216	0	4006		0	0
-3817	-1	-1	0	A Tribute to Skill (25 player)	In the Trial of the Grand Crusader, reach a Tribute Chest with at least 25 attempts remaining in 25-player mode.	81	0	246	0	3293		0	0
-3818	-1	-1	3817	A Tribute to Mad Skill (25 player)	In the Trial of the Grand Crusader, reach a Tribute Chest with at least 45 attempts remaining in 25-player mode.	81	0	247	0	4008		0	0
-3819	-1	-1	3818	A Tribute to Insanity (25 player)	In the Trial of the Grand Crusader, reach a Tribute Chest with 50 attempts remaining in 25-player mode.	81	0	248	0	3916		0	0
+3817	-1	-1	0	A Tribute to Skill (25 player)	In the Trial of the Grand Crusader, reach a Tribute Chest with at least 25 attempts remaining in 25-player mode.	81	0	254	0	3293		0	0
+3818	-1	-1	3817	A Tribute to Mad Skill (25 player)	In the Trial of the Grand Crusader, reach a Tribute Chest with at least 45 attempts remaining in 25-player mode.	81	0	255	0	4008		0	0
+3819	-1	-1	3818	A Tribute to Insanity (25 player)	In the Trial of the Grand Crusader, reach a Tribute Chest with 50 attempts remaining in 25-player mode.	81	0	256	0	3916		0	0
 3836	-1	624	0	Koralon the Flame Watcher (10 player)	Defeat Koralon the Flame Watcher in 10 player mode.	14901	10	15	0	2019		0	0
 3837	-1	624	0	Koralon the Flame Watcher (25 player)	Defeat Koralon the Flame Watcher in 25 player mode.	14901	10	16	0	2019		0	0
-3844	-1	-1	0	1000 Dungeon & Raid Emblems	Loot 1000 Emblems of Heroism, Valor, Conquest, Triumph or Frost.	81	0	238	136	1950		0	0
+3844	-1	-1	0	1000 Dungeon & Raid Emblems	Loot 1000 Emblems of Heroism, Valor, Conquest, Triumph or Frost.	81	0	246	136	1950		0	0
 3845	-1	628	0	Isle of Conquest All-Star	In a single Isle of Conquest battle, assault a base, defend a base, destroy a vehicle and kill a player.	15003	20	3	0	2268		0	0
 3846	1	628	0	Resource Glut	Win Isle of Conquest while your team controls the Quarry and Oil Refinery.	15003	10	4	0	3736		0	0
 3847	-1	628	0	Four Car Garage	In Isle of Conquest, control the following vehicles:	15003	10	8	0	656		0	0
@@ -1564,7 +1564,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 3855	-1	628	0	Glaive Grave	In Isle of Conquest, kill 10 players with a Glaive Thrower without dying.	15003	10	17	0	85		0	0
 3856	1	-1	0	Demolition Derby	Destroy the following vehicles in Isle of Conquest	15003	10	15	0	2306		0	0
 3857	1	-1	0	Master of Isle of Conquest	Complete the Isle of Conquest achievements listed below.	15003	25	18	135168	3387	Reward: Tabard of Conquest	0	0
-3896	-1	-1	0	Onyx Panther	Proud owner of an Onyx Panther.	81	0	203	131072	1809		0	0
+3896	-1	-1	0	Onyx Panther	Proud owner of an Onyx Panther.	81	0	211	131072	1809		0	0
 3916	-1	-1	0	Call of the Crusade (25 player)	Defeat every boss in the Trial of the Crusader in 25-player mode.	14922	10	204	0	3744		0	0
 3917	-1	-1	0	Call of the Crusade (10 player)	Defeat every boss in the Trial of the Crusader in 10-player mode.	14922	10	202	0	3744		0	0
 3918	-1	-1	3917	Call of the Grand Crusade (10 player)	Defeat every boss in the Trial of the Grand Crusader in 10-player Heroic mode.	14922	10	203	0	3744		0	0
@@ -1614,21 +1614,21 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4074	-1	624	0	Koralon the Flame Watcher kills (Wintergrasp 10 player)	Koralon the Flame Watcher kills (Wintergrasp 10 player)	15021	10	37	1	187		0	0
 4075	-1	624	0	Koralon the Flame Watcher kills (Wintergrasp 25 player)	Koralon the Flame Watcher kills (Wintergrasp 25 player)	15021	10	38	1	187		0	0
 4078	-1	649	0	Realm First! Grand Crusader	Participated in the realm first conquest of the Trial of the Grand Crusader with 50 attempts remaining in 25-player mode.	81	0	95	768	3805	Title Reward: The Grand Crusader	0	0
-4079	0	-1	0	A Tribute to Immortality	In the Trial of the Grand Crusader, reach a Tribute Chest with 50 attempts remaining and without allowing any raid member to die during any of the boss encounters in 25-player mode.	81	0	162	0	3744	Reward: Crusader\'s Black Warhorse	0	0
-4080	-1	-1	3810	A Tribute to Dedicated Insanity	Meet the criteria for A Tribute to Insanity without any raid member having used an item only obtainable from 25-player Coliseum, or any more powerful item.	81	0	245	0	3805	Title: Argent Defender	0	0
+4079	0	-1	0	A Tribute to Immortality	In the Trial of the Grand Crusader, reach a Tribute Chest with 50 attempts remaining and without allowing any raid member to die during any of the boss encounters in 25-player mode.	81	0	163	0	3744	Reward: Crusader\'s Black Warhorse	0	0
+4080	-1	-1	3810	A Tribute to Dedicated Insanity	Meet the criteria for A Tribute to Insanity without any raid member having used an item only obtainable from 25-player Coliseum, or any more powerful item.	81	0	253	0	3805	Title: Argent Defender	0	0
 4096	-1	628	0	Isle of Conquest battles	Isle of Conquest battles	153	0	35	1	1		0	0
 4097	-1	-1	0	Isle of Conquest victories	Isle of Conquest victories	153	0	36	1	4		0	0
-4156	1	-1	0	A Tribute to Immortality	In the Trial of the Grand Crusader, reach a Tribute Chest with 50 attempts remaining and without allowing any raid member to die during any of the boss encounters in 25-player mode.	81	0	163	0	3744	Reward: Crusader\'s White Warhorse	0	0
+4156	1	-1	0	A Tribute to Immortality	In the Trial of the Grand Crusader, reach a Tribute Chest with 50 attempts remaining and without allowing any raid member to die during any of the boss encounters in 25-player mode.	81	0	164	0	3744	Reward: Crusader\'s White Warhorse	0	0
 4176	0	628	0	Resource Glut	Win Isle of Conquest while your team controls the Quarry and Oil Refinery.	15003	10	6	0	3736		0	0
 4177	0	628	4176	Mine	Win Isle of Conquest while controlling the Quarry, Oil Refinery, Shipyard, Siege Workshop and Hangar.	15003	10	7	0	4016		2	0
 4256	0	-1	0	Demolition Derby	Destroy the following vehicles in Isle of Conquest	15003	10	16	0	2306		0	0
 4296	1	650	0	Trial of the Champion	Defeat the bosses in the Trial of the Champion.	14806	10	27	0	370		0	0
 4297	0	650	3778	Heroic: Trial of the Champion	Defeat the bosses in the Trial of the Champion on Heroic Difficulty.	14806	10	26	0	370		0	0
 4298	1	650	4296	Heroic: Trial of the Champion	Defeat the bosses in the Trial of the Champion on Heroic Difficulty.	14806	10	28	0	370		0	0
-4316	-1	-1	0	2500 Dungeon & Raid Emblems	Loot 2500 Emblems of Heroism, Valor, Conquest, Triumph or Frost.	81	0	239	136	1950		0	0
+4316	-1	-1	0	2500 Dungeon & Raid Emblems	Loot 2500 Emblems of Heroism, Valor, Conquest, Triumph or Frost.	81	0	247	136	1950		0	0
 4396	-1	249	0	Onyxia\'s Lair (10 player)	Defeat Onyxia in 10-player mode.	14922	10	58	0	3820		0	0
 4397	-1	249	0	Onyxia\'s Lair (25 player)	Defeat Onyxia in 25-player mode.	14922	10	59	0	3820		0	0
-4400	-1	-1	0	WoW\'s 5th Anniversary	Logged in during WoW\'s 5th Anniversary.	81	0	234	0	2917		0	0
+4400	-1	-1	0	WoW\'s 5th Anniversary	Logged in during WoW\'s 5th Anniversary.	81	0	242	0	2917		0	0
 4402	-1	249	0	More Dots! (10 player)	Defeat Onyxia in less than 5 minutes in 10-player mode.	14922	10	60	0	3821		0	0
 4403	-1	249	0	Many Whelps! Handle It! (10 player)	Cause 50 Onyxia Whelplings to hatch within 10 seconds of Onyxia\'s liftoff, and then defeat her in 10-player mode.	14922	10	62	0	1699		0	0
 4404	-1	249	0	She Deep Breaths More (10 player)	Defeat Onyxia without anyone taking damage from a Deep Breath in 10-player mode.	14922	10	64	0	2128		0	0
@@ -1637,11 +1637,11 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4407	-1	249	0	She Deep Breaths More (25 player)	Defeat Onyxia without anyone taking damage from a Deep Breath in 25-player mode.	14922	10	65	0	2128		0	0
 4436	1	-1	0	BB King	Pelt the enemy leaders listed below.	156	10	15	0	393		0	0
 4437	0	-1	0	BB King	Pelt the enemy leaders listed below.	156	10	16	0	393		0	0
-4456	-1	-1	0	Random Lich King (normal) dungeons completed	LFG random Lich King normal dungeons completed	14807	0	28	9	1		0	0
-4476	-1	-1	0	Looking For More	Use the Dungeon Finder tool to finish random heroic dungeons until you have grouped with 10 random players total.	168	10	5	0	3168		0	0
-4477	-1	-1	4476	Looking For Many	Use the Dungeon Finder tool to finish random heroic dungeons until you have grouped with 50 random players total.	168	10	6	0	3049	Title: the Patient	0	0
-4478	-1	-1	4477	Looking For Multitudes	Use the Dungeon Finder tool to finish random heroic dungeons until you have grouped with 100 random players total.	168	10	7	0	4007	Reward: Perky Pug	0	0
-4496	-1	-1	0	It\'s Over Nine Thousand!	Earn more than 9000 achievement points.	81	0	211	131072	561		0	0
+4456	-1	-1	0	Random Lich King (normal) dungeons completed	LFG random Lich King normal dungeons completed	14807	0	16	9	1		0	0
+4476	-1	-1	0	Looking For More	Use the Dungeon Finder tool to finish random heroic dungeons until you have grouped with 10 random players total.	168	10	6	0	3168		0	0
+4477	-1	-1	4476	Looking For Many	Use the Dungeon Finder tool to finish random heroic dungeons until you have grouped with 50 random players total.	168	10	7	0	3049	Title: the Patient	0	0
+4478	-1	-1	4477	Looking For Multitudes	Use the Dungeon Finder tool to finish random heroic dungeons until you have grouped with 100 random players total.	168	10	8	0	4007	Reward: Perky Pug	0	0
+4496	-1	-1	0	It\'s Over Nine Thousand!	Earn more than 9000 achievement points.	81	0	219	131072	561		0	0
 4516	-1	632	0	The Forge of Souls	Defeat the bosses in The Forge of Souls	14806	10	29	0	4149		0	0
 4517	-1	658	0	The Pit of Saron	Defeat the bosses in The Pit of Saron.	14806	10	31	0	4150		0	0
 4518	-1	668	0	The Halls of Reflection	Defeat the bosses in The Halls of Reflection.	14806	10	33	0	4151		0	0
@@ -1665,7 +1665,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4537	-1	631	0	I\'ve Gone and Made a Mess (10 player)	Defeat the Deathbringer before Mark of the Fallen Champion is cast three times in 10-player mode.	14922	10	249	0	4161		1	0
 4538	-1	631	0	Dances with Oozes (10 player)	Defeat Rotface without a Big Ooze casting Unstable Ooze Explosion in 10-player mode.	14922	10	251	0	636		1	0
 4539	-1	603	0	Once Bitten, Twice Shy (10 player)	Defeat Blood-Queen Lana\'thel once as a vampire and again without becoming a vampire in 10-player mode.	14922	10	259	0	4165		0	0
-4556	-1	-1	0	Random Lich King (heroic) dungeons completed	LFG random Lich King heroic dungeons completed	14807	0	29	9	1		0	0
+4556	-1	-1	0	Random Lich King (heroic) dungeons completed	LFG random Lich King heroic dungeons completed	14807	0	17	9	1		0	0
 4576	-1	631	0	Realm First! Fall of the Lich King	Participated in the realm first defeat of the Lich King in 25-player heroic mode.	81	0	96	768	4127		0	0
 4577	-1	631	0	Flu Shot Shortage (10 player)	Defeat Festergut while none of the players in your raid group ever had 3 stacks of Inoculated in 10-player mode.	14922	10	253	0	4162		1	0
 4578	-1	631	0	Nausea, Heartburn, Indigestion... (10 player)	Defeat Professor Putricide without using Regurgitated Ooze on the Abomination in 10-player mode.	14922	10	255	0	4163		1	0
@@ -1680,11 +1680,11 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4596	-1	-1	0	The Sword in the Skull	Recover the missing hilt of Quel\'Delar, draw the blade from its resting place, reforge the weapon, purify it in the Sunwell, and present it for your just reward.	14941	10	35	0	4143		1	0
 4597	-1	631	0	The Frozen Throne (25 player)	Defeat the Lich King in Icecrown Citadel in 25-player mode.	14922	10	236	0	4179	Title: The Kingslayer	0	0
 4598	-1	-1	0	The Ashen Verdict	Earn Exalted status with the Ashen Verdict.	14866	15	14	0	1672	Title: Of the Ashen Verdict	0	0
-4599	-1	-1	0	Wrathful Gladiator	Achieved Wrathful Gladiator title.	81	0	198	0	3599		0	0
-4600	-1	-1	0	Wrathful Gladiator\'s Frost Wyrm	Obtain the Wrathful Gladiator\'s Frost Wyrm from Arena Season 8 of Wrath of the Lich King.	81	0	171	131072	3913		1	0
+4599	-1	-1	0	Wrathful Gladiator	Achieved Wrathful Gladiator title.	81	0	199	0	3599		0	0
+4600	-1	-1	0	Wrathful Gladiator\'s Frost Wyrm	Obtain the Wrathful Gladiator\'s Frost Wyrm from Arena Season 8 of Wrath of the Lich King.	81	0	172	131072	3913		1	0
 4601	-1	631	0	Been Waiting a Long Time for This (10 player)	Allow Necrotic Plague to stack to 30 before defeating the Lich King in 10-player mode.	14922	10	265	0	3141		1	0
-4602	-1	-1	0	Glory of the Icecrown Raider (10 player)	Complete the 10-player raid achievements listed below.	168	25	21	131072	3203	Reward: Bloodbathed Frostbrood Vanquisher	0	0
-4603	-1	-1	0	Glory of the Icecrown Raider (25 player)	Complete the 25-player raid achievements listed below.	168	25	22	131072	4156	Reward: Icebound Frostbrood Vanquisher	0	0
+4602	-1	-1	0	Glory of the Icecrown Raider (10 player)	Complete the 10-player raid achievements listed below.	168	25	22	131072	3203	Reward: Bloodbathed Frostbrood Vanquisher	0	0
+4603	-1	-1	0	Glory of the Icecrown Raider (25 player)	Complete the 25-player raid achievements listed below.	168	25	23	131072	4156	Reward: Icebound Frostbrood Vanquisher	0	0
 4604	-1	631	0	Storming the Citadel (25 player)	Defeat the first four bosses in Icecrown Citadel in 25-player mode.	14922	10	221	0	4167		0	0
 4605	-1	631	0	The Plagueworks (25 player)	Defeat the bosses of The Plagueworks in Icecrown Citadel in 25-player mode.	14922	10	225	0	4177		0	0
 4606	-1	631	0	The Crimson Hall (25 player)	Defeat the bosses of The Crimson Hall in Icecrown Citadel in 25-player mode.	14922	10	229	0	4178		0	0
@@ -1703,11 +1703,11 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4620	-1	631	0	All You Can Eat (25 player)	Defeat Sindragosa in 25-player mode without any member of your raid receiving more than 5 stacks of Mystic Buffet.	14922	10	264	0	4166		1	0
 4621	-1	631	0	Been Waiting a Long Time for This (25 player)	Allow Necrotic Plague to stack to 30 before defeating the Lich King in 25-player mode.	14922	10	266	0	3141		1	0
 4622	-1	631	0	Neck-Deep in Vile (25 player)	Kill every Vile Spirit that spawns before it explodes and then defeat the Lich King in 25-player mode.	14922	10	268	0	3789		1	0
-4623	-1	-1	0	Shadowmourne	Wielder of Shadowmourne.	81	0	188	0	4182		0	0
+4623	-1	-1	0	Shadowmourne	Wielder of Shadowmourne.	81	0	189	0	4182		0	0
 4624	-1	-1	0	Tough Love	Defeat the trio of Crown Chemical Co. apothecaries in Shadowfang Keep.	187	10	17	0	1076		0	0
-4625	-1	-1	0	Invincible\'s Reins	Obtain Invincible from Arthas in Icecrown Citadel.	81	0	161	131072	3005		1	0
-4626	-1	-1	0	And I\'ll Form the Head!	Obtain Mimiron\'s Head from 25-player Yogg-Saron with no Keepers assisting you.	81	0	159	131072	1815		1	0
-4627	-1	-1	0	Big Love Rocket	Obtain the Big Love Rocket from Apothecary Hummel in Shadowfang Keep during Love is in the Air.	81	0	160	131072	3195		1	0
+4625	-1	-1	0	Invincible\'s Reins	Obtain Invincible from Arthas in Icecrown Citadel.	81	0	162	131072	3005		1	0
+4626	-1	-1	0	And I\'ll Form the Head!	Obtain Mimiron\'s Head from 25-player Yogg-Saron with no Keepers assisting you.	81	0	160	131072	1815		1	0
+4627	-1	-1	0	Big Love Rocket	Obtain the Big Love Rocket from Apothecary Hummel in Shadowfang Keep during Love is in the Air.	81	0	161	131072	3195		1	0
 4628	-1	631	4531	Heroic: Storming the Citadel (10 player)	Defeat the first four bosses in Icecrown Citadel in 10-player Heroic mode.	14922	10	220	0	4167		0	0
 4629	-1	631	4528	Heroic: The Plagueworks (10 player)	Defeat the bosses of The Plagueworks in Icecrown Citadel in 10-player Heroic mode.	14922	10	224	0	4177		0	0
 4630	-1	631	4529	Heroic: The Crimson Hall (10 player)	Defeat the bosses of The Crimson Hall in Icecrown Citadel in 10-player Heroic mode.	14922	10	228	0	4178		0	0
@@ -1790,9 +1790,9 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4779	-1	-1	0	Isle of Conquest Honorable Kills	Isle of Conquest Honorable Kills	136	0	15	1	1		0	0
 4780	-1	-1	0	Deaths in Trial of the Crusader	Deaths in Trial of the Crusader	125	0	14	1	1		0	0
 4781	-1	-1	0	Deaths in Icecrown Citadel	Deaths in Icecrown Citadel	125	0	15	1	1		0	0
-4782	-1	-1	0	Green Brewfest Stein	Proud owner of the 2009 Vintage Green Brewfest Stein.	81	0	215	0	4223		1	0
-4786	1	-1	0	Operation: Gnomeregan	You assisted High Tinker Mekkatorque and the Gnomeregan Exiles in the recapture of Gnomeregan\'s surface.	81	0	224	0	3799		0	0
-4790	0	-1	0	Zalazane\'s Fall	You assisted Vol\'jin in the final defeat of Zalazane, recapturing the Echo Isles for the Darkspear trolls.	81	0	226	0	2513		0	0
+4782	-1	-1	0	Green Brewfest Stein	Proud owner of the 2009 Vintage Green Brewfest Stein.	81	0	223	0	4223		1	0
+4786	1	-1	0	Operation: Gnomeregan	You assisted High Tinker Mekkatorque and the Gnomeregan Exiles in the recapture of Gnomeregan\'s surface.	81	0	232	0	3799		0	0
+4790	0	-1	0	Zalazane\'s Fall	You assisted Vol\'jin in the final defeat of Zalazane, recapturing the Echo Isles for the Darkspear trolls.	81	0	234	0	2513		0	0
 4815	-1	-1	0	The Twilight Destroyer (25 player)	Defeat Halion in The Ruby Sanctum in 25-player mode.	14922	10	271	0	164		0	0
 4816	-1	-1	4815	Heroic: The Twilight Destroyer (25 player)	Defeat Halion in The Ruby Sanctum in 25-player Heroic mode.	14922	10	272	0	164		0	0
 4817	-1	-1	0	The Twilight Destroyer (10 player)	Defeat Halion in The Ruby Sanctum in 10-player mode.	14922	10	269	0	164		0	0
@@ -1801,18 +1801,18 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4821	-1	-1	0	Halion kills (Ruby Sanctum 10 player)	Halion kills (Ruby Sanctum 10 player)	15062	0	67	1	1		0	0
 4822	-1	-1	0	Halion kills (Heroic Ruby Sanctum 10 player)	Halion kills (Heroic Ruby Sanctum 10 player)	15062	0	68	1	1		0	0
 4823	-1	-1	0	Halion kills (Heroic Ruby Sanctum 25 player)	Halion kills (Heroic Ruby Sanctum 25 player)	15062	0	70	1	1		0	0
-4824	-1	-1	0	Collector\'s Edition: Mini Thor	Owner of the Starcraft II Collector\'s Edition Mini Thor pet.	81	0	111	0	4347		1	0
+4824	-1	-1	0	Collector\'s Edition: Mini Thor	Owner of the Starcraft II Collector\'s Edition Mini Thor pet.	81	0	112	0	4347		1	0
 4825	-1	-1	0	Explore Vashj\'ir	Explore Vashj\'ir, revealing the covered areas of the world map.	15069	10	1	0	4497		0	0
-4826	-1	-1	13	Level 85	Reach level 85.	92	10	9	12292	4646		0	0
+4826	-1	-1	13	Level 85	Reach level 85.	92	10	9	4100	4646		0	0
 4827	-1	-1	0	Surveying the Damage	Explore the following areas in Kalimdor and the Eastern Kingdoms to see the changes wrought by the Cataclysm.	15069	10	6	0	1137		0	0
-4832	-1	-1	0	Friends In Even Higher Places	Obtain an X-53 Touring Rocket mount through the Recruit-a-Friend program.	81	0	227	131072	4286		1	0
+4832	-1	-1	0	Friends In Even Higher Places	Obtain an X-53 Touring Rocket mount through the Recruit-a-Friend program.	81	0	235	131072	4286		1	0
 4833	-1	645	0	Blackrock Caverns	Defeat Ascendant Lord Obsidius in Blackrock Caverns.	15067	10	1	0	4490		0	0
 4839	-1	643	0	Throne of the Tides	Defeat Ozumat in Throne of the Tides.	15067	10	3	0	4491		0	0
 4840	-1	670	0	Grim Batol	Defeat Erudax in Grim Batol.	15067	10	9	0	4492		0	0
 4841	-1	644	0	Halls of Origination	Defeat Rajh in Halls of Origination.	15067	10	11	0	4641		0	0
 4842	-1	669	0	Blackwing Descent	Defeat the bosses in Blackwing Descent.	15068	10	1	0	3817		0	0
-4844	-1	-1	0	Cataclysm Dungeon Hero	Complete the heroic Cataclysm dungeon achievements listed below.	168	20	23	135168	4428		0	0
-4845	-1	-1	0	Glory of the Cataclysm Hero	Complete every Cataclysm Dungeon achievement.	168	25	25	143360	4430	Reward: Reins of the Volcanic Stone Drake	0	0
+4844	-1	-1	0	Cataclysm Dungeon Hero	Complete the Cataclysm Heroic dungeon achievements listed below.	168	20	24	135168	4428		0	0
+4845	-1	-1	0	Glory of the Cataclysm Hero	Complete the Cataclysm Heroic dungeon achievements listed below.	168	25	26	143360	4430	Reward: Reins of the Volcanic Stone Drake	0	0
 4846	-1	725	0	The Stonecore	Defeat High Priestess Azil in the Stonecore.	15067	10	5	0	4493		0	0
 4847	-1	657	0	The Vortex Pinnacle	Defeat Asaad in the Vortex Pinnacle.	15067	10	7	0	4640		0	0
 4848	-1	755	0	Lost City of the Tol\'vir	Defeat Siamat, Lord of the South Wind in the Lost City of the Tol\'vir.	15067	10	13	0	4494		0	0
@@ -1820,7 +1820,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4850	-1	671	0	The Bastion of Twilight	Defeat the bosses in the Bastion of Twilight.	15068	10	2	0	4744		0	0
 4851	-1	754	0	Throne of the Four Winds	Defeat the bosses in Throne of the Four Winds.	15068	10	3	0	3825		0	0
 4852	-1	671	0	Double Dragon	Kill 6 Twilight Fiends in the Twilight Realm and then defeat Valiona and Theralion in the Bastion of Twilight.	15068	10	24	0	5087		0	0
-4853	-1	-1	0	Glory of the Cataclysm Raider	Complete the Cataclysm raid achievements listed below.	168	25	26	143360	4459	Reward: Reins of the Drake of the East Wind	0	0
+4853	-1	-1	0	Glory of the Cataclysm Raider	Complete the Cataclysm raid achievements listed below.	168	25	27	143360	4459	Reward: Reins of the Drake of the East Wind	0	0
 4854	-1	-1	0	I Had It in My Hand	Find a rare artifact.	15071	10	11	0	4728	Title Reward: Assistant Professor	0	0
 4855	-1	-1	4854	What was Briefly Yours is Now Mine	Find 10 rare artifacts.	15071	10	12	0	4729	Title Reward: Associate Professor	0	0
 4856	-1	-1	4855	It Belongs in a Museum!	Find 20 rare artifacts.	15071	10	13	0	4730	Title Reward: Professor	0	0
@@ -1847,8 +1847,8 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4884	-1	-1	0	Ramkahen	Earn Exalted status with the Ramkahen Tol\'vir.	15072	10	6	0	4958		0	0
 4885	1	-1	0	Wildhammer Clan	Earn Exalted status with the Wildhammer Clan.	15072	10	4	0	5066		0	0
 4886	0	-1	0	Dragonmaw Clan	Earn Exalted status with the Dragonmaw Clan.	15072	10	5	0	5065		0	0
-4887	-1	-1	0	Tripping the Rifts	Destroyed one of each type of elemental rift during the Cataclysm launch event.	81	0	228	0	2242		4	0
-4888	-1	-1	0	One Hump or Two?	Obtain a camel mount in Uldum (with just one hump).	92	10	65	0	4937		1	0
+4887	-1	-1	0	Tripping the Rifts	Destroyed one of each type of elemental rift during the Cataclysm launch event.	81	0	236	0	2242		4	0
+4888	-1	-1	0	One Hump or Two?	Obtain a camel mount in Uldum (with just one hump).	92	10	65	131072	4937		1	0
 4892	-1	-1	0	Eastern Plaguelands Quests	Complete 70 quests in Eastern Plaguelands.	14861	10	7	0	3535		0	0
 4893	-1	-1	0	Western Plaguelands Quests	Complete 45 quests in Western Plaguelands.	14861	10	17	0	3571		0	0
 4894	0	-1	0	Silverpine Forest Quests	Complete 55 quests in Silverpine Forest.	14861	10	15	136	3576		0	0
@@ -1871,7 +1871,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 4912	1	-1	4946	Guild Level 25	Reach guild level 25.	15088	10	5	28672	5277	Reward: Reins of the Golden King	0	0
 4913	-1	-1	0	It All Adds Up	Spend 50,000 gold on guildmember repairs.	15088	10	8	28672	4789		0	0
 4914	-1	-1	735	Working Around the Clock	Obtain 525 skill points in two primary professions.	169	10	9	0	162		2	0
-4915	-1	-1	730	More Skills to Pay the Bills	Obtain 525 skill points in Fishing, First Aid, Cooking, and Archaeology.	169	10	12	131072	1657		0	0
+4915	-1	-1	730	More Skills to Pay the Bills	Obtain 525 skill points in Fishing, First Aid, Cooking, and Archaeology.	169	10	12	0	1657		0	0
 4916	-1	-1	125	Illustrious Grand Master Cook	Obtain 525 skill points in cooking.	170	10	6	0	1467		0	0
 4917	-1	-1	130	Illustrious Grand Master Fisherman	Obtain 525 skill points in fishing.	171	10	6	0	580		0	0
 4918	-1	-1	135	Illustrious Grand Master Medic	Obtain 525 skill points in first aid.	172	10	6	0	504		0	0
@@ -2229,7 +2229,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5341	1	-1	0	Marshal	Earn a battleground rating of 2200.	15092	10	39	4096	3369	Title Reward: Marshal	0	0
 5342	0	-1	0	Warlord	Earn a battleground rating of 2300.	15092	10	42	4096	3356	Title Reward: Warlord	0	0
 5343	1	-1	0	Grand Marshal	Earn a battleground rating of 2400.	15092	10	43	12288	3371	Title Reward: Grand Marshal	0	0
-5344	1	-1	0	Hero of the Alliance: Vicious	End PvP season 9 in the top .5% of the rated battleground ladder.	15092	10	45	12288	3574	Title Reward: Hero of the Alliance	0	0
+5344	1	-1	0	Hero of the Alliance: Vicious	End PvP season 9 in the top .5% of the rated battleground ladder.	81	10	203	12288	3574		0	0
 5345	0	-1	0	Scout	Earn a battleground rating of 1100.	15092	10	18	0	3344	Title Reward: Scout	0	0
 5346	0	-1	0	Grunt	Earn a battleground rating of 1200.	15092	10	20	0	3345	Title Reward: Grunt	0	0
 5347	0	-1	0	Sergeant	Earn a battleground rating of 1300.	15092	10	22	0	3346	Title Reward: Sergeant	0	0
@@ -2243,12 +2243,12 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5355	0	-1	0	General	Earn a battleground rating of 2200.	15092	10	40	4096	3355	Title Reward: General	0	0
 5356	0	-1	0	High Warlord	Earn a battleground rating of 2400.	15092	10	44	12288	3357	Title Reward: High Warlord	0	0
 5357	1	-1	0	Field Marshal	Earn a battleground rating of 2300.	15092	10	41	4096	3370	Title Reward: Field Marshal	0	0
-5358	0	-1	0	Hero of the Horde: Vicious	End PvP season 9 in the top .5% of the rated battleground ladder.	15092	10	46	12288	3575	Title Reward: Hero of the Horde	0	0
+5358	0	-1	0	Hero of the Horde: Vicious	End PvP season 9 in the top .5% of the rated battleground ladder.	81	10	204	12288	3575		0	0
 5359	1	-1	0	Knight-Champion	Earn a battleground rating of 1900.	15092	10	33	0	3366	Title Reward: Knight-Champion	0	0
 5362	-1	-1	0	Everyone Needs A Logo	Create and purchase a guild crest.	15088	10	7	20480	2637		0	0
 5363	-1	-1	870	250000 Honorable Kills	Get 250000 honorable kills.	95	10	14	143360	5158	Title Reward: The Bloodthirsty	0	0
-5364	-1	-1	0	Don\'t Want No Zombies on My Lawn	Survive 15 waves on Endless Mode the Peacebloom vs. Ghouls quest in Hillsbrad Foothills.	81	0	263	2048	1216		0	0
-5365	-1	-1	0	Bloom and Doom	Accomplish the following on the Peacebloom vs. Ghouls quest in Hillsbrad Foothills.	81	0	264	2048	2878		0	0
+5364	-1	-1	0	Don\'t Want No Zombies on My Lawn	Survive 15 waves on Endless Mode the Peacebloom vs. Ghouls quest in Hillsbrad Foothills.	81	0	271	2048	1216		0	0
+5365	-1	-1	0	Bloom and Doom	Accomplish the following on the Peacebloom vs. Ghouls quest in Hillsbrad Foothills.	81	0	272	2048	2878		0	0
 5366	-1	36	0	Ready for Raiding	Do not get hit by Fire Wall in the Glubtok encounter in Deadmines on Heroic Difficulty.	15067	10	40	0	2128		0	0
 5367	-1	36	0	Rat Pack	Kill 20 Mine Rats during the Helix Gearbreaker encounter in Deadmines on Heroic Difficulty.	15067	10	41	0	5061		0	0
 5368	-1	36	0	Prototype Prodigy	Keep the Prototype Reaper from falling below 90% health at any time before the Foe Reaper 5000 is defeated in Deadmines on Heroic Difficulty.	15067	10	42	0	2367		0	0
@@ -2260,8 +2260,8 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5374	-1	-1	1015	45 Exalted Reputations	Raise 45 reputations to Exalted.	201	10	11	12288	3602		0	0
 5375	1	-1	0	Baradin\'s Wardens	Earn Exalted status with Baradin\'s Wardens.	15072	10	7	0	4898		0	0
 5376	0	-1	0	Hellscream\'s Reach	Earn Exalted status with Hellscream\'s Reach.	15072	10	8	0	4903		0	0
-5377	-1	-1	0	Collector\'s Edition: Lil\' Deathwing	Owner of the Cataclysm Collector\'s Edition Lil\' Deathwing pet.	81	0	112	0	4726		1	0
-5378	-1	-1	0	Deathy	Proud owner of Deathy\'s Murloc Egg from the 2010 BlizzCon.	81	0	104	0	1521		1	0
+5377	-1	-1	0	Collector\'s Edition: Lil\' Deathwing	Owner of the Cataclysm Collector\'s Edition Lil\' Deathwing pet.	81	0	113	0	4726		1	0
+5378	-1	-1	0	Deathy	Proud owner of Deathy\'s Murloc Egg from the 2010 BlizzCon.	81	0	105	0	1521		1	0
 5381	-1	-1	0	Realm First! Illustrious Alchemist	First person on the realm to achieve 525 skill in alchemy.	81	0	46	256	339		0	0
 5382	-1	-1	0	Realm First! Illustrious Blacksmith	First person on the realm to achieve 525 skill in blacksmithing.	81	0	49	256	335		0	0
 5383	-1	-1	0	Realm First! Illustrious Cook	First person on the realm to achieve 525 skill in cooking.	81	0	52	256	1467		0	0
@@ -2356,11 +2356,11 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5503	-1	33	0	Pardon Denied	Defeat Baron Ashbury without letting him heal with Stay of Execution in Shadowfang Keep on Heroic Difficulty.	15067	10	46	0	2984		0	0
 5504	-1	33	0	To the Ground!	Defeat Commander Springvale without allowing him to receive Unholy Empowerment in Shadowfang Keep on Heroic Difficulty.	15067	10	47	0	2293		0	0
 5505	-1	33	0	Bullet Time	Defeat 12 Bloodthirsty Ghouls with Pistol Barrage and then defeat Lord Godfrey in Shadowfang Keep on Heroic Difficulty.	15067	10	48	0	2913		0	0
-5506	-1	-1	0	Defender of a Shattered World	Complete the raids and Heroic dungeons listed below.	168	10	24	131072	5043	Title Reward: Defender of a Shattered World	0	0
+5506	-1	-1	0	Defender of a Shattered World	Complete the raids and Heroic dungeons listed below.	168	10	25	131072	5043	Title Reward: Defender of a Shattered World	0	0
 5511	-1	-1	0	It\'s Always in the Last Place You Look	Recover archaeology artifacts from each of the following races.	15071	10	14	0	5201		0	0
-5512	-1	-1	0	WoW\'s 6th Anniversary	Logged in during WoW\'s 6th Anniversary.	81	0	235	0	2917		0	0
+5512	-1	-1	0	WoW\'s 6th Anniversary	Logged in during WoW\'s 6th Anniversary.	81	0	243	0	2917		0	0
 5518	-1	-1	0	Stood in the Fire	Get killed by Deathwing.	15069	10	8	0	11		1	0
-5533	-1	-1	0	Veteran of the Shifting Sands	Completed the gates of Ahn\'Qiraj quest chain up to and including Treasure of the Timeless One (even if someone else ended up with the mount).	81	0	208	0	3567		0	0
+5533	-1	-1	0	Veteran of the Shifting Sands	Completed the gates of Ahn\'Qiraj quest chain up to and including Treasure of the Timeless One (even if someone else ended up with the mount).	81	0	216	0	3567		0	0
 5535	-1	-1	0	1000 Valor Points	Earn 1000 Valor Points	168	10	1	0	5312		0	0
 5536	-1	-1	5535	5000 Valor Points	Earn 5000 Valor Points	168	10	2	0	5312		0	0
 5537	-1	-1	5536	25,000 Valor Points	Earn 25,000 Valor Points	168	10	3	0	5312		0	0
@@ -2424,7 +2424,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5739	-1	33	0	Lord Godfrey kills (Heroic Shadowfang Keep)		15096	0	16	1	1		0	0
 5743	-1	859	0	It\'s Not Easy Being Green	Do not get hit by Bloodvenom, Pool of Acrid Tears, or Venomous Effusion in the High Priest Venoxis encounter in Zul\'Gurub on Heroic Difficulty.	15067	10	50	0	1960		0	0
 5744	-1	859	0	Gurubashi Headhunter	Defeat Gub, Mortaxx, Kaulema, Mor\'Lek, the Florawing Hive Queen, a Lost Offspring of Gahz\'ranka, Tor-Tun, and the Gurubashi Master Chef in Zul\'Gurub on Heroic Difficulty.	15067	10	49	0	1721		0	0
-5749	-1	-1	0	Vial of the Sands	Learn how to transform into a dragon and carry an ally.	92	10	57	131072	3619		1	0
+5749	-1	-1	0	Vial of the Sands	Learn how to transform into a dragon and carry an ally.	92	10	57	0	3619		1	0
 5750	-1	568	0	Tunnel Vision	Defeat Halazzi in Zul\'Aman on Heroic Difficulty without killing any of his totems.	15067	10	54	0	120		0	0
 5751	-1	-1	977	2500 Daily Quests Complete	Complete 2500 daily quests.	96	10	14	0	3428		0	0
 5752	-1	-1	1182	Justly Rewarded	Make 30,000 gold from quest rewards.	96	10	22	0	2995		0	0
@@ -2437,7 +2437,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5761	-1	568	0	Hex Mix	Un-hex all of the potential hex victims in Zul\'Aman on Heroic Difficulty.	15067	10	55	0	3058		0	0
 5762	-1	859	0	Ohganot So Fast!	Defeat Bloodlord Mandokir in Zul\'Gurub on Heroic Difficulty without killing Ohgan.	15067	10	51	0	4806		0	0
 5765	-1	-1	0	Here, Kitty Kitty...	Defeat High Priestess Kilnara in Heroic Difficulty after having fed Temple Rats to 4 of Bethekk\'s Pride.	15067	10	52	0	5471		0	0
-5767	-1	-1	0	Scourer of the Eternal Sands	Obtain the reins of the Grey Riding Camel from Dormus the Camel-Hoarder.	81	0	266	131072	5071	Title: The Camel-Hoarder	0	0
+5767	-1	-1	0	Scourer of the Eternal Sands	Obtain the reins of the Grey Riding Camel from Dormus the Camel-Hoarder.	81	0	274	131072	5071	Title: The Camel-Hoarder	0	0
 5768	-1	859	0	Heroic: Zul\'Gurub	Defeat Jin\'do the Godbreaker in Zul\'Gurub on Heroic Difficulty.	15067	10	17	0	5450		0	0
 5769	-1	568	0	Heroic: Zul\'Aman	Defeat Daakara in Zul\'Aman on Heroic Difficulty.	15067	10	18	0	5451		0	0
 5770	-1	859	0	Heroic: Zul\'Gurub Guild Run	Defeat Jin\'do the Godbreaker in Zul\'Gurub on Heroic difficulty while in a guild group.	15083	10	10	53248	5450		0	0
@@ -2451,7 +2451,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5783	-1	-1	0	Raid Challenges	Complete 50 guild raid challenges.	15088	10	37	28672	3820		0	0
 5784	-1	-1	0	Rated Battleground Challenges	Complete 50 guild rated battleground challenges.	15088	10	38	28672	3582		0	0
 5785	-1	-1	0	Dungeon Challenges	Complete 50 guild dungeon challenges.	15088	10	41	28672	5476		0	0
-5788	-1	-1	0	Agent of the Shen\'dralar	Earn exalted status with the Shen\'dralar.	81	0	257	0	4564		0	0
+5788	-1	-1	0	Agent of the Shen\'dralar	Earn exalted status with the Shen\'dralar.	81	0	265	0	4564		0	0
 5794	-1	-1	0	Time Flies When You\'re Having Fun	Earn Exalted status with your guild.	201	10	2	4096	5497		1	0
 5795	-1	-1	0	Twin Peaks Honorable Kills	Twin Peaks Honorable Kills	136	0	16	1	1		0	0
 5796	-1	-1	0	The Battle for Gilneas Honorable Kills	The Battle for Gilneas Honorable Kills	136	0	17	1	1		0	0
@@ -2473,14 +2473,14 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5823	1	-1	5328	Veteran of the Alliance II	Win 150 rated battlegrounds.	15092	10	6	0	1704	Reward: Epic Warhorse	0	0
 5824	0	-1	5325	Veteran of the Horde II	Win 150 rated battlegrounds.	15092	10	14	0	1703	Reward: Epic Wolf	0	0
 5827	-1	-1	0	Avengers of Hyjal	Earn Exalted status with the Avengers of Hyjal.	15072	15	9	0	5521	Title: Avenger of Hyjal 	0	0
-5828	-1	-1	0	Glory of the Firelands Raider	Complete the Firelands raid achievements listed below.	168	25	27	143360	5522	Reward: Corrupted Egg of Millagazor	0	0
+5828	-1	-1	0	Glory of the Firelands Raider	Complete the Firelands raid achievements listed below.	168	25	28	143360	5522	Reward: Corrupted Egg of Millagazor	0	0
 5829	-1	-1	0	Bucket List	During a single engagement, bring Shannox to each of the following locations in the Firelands before dispatching him:	15068	10	41	0	5423		0	0
 5830	-1	-1	0	Share the Pain	Defeat Baleroc in the Firelands without allowing any member of your raid to suffer Torment more than three times.	15068	10	42	0	2874		0	0
 5835	0	-1	0	Tricks and Treats of Northrend	Visit the Candy Buckets in Northrend.	158	10	23	0	2950		0	0
 5836	1	-1	0	Tricks and Treats of Northrend	Visit the Candy Buckets in Northrend.	158	10	17	0	2950		0	0
 5837	1	-1	0	Tricks and Treats of the Cataclysm	Visit the Candy Buckets in Cataclysm zones.	158	10	18	0	2493		0	0
 5838	0	-1	0	Tricks and Treats of the Cataclysm	Visit the Candy Buckets in Cataclysm zones.	158	10	24	0	2493		0	0
-5839	-1	-1	0	Dragonwrath, Tarecgosa\'s Rest	Owner of Dragonwrath, Tarecgosa\'s Rest.	81	0	189	0	5538		1	0
+5839	-1	-1	0	Dragonwrath, Tarecgosa\'s Rest	Owner of Dragonwrath, Tarecgosa\'s Rest.	81	0	190	0	5538		1	0
 5840	-1	-1	0	Dragonwrath, Tarecgosa\'s Rest - Guild Edition	Owner of Dragonwrath, Tarecgosa\'s Rest	15079	10	21	94208	5538	Reward: Dragonwrath Whelpling	1	0
 5841	1	-1	0	Let\'s Do Lunch: Ironforge	Complete each of the Ironforge cooking daily quests.	170	10	35	0	2515		0	0
 5842	1	-1	0	Let\'s Do Lunch: Darnassus	Complete each of the Darnassus cooking daily quests.	170	10	34	0	2644		0	0
@@ -2502,7 +2502,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5860	-1	-1	0	The \'Unbeatable?\' Pterodactyl: BEATEN.	Complete the Vigilance on Wings daily quest in Mount Hyjal 10 times.	15070	10	10	0	1579	Reward: Chirping Box	0	0
 5861	-1	-1	0	The Fiery Lords of Sethria\'s Roost	Hunt down and slay the following minions of Ragnaros in Sethria\'s Roost.	15070	10	30	0	2290		0	0
 5862	-1	-1	0	Ludicrous Speed	While on the quest Call the Flock in Mount Hyjal, obtain 65 stacks of Soar.	15070	10	32	0	1530		0	0
-5863	-1	-1	0	WoW\'s 7th Anniversary	Logged in during WoW\'s 7th Anniversary.	81	0	236	0	2917		0	0
+5863	-1	-1	0	WoW\'s 7th Anniversary	Logged in during WoW\'s 7th Anniversary.	81	0	244	0	2917		0	0
 5864	-1	-1	0	Gang War	"Win a duel in Sethria\'s Roost while on the quest \The Protectors of Hyjal.\"""""	15070	10	34	0	5563		0	0
 5865	-1	-1	0	Have... Have We Met?	Acknowledge your recognition by /waving at the following NPCs in Sethria\'s Roost.	15070	10	35	0	1524		0	0
 5866	-1	-1	0	The Molten Front Offensive	Unlock each of the following in the attack on the Molten Front.	15070	10	29	0	5423	Reward: Flameward Hippogryph	0	0
@@ -2514,7 +2514,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5872	-1	-1	0	King of the Spider-Hill	Reach the highest point in the Widow\'s Clutch within the Molten Front.	15070	10	39	0	1586		0	0
 5873	-1	-1	0	Ready for Raiding II	Slay the following Lieutenants of Flame in Ragnaros\' Reach without getting hit by their special attacks.	15070	10	41	0	2128		0	0
 5874	-1	-1	0	Death From Above	Bomb the following elementals during a bombing run in the Molten Front.	15070	10	40	0	5565		0	0
-5875	-1	-1	5877	Littlest Pet Shop	Collect 150 unique companion pets.	15118	10	8	4096	1522	Reward: Celestial Dragon	0	0
+5875	-1	-1	5877	Littlest Pet Shop	Collect 150 unique companion pets.	15118	10	8	135168	1522	Reward: Celestial Dragon	0	0
 5876	-1	-1	2516	Petting Zoo	Collect 100 unique companion pets.	15118	10	6	4096	1522	Reward: Nuts\' Acorn	0	0
 5877	-1	-1	5876	Menagerie	Collect 125 unique companion pets.	15118	10	7	4096	1522	Reward: Brilliant Kaliri	0	0
 5879	-1	-1	0	Veteran of the Molten Front	Complete the Regrowth and Molten Front achievements listed below.	15070	10	42	135168	5423	Title: The Flamebreaker	0	0
@@ -2538,8 +2538,8 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 5984	-1	720	0	Heroic: Ragnaros Guild Run	Defeat Ragnaros in Firelands on Heroic difficulty while in a guild group.	15087	10	11	61440	5508		1	0
 5985	-1	720	0	Realm First! Ragnaros	First guild on the realm to defeat Ragnaros in Firelands on Heroic Difficulty while in a guild group.	15093	0	8	63744	5508		1	0
 5995	-1	938	0	Moon Guard	Engage the Echo of Tyrande in End Time on Heroic Difficulty after surviving her Shadow Gauntlet without allowing the party\'s healer to take any damage.	15067	10	58	0	85		0	0
-6002	-1	-1	0	Vicious Gladiator	Achieved Vicious Gladiator title.	81	0	199	0	5100		0	0
-6003	-1	-1	0	Vicious Gladiator\'s Twilight Drake	Obtain the Vicious Gladiator\'s Twilight Drake from Arena Season 9 of Cataclysm.	81	0	172	131072	3668		1	0
+6002	-1	-1	0	Vicious Gladiator	Achieved Vicious Gladiator title.	81	0	200	0	5100		0	0
+6003	-1	-1	0	Vicious Gladiator\'s Twilight Drake	Obtain the Vicious Gladiator\'s Twilight Drake from Arena Season 9 of Cataclysm.	81	0	173	131072	3668		1	0
 6006	-1	-1	0	Elders of Cataclysm	Honor the Elders which are located in zones opened by the cataclysm.	160	10	10	0	2218		0	0
 6007	1	-1	0	Extinguishing Northrend	Desecrate the Horde\'s bonfires in Northrend.	161	10	13	0	1920		0	0
 6008	1	-1	0	Flame Warden of Northrend	Honor the flames of Northrend.	161	10	7	0	1923		0	0
@@ -2564,9 +2564,9 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6031	0	-1	0	Taking the Show on the Road	Launch off Darkmoon Fireworks in every friendly capital city.	15101	10	14	0	5631		0	0
 6032	-1	-1	0	Faire Favors	Complete at least six profession-based quests at the Darkmoon Faire.	15101	10	8	0	5660		6	0
 6045	-1	757	0	Occu\'thar	Defeat Occu\'thar.	15075	10	11	0	5663		0	0
-6059	-1	-1	0	Red Rider Air Rifle	Proud owner of the 2009 Vintage Winter Veil gift, the Red Rider Air Rifle.	81	0	221	0	1859		0	0
-6060	-1	-1	0	MiniZep Controller	Proud owner of the 2010 Vintage Winter Veil gift, the MiniZep Controller.	81	0	222	0	1859		0	0
-6061	-1	-1	0	Gaudy Winter Veil Sweater	Proud owner of the 2011 Vintage Winter Veil gift, the Gaudy Winter Veil Sweater.	81	0	223	0	1859		0	0
+6059	-1	-1	0	Red Rider Air Rifle	Proud owner of the 2009 Vintage Winter Veil gift, the Red Rider Air Rifle.	81	0	229	0	1859		0	0
+6060	-1	-1	0	MiniZep Controller	Proud owner of the 2010 Vintage Winter Veil gift, the MiniZep Controller.	81	0	230	0	1859		0	0
+6061	-1	-1	0	Gaudy Winter Veil Sweater	Proud owner of the 2011 Vintage Winter Veil gift, the Gaudy Winter Veil Sweater.	81	0	231	0	1859		0	0
 6070	-1	939	0	That\'s Not Canon!	Defeat Mannoroth in Well of Eternity on Heroic Difficulty after dealing enough damage to Mannoroth while Varo\'then is still alive to cause him to sacrifice Varo\'then to heal himself.	15067	10	61	0	3198		0	0
 6084	-1	967	0	Minutes to Midnight	Defeat Ultraxion in Dragon Soul on Normal or Heroic Difficulty without any raid member being hit by Hour of Twilight more than once.	15068	10	60	0	164		0	0
 6089	-1	961	0	Keep Rollin\' Rollin\' Rollin\'	Kill Ook-Ook after assaulting him with 20 Rolling Brew Barrels in Stormstout Brewery on Heroic Difficulty.	15106	10	18	0	6053		0	0
@@ -2589,14 +2589,14 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6121	-1	-1	0	Heroic: Well of Eternity Guild Run	Defeat Mannoroth in Well of Eternity on Heroic difficulty while in a guild group.	15083	10	13	53248	5840		0	0
 6122	-1	-1	0	Heroic: Hour of Twilight Guild Run	Defeat Archbishop Benedictus in Hour of Twilight on Heroic difficulty while in a guild group.	15083	10	14	53248	5841		0	0
 6123	-1	967	0	Dragon Soul Guild Run	Defeat the bosses in Dragon Soul while in a guild group.	15087	10	6	53248	5702		0	0
-6124	-1	-1	0	Ruthless Gladiator	Achieved Ruthless Gladiator title.	81	0	200	0	3601		0	0
+6124	-1	-1	0	Ruthless Gladiator	Achieved Ruthless Gladiator title.	81	0	201	0	3601		0	0
 6125	-1	967	0	Heroic: Deathwing Guild Run	Defeat Deathwing in Dragon Soul on Heroic difficulty while in a guild group.	15087	10	12	61440	5833		1	0
 6126	-1	967	0	Realm First! Deathwing	First guild on the realm to defeat Deathwing in Dragon Soul on Heroic difficulty while in a guild group.	15093	10	9	63744	5833		1	0
 6127	-1	939	0	Lazy Eye	Defeat Peroth\'arn in Well of Eternity on Heroic Difficulty without any party member being detected by an Eye of Peroth\'arn.	15067	10	60	0	3915		0	0
 6128	-1	967	0	Ping Pong Champion	Bounce the Void of the Unmaking 10 times off of players, and then defeat Warlord Zon\'ozz on Normal or Heroic Difficulty.	15068	10	57	0	2242		0	0
 6129	-1	967	0	Taste the Rainbow!	Experience the following color combinations, and then defeat Yor\'sahj the Unsleeping on Normal or Heroic Difficulty.	15068	10	58	0	5156		0	0
 6130	-1	938	0	Severed Ties	Defeat two Risen Ghouls during Echo of Sylvanas\' Calling of the Highborne phase, then defeat the Echo of Sylvanas in End Time on Heroic Difficulty.	15067	10	59	0	3661		0	0
-6131	-1	-1	0	WoW\'s 8th Anniversary	Logged in during WoW\'s 8th Anniversary.	81	0	237	0	2917		0	0
+6131	-1	-1	0	WoW\'s 8th Anniversary	Logged in during WoW\'s 8th Anniversary.	81	0	245	0	2917		0	0
 6132	-1	-1	0	Eclipse	Kill 10 Twilight Sparks and then defeat Archbishop Benedictus in Hour of Twilight on Heroic Difficulty.	15067	10	62	0	3501		0	0
 6133	-1	967	0	Maybe He\'ll Get Dizzy...	Defeat the Spine of Deathwing encounter on Normal or Heroic Difficulty after tricking Deathwing into performing the following roll sequence: Left, Right, Left, Right.	15068	10	62	0	5839		0	0
 6135	-1	-1	0	Taragaman the Hungerer kills (Ragefire Chasm)		14821	0	1	1	1		0	0
@@ -2632,77 +2632,63 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6166	-1	967	0	Spine of Deathwing Heroic victories (Dragon Soul)		15096	0	77	9	5839		0	0
 6167	-1	967	0	Deathwing kills (Dragon Soul)		15096	0	78	9	5833		0	0
 6168	-1	967	0	Deathwing Heroic kills (Dragon Soul)		15096	0	79	9	5833		0	0
-6169	-1	-1	0	Glory of the Dragon Soul Raider	Complete the Dragon Soul raid achievements listed below.	168	25	28	143360	5702	Reward: Reins of the Twilight Harbinger	0	0
+6169	-1	-1	0	Glory of the Dragon Soul Raider	Complete the Dragon Soul raid achievements listed below.	168	25	29	143360	5702	Reward: Reins of the Twilight Harbinger	0	0
 6170	-1	757	0	Alizabal kills (Baradin Hold)		15096	0	80	1	1		0	0
 6174	-1	967	0	Don\'t Stand So Close to Me	Defeat Morchok in Dragon Soul on Normal or Heroic Difficulty without any two players (three players on 25-player mode) ever being within 5 yards of each other while Morchok is channeling Black Blood of the Earth.	15068	10	56	0	1690		0	0
 6175	-1	967	0	Holding Hands	Destroy the final Crystal Conductor during Hagara\'s lightning phase on Normal or Heroic Difficulty, while all raid members are part of the final Lightning Conduit.	15068	10	59	0	5220		0	0
 6177	-1	967	0	Destroyer\'s End	Defeat Deathwing on Normal or Heroic Difficulty in the Dragon Soul raid.	15068	10	47	0	5862	Title: Destroyer\'s End	0	0
 6180	-1	967	0	Chromatic Champion	Destroy Deathwing in Dragon Soul on Normal or Heroic Difficulty after beginning the encounter on each Aspect\'s platform:	15068	10	63	0	5871		0	0
-6181	-1	-1	0	Fangs of the Father	Wielder of the Fangs of the Father.	81	0	190	0	5873		0	0
+6181	-1	-1	0	Fangs of the Father	Wielder of the Fangs of the Father.	81	0	191	0	5873		0	0
 6182	-1	-1	0	Fangs of the Father - Guild Edition	Wielder of the Fangs of the Father	15079	10	22	94208	5873		1	0
-6185	-1	-1	0	Murkablo	Proud owner of Murkablo from the 2011 BlizzCon.	81	0	105	0	5878		1	0
+6185	-1	-1	0	Murkablo	Proud owner of Murkablo from the 2011 BlizzCon.	81	0	106	0	5878		1	0
 6193	-1	-1	4826	Level 90	Reach level 90.	92	10	10	12292	6218		0	0
 6300	1	-1	0	Upjade Complete	Complete the Jade Forest storylines listed below.	15110	10	1	0	3697		0	0
 6301	-1	-1	0	Rally the Valley	Complete the Valley of the Four Winds storylines listed below.	15110	10	3	0	3697		0	0
-6316	1	-1	0	Hero of the Alliance: Ruthless	End PvP season 10 in the top .5% of the rated battleground ladder.	15092	10	47	12288	3574	Title Reward: Hero of the Alliance	0	0
-6317	0	-1	0	Hero of the Horde: Ruthless	End PvP season 10 in the top .5% of the rated battleground ladder.	15092	10	48	12288	3575	Title Reward: Hero of the Horde	0	0
-6322	-1	-1	0	Ruthless Gladiator\'s Twilight Drake	Obtain the Ruthless Gladiator\'s Twilight Drake from Arena Season 10 of Cataclysm.	81	0	173	131072	3668		1	0
+6316	1	-1	0	Hero of the Alliance: Ruthless	End PvP season 10 in the top .5% of the rated battleground ladder.	81	10	205	12288	3574		0	0
+6317	0	-1	0	Hero of the Horde: Ruthless	End PvP season 10 in the top .5% of the rated battleground ladder.	81	10	206	12288	3575		0	0
+6322	-1	-1	0	Ruthless Gladiator\'s Twilight Drake	Obtain the Ruthless Gladiator\'s Twilight Drake from Arena Season 10 of Cataclysm.	81	0	174	131072	3668		1	0
 6332	-1	-1	0	That Rabbit\'s Dynamite!	Slay the ferocious Darkmoon Rabbit.	15101	10	15	0	4196		1	0
 6337	-1	-1	0	Ossirian kills (Ruins of Ahn\'Qiraj)		14821	0	22	1	1		0	0
 6348	-1	-1	0	Mystically Superior	Equip a superior item in every slot with a minimum item level of 450.	92	10	35	0	5970		0	0
 6349	-1	-1	0	Mystically Epic	Equip an epic item in every slot with a minimum item level of 476.	92	25	36	0	5971		0	0
 6350	-1	-1	0	To All the Squirrels I Once Caressed? (NYI)	There are even more critters in Pandaria. They also need /love.	92	10	43	0	3132		0	0
-6351	-1	-1	0	Explore Jade Forest (NYI)	Explore Jade Forest, revealing the covered areas of the world map.	15113	10	1	0	4499		0	0
-6363	-1	-1	0	What a View (NYI)	Visit each of the 10,000 waterfalls of Pandaria.	15113	0	2	0	5281		0	0
+6351	-1	-1	0	Explore Jade Forest	Explore Jade Forest, revealing the covered areas of the world map.	15113	10	1	0	6373		0	0
 6365	-1	-1	4916	Zen Master Cook	Obtain 600 skill points in cooking.	170	10	7	0	1467		0	0
 6366	-1	-1	0	Shado-Pan	Earn Exalted status with the Shado-Pan.	15114	10	1	0	543		0	0
-6368	-1	961	0	Bronze Challenge: Stormstout Brewery		15115	10	2	0	4491		0	0
-6369	-1	961	0	Bronze Challenge: Stormstout Brewery		15115	10	1	0	4491		0	0
-6370	-1	961	0	Silver Challenge: Stormstout Brewery		15115	10	3	0	4491		0	0
-6371	-1	961	0	Silver Challenge: Stormstout Brewery		15115	10	4	0	4491	A piece of challenge armor.	0	0
-6372	-1	961	0	Gold Challenge: Stormstout Brewery		15115	10	6	0	4491		0	0
-6373	-1	961	0	Gold Challenge: Stormstout Brewery		15115	10	5	0	4491		0	0
-6374	-1	-1	0	Full Bronze: Mists of Pandaria	Achieve a Bronze Challenge in every Mists of Pandaria dungeon.	15115	0	7	0	1	Title: The Challenged (NNF)	0	0
-6375	-1	-1	0	Full Silver: Mists of Pandaria	Achieve a Silver Challenge in every Mists of Pandaria dungeon.	15115	0	8	0	1		0	0
-6378	-1	-1	0	Full Gold: Mists of Pandaria	Achieve a Gold Challenge in every Mists of Pandaria dungeon.	15115	0	9	0	1	Sweet mount	0	0
-6379	-1	-1	0	Realm First: Gold Challenge: Stormstout Brewery (feat)		15115	0	10	0	1		0	0
-6380	-1	-1	0	Realm First: Full Bronze: Mists of Pandaria (feat)		15115	0	13	0	1		0	0
-6394	-1	1007	0	Rattle No More	Defeat Rattlegore without allowing him to gain more than 5 stacks of Rusting in Scholomance on Heroic Difficulty.	15106	10	32	0	4905		0	0
-6396	-1	1007	0	Sanguinarian	Defeat a Krastinovian Carver that has 99 stacks of Boiling Bloodthirst in Scholomance on Heroic Difficulty.	15106	10	33	0	2725		0	0
-6398	-1	1007	0	Soul Savior	Defeat Lilian Voss without allowing Lilian\'s Soul to reach 24% health in Scholomance on Heroic Difficulty.	15106	10	34	0	4856		0	0
+6374	-1	-1	6920	Challenge Conqueror: Bronze	Complete every Challenge Mode dungeon with a rating of Bronze or better.	15115	15	38	0	6261	Title	0	0
+6375	-1	-1	6374	Challenge Conqueror: Silver	Complete every Challenge Mode dungeon with a rating of Silver or better.	15115	20	39	4096	6260	Mount	0	0
+6378	-1	-1	6375	Challenge Conqueror: Gold	Complete every Challenge Mode dungeon with a rating of Gold.	15115	25	40	4096	6259	Full set of class-specific transmogrifiable armor	0	0
+6394	-1	1007	0	Rattle No More	Defeat Rattlegore without allowing him to gain more than 5 stacks of Rusting in Scholomance on Heroic Difficulty.	15106	10	36	0	4905		0	0
+6396	-1	1007	0	Sanguinarian	Defeat a Krastinovian Carver that has 99 stacks of Boiling Bloodthirst in Scholomance on Heroic Difficulty.	15106	10	37	0	2725		0	0
+6398	-1	1007	0	Soul Savior	Defeat Lilian Voss without allowing Lilian\'s Soul to reach 24% health in Scholomance on Heroic Difficulty.	15106	10	38	0	4856		0	0
 6400	-1	961	0	How Did He Get Up There?	Find a way to get the Hozen Clinger to let go in Stormstout Brewery on any difficulty.	15106	10	19	0	6055		0	0
 6402	-1	961	0	Ling-Ting\'s Herbal Journey	Collect all 30 Golden Hoplings hidden around the Stormstout Brewery on any difficulty.	15106	10	20	0	6057		0	0
 6420	-1	961	0	Hopocalypse Now!	Smash 100 vermen with a single hammer swing in Stormstout Brewery on Heroic Difficulty.	15106	10	17	0	6056		0	0
-6427	-1	1001	0	Mosh Pit	Get a combination of 8 players and Scarlet Defenders caught up in Armsmaster Harlan\'s Blades of Light in Scarlet Halls on Heroic Difficulty.	15106	10	30	0	5993		0	0
-6428	-1	-1	0	Realm First: Gold Challenge: Temple of the Jade Serpent (feat)		15115	0	14	0	1		0	0
-6429	-1	-1	0	Realm First: Gold Challenge: Temple of the Jade Serpent (feat)		15115	0	11	0	1		0	0
-6430	-1	-1	0	Realm First: Full Silver: Mists of Pandaria (feat)		15115	0	15	0	1		0	0
-6431	-1	-1	0	Realm First: Full Silver: Mists of Pandaria (feat)		15115	0	12	0	1		0	0
-6432	-1	-1	0	Realm First: Full Gold: Mists of Pandaria (feat)		15115	0	16	0	1		0	0
-6433	-1	-1	0	Realm First: Full Gold: Mists of Pandaria (feat)		15115	0	17	0	1		0	0
-6455	-1	1008	0	Show Me Your Moves!	Defeat the Will of the Emperor in Mogu\'shan Vaults on Normal or Heroic difficulty after all members of the raid execute an Unbalancing Strike within a single Unbalanced phase.	15107	10	28	0	559		0	0
+6427	-1	1001	0	Mosh Pit	Get a combination of 8 players and Scarlet Defenders caught up in Armsmaster Harlan\'s Blades of Light in Scarlet Halls on Heroic Difficulty.	15106	10	31	0	5993		0	0
+6433	-1	-1	0	Realm First! Challenge Conqueror: Gold	First person on the realm to complete every Challenge Mode dungeon with a rating of Gold.	81	0	99	0	6259		0	0
+6455	-1	1008	0	Show Me Your Moves!	Defeat the Will of the Emperor in Mogu\'shan Vaults on Normal or Heroic difficulty after all members of the raid execute an Unbalancing Strike within a single Unbalanced phase.	15107	10	29	0	559		0	0
 6456	-1	961	6457	Heroic: Stormstout Brewery	Defeat Yan-Zhu the Uncasked in Stormstout Brewery on Heroic Difficulty.	15106	10	4	0	6054		0	0
 6457	-1	961	0	Stormstout Brewery	Defeat Yan-Zhu the Uncasked in Stormstout Brewery.	15106	10	3	0	6054		0	0
 6458	-1	1008	0	Guardians of Mogu\'shan	Defeat the first three bosses in Mogu\'shan Vaults.	15107	10	1	0	4641		0	0
 6460	-1	960	0	Hydrophobia	Defeat Wise Maru without being hit by Corrupted Water, Hydrolance, or Wash Away in Temple of the Jade Serpent on Heroic Difficulty.	15106	0	14	0	94		0	0
-6461	-1	-1	0	He\'s Mine!	Capture a battle pet.	15118	0	9	131072	3907		0	0
-6462	-1	-1	6593	Master Pet Battler	Win 250 pet battles.	15119	0	4	131072	267		0	0
+6461	-1	-1	0	He\'s Mine!	Capture a battle pet.	15118	10	9	131072	3907		0	0
+6462	-1	-1	6593	Master Pet Battler	Win 250 pet battles.	15119	10	3	131072	267		0	0
 6469	-1	959	0	Shado-Pan Monastery	Defeat Taran Zhu in Shado-Pan Monastery.	15106	10	7	0	6081		0	0
 6470	-1	959	6469	Heroic: Shado-Pan Monastery	Defeat Taran Zhu in Shado-Pan Monastery on Heroic Difficulty.	15106	10	8	0	6081		0	0
 6471	-1	959	0	Hate Leads to Suffering	Defeat Taran Zhu while every party member is at maximum hatred in Shado-Pan Monastery on Heroic Difficulty.	15106	10	26	0	6083		0	0
 6472	-1	959	0	The Obvious Solution	Eliminate the remaining Sha imprisoned in the Sealed Chambers and then defeat the Sha of Violence in Shado-Pan Monastery on Heroic Difficulty.	15106	10	25	0	6082		0	0
-6475	-1	960	0	Cleaning Up	Defeat the Sha of Doubt in Temple of the Jade Serpent while under the effects of Purified Water.	15106	10	15	0	2011		0	0
+6475	-1	960	0	Cleaning Up	Defeat the Sha of Doubt in Temple of the Jade Serpent while under the effects of Purified Water.	15106	10	15	0	6095		0	0
 6476	-1	962	0	Conscriptinator	Gain three stacks of Resin Residue by defeating Mantid Conscripts in Gate of the Setting Sun on Heroic Difficulty.	15106	10	28	0	2956		0	0
 6477	-1	959	0	Respect	Bow to the Shado-Pan Initiates when they bow to you after being defeated, but before they fully heal during the Master Snowdrift event in Shado-Pan Monastery on Heroic Difficulty.	15106	10	24	0	6080		0	0
 6478	-1	994	0	Glintrok N\' Roll	Defeat Gekkan and his Glintrok entourage in Mogu\'shan Palace on Heroic difficulty within 5 minutes of being spotted by the Glintrok Scout.	15106	10	21	0	1876		0	0
 6479	-1	962	0	Bomberman	Trigger 15 explosions within 15 seconds during the Saboteur Kip\'tilak encounter in Gate of the Setting Sun on Heroic Difficulty.	15106	10	27	0	1696		0	0
-6480	-1	870	0	Settle Down, Bro	Defeat the Sha of Anger in Kun-Lai Summit.	15107	10	7	0	3198		0	0
-6485	-1	1011	0	Return to Sender	Defeat General Pa\'valak while he has 20 stacks of Detonate in the Siege of Niuzao Temple on Heroic Difficulty.	15106	10	37	0	1755		0	0
-6517	-1	870	0	Extinction Event	Defeat Salyis\'s Warband in Valley of the Four Winds.	15107	10	6	0	45		0	0
-6518	-1	-1	0	I Heard You Like Amber...	Kill Living Amber in Burning Amber until at least 8 pools overlap, and then defeat Amber-Shaper Un\'sok on Normal or Heroic difficulty in Heart of Fear.	15107	10	31	0	5879		0	0
+6480	-1	870	0	Settle Down, Bro	Defeat the Sha of Anger in Kun-Lai Summit.	15107	10	6	0	3198		0	0
+6485	-1	1011	0	Return to Sender	Defeat General Pa\'valak while he has 20 stacks of Detonate in the Siege of Niuzao Temple on Heroic Difficulty.	15106	10	41	0	1755		0	0
+6517	-1	870	0	Extinction Event	Defeat Salyis\'s Warband in Valley of the Four Winds.	15107	10	7	0	45		0	0
+6518	-1	1009	0	I Heard You Like Amber...	Kill Living Amber in Burning Amber until at least 8 pools overlap, and then defeat Amber-Shaper Un\'sok on Normal or Heroic difficulty in Heart of Fear.	15107	10	34	0	5879		0	0
 6523	-1	-1	0	Realm First! Level 90 Shaman	First shaman on the realm to achieve level 90.	81	0	6	256	38		0	0
 6524	-1	-1	0	Realm First! Level 90	First person on the realm to achieve level 90.	81	0	3	256	6218		0	0
-6531	-1	1007	0	Attention to Detail	Defeat Jandice Barov without ever eliminating a false image in Scholomance on Heroic Difficulty.	15106	10	31	0	5393		0	0
+6531	-1	1007	0	Attention to Detail	Defeat Jandice Barov without ever eliminating a false image in Scholomance on Heroic Difficulty.	15106	10	35	0	5393		0	0
 6532	1	-1	0	Pandaren Slayer	Get an honorable kill on a level 85 or greater Pandaren of each of the classes listed below.	15078	10	19	86016	5807		0	0
 6533	0	-1	0	Pandaren Slayer	Get an honorable kill on a level 85 or greater Pandaren of each of the classes listed below.	15078	10	12	86016	5807		0	0
 6534	0	-1	0	Upjade Complete	Complete the Jade Forest storylines listed below.	15110	10	2	0	3697		0	0
@@ -2724,65 +2710,65 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6550	-1	-1	0	The Serpent Riders	Earn Exalted status with the Serpent Riders.	15114	10	9	0	1		0	0
 6551	-1	-1	0	Friend on the Farm	Become best friends with one of the characters at the Halfhill Market.	15114	10	10	0	1		0	0
 6552	-1	-1	6551	Friends on the Farm	Become best friends with all of the characters at the Halfhill Market.	15114	10	11	0	1		0	0
-6553	-1	1009	0	Like an Arrow to the Face	Defeat Garalon in Heart of Fear on Normal or Heroic difficulty without destroying any of his legs.	15107	10	29	0	4133		0	0
-6554	-1	-1	6461	Building a Team	Capture 10 battle pets.	15118	0	10	131072	3052		0	0
-6555	-1	-1	6554	Pet Tamer	Capture 25 battle pets.	15118	0	11	131072	4196		0	0
-6556	-1	-1	6555	Going to Need More Traps	Capture 50 battle pets.	15118	0	12	131072	5124		0	0
-6557	-1	-1	6556	Master Pet Hunter	Capture 75 battle pets.	15118	0	13	135168	1522	Reward: Feral Vermling	0	0
-6558	-1	-1	0	Local Pet Tamer	Capture a battle pet in 10 different zones.	15118	0	16	131072	3536		0	0
-6559	-1	-1	6558	Traveling Pet Tamer	Capture a battle pet in 30 different zones.	15118	0	17	131072	3490		0	0
-6560	-1	-1	6559	World Pet Tamer	Capture a battle pet in 60 different zones.	15118	0	18	135168	2759		0	0
-6566	-1	-1	0	Just A Pup	Raise a pet to level 5.	15120	0	1	131072	4196		0	0
-6567	-1	-1	6566	Growing Up	Raise a pet to level 10.	15120	0	2	131072	4196		0	0
-6568	-1	-1	6567	Time For A Leash	Raise a pet to level 15.	15120	0	3	131072	4196		0	0
-6569	-1	-1	6568	Old Timer	Raise a pet to level 20.	15120	0	4	131072	4196		0	0
-6570	-1	-1	6569	All Growns Up!	Raise a pet to level 25.	15120	0	5	131072	4196		0	0
-6571	-1	-1	0	That Was Close!	Capture a battle pet at less than 5% health.	15118	0	15	131072	5124		0	0
-6578	-1	-1	0	Pro Pet Group	Raise 15 pets to level 25.	15120	0	9	131072	5277		0	0
-6579	-1	-1	0	Rookie Pet Group	Raise 15 pets to level 10.	15120	0	6	131072	3268		0	0
-6580	-1	-1	6579	Rookie Pet Crew	Raise 30 pets to level 10.	15120	0	7	131072	3268		0	0
-6581	-1	-1	6578	Pro Pet Crew	Raise 30 pets to level 25.	15120	0	10	131072	5277		0	0
-6582	-1	-1	6581	Pro Pet Mob	Raise 75 pets to level 25.	15120	0	11	143360	5277	Reward: Singing Cricket	0	0
-6583	-1	-1	6580	Rookie Pet Mob	Raise 75 pets to level 10.	15120	0	8	131072	3268		0	0
-6584	-1	-1	0	Big City Pet Brawlin\' - Alliance	Win a pet battle in each of the Alliance cities listed below.	15119	0	12	131072	5919		0	0
-6585	-1	-1	0	Kalimdor Safari	Catch every battle pet in Kalimdor.	15118	0	19	131072	3491		0	0
-6586	-1	-1	0	Eastern Kingdoms Safari	Catch every battle pet in Eastern Kingdoms.	15118	0	20	131072	3490		0	0
-6587	-1	-1	0	Outland Safari	Catch every battle pet in Outland.	15118	0	21	131072	3492		0	0
-6588	-1	-1	0	Northrend Safari	Catch every battle pet in Northrend.	15118	0	22	131072	3493		0	0
-6589	-1	-1	0	Pandaria Safari	Catch every battle pet in Pandaria.	15118	0	23	131072	5807		0	0
-6590	-1	-1	0	World Safari	Complete the Pet Safari achievements listed below.	15118	0	24	135168	1522		0	0
-6591	-1	-1	6462	Grand Master Pet Battler	Win 1000 pet battles.	15119	0	5	135168	267		0	0
-6592	-1	-1	6591	Legendary Pet Battler	Win 5000 pet battles.	15119	0	6	143360	267		0	0
-6593	-1	-1	6594	Experienced Pet Battler	Win 50 pet battles.	15119	0	3	131072	267		0	0
-6594	-1	-1	0	Cat Fight!	Win a pet battle.	15119	0	1	131072	267		0	0
-6595	-1	-1	0	Pet Brawler	Win a PVP pet battle.	15119	0	7	131072	4114		0	0
-6596	-1	-1	6595	Experienced Pet Brawler	Win 50 PVP pet battles.	15119	0	8	131072	267		0	0
-6597	-1	-1	6596	Master Pet Brawler	Win 250 PVP pet battles.	15119	0	9	131072	267		0	0
-6598	-1	-1	6597	Grand Master Pet Brawler	Win 1000 PVP pet battles.	15119	0	10	135168	267		0	0
-6599	-1	-1	6598	Legendary Pet Brawler	Win 5000 PVP pet battles.	15119	0	11	143360	267		0	0
-6600	-1	-1	0	Time To Open a Pet Store	Earn 400 pet battle achievement points.	15117	0	1	131072	5261		0	0
-6601	-1	-1	0	Taming the Wild	Defeat a wild pet tamer.	15117	0	2	131072	3287		0	0
-6602	-1	-1	0	Taming Kalimdor	Defeat all of the wild pet tamers in Kalimdor.	15117	0	3	131072	3491		0	0
-6603	-1	-1	0	Taming Eastern Kingdoms	Defeat all of the wild pet tamers in Eastern Kingdoms.	15117	0	4	131072	3490		0	0
-6604	-1	-1	0	Taming Outland	Defeat all of the wild pet tamers in Outland.	15117	0	5	131072	3492		0	0
-6605	-1	-1	0	Taming Northrend	Defeat all of the wild pet tamers in Northrend.	15117	0	6	131072	3493		0	0
-6606	-1	-1	0	Taming Pandaria	Defeat all of the wild pet tamers in Pandaria.	15117	0	7	131072	5807		0	0
-6607	-1	-1	0	Wild Pet Tamer	Complete all of the Taming achievements listed below.	15117	0	8	131072	2759		0	0
-6608	-1	-1	0	Family Reunion	Capture a battle pet from each family.	15118	0	14	131072	6265		0	0
-6609	-1	-1	0	All Pets Allowed	Raise a pet of every family to level 10.	15120	0	12	131072	6263		0	0
-6610	-1	-1	6609	No Favorites	Raise a pet of every family to level 25.	15120	0	13	135168	6264		0	0
-6611	-1	-1	0	Continental Mauler	Complete all of the pet battle mauler achievements listed below.	15119	0	20	131072	267		0	0
-6612	-1	-1	0	Kalimdor Pet Mauler	Win a pet battle in each of the Kalimdor zones listed below.	15119	0	15	131072	3491		0	0
-6613	-1	-1	0	Eastern Kingdoms Pet Mauler	Win a pet battle in each of the Eastern Kingdoms zones listed below.	15119	0	16	131072	3490		0	0
-6614	-1	-1	0	Outland Pet Mauler	Win a pet battle in each of the Outland zones listed below.	15119	0	17	131072	3492		0	0
-6615	-1	-1	0	Northrend Pet Mauler	Win a pet battle in each of the Northrend zones listed below.	15119	0	18	131072	3493		0	0
-6616	-1	-1	0	Pandaria Pet Mauler	Win a pet battle in each of the Pandaria zones listed below.	15119	0	19	131072	5807		0	0
-6617	-1	-1	0	Gettin\' Lucky	Win 3 consecutive pet battles.	15119	0	21	131072	267		0	0
-6618	-1	-1	6617	On A Roll	Win 10 consecutive pet battles.	15119	0	22	131072	267		0	0
-6619	-1	-1	6618	Win Streak	Win 25 consecutive pet battles.	15119	0	23	131072	267		0	0
-6620	-1	-1	0	No Time To Heal	Win 3 consecutive pvp pet battles without letting a pet die.	15119	0	24	131072	5891		0	0
-6621	-1	-1	0	Big City Pet Brawlin\' - Horde	Win a pet battle in each of the Horde cities listed below.	15119	0	13	131072	5920		0	0
-6622	-1	-1	0	Big City Pet Brawler	Complete each of the Big City Pet Brawlin\' achievements listed below.	15119	0	14	131072	3581		0	0
+6553	-1	1009	0	Like an Arrow to the Face	Defeat Garalon in Heart of Fear on Normal or Heroic difficulty without destroying any of his legs.	15107	10	32	0	4133		0	0
+6554	-1	-1	6461	Building a Team	Capture 10 battle pets.	15118	10	10	131072	3052		0	0
+6555	-1	-1	6554	Pet Tamer	Capture 25 battle pets.	15118	10	11	131072	4196		0	0
+6556	-1	-1	6555	Going to Need More Traps	Capture 50 battle pets.	15118	10	12	131072	5124		0	0
+6557	-1	-1	6556	Master Pet Hunter	Capture 75 battle pets.	15118	10	13	135168	1522	Reward: Feral Vermling	0	0
+6558	-1	-1	0	Local Pet Tamer	Capture a battle pet in 10 different zones.	15118	10	16	131072	3536		0	0
+6559	-1	-1	6558	Traveling Pet Tamer	Capture a battle pet in 30 different zones.	15118	10	17	131072	3490		0	0
+6560	-1	-1	6559	World Pet Tamer	Capture a battle pet in 60 different zones.	15118	10	18	135168	2759		0	0
+6566	-1	-1	0	Just A Pup	Raise a pet to level 5.	15120	10	1	131072	4196		0	0
+6567	-1	-1	6566	Growing Up	Raise a pet to level 10.	15120	10	2	131072	4196		0	0
+6568	-1	-1	6567	Time For A Leash	Raise a pet to level 15.	15120	10	3	131072	4196		0	0
+6569	-1	-1	6568	Old Timer	Raise a pet to level 20.	15120	10	4	131072	4196		0	0
+6570	-1	-1	6569	All Growns Up!	Raise a pet to level 25.	15120	10	5	131072	4196		0	0
+6571	-1	-1	0	That Was Close!	Capture a battle pet at less than 5% health.	15118	10	15	131072	5124		0	0
+6578	-1	-1	0	Pro Pet Group	Raise 15 pets to level 25.	15120	10	9	131072	5277		0	0
+6579	-1	-1	0	Rookie Pet Group	Raise 15 pets to level 10.	15120	10	6	131072	3268		0	0
+6580	-1	-1	6579	Rookie Pet Crew	Raise 30 pets to level 10.	15120	10	7	131072	3268		0	0
+6581	-1	-1	6578	Pro Pet Crew	Raise 30 pets to level 25.	15120	10	10	131072	5277		0	0
+6582	-1	-1	6581	Pro Pet Mob	Raise 75 pets to level 25.	15120	25	11	143360	5277	Reward: Singing Cricket	0	0
+6583	-1	-1	6580	Rookie Pet Mob	Raise 75 pets to level 10.	15120	10	8	131072	3268		0	0
+6584	-1	-1	0	Big City Pet Brawlin\' - Alliance	Win a pet battle in each of the Alliance cities listed below.	15119	10	12	131072	5919		0	0
+6585	-1	-1	0	Kalimdor Safari	Catch every battle pet in Kalimdor.	15118	10	19	131072	3491		0	0
+6586	-1	-1	0	Eastern Kingdoms Safari	Catch every battle pet in Eastern Kingdoms.	15118	10	20	131072	3490		0	0
+6587	-1	-1	0	Outland Safari	Catch every battle pet in Outland.	15118	10	21	131072	3492		0	0
+6588	-1	-1	0	Northrend Safari	Catch every battle pet in Northrend.	15118	10	22	131072	3493		0	0
+6589	-1	-1	0	Pandaria Safari	Catch every battle pet in Pandaria.	15118	10	23	131072	5807		0	0
+6590	-1	-1	0	World Safari	Complete the Pet Safari achievements listed below.	15118	25	24	135168	1522		0	0
+6591	-1	-1	6462	Grand Master Pet Battler	Win 1000 pet battles.	15119	10	4	135168	267		0	0
+6592	-1	-1	6591	Legendary Pet Battler	Win 5000 pet battles.	15119	10	5	143360	267		0	0
+6593	-1	-1	6594	Experienced Pet Battler	Win 50 pet battles.	15119	10	2	131072	267		0	0
+6594	-1	-1	0	Cat Fight!	Win a pet battle.	15119	10	1	131072	267		0	0
+6595	-1	-1	0	Pet Brawler	Win a PVP pet battle.	15119	10	7	131072	4114		0	0
+6596	-1	-1	6595	Experienced Pet Brawler	Win 50 PVP pet battles.	15119	10	8	131072	267		0	0
+6597	-1	-1	6596	Master Pet Brawler	Win 250 PVP pet battles.	15119	10	9	131072	267		0	0
+6598	-1	-1	6597	Grand Master Pet Brawler	Win 1000 PVP pet battles.	15119	10	10	135168	267		0	0
+6599	-1	-1	6598	Legendary Pet Brawler	Win 5000 PVP pet battles.	15119	10	11	143360	267		0	0
+6600	-1	-1	0	Time To Open a Pet Store	Earn 335 pet battle achievement points.	15117	10	1	131072	5261	Title Reward: Tamer	0	0
+6601	-1	-1	0	Taming the Wild	Defeat a wild pet tamer.	15117	10	2	131072	3287		0	0
+6602	-1	-1	0	Taming Kalimdor	Defeat all of the wild pet tamers in Kalimdor.	15117	10	3	131072	3491		0	0
+6603	-1	-1	0	Taming Eastern Kingdoms	Defeat all of the wild pet tamers in Eastern Kingdoms.	15117	10	4	131072	3490		0	0
+6604	-1	-1	0	Taming Outland	Defeat all of the wild pet tamers in Outland.	15117	10	5	131072	3492		0	0
+6605	-1	-1	0	Taming Northrend	Defeat all of the wild pet tamers in Northrend.	15117	10	6	131072	3493		0	0
+6606	-1	-1	0	Taming Pandaria	Defeat all of the wild pet tamers in Pandaria.	15117	10	7	131072	5807		0	0
+6607	-1	-1	0	Wild Pet Tamer	Complete all of the Taming achievements listed below.	15117	10	8	131072	2759		0	0
+6608	-1	-1	0	Family Reunion	Capture a battle pet from each family.	15118	10	14	131072	6265		0	0
+6609	-1	-1	0	All Pets Allowed	Raise a pet of every family to level 10.	15120	10	12	131072	6263		0	0
+6610	-1	-1	6609	No Favorites	Raise a pet of every family to level 25.	15120	10	13	135168	6264		0	0
+6611	-1	-1	0	Continental Mauler	Complete all of the pet battle mauler achievements listed below.	15119	10	20	131072	267		0	0
+6612	-1	-1	0	Kalimdor Pet Mauler	Win a pet battle in each of the Kalimdor zones listed below.	15119	10	15	131072	3491		0	0
+6613	-1	-1	0	Eastern Kingdoms Pet Mauler	Win a pet battle in each of the Eastern Kingdoms zones listed below.	15119	10	16	131072	3490		0	0
+6614	-1	-1	0	Outland Pet Mauler	Win a pet battle in each of the Outland zones listed below.	15119	10	17	131072	3492		0	0
+6615	-1	-1	0	Northrend Pet Mauler	Win a pet battle in each of the Northrend zones listed below.	15119	10	18	131072	3493		0	0
+6616	-1	-1	0	Pandaria Pet Mauler	Win a pet battle in each of the Pandaria zones listed below.	15119	10	19	131072	5807		0	0
+6617	-1	-1	0	Gettin\' Lucky	Win 3 consecutive pet battles.	15119	10	21	131072	267		0	0
+6618	-1	-1	6617	On A Roll	Win 10 consecutive pet battles.	15119	10	22	131072	267		0	0
+6619	-1	-1	6618	Win Streak	Win 25 consecutive pet battles.	15119	10	23	131072	267		0	0
+6620	-1	-1	0	No Time To Heal	Win 3 consecutive pvp pet battles without letting a pet die.	15119	10	24	131072	5891		0	0
+6621	-1	-1	0	Big City Pet Brawlin\' - Horde	Win a pet battle in each of the Horde cities listed below.	15119	10	13	131072	5920		0	0
+6622	-1	-1	0	Big City Pet Brawler	Complete each of the Big City Pet Brawlin\' achievements listed below.	15119	10	14	131072	3581		0	0
 6624	1	-1	0	Classy Pandaren	Reach level 90 on each of the Pandaren classes listed below.	15088	10	32	86016	5807		0	0
 6625	0	-1	0	Classy Pandaren	Reach level 90 on each of the Pandaren classes listed below.	15088	10	33	86016	5807		0	0
 6626	-1	-1	0	Working Better as a Team	Obtain 600 skill points in all professions and secondary professions.	15080	10	2	28672	5272	Reward: Banner of Cooperation	0	0
@@ -2791,22 +2777,20 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6629	-1	-1	5422	Daily Anticipation	Complete 150,000 daily quests.	15077	10	7	28672	5225		0	0
 6630	-1	-1	0	Scenario Challenges	Complete 50 guild scenario challenges.	15088	10	39	28672	6254		0	0
 6631	-1	-1	0	Challenge Mode Dungeon Challenges	Complete 50 guild challenge mode dungeon challenges.	15088	10	40	28672	6255		0	0
-6632	-1	-1	0	Full Bronze: Mists of Pandaria - Guild Edition	Achieve a Bronze Challenge in every Mists of Pandaria dungeon while in a guild group.	15151	0	1	20480	6261	Title: The Challenged (NNF)	0	0
-6633	-1	-1	0	Full Silver: Mists of Pandaria - Guild Edition	Achieve a Silver Challenge in every Mists of Pandaria dungeon while in a guild group.	15151	0	2	20480	6260		0	0
-6634	-1	-1	0	Full Gold: Mists of Pandaria - Guild Edition	Achieve a Gold Challenge in every Mists of Pandaria dungeon while in a guild group.	15151	0	3	20480	6259	Sweet mount	0	0
-6641	-1	-1	0	Guild Hardware - Bronze	Earn a bronze melda in 50 challenge mode dungeons while in a guild group.	15151	0	5	20480	6261		0	0
-6642	-1	-1	0	Guild Hardware - Silver	Earn a silver melda in 50 challenge mode dungeons while in a guild group.	15151	0	6	20480	6260		0	0
-6643	-1	-1	0	Guild Hardware - Gold	Earn a gold melda in 50 challenge mode dungeons while in a guild group.	15151	0	7	20480	6259		0	0
+6632	-1	-1	6921	Challenge Conquerors: Bronze - Guild Edition	Complete every Challenge Mode dungeon with a rating of Bronze or better while in a guild group.	15151	15	2	20480	6261		0	0
+6633	-1	-1	6632	Challenge Conquerors: Silver - Guild Edition	Complete every Challenge Mode dungeon with a rating of Silver or better while in a guild group.	15151	20	3	20480	6260		0	0
+6634	-1	-1	6633	Challenge Conquerors: Gold - Guild Edition	Complete every Challenge Mode dungeon with a rating of Gold while in a guild group.	15151	25	4	20480	6259		0	0
+6641	-1	-1	0	Guild Hardware - Bronze	Complete 50 Challenge Mode dungeons with a rating of Bronze or better while in a guild group.	15151	10	5	20480	6261		0	0
+6642	-1	-1	6641	Guild Hardware - Silver	Complete 50 Challenge Mode dungeons with a rating of Silver or better while in a guild group.	15151	10	6	20480	6260		0	0
+6643	-1	-1	6642	Guild Hardware - Gold	Complete 50 Challenge Mode dungeons with a rating of Gold while in a guild group.	15151	10	7	20480	6259		0	0
 6644	1	-1	0	Pandaren Embassy	Earn Exalted with all of the pandaren reputations listed below.	15089	0	11	28672	6127		0	0
-6662	-1	-1	0	Full Platinum: Mists of Pandaria - Guild Edition	Achieve a Platinum Challenge in every Mists of Pandaria dungeon while in a guild group.	15151	0	4	28672	6262	Sweet mount	0	0
-6663	-1	-1	0	Guild Hardware - Platinum	Earn a Platinum melda in 50 challenge mode dungeons while in a guild group.	15151	0	8	28672	6262		0	0
 6664	0	-1	0	Pandaren Embassy	Earn Exalted with all of the pandaren reputations listed below.	15089	0	12	28672	6127		0	0
 6666	-1	961	0	Heroic: Stormstout Brewery Guild Run	Defeat Yan-Zhu the Uncasked in Stormstout Brewery on Heroic Difficulty while in a guild group.	15153	10	2	53248	6054		0	0
 6668	-1	1008	0	Mogu\'shan Vaults Guild Run	Defeat the bosses in Mogu\'shan Vaults while in a guild group.	15154	10	1	20480	6271		0	0
 6669	-1	1009	0	Heart of Fear Guild Run	Defeat the bosses in Heart of Fear while in a guild group.	15154	10	2	20480	6269		0	0
 6670	-1	996	0	Terrace of Endless Spring Guild Run	Defeat the bosses in Terrace of Endless Spring while in a guild group.	15154	10	3	20480	6270		0	0
 6671	-1	960	0	Seeds of Doubt	Defeat the Sha of Doubt in Temple of the Jade Serpent while under the effects of 4 Seeds of Doubt on Heroic difficulty.	15106	0	16	0	1932		0	0
-6674	-1	1008	0	Anything You Can Do, I Can Do Better...	Defeat Feng the Accursed after mimicking each of the following abilities:	15107	10	25	0	5074		0	0
+6674	-1	1008	0	Anything You Can Do, I Can Do Better...	Defeat Feng the Accursed in Normal or Heroic difficulty after mimicking each of the following abilities:	15107	10	25	0	5074		0	0
 6675	-1	1008	0	Heroic: Will of the Emperor Guild Run	Defeat the Will of the Emperor encounter in Mogu\'shan Vaults on Heroic difficulty while in a guild group.	15154	10	6	28672	6271		0	0
 6676	-1	996	0	Heroic: Sha of Fear Guild Run	Defeat the Sha of Fear in Terrace of Endless Spring on Heroic difficulty while in a guild group.	15154	10	8	28672	6270		0	0
 6677	-1	1009	0	Heroic: Grand Empress Shek\'zeer Guild Run	Defeat Grand Empress Shek\'zeer in Heart of Fear on Heroic difficulty while in a guild group.	15154	10	7	28672	6269		0	0
@@ -2815,11 +2799,11 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6680	-1	1008	0	Realm First! Will of the Emperor	First guild on the realm to defeat the Will of the Emperor encounter in Mogu\'shan Vaults on Heroic difficulty while in a guild group.	15093	10	13	63744	6271		0	0
 6681	-1	-1	0	Guild Pandaria Dungeon Hero	Complete the heroic Pandaria dungeon achievements listed below while in a guild group.	15079	10	9	28672	4428		0	0
 6682	-1	-1	0	Guild Glory of the Pandaria Raider	Complete the Pandaria raid achievements listed below while in a guild group.	15079	10	11	28672	4173		0	0
-6683	-1	1009	0	Less Than Three	Defeat Wind Lord Mel\'jarak without crowd-controlling more than 2 of his swarm at once on Normal or Heroic difficulty in Hear of Fear.	15107	10	30	0	1853		0	0
-6684	-1	1001	0	Humane Society	Defeat Houndmaster Braun without killing any hounds in Scarlet Halls on Heroic Difficulty.	15106	10	29	0	3510		0	0
-6686	-1	1008	0	Straight Six	Defeat Elegon after having deactivated six Empyreal Foci within 10 seconds.	15107	10	27	0	4919		0	0
-6687	-1	1008	0	Getting Hot In Here	Have the entire raid dance with Sebutai the Swift after being hit by Pillage.	15107	10	26	0	5074		0	0
-6688	-1	1011	0	Where\'s My Air Support?	Defeat Commander Vo\'jak after having killed the Sik\'thik Amberwing in Siege of Niuzao Temple on Heroic Difficulty.	15106	10	36	0	1		0	0
+6683	-1	1009	0	Less Than Three	Defeat Wind Lord Mel\'jarak without crowd-controlling more than 2 of his swarm at once on Normal or Heroic difficulty in Hear of Fear.	15107	10	33	0	1853		0	0
+6684	-1	1001	0	Humane Society	Defeat Houndmaster Braun without killing any hounds in Scarlet Halls on Heroic Difficulty.	15106	10	30	0	3510		0	0
+6686	-1	1008	0	Straight Six	Defeat Elegon after having deactivated six Empyreal Foci within 10 seconds.	15107	10	28	0	4919		0	0
+6687	-1	1008	0	Getting Hot In Here	Have the entire raid dance with Sebutai the Swift after being hit by Pillage.	15107	10	27	0	5074		0	0
+6688	-1	1011	0	Where\'s My Air Support?	Defeat Commander Vo\'jak after having killed the Sik\'thik Amberwing in Siege of Niuzao Temple on Heroic Difficulty.	15106	10	40	0	1		0	0
 6689	-1	996	0	Terrace of Endless Spring	Defeat the bosses in Terrace of Endless Spring.	15107	10	5	0	5806		0	0
 6700	-1	-1	0	Pandarian Mix Master	Create 2,000 Mists of Pandaria flasks.	15080	10	6	28672	6280		0	0
 6701	-1	-1	0	Get Some Chopsticks	Cook 7,500 Mists of Pandaria cooking recipes. 	15080	10	12	28672	6281		0	0
@@ -2830,32 +2814,32 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6710	-1	870	0	Realm First! Salyis\'s Warband	First guild on the realm to defeat the Salyis\'s Warband in Valley of the Four Winds while in a guild group.	15093	10	10	63744	45		0	0
 6711	-1	870	0	Realm First! Sha of Anger	First guild on the realm to defeat the Sha of Anger in Kun-Lai Summit while in a guild group.	15093	10	11	63744	3198		0	0
 6713	-1	994	0	Quickly Acquired Quarrelsome Quilen Quintet	Collect all the Jade Quilen located throughout Mogu\'Shan Palace on Heroic Difficulty.	15106	10	23	0	5956		0	0
-6715	-1	870	0	Polyformic Acid Trip	Defeat bosses around Pandaria while under the effects of Polyformic Acid Potion on Heroic Difficulty.	15106	10	39	0	1640		0	0
-6716	-1	-1	0	Between a Saurok and a Hard Place (NYI)	Discover each of the Saurok lore objects in Pandaria.	15113	10	3	0	4988		0	0
-6717	-1	996	0	Power Overwhelming	Defeat the Protectors of the Endless with each protector as the last member alive on Normal or Heroic difficulty in Terrace of Endless Spring.	15107	10	32	0	2111		0	0
+6715	-1	870	0	Polyformic Acid Trip	Defeat bosses around Pandaria while under the effects of Polyformic Acid Potion on Heroic Difficulty.	15106	10	43	0	1640		0	0
+6716	-1	-1	0	Between a Saurok and a Hard Place (NYI)	Discover each of the Saurok lore objects in Pandaria.	15113	10	8	0	4988		0	0
+6717	-1	996	0	Power Overwhelming	Defeat the Protectors of the Endless with each protector as the last member alive on Normal or Heroic difficulty in Terrace of Endless Spring.	15107	10	36	0	2111		0	0
 6718	-1	1009	0	The Dread Approach	Defeat the first three bosses in Heart of Fear.	15107	10	3	0	6296		0	0
-6719	-1	-1	0	Heroic: Stone Guard	Defeat the Stone Guard in Mogu\'shan Vaults on Heroic difficulty.	15107	10	8	0	6328		0	0
-6720	-1	-1	0	Heroic: Feng the Accursed	Defeat Feng the Accursed in Mogu\'shan Vaults on Heroic difficulty.	15107	10	9	0	6329		0	0
-6721	-1	-1	0	Heroic: Gara\'jal the Spiritbinder	Defeat Gara\'jal the Spiritbinder in Mogu\'shan Vaults on Heroic difficulty.	15107	10	10	0	6330		0	0
-6722	-1	-1	0	Heroic: Four Kings	Defeat the Four Kings in Mogu\'shan Vaults on Heroic difficulty.	15107	10	11	0	6332		0	0
-6723	-1	-1	0	Heroic: Elegon	Defeat Elegon in Mogu\'shan Vaults on Heroic difficulty.	15107	10	12	0	6331		0	0
-6724	-1	-1	0	Heroic: Will of the Emperor	Defeat the Will of the Emperor in Mogu\'shan Vaults on Heroic difficulty.	15107	10	13	0	6333		0	0
-6725	-1	-1	0	Heroic: Imperial Vizier Zor\'lok	Defeat Imperial Vizier Zor\'lok in Heart of Fear on Heroic difficulty.	15107	10	14	0	6297		0	0
-6726	-1	-1	0	Heroic: Blade Lord Ta\'yak	Defeat Blade Lord Ta\'yak in Heart of Fear on Heroic difficulty.	15107	10	15	0	6298		0	0
-6727	-1	-1	0	Heroic: Garalon	Defeat Garalon in Heart of Fear on Heroic difficulty.	15107	10	16	0	6300		0	0
-6728	-1	-1	0	Heroic: Wind Lord Mel\'jarak	Defeat Wind Lord Mel\'jarak in Heart of Fear on Heroic difficulty.	15107	10	17	0	6299		0	0
-6729	-1	-1	0	Heroic: Amber-Shaper Un\'sok	Defeat Amber-Shaper Un\'sok in Heart of Fear on Heroic difficulty.	15107	10	18	0	6301		0	0
-6730	-1	-1	0	Heroic: Grand Empress Shek\'zeer	Defeat Grand Empress Shek\'zeer in Heart of Fear on Heroic difficulty.	15107	10	19	0	6302		0	0
-6731	-1	-1	0	Heroic: Protectors of the Endless	Defeat the Protectors of the Endless in Terrace of Endless Spring on Heroic difficulty.	15107	10	20	0	6270		0	0
-6732	-1	-1	0	Heroic: Nalomoni	Defeat Nalomoni in Terrace of Endless Spring on Heroic difficulty.	15107	10	21	0	6270		0	0
-6733	-1	-1	0	Heroic: Lei Shi	Defeat Lei Shi in Terrace of Endless Spring on Heroic difficulty.	15107	10	22	0	6270		0	0
-6734	-1	-1	0	Heroic: Sha of Fear	Defeat the Sha of Fear in Terrace of Endless Spring on Heroic difficulty.	15107	10	23	0	6270		0	0
+6719	-1	1008	0	Heroic: Stone Guard	Defeat the Stone Guard in Mogu\'shan Vaults on Heroic difficulty.	15107	10	8	0	6328		0	0
+6720	-1	1008	0	Heroic: Feng the Accursed	Defeat Feng the Accursed in Mogu\'shan Vaults on Heroic difficulty.	15107	10	9	0	6329		0	0
+6721	-1	1008	0	Heroic: Gara\'jal the Spiritbinder	Defeat Gara\'jal the Spiritbinder in Mogu\'shan Vaults on Heroic difficulty.	15107	10	10	0	6330		0	0
+6722	-1	1008	0	Heroic: Four Kings	Defeat the Four Kings in Mogu\'shan Vaults on Heroic difficulty.	15107	10	11	0	6332		0	0
+6723	-1	1008	0	Heroic: Elegon	Defeat Elegon in Mogu\'shan Vaults on Heroic difficulty.	15107	10	12	0	6331		0	0
+6724	-1	1008	0	Heroic: Will of the Emperor	Defeat the Will of the Emperor in Mogu\'shan Vaults on Heroic difficulty.	15107	10	13	0	6333	Title Reward: Delver of the Vaults	0	0
+6725	-1	1009	0	Heroic: Imperial Vizier Zor\'lok	Defeat Imperial Vizier Zor\'lok in Heart of Fear on Heroic difficulty.	15107	10	14	0	6297		0	0
+6726	-1	1009	0	Heroic: Blade Lord Ta\'yak	Defeat Blade Lord Ta\'yak in Heart of Fear on Heroic difficulty.	15107	10	15	0	6298		0	0
+6727	-1	1009	0	Heroic: Garalon	Defeat Garalon in Heart of Fear on Heroic difficulty.	15107	10	16	0	6300		0	0
+6728	-1	1009	0	Heroic: Wind Lord Mel\'jarak	Defeat Wind Lord Mel\'jarak in Heart of Fear on Heroic difficulty.	15107	10	17	0	6299		0	0
+6729	-1	1009	0	Heroic: Amber-Shaper Un\'sok	Defeat Amber-Shaper Un\'sok in Heart of Fear on Heroic difficulty.	15107	10	18	0	6301		0	0
+6730	-1	1009	0	Heroic: Grand Empress Shek\'zeer	Defeat Grand Empress Shek\'zeer in Heart of Fear on Heroic difficulty.	15107	10	19	0	6302		0	0
+6731	-1	996	0	Heroic: Protectors of the Endless	Defeat the Protectors of the Endless in Terrace of Endless Spring on Heroic difficulty.	15107	10	20	0	6270		0	0
+6732	-1	996	0	Heroic: Tsulong	Defeat Tsulong in Terrace of Endless Spring on Heroic difficulty.	15107	10	21	0	6270		0	0
+6733	-1	996	0	Heroic: Lei Shi	Defeat Lei Shi in Terrace of Endless Spring on Heroic difficulty.	15107	10	22	0	6270		0	0
+6734	-1	996	0	Heroic: Sha of Fear	Defeat the Sha of Fear in Terrace of Endless Spring on Heroic difficulty.	15107	10	23	0	6270	Title Reward: The Fearless	0	0
 6736	-1	994	0	What Does This Button Do?	Use Xin the Weaponmaster\'s secret defense mechanism against him in Mogu\'shan Palace on Heroic difficulty.	15106	0	22	0	3734		0	0
 6737	-1	-1	0	Silvershard Mines Honorable Kills	Silvershard Mines Honorable Kills	136	0	18	1	1		0	0
 6738	-1	-1	0	Temple of Kotmogu Honorable Kills	Temple of Kotmogu Honorable Kills	136	0	19	1	1		0	0
 6739	-1	727	0	Silvershard Mines Victory	Win Silvershard Mines.	15162	10	1	0	6303		0	0
 6740	-1	998	0	Temple of Kotmogu Victory	Win Temple of Kotmogu.	15163	10	1	0	6304		0	0
-6741	-1	-1	0	Cataclysmic Gladiator\'s Twilight Drake	Obtain the Cataclysmic Gladiator\'s Twilight Drake from Arena Season 11 of Cataclysm.	81	0	174	131072	3668		1	0
+6741	-1	-1	0	Cataclysmic Gladiator\'s Twilight Drake	Obtain the Cataclysmic Gladiator\'s Twilight Drake from Arena Season 11 of Cataclysm.	81	0	175	131072	3668		1	0
 6742	-1	-1	6826	60 Exalted Reputations	Raise 60 reputations to Exalted.	201	10	14	12288	3602	Title Reward: The Beloved	0	0
 6743	-1	-1	0	Realm First! Level 90 Druid	First druid on the realm to achieve level 90.	81	0	9	256	261		0	0
 6744	-1	-1	0	Realm First! Level 90 Paladin	First paladin on the realm to achieve level 90.	81	0	12	256	25		0	0
@@ -2868,7 +2852,7 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6751	-1	-1	0	Realm First! Level 90 Rogue	First rogue on the realm to achieve level 90.	81	0	33	256	1834		0	0
 6752	-1	-1	0	Realm First! Level 90 Monk	First monk on the realm to achieve level 90.	81	0	34	256	6165		0	0
 6753	-1	-1	5456	Got My Mind On My Money	Loot 200,000 gold.	92	10	19	131072	2801		0	0
-6754	-1	-1	0	The Dark Heart of the Mogu (NYI)	Discover each of the Mogu lore objects in Pandaria.	15113	10	4	0	4988		0	0
+6754	-1	-1	0	The Dark Heart of the Mogu (NYI)	Discover each of the Mogu lore objects in Pandaria.	15113	10	9	0	4988		0	0
 6755	-1	994	0	Mogu\'shan Palace	Defeat Xin the Weaponmaster in Mogu\'shan Palace.	15106	10	5	0	6271		0	0
 6756	-1	994	6755	Heroic: Mogu\'shan Palace	Defeat Xin the Weaponmaster in Mogu\'shan Palace on Heroic Difficulty.	15106	10	6	0	6271		0	0
 6757	-1	960	0	Temple of the Jade Serpent	Defeat the Sha of Doubt in Temple of the Jade Serpent.	15106	10	1	0	6064		0	0
@@ -2932,33 +2916,33 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6818	-1	996	0	Lei Shi redemptions (Heroic Terrace of Endless Spring)		15164	0	43	1	1		0	0
 6819	-1	996	0	Sha of Fear kills (Terrace of Endless Spring)		15164	0	44	1	1		0	0
 6820	-1	996	0	Sha of Fear kills (Heroic Terrace of Endless Spring)		15164	0	45	1	1		0	0
-6821	-1	1007	0	School\'s out forever	Defeat 60 Expired Test Subjects within 20 seconds in Scholomance on Heroic Difficulty.	15106	10	35	0	309		0	0
-6822	-1	1011	0	Run with the wind	Defeat Ner\'onok in Siege of Niuzao Temple on Heroic Difficulty while under the effect of Tenwu\'s Resolve.	15106	10	38	0	6080		0	0
-6823	-1	1008	0	Must Love Dog	Defeat the Stone Guard without any player exceeding 50% petrification in Mogu\'shan Vaults on Normal or Heroic difficulty.	15107	10	24	0	1		0	0
-6824	-1	996	0	Lei Shi Stub	Lei Shi stub in Terrace of Endless Spring on Normal or Heroic difficulty.	15107	10	33	0	1		0	0
-6825	-1	996	0	Sha of Fear stub	Sha of Fear stub in Terrace of Endless Spring on Normal or Heroic difficulty.	15107	10	34	0	1		0	0
+6821	-1	1007	0	School\'s Out Forever	Defeat 60 Expired Test Subjects within 20 seconds in Scholomance on Heroic Difficulty.	15106	10	39	0	309		0	0
+6822	-1	1011	0	Run with the wind	Defeat Ner\'onok in Siege of Niuzao Temple on Heroic Difficulty while under the effect of Tenwu\'s Resolve.	15106	10	42	0	6080		0	0
+6823	-1	1008	0	Must Love Dog	Defeat the Stone Guard in Mogu\'shan Vaults on Normal or Heroic difficulty while every member of your raid is accompanied by a canine companion pet.	15107	10	24	0	534		0	0
+6824	-1	996	0	Face Clutchers	Defeat Lei Shi while all members of the raid are afflicted by Parasitic Clutch in Terrace of Endless Spring on Normal or Heroic difficulty.	15107	10	38	0	1		0	0
+6825	-1	996	0	The Mind-Killer	Defeat the Sha of Fear in Terrace of Endless Spring on Normal or Heroic difficulty without any raid members being feared by Dread Spray or Breath of Fear.	15107	10	39	0	2121		0	0
 6826	-1	-1	5723	55 Exalted Reputations	Raise 55 reputations to Exalted.	201	10	13	12288	3602		0	0
 6827	0	-1	0	Pandaren Ambassador	Earn Exalted with all of the pandaren reputations listed below.	15114	20	12	0	6127		0	0
 6828	1	-1	0	Pandaren Ambassador	Earn Exalted with all of the pandaren reputations listed below.	15114	20	13	0	6127		0	0
-6829	-1	-1	0	Realm First! Pandaren Ambassador	First player on the realm to gain Exalted reputation with all pandaren factions.	81	0	98	256	6127		0	0
+6829	-1	-1	0	Realm First! Pandaren Ambassador	First person on the realm to gain Exalted reputation with all pandaren factions.	81	0	98	256	6127		0	0
 6830	-1	-1	4924	Professional Zen Master	Obtain 600 skill points in a profession.	169	10	7	4096	2846		1	0
 6835	-1	-1	4914	Working For a Living	Obtain 600 skill points in two primary professions.	169	10	10	0	162		2	0
-6836	-1	-1	4915	Serious Skills to Pay the Bills	Obtain 600 skill points in Fishing, First Aid, Cooking, and Archaeology.	169	10	13	131072	1657		0	0
+6836	-1	-1	4915	Serious Skills to Pay the Bills	Obtain 600 skill points in Fishing, First Aid, Cooking, and Archaeology.	169	10	13	0	1657		0	0
 6837	-1	-1	4923	Zen Master Archaeologist	Obtain 600 skill points in archaeology.	15071	10	7	0	4727		0	0
 6838	-1	-1	4918	Zen Master Medic	Obtain 600 skill points in first aid.	172	10	7	0	504		0	0
 6839	-1	-1	4917	Zen Master Fisherman	Obtain 600 skill points in fishing.	171	10	7	0	580		0	0
 6844	-1	1008	0	The Vault of Mysteries	Defeat the final three bosses in Mogu\'shan Vaults.	15107	10	2	0	4641		0	0
-6845	-1	1009	0	Nightmare of Shak\'zeer	Defeat the final three bosses in Heart of Fear.	15107	10	4	0	6296		0	0
-6846	-1	-1	0	Fish Tails (NYI)	Discover each of the Jinyu lore objects in Pandaria.	15113	10	5	0	4988		0	0
-6847	-1	-1	0	The Song of the Yaungol (NYI)	Discover each of the Yaungol lore objects in Pandaria.	15113	10	7	0	4988		0	0
-6848	-1	-1	0	[PH] Collector\'s Edition: <MoP CE Pet>	[PH] Owner of the Mists of Pandaria Collector\'s Edition <MoP CE Pet> pet.	81	0	113	0	6325		1	0
-6849	-1	-1	0	[PH] Collector\'s Edition: <MoP CE Mount>	[PH] Owner of the Mists of Pandaria Collector\'s Edition <MoP CE Mount> mount.	81	0	114	0	6325		1	0
-6850	-1	-1	0	Hozen in the Mist (NYI)	Discover each of the Jinyu lore objects in Pandaria.	15113	10	6	0	4988		0	0
-6851	-1	-1	0	Take Em\' All On!	Win a pet battle aginst a pet of every family.	15119	0	2	131072	267		0	0
-6855	-1	-1	0	The Seven Burdens of Shao Hao (NYI)	Discover each of the lore objects that tell the tale of Shao Hao, Last Emperor of Pandaria.	15113	10	8	0	4988		0	0
-6856	-1	-1	0	Ballad of Liu Lang (NYI)	Discover each of the lore objects in Pandaria that tell the tale of Liu Lang.	15113	10	10	0	4988		0	0
-6857	-1	-1	0	Heart of the Mantid Swarm (NYI)	Discover each of the Mantid lore objects in Pandaria.	15113	10	9	0	4988		0	0
-6858	-1	-1	0	What is Worth Fighting For (NYI)	Discover each of the Monk lore objects in Pandaria.	15113	10	11	0	4988		0	0
+6845	-1	1009	0	Nightmare of Shek\'zeer	Defeat the final three bosses in Heart of Fear.	15107	10	4	0	6296		0	0
+6846	-1	-1	0	Fish Tails (NYI)	Discover each of the Jinyu lore objects in Pandaria.	15113	10	10	0	4988		0	0
+6847	-1	-1	0	The Song of the Yaungol (NYI)	Discover each of the Yaungol lore objects in Pandaria.	15113	10	12	0	4988		0	0
+6848	-1	-1	0	[PH] Collector\'s Edition: <MoP CE Pet>	[PH] Owner of the Mists of Pandaria Collector\'s Edition <MoP CE Pet> pet.	81	0	114	0	6325		1	0
+6849	-1	-1	0	[PH] Collector\'s Edition: <MoP CE Mount>	[PH] Owner of the Mists of Pandaria Collector\'s Edition <MoP CE Mount> mount.	81	0	115	0	6325		1	0
+6850	-1	-1	0	Hozen in the Mist (NYI)	Discover each of the Jinyu lore objects in Pandaria.	15113	10	11	0	4988		0	0
+6851	-1	-1	0	Take Em\' All On!	Win a pet battle aginst a pet of every family.	15119	10	6	131072	267		0	0
+6855	-1	-1	0	The Seven Burdens of Shao Hao (NYI)	Discover each of the lore objects that tell the tale of Shao Hao, Last Emperor of Pandaria.	15113	10	13	0	4988		0	0
+6856	-1	-1	0	Ballad of Liu Lang (NYI)	Discover each of the lore objects in Pandaria that tell the tale of Liu Lang.	15113	10	15	0	4988		0	0
+6857	-1	-1	0	Heart of the Mantid Swarm (NYI)	Discover each of the Mantid lore objects in Pandaria.	15113	10	14	0	4988		0	0
+6858	-1	-1	0	What Is Worth Fighting For (NYI)	Discover each of the Monk lore objects in Pandaria.	15113	10	16	0	4988		0	0
 6859	-1	-1	0	Realm First! Zen Master Alchemist	First person on the realm to achieve 600 skill in alchemy.	81	0	47	256	339		0	0
 6860	-1	-1	0	Realm First! Zen Master Blacksmith	First person on the realm to achieve 600 skill in blacksmithing.	81	0	50	256	335		0	0
 6861	-1	-1	0	Realm First! Zen Master Cook	First person on the realm to achieve 600 skill in cooking.	81	0	53	256	1467		0	0
@@ -2974,6 +2958,82 @@ id	factionFlag	mapId	parentAchievement	name	description	categoryId	rewardPoints	
 6871	-1	-1	0	Realm First! Zen Master Skinner	First person on the realm to achieve 600 skill in skinning.	81	0	83	256	736		0	0
 6872	-1	-1	0	Realm First! Zen Master Tailor	First person on the realm to achieve 600 skill in tailoring.	81	0	86	256	341		0	0
 6873	-1	-1	0	Realm First! Zen Master Archaeologist	First person on the realm to achieve 600 skill in archaeology.	81	0	89	256	4727		0	0
-6874	-1	-1	0	Scenaterday	Complete every scenario on a Saturday.	15165	0	1	0	1	Title Reward: Scenaterdist	0	0
+6874	-1	-1	0	Scenaterday	Complete every scenario on a Saturday.	15165	0	3	0	1	Title Reward: Scenaterdist	0	0
 6882	-1	998	6740	Temple of Kotmogu Veteran	Complete 100 victories in Temple of Kotmogu.	15163	10	2	0	6304		0	0
-6883	-1	727	6739	Silvershard Mines Veteran	Complete 100 victories in Silvershard Mines.	15162	10	2	0	6304		0	0
+6883	-1	727	6739	Silvershard Mines Veteran	Complete 100 victories in Silvershard Mines.	15162	10	2	0	6303		0	0
+6884	-1	960	0	Temple of the Jade Serpent Challenger	Complete the Temple of the Jade Serpent Challenge Mode.	15115	10	1	0	6064		0	0
+6885	-1	960	6884	Temple of the Jade Serpent: Bronze	Complete the Temple of the Jade Serpent Challenge Mode with a rating of Bronze or better.	15115	10	2	0	6064		0	0
+6886	-1	960	6885	Temple of the Jade Serpent: Silver	Complete the Temple of the Jade Serpent Challenge Mode with a rating of Silver or better.	15115	10	3	0	6064		0	0
+6887	-1	960	6886	Temple of the Jade Serpent: Gold	Complete the Temple of the Jade Serpent Challenge Mode with a rating of Gold.	15115	10	4	0	6064		0	0
+6888	-1	961	0	Stormstout Brewery Challenger	Complete the Stormstout Brewery Challenge Mode.	15115	10	5	0	6054		0	0
+6889	-1	961	6888	Stormstout Brewery: Bronze	Complete the Stormstout Brewery Challenge Mode with a rating of Bronze or better.	15115	10	6	0	6054		0	0
+6890	-1	961	6889	Stormstout Brewery: Silver	Complete the Stormstout Brewery Challenge Mode with a rating of Silver or better.	15115	10	7	0	6054		0	0
+6891	-1	961	6890	Stormstout Brewery: Gold	Complete the Stormstout Brewery Challenge Mode with a rating of Gold.	15115	10	8	0	6054		0	0
+6892	-1	994	0	Mogu\'shan Palace Challenger	Complete the Mogu\'shan Palace Challenge Mode.	15115	10	9	0	6271		0	0
+6893	-1	959	0	Shado-Pan Monastery Challenger	Complete the Shado-Pan Monastery Challenge Mode.	15115	10	13	0	6081		0	0
+6894	-1	962	0	Gate of the Setting Sun Challenger	Complete the Gate of the Setting Sun Challenge Mode.	15115	10	17	0	6126		0	0
+6895	-1	1001	0	Scarlet Halls Challenger	Complete the Scarlet Halls Challenge Mode.	15115	10	21	0	2792		0	0
+6896	-1	1004	0	Scarlet Monastery Challenger	Complete the Scarlet Monastery Challenge Mode.	15115	10	25	0	121		0	0
+6897	-1	1007	0	Scholomance Challenger	Complete the Scholomance Challenge Mode.	15115	10	29	0	308		0	0
+6898	-1	1011	0	Siege of Niuzao Temple Challenger	Complete the Siege of Niuzao Temple Challenge Mode.	15115	10	33	0	6305		0	0
+6899	-1	994	6892	Mogu\'shan Palace: Bronze	Complete the Mogu\'shan Palace Challenge Mode with a rating of Bronze or better.	15115	10	10	0	6271		0	0
+6900	-1	994	6899	Mogu\'shan Palace: Silver	Complete the Mogu\'shan Palace Challenge Mode with a rating of Silver or better.	15115	10	11	0	6271		0	0
+6901	-1	994	6900	Mogu\'shan Palace: Gold	Complete the Mogu\'shan Palace Challenge Mode with a rating of Gold.	15115	10	12	0	6271		0	0
+6902	-1	959	6893	Shado-Pan Monastery: Bronze	Complete the Shado-Pan Monastery Challenge Mode with a rating of Bronze or better.	15115	10	14	0	6081		0	0
+6903	-1	959	6902	Shado-Pan Monastery: Silver	Complete the Shado-Pan Monastery Challenge Mode with a rating of Silver or better.	15115	10	15	0	6081		0	0
+6904	-1	959	6903	Shado-Pan Monastery: Gold	Complete the Shado-Pan Monastery Challenge Mode with a rating of Gold.	15115	10	16	0	6081		0	0
+6905	-1	962	6894	Gate of the Setting Sun: Bronze	Complete the Gate of the Setting Sun Challenge Mode with a rating of Bronze or better.	15115	10	18	0	6126		0	0
+6906	-1	962	6905	Gate of the Setting Sun: Silver	Complete the Gate of the Setting Sun Challenge Mode with a rating of Silver or better.	15115	10	19	0	6126		0	0
+6907	-1	962	6906	Gate of the Setting Sun: Gold	Complete the Gate of the Setting Sun Challenge Mode with a rating of Gold.	15115	10	20	0	6126		0	0
+6908	-1	1001	6895	Scarlet Halls: Bronze	Complete the Scarlet Halls Challenge Mode with a rating of Bronze or better.	15115	10	22	0	2792		0	0
+6909	-1	1001	6908	Scarlet Halls: Silver	Complete the Scarlet Halls Challenge Mode with a rating of Silver or better.	15115	10	23	0	2792		0	0
+6910	-1	1001	6909	Scarlet Halls: Gold	Complete the Scarlet Halls Challenge Mode with a rating of Gold.	15115	10	24	0	2792		0	0
+6911	-1	1004	6896	Scarlet Monastery: Bronze	Complete the Scarlet Monastery Challenge Mode with a rating of Bronze or better.	15115	10	26	0	121		0	0
+6912	-1	1004	6911	Scarlet Monastery: Silver	Complete the Scarlet Monastery Challenge Mode with a rating of Silver or better.	15115	10	27	0	121		0	0
+6913	-1	1004	6912	Scarlet Monastery: Gold	Complete the Scarlet Monastery Challenge Mode with a rating of Gold.	15115	10	28	0	121		0	0
+6914	-1	1007	6897	Scholomance: Bronze	Complete the Scholomance Challenge Mode with a rating of Bronze or better.	15115	10	30	0	308		0	0
+6915	-1	1007	6914	Scholomance: Silver	Complete the Scholomance Challenge Mode with a rating of Silver or better.	15115	10	31	0	308		0	0
+6916	-1	1007	6915	Scholomance: Gold	Complete the Scholomance Challenge Mode with a rating of Gold.	15115	10	32	0	308		0	0
+6917	-1	1011	6898	Siege of Niuzao Temple: Bronze	Complete the Siege of Niuzao Temple Challenge Mode with a rating of Bronze or better.	15115	10	34	0	6305		0	0
+6918	-1	1011	6917	Siege of Niuzao Temple: Silver	Complete the Siege of Niuzao Temple Challenge Mode with a rating of Silver or better.	15115	10	35	0	6305		0	0
+6919	-1	1011	6918	Siege of Niuzao Temple: Gold	Complete the Siege of Niuzao Temple Challenge Mode with a rating of Gold.	15115	10	36	0	6305		0	0
+6920	-1	-1	0	Challenge Conqueror	Complete every Challenge Mode dungeon.	15115	10	37	0	6357		0	0
+6921	-1	-1	0	Challenge Conquerors - Guild Edition	Complete every Challenge Mode dungeon while in a guild group.	15151	10	1	20480	6358		0	0
+6922	-1	1009	0	Timing is Everything	Defeat two Empyreal Generals within 10 seconds of each other, and then defeat Grand Empress Shek\'zeer in Heart of Fear on Normal or Heroic difficulty.	15107	0	35	0	2899		0	0
+6923	-1	1051	0	Brewmoon Festival	Defeat Warbringer Qobi in the Brewmoon Festival Scenario.	15165	10	2	0	1313		0	0
+6924	-1	-1	5538	100,000 Valor Points	Earn 100,000 Valor Points	168	10	5	131072	5312		0	0
+6925	-1	-1	0	Pandaria Dungeon Hero	Complete the heroic Pandaria dungeon achievements listed below.	168	20	30	135168	6364		0	0
+6926	-1	-1	0	Tranquil Master	Purge Pandaria of Sha corruption, defeating each known manifestation of negative emotion.	168	10	31	0	2209	Title Reward: Tranquil Master	0	0
+6927	-1	-1	0	Glory of the Pandaria Hero	Complete the Pandaria Heroic dungeon achievements listed below.	168	25	32	143360	6362	Reward: Mount [PH]	0	0
+6928	-1	1004	0	Burning Man	Cause Brother Korloff to light nearby training dummies on fire in Scarlet Monastery on Heroic Difficulty. [NYI/PH]	15106	10	32	0	4632		0	0
+6929	-1	1004	0	And Stay Dead!	Allow High Inquisitor Whitemane to cast Mass Resurrection, defeat all revived Scarlet Judicators, and then defeat Whitemane in Scarlet Monastery on Heroic Difficulty.	15106	10	33	0	121		0	0
+6930	-1	1051	0	Yaungolian Barbecue	Complete the Brewmoon Festival Scenario without the village being set on fire.	15165	10	4	0	2600		0	0
+6931	-1	1051	0	Binan Village All-Star	Personally use each of the Brewmoon Festival defenses:	15165	10	5	0	355		0	0
+6932	-1	-1	0	Glory of the Pandaria Raider	Complete the Pandaria raid achievements listed below.	168	25	33	143360	6361	Reward: Mount [PH]	0	0
+6933	-1	996	0	Who\'s Got Two Green Thumbs?	Win the Tsulong encounter while keeping the Enchanted Plant alive.	15107	10	37	0	345		0	0
+6934	-1	1008	0	Gara\'jal Stub	Do a thing and then defeat Gara\'jal the Spiritbinder in Mogu\'shan Vaults on Normal or Heroic difficulty.	15107	10	26	0	4866		0	0
+6936	-1	1009	0	Candle in the Wind	Defeat Blade Lord Ta\'yak while all four braziers are lit, in Heart of Fear on Normal or Heroic difficulty.	15107	10	31	0	4904		0	0
+6937	-1	1009	0	Overzealous	Defeat Imperial Vizier Zor\'lok while every member of the raid is afflicted with the Zealous Parasite debuff.	15107	10	30	0	6283		0	0
+6938	-1	-1	0	Cataclysmic Gladiator	Achieved Cataclysmic Gladiator title.	81	0	202	0	3601		0	0
+6939	1	-1	0	Hero of the Alliance: Cataclysmic	End PvP season 11 in the top .5% of the rated battleground ladder.	81	10	207	12288	3574		0	0
+6940	0	-1	0	Hero of the Horde: Cataclysmic	End PvP season 11 in the top .5% of the rated battleground ladder.	81	10	208	12288	3575		0	0
+6941	0	-1	0	Hero of the Horde	End a PvP season in the top 0.5% of the rated battleground ladder.	15092	10	45	12288	3575	Title Reward: Hero of the Horde	0	0
+6942	1	-1	0	Hero of the Alliance	End a PvP season in the top 0.5% of the rated battleground ladder.	15092	10	46	12288	3574	Title Reward: Hero of the Alliance	0	0
+6943	-1	-1	0	Queuing Spree	Complete 100 scenarios.	15165	10	1	0	3197		0	0
+6945	-1	962	0	Mantid Swarm	Defeat Raigonn without killing any of the Mantid reinforcements.	15106	10	29	0	1771		0	0
+6946	-1	1004	0	Empowered Spiritualneur	Defeat Thalnos the Soulrender while three Empowered Zombies are alive.	15106	10	34	0	2027		0	0
+6947	-1	998	0	Four Square	Hold all four Orbs of Power at least once in a single Temple of Kotmogu battle.	15163	10	3	0	6304		0	0
+6950	-1	998	0	Powerball	Hold an Orb of Power in the center of the Temple of Kotmogu for 90 seconds.	15163	10	4	0	2113		0	0
+6969	-1	-1	0	Explore Valley of the Four Winds	Explore Valley of the Four Winds, revealing the covered areas of the world map.	15113	10	2	0	6374		0	0
+6970	-1	998	0	Blackout	Kill 100 enemies that are holding an Orb of Power.	15163	10	5	0	5818		0	0
+6971	-1	998	0	I\'ve Got the Power	Win Temple of Kotmogu while controlling all 4 Orbs of Power.	15163	10	7	0	3469		0	0
+6972	-1	998	0	Victory is Mine!	Earn 8,000 Victory Points for your team in Temple of Kotmogu.	15163	10	8	0	2205		0	0
+6973	-1	998	0	Can\'t Stop Won\'t Stop	Kill 100 enemies while holding an Orb of Power.	15163	10	6	0	2729		0	0
+6974	-1	-1	0	Explore Pandaria	Explore the regions of Pandaria.	97	25	7	131072	6363		0	0
+6975	-1	-1	0	Explore Krasarang Wilds	Explore Krasarang Wilds, revealing the covered areas of the world map.	15113	10	3	0	6375		0	0
+6976	-1	-1	0	Explore Kun-Lai Summit	Explore Kun-Lai Summit, revealing the covered areas of the world map.	15113	10	4	0	6376		0	0
+6977	-1	-1	0	Explore Townlong Steppes	Explore Townlong Steppes, revealing the covered areas of the world map.	15113	10	5	0	6377		0	0
+6978	-1	-1	0	Explore Dread Wastes (NYI)	Explore Dread Wastes, revealing the covered areas of the world map.	15113	10	6	0	6378		0	0
+6979	-1	-1	0	Explore Vale of Eternal Blossoms	Explore the Vale of Eternal Blossoms, revealing the covered areas of the world map.	15113	10	7	0	6379		0	0
+6980	-1	998	0	Temple of Kotmogu All-Star	Hold four Orbs of Power and kill four enemies who are holding an Orb of Power in a single Temple of Kotmogu match.	15163	10	9	0	3724		0	0
+6981	-1	998	0	Master of Temple of Kotmogu	Complete the Temple of Kotmogu achievements listed below.	15163	10	10	0	6304		0	0
