@@ -151,7 +151,9 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 29089	0	0	0	0	0	0	25900	0	0	0	1	1	1	1	Mini Tyrael	3
 29147	0	0	0	0	0	0	28089	0	0	0	1	0	0	0	Ghostly Skull	0
 29238	0	0	0	0	0	0	26064	0	0	0	0	0	0	0	Scourge Haunt	0
+29611	45899	0	0	0	0	0	28127	0	0	0	1	1	1	1	King Varian Wrynn	0
 29726	0	0	0	0	0	0	26452	0	0	0	1	1	1	1	Mr. Chilly	0
+29850	0	0	0	0	0	0	17283	0	0	0	0	0	0	0	Lo\'Gosh	0
 30379	0	0	0	0	0	0	304	0	0	0	1	1	1	1	Westfall Chicken	0
 31575	0	0	0	0	0	0	27627	0	0	0	1	1	1	1	Giant Sewer Rat	0
 32589	0	0	0	0	0	0	28214	0	0	0	1	1	1	1	Tickbird Hatchling	3
@@ -321,7 +323,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 60149	30848	0	0	0	0	0	41490	0	0	0	1	0	0	0	General Nazgrim	0
 60152	12801	0	0	0	0	0	41145	41147	41146	41148	1	0	1	0	Test Panda	0
 60157	0	0	0	0	0	0	41267	0	0	0	1	0	0	0	Cosmetic Fire large	0
-60205	0	0	0	0	0	0	39467	42351	39473	0	1	2	1	0	Hopling	0
+60205	0	0	0	0	0	0	43479	43480	43481	0	1	2	1	0	Hopling	0
 60291	0	0	0	11285	0	0	16480	21342	0	0	0	1	0	0	Fire Bunny	0
 60406	0	0	0	0	0	0	41397	0	0	0	1	0	0	0	Cosmetic Smoke From Fire	0
 60418	0	0	0	0	0	0	15984	0	0	0	1	0	0	0	Darren\'s Test BattlePet 4	0
@@ -368,7 +370,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 61169	0	0	0	0	0	0	2177	0	0	0	1	1	1	1	Roach	0
 61170	0	0	0	0	0	0	856	857	0	0	2	1	1	1	Sheep	0
 61171	0	0	0	0	0	0	41887	0	0	0	1	0	0	0	Fledgling Buzzard	3
-61213	0	0	0	0	0	0	43134	0	0	0	0	0	0	0	Kor\'thik Conscript	0
+61213	0	0	0	0	0	0	43134	0	0	0	0	0	0	0	Krik\'thik Conscript	0
 61253	0	0	0	0	0	0	2536	9829	1160	14952	1	1	1	1	Dusk Spiderling	0
 61255	0	0	0	0	0	0	16633	0	0	0	1	1	1	1	Skunk	0
 61257	0	0	0	0	0	0	1141	0	0	0	1	1	1	1	Black Rat	0
@@ -466,9 +468,9 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 61913	0	0	0	0	0	0	14778	0	0	0	1	0	0	0	Lo	0
 61916	0	0	0	0	0	0	42309	0	0	0	1	0	0	0	Jiang	0
 61918	0	0	0	0	0	0	42311	42310	42312	42313	1	1	1	1	Pandaren Villager	0
-61920	0	0	0	0	0	0	42314	0	0	0	1	0	0	0	Lou Lang	0
-61922	0	0	0	0	0	0	42315	0	0	0	1	0	0	0	Lou Lang	0
-61923	0	0	0	0	0	0	42316	0	0	0	1	0	0	0	Lou Lang	0
+61920	0	0	0	0	0	0	42314	0	0	0	1	0	0	0	Lui Lang	0
+61922	0	0	0	0	0	0	42315	0	0	0	1	0	0	0	Lui Lang	0
+61923	0	0	0	0	0	0	42316	0	0	0	1	0	0	0	Lui Lang	0
 61925	0	0	0	0	0	0	42317	0	0	0	1	0	0	0	Shao Hao	0
 61926	0	0	0	0	0	0	41263	0	0	0	1	1	1	1	Xian	0
 61927	0	0	0	0	0	0	40924	0	0	0	1	1	1	1	Chi-Ji	0
@@ -542,7 +544,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 62370	0	0	0	0	0	0	6297	0	6296	0	1	1	1	1	Spotted Bell Frog	0
 62373	0	0	0	0	0	0	36944	36952	36953	36955	1	1	1	1	Silky Moth	3
 62375	0	0	0	0	0	0	42464	0	0	0	1	0	0	0	Diemetradon Hatchling	0
-62409	0	0	0	0	0	0	41918	0	0	0	1	1	1	1	Lorewalker Cho	0
+62409	0	0	0	0	0	0	43617	0	0	0	1	1	1	1	Mogu Northgate Door	0
 62426	82348	0	0	0	0	0	42319	0	0	0	1	0	0	0	Mogu Armed Grunt	0
 62427	81906	0	0	0	0	0	42319	0	0	0	1	0	0	0	Mogu Armed Grunt	0
 62428	82773	0	0	0	0	0	42319	0	0	0	1	0	0	0	Mogu Armed Grunt	0
@@ -551,9 +553,9 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 62526	0	0	0	0	0	0	42523	0	0	0	1	0	0	0	Qiraji Guardling	0
 62555	0	0	0	0	0	0	42553	0	0	0	1	1	1	1	Flayer Youngling	0
 62564	0	0	0	0	0	0	42554	0	0	0	1	1	1	1	Sporeling Sprout	0
-62579	0	0	0	0	0	0	42640	0	0	0	1	1	1	1	Korvexxis	0
-62580	0	0	0	0	0	0	42640	0	0	0	1	1	1	1	Serevex	0
-62581	0	0	0	0	0	0	42640	0	0	0	1	1	1	1	Rothek	0
+62579	0	0	0	0	0	0	43475	0	0	0	1	1	1	1	Korvexxis	0
+62580	0	0	0	0	0	0	43476	0	0	0	1	1	1	1	Serevex	0
+62581	0	0	0	0	0	0	43477	0	0	0	1	1	1	1	Rothek	0
 62583	0	0	0	0	0	0	38236	0	0	0	1	1	1	1	Warpstalker Hatchling	0
 62620	0	0	0	0	0	0	42575	0	0	0	1	1	1	1	Clefthoof Runt	0
 62621	0	0	0	0	0	0	42576	0	0	0	1	1	1	1	Fel Flame	0
@@ -616,25 +618,25 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 62999	0	0	0	0	0	0	2955	43195	0	0	1	1	1	1	Temple Snake	0
 63001	0	0	0	0	0	0	38380	38135	34590	0	2	1	1	0	Silkbead Snail	0
 63002	0	0	0	0	0	0	38831	0	0	0	0	0	0	0	Garden Frog	0
-63003	0	0	0	0	0	0	40093	0	0	0	0	0	0	0	Blossomtail	0
+63003	0	0	0	0	0	0	40093	0	0	0	0	0	0	0	Masked Tanuki	0
 63004	0	0	0	0	0	0	35802	2957	0	0	1	1	1	1	Grove Viper	0
 63005	0	0	0	0	0	0	28507	0	0	0	1	0	0	0	Spirebound Crab	0
 63006	0	0	0	0	0	0	34160	0	0	0	1	0	0	0	Sandy Petrel	0
 63057	0	0	0	0	0	0	42856	0	0	0	1	1	1	1	Sifang Otter	0
-63060	0	0	0	0	0	0	37810	27882	0	0	1	0	0	0	Softshell Snapling	0
-63062	0	0	0	0	0	0	40089	40090	40094	0	1	1	1	1	Shy Bandicoon	0
-63064	0	0	0	0	0	0	41834	42861	42860	0	1	1	1	1	Shy Bandicoon Kit	0
+63060	0	0	0	0	0	0	27679	43339	0	0	1	0	0	0	Softshell Snapling	0
+63062	0	0	0	0	0	0	40089	40090	40094	0	1	1	1	0	Bandicoon	0
+63064	0	0	0	0	0	0	41834	42861	42860	0	1	1	1	1	Bandicoon Kit	0
 63094	0	0	0	0	0	0	40124	40122	40123	0	1	1	1	1	Malayan Quillrat	0
 63095	0	0	0	0	0	0	42870	42871	42869	0	1	1	1	1	Malayan Quillrat Pup	0
-63096	0	0	0	0	0	0	43127	0	0	0	1	1	1	1	Marsh Fiddler	0
+63096	0	0	0	0	0	0	43360	43361	0	0	1	1	1	1	Marsh Fiddler	0
 63097	0	0	0	0	0	0	981	0	0	0	1	1	1	1	Shore Crab	0
 63098	0	0	0	0	0	0	42872	0	0	0	1	1	1	1	Gilnean Raven	0
 63143	82771	0	0	0	0	0	42879	0	0	0	0	0	0	0	Mogu Image	0
-63288	0	0	0	0	0	0	42988	0	0	0	1	1	1	1	Chihong Spiderling	0
+63288	0	0	0	0	0	0	42988	0	0	0	1	1	1	1	Amethyst Spiderling	0
 63289	0	0	0	0	0	0	36955	0	0	0	1	1	1	1	Luyu Moth	3
-63291	0	0	0	0	0	0	42987	0	0	0	1	1	1	1	Haochi Beetle	0
+63291	0	0	0	0	0	0	42987	0	0	0	1	1	1	1	Savory Beetle	0
 63293	0	0	0	0	0	0	42859	42874	0	0	1	0	0	0	Spiny Terrapin	0
-63304	0	0	0	0	0	0	40630	40521	40226	0	1	1	1	1	Jungle Grub	0
+63304	0	0	0	0	0	0	0	0	40226	0	0	0	1	0	Jungle Grub	0
 63320	0	0	0	11285	0	0	42944	0	0	0	1	0	0	0	Mist	3
 63321	0	0	0	0	0	0	42939	0	0	0	1	1	1	1	Lorewalker Chang	0
 63322	0	0	0	0	0	0	42940	0	0	0	1	1	1	1	Lorewalker Chi Chi	0
@@ -662,7 +664,7 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 63390	0	0	0	0	0	0	41721	0	0	0	0	0	0	0	Clever Ashyo	0
 63391	0	0	0	0	0	0	39699	0	0	0	0	0	0	0	Pang Thunderfoot	0
 63392	0	0	0	0	0	0	41074	0	0	0	0	0	0	0	Miss Fanny	0
-63394	0	0	0	0	0	0	40006	0	0	0	0	0	0	0	Dezco Lightwalker	0
+63394	0	0	0	0	0	0	40006	0	0	0	0	0	0	0	Sunwalker Dezco	0
 63395	0	0	0	0	0	0	40263	0	0	0	0	0	0	0	Lyalia	0
 63396	0	0	0	0	0	0	39792	0	0	0	0	0	0	0	Yi-Mo Longbrow	0
 63397	0	0	0	0	0	0	40218	0	0	0	0	0	0	0	Crane Wing Monk	0
@@ -738,25 +740,68 @@ field0	field1	field2	field3	field4	field5	field6	field7	field8	field9	field10	fi
 63493	79272	0	0	0	0	0	43081	0	0	0	1	1	1	1	Pandaren Female 06	0
 63496	79272	0	0	0	0	0	43083	0	0	0	1	1	1	1	Pandaren Female 07	0
 63547	0	0	0	0	0	0	43221	0	0	0	1	0	0	0	Plains Monitor	0
-63548	0	0	0	0	0	0	15469	5905	36617	36616	1	1	1	1	Xiangla Scorpion	0
-63549	0	0	0	0	0	0	40712	0	0	0	1	1	1	1	Grassland Locust	0
+63548	0	0	0	0	0	0	15469	5905	36617	36616	1	1	1	1	Crunchy Scorpion	0
+63549	0	0	0	0	0	0	43344	43352	0	0	1	1	1	1	Grassland Hopper	0
 63550	0	0	0	0	0	0	36388	0	0	0	0	0	0	0	Alpine Foxling	0
 63551	0	0	0	0	0	0	42757	0	0	0	0	0	0	0	Alpine Foxling Kit	0
 63555	0	0	0	0	0	0	4440	0	0	0	1	0	0	0	Zooey Snake	0
 63557	0	0	0	0	0	0	6302	0	0	0	0	0	0	0	Tolai Hare	0
 63558	0	0	0	0	0	0	28998	0	0	0	0	0	0	0	Tolai Hare Pup	0
 63560	0	0	0	0	0	0	43117	43129	43130	0	0	0	0	0	Krik\'thik Infiltrator	0
-63561	0	0	0	0	0	0	43173	43140	43173	0	1	1	1	0	Kor\'thik Conscript	0
+63561	0	0	0	0	0	0	43173	43140	43173	0	1	1	1	0	Krik\'thik Conscript	0
 63585	0	0	0	0	0	0	304	5369	43152	43153	1	1	1	1	Szechuan Chicken	0
 63621	0	0	0	0	0	0	43172	0	0	0	1	1	1	1	Feral Vermling	0
 63715	0	0	0	0	0	0	43193	43199	0	0	1	1	1	1	Jumping Spider	0
-63716	0	0	0	0	0	0	43194	0	0	0	0	0	0	0	Blossomtail Kit	0
+63716	0	0	0	0	0	0	43194	0	0	0	0	0	0	0	Masked Tanuki Pup	0
 63724	0	0	0	0	0	0	32935	0	0	0	1	1	1	1	Elayna	0
 63832	0	0	0	0	0	0	43255	0	0	0	1	0	0	0	[PH] MoP CE Pet	0
 63838	0	0	0	0	0	0	36956	0	0	0	1	1	1	1	Gilded Moth	3
-63841	0	0	0	0	0	0	42855	0	0	0	1	1	1	1	Golden Civet	0
+63841	0	0	0	0	0	0	43428	0	0	0	1	1	1	1	Golden Civet	0
 63842	0	0	0	0	0	0	43259	43260	0	0	1	1	1	1	Golden Civet Kitten	0
-63847	0	0	0	0	0	0	40584	0	0	0	0	0	0	0	Xiqing Skimmer	0
+63847	0	0	0	0	0	0	40584	0	0	0	0	0	0	0	Dancing Water Skimmer	0
 63849	0	0	0	0	0	0	6297	0	22468	0	1	1	1	1	Yellow-Bellied Bullfrog	0
 63850	0	0	0	0	0	0	43284	0	0	0	1	1	1	1	Effervescent Glowfly	3
 63919	0	0	0	0	0	0	6296	0	43311	0	1	1	1	1	Leopard Tree Frog	0
+63953	0	0	0	0	0	0	43347	0	0	0	1	1	1	1	Kuitan Mongoose	0
+63954	0	0	0	0	0	0	43346	43350	0	0	1	1	1	1	Kuitan Mongoose Pup	0
+63957	0	0	0	0	0	0	4959	36357	0	0	1	1	0	0	Yakrat	0
+63980	0	0	0	0	0	0	36944	0	0	0	1	1	1	1	Amber Moth	3
+64232	0	0	0	0	0	0	43127	0	0	0	1	1	1	1	Singing Cricket	0
+64238	0	0	0	0	0	0	3233	5990	0	0	1	1	0	0	Wasted Roach	0
+64242	0	0	0	0	0	0	40120	40121	0	0	1	1	1	1	Clouded Hedgehog	0
+64246	0	0	0	0	0	0	40089	0	0	0	1	1	1	0	Shy Bandicoon	0
+64248	0	0	0	0	0	0	43485	0	0	0	1	1	1	0	Summit Kid	0
+64334	0	0	0	0	0	0	35802	0	0	0	1	1	1	1	Brown Snake	0
+64335	0	0	0	0	0	0	35803	0	0	0	1	1	1	1	Crimson Snake	0
+64337	3351	0	0	0	0	0	43256	0	0	0	1	0	0	0	Nomi	0
+64352	0	0	0	0	0	0	38380	43524	34590	0	2	1	1	0	Rapana Whelk	0
+64374	0	0	0	0	0	0	2177	0	0	0	1	1	1	1	Nether Roach	0
+64375	0	0	0	0	0	0	42407	42408	42409	0	1	1	1	0	Shimmershell Snail	0
+64439	0	0	0	0	0	0	43391	42855	0	0	1	1	1	1	Long-Eared Mink	0
+64440	0	0	0	0	0	0	27883	27678	27677	0	1	0	0	0	Softshell Turtle	0
+64442	0	0	0	0	0	0	43340	43360	0	0	1	1	1	1	Emerald Singer	0
+64576	0	0	0	0	0	0	43194	0	0	0	0	0	0	0	Bandit	0
+64577	0	0	0	0	0	0	43360	43361	0	0	1	1	1	1	The Fiddler	0
+64580	0	0	0	0	0	0	43391	42855	0	0	1	1	1	1	Cairo	0
+64628	0	0	0	0	0	0	31201	0	0	0	1	0	0	0	Anduin Wrynn	0
+64629	30414	0	0	0	0	0	32904	0	0	0	1	0	0	0	Garrosh Hellscream	0
+64632	0	0	0	0	0	0	43175	0	0	0	1	1	1	1	Hopling	0
+64633	0	0	0	0	0	0	40585	0	0	0	1	1	1	1	Aqua Strider	0
+64634	0	0	0	0	0	0	33223	0	0	0	1	1	1	1	Grinder	0
+64651	0	0	0	0	0	0	43609	0	0	0	1	0	0	0	Infernal Ball	0
+64652	0	0	0	0	0	0	43610	0	0	0	1	1	1	1	Troll	0
+64653	0	0	0	0	0	0	43611	0	0	0	1	1	1	1	Tauren	0
+64654	0	0	0	0	0	0	43612	0	0	0	1	1	1	1	Nerubian	0
+64655	0	0	0	0	0	0	43613	0	0	0	1	1	1	1	High Elf	0
+64657	0	0	0	0	0	0	43614	0	0	0	1	1	1	1	Jinyu Warrior	0
+64658	0	0	0	0	0	0	43615	0	0	0	1	1	1	1	Jinyu Waterspeaker	0
+64659	35	0	0	0	0	0	43615	0	0	0	1	1	1	1	Jinyu Waterspeaker	0
+64662	0	0	0	0	0	0	42487	0	0	0	1	1	1	1	Yaungol Warrior	0
+64665	0	0	0	0	0	0	43618	0	0	0	1	1	1	1	Tiger Pillar	0
+64666	0	0	0	0	0	0	43618	0	0	0	1	1	1	1	Crane Pillar	0
+64667	0	0	0	0	0	0	43620	0	0	0	1	1	1	1	Ox Pillar	0
+64668	0	0	0	0	0	0	43621	0	0	0	1	1	1	1	Serpent Pillar	0
+64673	0	0	0	0	0	0	43623	0	0	0	1	1	1	1	Golden Forest Tree	0
+64674	0	0	0	0	0	0	43624	0	0	0	1	0	0	0	Pandaren Cub	0
+64675	0	0	0	0	0	0	42311	42310	42312	42313	0	0	0	1	Pandaren Father	0
+64677	0	0	0	0	0	0	33168	0	0	0	1	0	0	0	Star	0

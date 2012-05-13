@@ -251,3 +251,4 @@ id	map	area	name	y_min	y_max	x_min	x_max	displayMapId	defaultDungeonFloor	parent
 895	0	6457	"NewTinkertownStart"	1206.25	-643.75	-4727.084	-5960.416	-1	0	27	0	0	0
 896	1008	6125	"MogushanVaults"	2633.333	33.33398	4866.666	3133.333	-1	0	0	0	0	0
 897	1009	6297	"HeartofFear"	1279.167	-243.75	-1714.584	-2729.166	-1	0	0	0	0	0
+898	1007	6066	"Scholomance"	1597.917	-1708.334	1612.5	-591.666	-1	0	0	0	0	0

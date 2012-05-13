@@ -196,3 +196,5 @@ field0	field1	field2	field3	field4	field5
 287	13562	%s, Destroyer\'s End	%s, Destroyer\'s End	196	0
 303	15677	Farmer %s	Farmer %s	195	0
 308	17354	%s the Beloved	%s the Beloved	197	0
+309	17593	%s the Fearless	%s the Fearless	198	0
+310	17676	Zookeeper %s	Zookeeper %s	199	0

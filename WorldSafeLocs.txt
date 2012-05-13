@@ -1133,7 +1133,7 @@ id	map	pos_x	pos_y	pos_z	m_name_lang
 3529	860	1570.62	3.756.878	3.113.509	Shen-zin Su - West Side - Corpse Catcher 041
 3530	860	1.585.818	3.706.159	2.307.611	Shen-zin Su - West Side - Corpse Catcher 042
 3531	860	1.586.431	3653.24	2.436.897	Shen-zin Su - West Side - Corpse Catcher 043
-3549	999	-3.815.885	-4.793.408	1.082.775	Scenario - Theramore - Rez Loc, Horde
+3549	999	-3.813.674	-4.790.984	1.053.071	Scenario - Theramore (H) - Start Point
 3552	998	1.889.372	1.156.542	1.507.662	Valley of Power - BG - Graveyard - Alliance (Rectangle)
 3553	998	1.675.799	1.522.344	1.676.312	Valley of Power - BG - Graveyard - Horde (Rectangle)
 3554	998	8.383.733	1.266.111	5.213.761	Valley of Power - BG - Graveyard - Alliance (Circle)
@@ -1588,7 +1588,7 @@ id	map	pos_x	pos_y	pos_z	m_name_lang
 4026	959	3657.29	2551.92	766.966	Shadowpan Hideout - Entrance Target
 4027	1005	2.208.066	-1.255.969	4.281.259	Brewmaster Scenario 01 Graveyard
 4049	961	-7.321.146	1.266.127	116.108	Stormstout Brewery - Entrance Target
-4052	870	2.236.118	3.131.976	3.796.547	Vale of Eternal Blossoms, Temp GY
+4052	870	2.236.118	3.131.976	3.796.547	Townlong Steppes, Temp GY
 4053	962	7.220.972	2.108.085	402.978	Great Wall - Entrance Target
 4054	870	6.923.646	2080.17	3.746.936	Great Wall - Exit Target
 4057	998	1.680.979	1.147.543	1.830.577	Valley of Power - BG - Graveyard - Horde (Rectangle) 2
@@ -1598,7 +1598,7 @@ id	map	pos_x	pos_y	pos_z	m_name_lang
 4061	727	6.301.702	2.301.736	3.288.382	STV Diamond Mine - BG - Start - Horde (Start)
 4062	727	8.515.746	1.351.406	3.288.382	STV Diamond Mine - BG - Start - Alliance (Start)
 4064	870	-7.133.559	1.263.417	1.362.227	Stormstout Brewery - Exit Target
-4066	1014	4.014.173	1.776.214	8.849.942	Monk Scenario Graveyard
+4066	1014	4.014.173	1.776.214	8.849.942	Scenario - Monk - Graveyard
 4067	960	9.284.583	-2.561.451	1.810.661	Test Target loc
 4068	967	-1.798.594	-2394.59	4.562.267	Wyrmrest Temple Base
 4069	967	-1.804.431	-2387.54	3.413.545	Wyrmrest Temple Top
@@ -1611,8 +1611,8 @@ id	map	pos_x	pos_y	pos_z	m_name_lang
 4083	1024	2009.54	-2.040.325	2.210.688	Scenario - Greenstone Village - Start
 4093	870	3.982.102	1.111.207	4.972.138	Mogu\'shan Vaults - Exit Target
 4094	1008	3.861.556	1.045.111	4.900.729	Mogu\'shan Vaults - Entrance Target
-4095	870	2.234.945	3.138.788	3.728.656	Townlong Steppes, Temp GY
-4098	870	1.851.563	1.170.438	217.354	Valley of the Four Winds, Fruited Fields GY
+4095	870	1.648.877	2510.16	3.001.692	Townlong Steppes, Hatred\'s Vice
+4098	870	1.828.316	1.174.464	2.171.204	Valley of the Four Winds, Fruited Fields GY
 4099	870	-1.926.944	1.921.635	1.526.196	Valley of the Four Winds, Stoneplow Fields GY
 4100	870	-5.835.417	1.316.342	1.487.612	Valley of the Four Winds, Thirsty Alley GY
 4101	870	-2.344.241	8.427.396	2.933.034	Krasarang Wilds - Kea Krak GY
@@ -1620,7 +1620,7 @@ id	map	pos_x	pos_y	pos_z	m_name_lang
 4103	870	-1.205.472	9.421.181	1.269.035	Krasarang Wilds - Dojani River GY
 4104	870	-1349.29	1.969.875	171.668	Krasarang Wilds - The Forbidden Jungle GY
 4105	870	-3.915.139	-7.593.055	1.215.143	Krasarang Wilds, Zhu Province GY
-4106	870	2412.79	3.355.138	2.922.504	Townlong Steppes, Osul Mesa GY
+4106	870	2.411.257	3.356.781	2.916.499	Townlong Steppes, Osul Mesa GY
 4107	870	-1.286.847	4.509.366	1.281.826	Dread Wastes, Dread Wastes, GY
 4108	1030	8.991.042	2.353.913	9.756.212	Scenario - Ancient Mogu Crypt - Start
 4109	1029	780.592	2354.83	9.005.214	Mogu Catacombs (Pristine) Safe Location
@@ -1641,7 +1641,7 @@ id	map	pos_x	pos_y	pos_z	m_name_lang
 4151	1	1.271.042	-4.228.474	2.668.586	TEST - Kalimdor Pet Battle Arena Loc
 4152	0	-9.100.004	4.090.382	9.264.658	TEST - Eastern Kingdoms Pet Battle Arena Loc
 4153	1048	-2.757.066	6.292.778	1.167.102	Brewmaster Scenario 03 - Graveyard
-4155	1014	4.009.416	1.777.174	884.779	Monk Scenario
+4155	1014	3.823.021	2.008.733	9.352.049	Scenario - Monk - Start Point
 4156	0	-230.989	1571.57	768.921	Corpse Location: 33 - Shadowfang Keep
 4157	0	-8.762.379	8.480.103	8.631.391	Corpse Location: 34 - Stormwind Stockade
 4158	0	-11207.8	1681.15	237.859	Corpse Location: 36 - Deadmines
@@ -1736,7 +1736,7 @@ id	map	pos_x	pos_y	pos_z	m_name_lang
 4247	0	1274.78	-2552.56	950.235	Corpse Location: 1007 - Scholomance
 4248	870	3.982.997	1.121.291	497.214	Corpse Location: 1008 - Mogu\'shan Vaults
 4249	1049	2.029.196	4.707.899	1.543.232	Scenario - Black Ox Temple
-4250	1050	-577.132	3.853.205	0.5493062	Scenario - Tyri\'vess
+4250	1050	-577.132	3.853.205	0.5493062	Scenario - Zan\'vess
 4251	1048	-3101.01	729.672	0.747235	Unga Ingoo Start
 4252	1051	1.736.451	3.025.903	4.758.858	Brewmoon Festival Start
 4253	1051	1.847.608	3.663.125	4.823.574	Brewmoon Festival Graveyard
@@ -1763,7 +1763,7 @@ id	map	pos_x	pos_y	pos_z	m_name_lang
 4285	0	3.237.345	-4.058.776	1.084.757	Corpse Location: 329 - Stratholme - Service Entrance
 4286	1005	2.249.792	-1.124.648	4.855.298	Lightning Lager Start
 4287	1030	9.052.222	2.354.082	9.756.213	Scenario - Crypt of Forgotten Kings
-4288	1035	1.780.467	1.602.674	3.431.691	Scenario - Katmogu - Start
+4288	1035	1.780.467	1.602.674	3.431.691	Scenario - Kotmogu - Start
 4290	870	1536.88	-1793.37	246.2	Mogu\'shan Palace - Exit Teleport Target BETA
 4291	870	1536.93	-1793.33	246.2	Mogu\'shan Palace - GY - BETA
 4292	0	-11341.02	1.576.549	9.372.838	Deadmines Rear Exit Target
@@ -1773,3 +1773,41 @@ id	map	pos_x	pos_y	pos_z	m_name_lang
 4296	1009	-2351.16	459.964	422.341	Mantid Raid - LFR First Half - Entrance Target
 4297	1009	-1926.55	475.847	470.958	Mantid Raid - LFR Second Half - Entrance Target
 4298	870	9.275.955	-2.503.578	1.805.042	The Jade Forest, East Temple Interior Quests GY
+4299	870	-1.250.885	4.139.338	5.950.638	Dread Wastes, Dread Wastes, GY 02
+4300	870	-1.564.972	4.796.333	8.426.993	Dread Wastes, Dread Wastes, GY 03
+4301	870	-4.709.861	3.883.768	7.789.108	Dread Wastes, Dread Wastes, GY 04
+4302	870	-5.438.524	2.931.161	1.662.875	Dread Wastes, Dread Wastes, GY 05
+4303	870	4.837.483	2.919.703	2.526.585	Dread Wastes, Dread Wastes, GY 06
+4304	870	6.228.941	3.662.105	2.261.882	Dread Wastes, Dread Wastes, GY 07
+4305	870	5.881.927	4.281.797	2.193.601	Dread Wastes, Dread Wastes, GY 08
+4306	530	-315.326	1149.24	428.931	The Dark Portal
+4307	870	1030.09	-2259.32	155.125	The Jade Temple
+4308	870	2914.06	579.927	528.339	Kun-Lai Summit
+4309	870	-1509.12	1163.1	252.027	Krasarang Wilds - The Crane Temple
+4310	870	1075.85	1592.25	352.986	Vale of Eternal Blossoms
+4311	1	1526.81	-4387.06	20.328	Orgrimmar
+4312	0	-8876.51	582.81	931.665	Stormwind (Pet Battle Arena)
+4313	0	1833.43	256.432	597.053	Undercity
+4314	654	-1499	1638.96	204.857	Gilneas
+4315	0	-12479.1	-785.619	407.065	Stranglethorn Vale
+4316	0	-10558	-1210.94	275.545	Duskwood
+4317	0	-4984.85	-961.281	501.659	Ironforge
+4318	1	6960.1	-4155.96	698.355	Winterspring
+4319	1	-10521.9	-2517.25	875.536	Uldum
+4320	1	2782.69	-574.763	931.812	Ashenvale
+4321	1	-623.06	-2945.42	981.786	The Barrens - Crossroads
+4322	571	1980.29	-4112.51	214.296	Howling Fjord
+4323	571	6405.39	2326.15	472.756	Icecrown Citadel
+4324	1000	-3.869.578	-4.582.146	9.005.137	Scenario - Theramore (A) - Start Point
+4325	870	1.624.031	3.018.765	3.198.503	Townlong Steppes, Upper Sumprushes GY
+4326	870	1.707.941	3.590.853	2.235.096	Townlong Steppes, Dusklight Bridge GY
+4327	870	1.279.875	4.261.921	1.888.251	Townlong Steppes, Farwatch Overlook GY
+4328	870	2.378.592	4.105.515	2.147.554	Townlong Steppes, Underbough GY
+4330	967	-1786.75	-2393.24	341.354	CoT 4.3 - Dragon Soul (LFR Second Half) - Entrance Target (Wyrmrest)
+4331	734	-9165.31	1594.88	258.974	Ahn\'Qiraj Terrace - Sarsarun Event Entrance
+4332	349	263.002	-419.669	-129.106	Maraudon - Theradras Event Entrance
+4333	230	971.551	-201.309	-617.893	Blackrock Depths - Flamelash Event Entrance
+4334	209	1627.85	1136.65	887.678	Zul\'Farrak - Kai\'ju Gahz\'rilla Event Entrance
+4335	33	-223.538	2145.68	90.624	Shadowfang Keep - Valentine\'s Event Entrance
+4336	189	1797.92	1222.23	181.853	SM Graveyard (OLD Version) - Headless Horseman Entrance
+4337	870	5.764.236	1.319.934	440.108	Valley of the Four Winds, Kunzen Village GY

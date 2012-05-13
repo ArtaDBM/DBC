@@ -296,12 +296,12 @@ This battlefield is coveted by the blood elves for its rich energy deposits."	21
 994	MoguDungeon	1	7709	1	Mogu\'shan Palace	0			4	1	NaN	0	0	-1	4	0	0	-1
 995	MoguInteriorRaid	1	7709	1	The Depths [UNUSED]	0			-1	1	NaN	0	0	-1	4	0	0	-1
 996	MoguExteriorRaid	2	9477981	1	Terrace of Endless Spring	0			214	1	NaN	0	0	0	4	0	0	-1
-998	ValleyOfPower	3	7709	1	Temple of Kotmogu	0	"The Horde and Alliance wage battle for the ancient Mogu artifact that is foretold to hold great powers.
+998	ValleyOfPower	3	7709	1	Temple of Kotmogu	0	"The Horde and Alliance wage battle for the ancient Mogu Artifact that is foretold to hold great powers.
 
-Temple of Kotmogu is a 10 vs 10 powerball battleground where each side attempts to control the Mogu Artifact for as long as possible in different scoring zones."	"The Horde and Alliance wage battle for the ancient Mogu artifact that is foretold to hold great powers.
+Temple of Kotmogu is a 10 vs 10 powerball battleground where each side attempts to control the Mogu Artifact for as long as possible in different scoring zones."	"The Horde and Alliance wage battle for the ancient Mogu Artifact that is foretold to hold great powers.
 
 Temple of Kotmogu is a 10 vs 10 powerball battleground where each side attempts to control the Mogu Artifact for as long as possible in different scoring zones."	251	1	NaN	0	0	-1	4	0	0	-1
-999	BFTAllianceScenario	1	15965	1	Scenario: Theramore (H)	0			3	1	NaN	0	0	1260	4	0	0	-1
+999	BFTAllianceScenario	1	15965	1	Scenario: Theramore (H)	0			3	1	NaN	0	0	1350	4	0	0	-1
 1000	BFTHordeScenario	1	15965	1	Scenario: Theramore (A)	0			-1	1	NaN	0	0	360	4	0	0	-1
 1001	ScarletSanctuaryArmoryAndLibrary	1	9444957	1	Scarlet Halls	0			190	1	0	2869	-820	-1	4	0	0	-1
 1004	ScarletMonasteryCathedralGY	1	9444957	1	Scarlet Monastery	0			190	1	NaN	0	0	-1	4	0	0	-1
@@ -325,3 +325,4 @@ Temple of Kotmogu is a 10 vs 10 powerball battleground where each side attempts 
 1049	BlackOxTempleScenario	5	8404573	1	(UNUSED) Scenario: Black Ox Temple	0			-1	1	NaN	0	0	-1	4	0	0	-1
 1050	ScenarioKlaxxiIsland	1	8404573	1	Scenario: Assault on Zan\'vess	0			-1	1	NaN	0	0	720	4	0	0	-1
 1051	ScenarioBrewmaster04	5	8404573	1	Scenario: Brewmoon Festival	0			-1	1	NaN	0	0	0	4	0	0	-1
+1060	LevelDesignLand-DevOnly	0	8404575	1	Level Design Land - Dev Only	0			-1	1	NaN	0	0	-1	0	0	0	-1

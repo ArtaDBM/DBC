@@ -352,3 +352,4 @@ m_id	m_mapId	m_difficulty	m_requirement	m_resetTime	m_maxPlayers	m_difficultyStr
 2591	1050	1		0	5	
 2592	1048	1		0	5	
 2595	1005	1		0	5	
+2599	1060	0		0	5	

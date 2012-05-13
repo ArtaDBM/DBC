@@ -434,15 +434,15 @@ m_ID	m_reputationIndex	m_reputationRaceMask_1	m_reputationRaceMask_2	m_reputatio
 1189	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	5	5	K3		0
 1204	127	2099199	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1162	0	0	0	0	Avengers of Hyjal	Infuriated by the destruction wrought by the Lord of Flame, the Cenarion Circle seize the initiative, fighting back against Ragnaros and driving deep into the very heart of the Firelands.	0
 1215	130	4194303	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	5.0		4
-1216	131	58720256	0	0	0	0	0	0	0	3000	0	0	0	65	0	0	0	1215	0	0	0	0	Pandaren Adventurer\'s Guild	[TEMP]Created by Sho Pan, the Pandaren Adventurer\'s Guild has grown into an entire country on the back of Shen-zin Su. They sail the world, fighting injustice, tyranny, and lack of good beer whereever they can find it.[/TEMP]	0
-1228	144	16778162	39846989	0	0	0	0	0	0	-42000	-42000	0	0	0	0	0	0	1245	0	0	5	5	Forest Hozen	A spirited, violent, and short-lived race of monkey people	4
+1216	131	58720256	0	0	0	0	0	0	0	3000	0	0	0	65	0	0	0	1245	0	0	0	0	Shang Xi\'s Academy	For nearly three generations, the esteemed Shang Xi has prepared pandaren heroes for lives of adventure.	0
+1228	144	33555378	23069773	0	0	0	0	0	0	-42000	-42000	0	0	0	2	0	0	1245	0	0	5	5	Forest Hozen	A spirited, violent, and short-lived race of monkey people	4
 1233	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	CoT Well of Eternity - Illidan		0
 1234	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	CoT Well of Eternity - High Elves		0
 1235	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	CoT Well of Eternity - Illidan (Stealth)		0
 1237	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	CoT Well of Eternity - Demons		0
 1240	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	CoT Well of Eternity - Demon Balls		0
 1241	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	CoT Well of Eternity - Hunter Stalkers		0
-1242	143	23069773	0	0	0	2047	0	0	0	0	0	0	0	16	0	0	0	1245	0	0	0	0	Glassfin Jinyu	A reserved, methodical race of fish people.	0
+1242	143	23069773	0	0	0	2047	0	0	0	0	0	0	0	16	0	0	0	1245	0	0	0	0	Pearlfin Jinyu	A reserved, methodical race of fish people.	0
 1243	143	33555378	0	0	0	2047	0	0	0	-42000	0	0	0	2	0	0	0	0	0	0	0	0	Hozu	A noble and spirited tribe of Monkey people.	0
 1245	145	67108863	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	Mists of Pandaria		0
 1249	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	5	5	PLAYER, Expansion 4 Neutral		0
@@ -450,20 +450,20 @@ m_ID	m_reputationIndex	m_reputationRaceMask_1	m_reputationRaceMask_2	m_reputatio
 1253	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Guardians of the East Temple		0
 1265	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1118	1	1	5	5	Shen\'dralar	A remnant of the once powerful elves living in Dire Maul, yet still wise and knowledgeable about great secrets.	0
 1268	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	1	1	0	0	Mogu	The ancient progenitors of this land, the Mogu hate any and all pretenders, including the upstart Pandaren.	0
-1269	167	65013759	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	0	0	0	0	Golden Lotus	This mysterious society of Pandaren intend to solve the Mogu problem once and for all.	0
+1269	167	65013759	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1245	0	0	0	0	Golden Lotus	This mysterious society of Pandaren intend to solve the Mogu problem once and for all.	0
 1270	182	56625151	0	0	0	0	0	0	0	3000	0	0	0	16	0	0	0	1245	0	0	0	0	Shado-Pan	The shadowy protectors of Pandaria\'s temples, the Shado-Pan are wrought with mystery.	0
 1271	154	65013759	0	0	0	2047	0	0	0	3000	0	0	0	0	0	0	0	1245	0	0	0	0	Order of the Cloud Serpent	Guardians of the East Temple	0
-1272	171	56625151	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1245	1	1	0	0	The Tillers	The Tillers are peaceful and productive pandaren, working with the land to feed the massive appetites of their people.	0
-1273	156	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	Tillers - Jogu the Drunk	Tillers - This is a hidden faction used to gain the trust and affection of Jogu the Drunk	0
-1275	158	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	Tillers - Ella	Tillers - This is a hidden faction used to gain the trust and affection of Ella	0
-1276	159	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	Tillers - Old Hillpaw	Tillers - This is a hidden faction used to gain the trust and affection of Old Hillpaw	0
-1277	160	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	Tillers - Chee Chee	Tillers - This is a hidden faction used to gain the trust and affection of Chee Chee.	0
-1278	161	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	Tillers - Sho	Tillers - This is a hidden faction used to gain the trust and affection of Sho.	0
-1279	162	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	Tillers - Haohan Mudclaw	Tillers - This is a hidden faction used to gain the trust and affection of Haohan Mudclaw.	0
-1280	163	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	Tillers - Tina Mudclaw	Tillers - This is a hidden faction used to gain the trust and affection of Tina Mudclaw.	0
-1281	164	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	Tillers - Gina Mudclaw	Tillers - This is a hidden faction used to gain the trust and affection of Gina Mudclaw.	0
-1282	165	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	Tillers - Fish Felreed	Tillers - This is a hidden faction used to gain the trust and affection of Fish Felreed.	0
-1283	166	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	Tillers - Farmer Fung	Tillers - This is a hidden faction used to gain the trust and affection of Farmer Fung.	0
+1272	171	56625151	0	0	0	2047	0	0	0	0	0	0	0	24	0	0	0	1245	1	1	0	0	The Tillers	The Tillers are peaceful and productive pandaren, working with the land to feed the massive appetites of their people.	0
+1273	156	65013759	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1272	0	0	0	0	Jogu the Drunk	Found in the cradle of the Valley of the Four Winds at Halfhill Market.	0
+1275	158	65013759	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1272	0	0	0	0	Ella	Found in the cradle of the Valley of the Four Winds at Halfhill Market.	0
+1276	159	65013759	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1272	0	0	0	0	Old Hillpaw	Found in the cradle of the Valley of the Four Winds at Halfhill Market.	0
+1277	160	65013759	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1272	0	0	0	0	Chee Chee	Found in the cradle of the Valley of the Four Winds at Halfhill Market.	0
+1278	161	65013759	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1272	0	0	0	0	Sho	Found in the cradle of the Valley of the Four Winds at Halfhill Market.	0
+1279	162	65013759	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1272	0	0	0	0	Haohan Mudclaw	Found in the cradle of the Valley of the Four Winds at Halfhill Market.	0
+1280	163	65013759	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1272	0	0	0	0	Tina Mudclaw	Found in the cradle of the Valley of the Four Winds at Halfhill Market.	0
+1281	164	65013759	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1272	0	0	0	0	Gina Mudclaw	Found in the cradle of the Valley of the Four Winds at Halfhill Market.	0
+1282	165	65013759	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1272	0	0	0	0	Fish Felreed	Found in the cradle of the Valley of the Four Winds at Halfhill Market.	0
+1283	166	65013759	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1272	0	0	0	0	Farmer Fung	Farmer Fung grows the biggest vegetables in the Heartland!	0
 1286	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Guardians of the Red Crane		0
 1302	172	56625151	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1245	1	1	0	0	The Anglers	The Anglers are a group of Pandaren fisherman that hope to feed their people and grow their knowledge of fishing.	0
 1336	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	1	1	0	0	The Mantid Swarm	The ravening swarms of the Mantid roam the Towlong Steppes and Dread Wastes, crushing all in their path.	0
@@ -471,8 +471,11 @@ m_ID	m_reputationIndex	m_reputationRaceMask_1	m_reputationRaceMask_2	m_reputatio
 1338	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Gurthan Mogu		0
 1339	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Harthak Mogu		0
 1340	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Korgesh Mogu		0
-1341	183	65013759	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	0	0	0	0	The August Celestials	These men defend the temples of Pandaria from the evils of the Sha.	0
+1341	183	65013759	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	0	0	0	0	The August Celestials	These brave Pandaren defend the temples of Pandaria from the evils of the Sha.	0
 1345	184	65013759	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	0	0	0	0	The Lorewalkers	Caretakers of the mysteries of Pandaria, these brave souls roam the continent, hoping to learn from their history.	0
 1351	186	65013759	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1245	0	0	0	0	The Brewmasters	These noble Pandaren safeguard the secrets of hereditary brews, braving great hardship to construct their potent concoctions.	0
 1352	187	33555378	18875469	0	0	0	0	0	0	3100	-42000	0	0	273	6	0	0	67	1	0.25	4	7	Huojin Pandaren	Led by the intrepid Ji Firepaw, the Huojin Pandaren are quick to act and quicker to fight for what they believe in.	0
 1353	188	18875469	33555378	2097152	0	0	0	0	0	3100	-42000	3000	0	273	6	17	0	469	1	0.25	4	7	Tushui Pandaren	Led by the stalwart Aysa Cloudsinger, the Tushui Pandaren believe in contemplation and reasoned action.	0
+1357	191	65013759	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	Nomi	5.0 Cooking - This is a hidden faction used to level up Nomi.	0
+1358	192	65013759	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	1302	0	0	0	0	Nat Pagle	The consumate fisherman and lover of fine alcohol from across the land, Nat\'s irascible exterior belies a love of teaching.	0
+1359	193	56625151	0	0	0	2047	0	0	0	0	0	0	0	24	0	0	0	1245	1	1	0	0	The Black Prince	Black Prince Wrathion is the last of the black dragons. He has been known to richly reward those who earn his trust and support his endeavors.	0

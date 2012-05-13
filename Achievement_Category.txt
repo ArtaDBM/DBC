@@ -36,7 +36,7 @@ id	parent	name	order
 161	155	Midsummer	5
 162	155	Brewfest	6
 163	155	Children\'s Week	4
-165	95	Arena	1
+165	95	Arena	14
 168	-1	Dungeons & Raids	5
 169	-1	Professions	7
 170	169	Cooking	1
@@ -51,10 +51,10 @@ id	parent	name	order
 14778	97	Kalimdor	2
 14779	97	Outland	3
 14780	97	Northrend	4
-14801	95	Alterac Valley	2
-14802	95	Arathi Basin	3
-14803	95	Eye of the Storm	4
-14804	95	Warsong Gulch	5
+14801	95	Alterac Valley	4
+14802	95	Arathi Basin	2
+14803	95	Eye of the Storm	3
+14804	95	Warsong Gulch	1
 14805	168	The Burning Crusade	2
 14806	168	Lich King Dungeon	3
 14807	1	Dungeons & Raids	6
@@ -68,24 +68,21 @@ id	parent	name	order
 14864	201	Classic	1
 14865	201	The Burning Crusade	2
 14866	201	Wrath of the Lich King	3
-14881	95	Strand of the Ancients	6
-14901	95	Wintergrasp	7
+14881	95	Strand of the Ancients	5
+14901	95	Wintergrasp	11
 14922	168	Lich King Raid	4
 14941	155	Argent Tournament	10
-14963	14807	Secrets of Ulduar	4
 14981	155	Pilgrim\'s Bounty	8
-15003	95	Isle of Conquest	8
-15021	14807	Call of the Crusade	5
-15062	14807	Fall of the Lich King	6
+15003	95	Isle of Conquest	6
 15067	168	Cataclysm Dungeon	5
 15068	168	Cataclysm Raid	6
 15069	97	Cataclysm	5
 15070	96	Cataclysm	5
 15071	169	Archaeology	4
 15072	201	Cataclysm	4
-15073	95	Battle for Gilneas	9
-15074	95	Twin Peaks	10
-15075	95	Tol Barad	11
+15073	95	Battle for Gilneas	7
+15074	95	Twin Peaks	8
+15075	95	Tol Barad	12
 15076	-1	Guild	12
 15077	15076	Quests	2
 15078	15076	Player vs. Player	3
@@ -102,9 +99,9 @@ id	parent	name	order
 15089	15076	Reputation	6
 15090	15078	Battlegrounds	1
 15091	15078	Arena	2
-15092	95	Rated Battleground	12
+15092	95	Rated Battleground	13
 15093	15076	Guild Feats of Strength	7
-15096	14807	Cataclysm	7
+15096	14807	Cataclysm	4
 15101	155	Darkmoon Faire	11
 15106	168	Pandaria Dungeon	7
 15107	168	Pandaria Raid	8
@@ -119,7 +116,7 @@ id	parent	name	order
 15151	15079	Dungeon Challenges	9
 15153	15079	Pandaria Dungeon	7
 15154	15079	Pandaria Raid	8
-15162	95	Silvershard Mines	13
-15163	95	Temple of Kotmogu	14
-15164	14807	Mists of Pandaria	8
+15162	95	Silvershard Mines	9
+15163	95	Temple of Kotmogu	10
+15164	14807	Mists of Pandaria	5
 15165	-1	Scenarios	6
