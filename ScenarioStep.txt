@@ -23,7 +23,7 @@ field0	field1	field2	field3	field4	field5
 139	21325	58	1	Summon and defeat the grummle-eating, snow-stalking horror, Jol\'Grum.	Jol\'Grum
 140	21327	58	2	Summon and defeat and defeat the playful fire spirit, Liuyang.	Little Liuyang
 141	21332	58	3	Summon and defeat the wandering yaungol warrior, Chagan Firehoof.	Chagan Firehoof
-142	21334	58	4	Summon and defeat the monkey monk Cloudbender Kobo, and then claim your reward from Wodin.	Cloudbender Kobo
+142	21334	58	4	Summon and defeat the final challenger and then claim your reward from Wodin!	Defeat the Final Challenger!
 154	21845	63	0	Help Mayor Bramblestaff\'s assistants gather the ingredients for the Kun-Lai Kicker.	The Brewmoon Festival!
 155	21849	63	2	Stop the Bataari invasion on Binan Village.	The Yaungol attack!
 156	21851	63	3	Defeat Warbringer Qobi.	Warbringer Qobi
@@ -40,12 +40,13 @@ field0	field1	field2	field3	field4	field5
 172	22732	68	1	Stop Loremaster Fu\'s execution.	Stop the Execution
 173	22737	68	2	Defeat the defenders of the four ancient Mogu artifacts.	Capture the Artifacts
 174	0	70	0	[PH] Defeat the three masters.	[PH] Defeat Masters
-175	0	71	0	Find Jaina Proudmoore in the ruins of Theramore.	Find Jaina
+175	0	71	1	Find Jaina Proudmoore in the ruins of Theramore.	Find Jaina
 179	22975	72	0	Rig powder barrels on all six ships.	To the Waterline!
 180	22989	72	1	Inform Blastmaster Sparkfuse of your success.	The Blastmaster
 181	22977	72	2	Slay Baldruc and his gryphons.	Gryphon, Down
 182	22980	72	3	Destroy Big Bessa and sabotage any unmanned tanks.	Tanks for Nothing!
 183	22986	72	4	Slay Hedric Evencane and free Thalen Songweaver from Foothold Citadel.	Fly, Spy!
-184	0	71	1	Destroy any remaining horde in the ruins of Theramore.  (optional) Lay to rest the remains of any fallen Theramore citizens.	Cleansing the Filth
-185	0	71	2	Destroy the horde siege engine that yet remains in the ruins of Theramore.	Destroy the Destroyer
-186	0	71	3	Retrieve the banner of Theramore from the horde shaman.	One Last Request
+184	0	71	2	Destroy any remaining horde in the ruins of Theramore.	Cleansing the Filth
+185	0	71	3	Destroy the Horde siege engine at the west gate.	Destroy the Destroyer
+186	0	71	4	Protect Jaina while she attunes to the Focusing Iris.	The Last Stand
+193	0	71	0	Defeat the Horde in the harbor.	Welcome to Theramore

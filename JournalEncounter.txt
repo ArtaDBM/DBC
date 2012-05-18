@@ -221,7 +221,7 @@ Alzzin the Wildshaper begins the encounter in Satyr form but can change his form
 486	0	686	0.442623	0.17623	5011	241	5	-1	Witch Doctor Zum\'rah	nyi
 487	0	686	0.296448	0.17418	5019	241	6	-1	Nekrum Gutchewer and Shadow Priest Sezz\'ziz	nyi
 489	0	686	0.422131	0.329918	5025	241	8	-1	Chief Ukorz Sandscalp	nyi
-523	215	722	0.463115	0.680327	5038	247	1	-1	Shirrak the Dead Watcher	nyi
+523	215	722	0.463115	0.680327	5038	247	1	-1	Shirrak the Dead Watcher	
 524	215	722	0.739071	0.508196	5042	247	2	-1	Exarch Maladaar	nyi
 527	219	797	0.729508	0.313525	5049	248	1	-1	Watchkeeper Gargolmar	nyi
 528	219	797	0.39071	0.204918	5057	248	2	-1	Omor the Unscarred	nyi
@@ -289,7 +289,7 @@ Alzzin the Wildshaper begins the encounter in Satyr form but can change his form
 591	38	534	0.476776	0.133197	6396	273	4	-1	The Prophet Tharon\'ja	nyi
 592	36	530	0.539617	0.485656	6411	274	1	-1	Slad\'ran	nyi
 593	36	530	0.465847	0.655737	6418	274	2	-1	Drakkari Colossus	nyi
-594	36	530	0.393442	0.489754	0	274	3	-1	Moorabi (needs abilities)	nyi
+594	36	530	0.393442	0.489754	0	274	3	-1	Moorabi	Lore and Ability information about this encounter will be available in a future patch.
 595	36	530	0.251366	0.704918	0	274	4	-2	Eck the Ferocious (needs abilities)	nyi
 596	36	530	0.465847	0.270492	0	274	5	-1	Gal\'darah (needs abilities)	nyi
 597	54	525	0.435792	0.372951	0	275	1	-1	General Bjarngrim (needs abilities)	nyi
@@ -378,9 +378,9 @@ The undead Lilian Voss strangled her father--a high priest of the Scarlet Crusad
 The recent defeat in Andorhal has put Darkmaster Gandling in the foulest of moods. More than ever, all students of Scholomance are advised to impress him at every turn. Pupils who dissatisfy the headmaster will be removed from class to perform lab work... or become lab work."
 685	653	877	0.474966	0.608931	5810	312	3	3	Sha of Violence	Bloodthirsty, ruthless, and savage, the Sha of Violence is unfettered within the Shado-pan Monastery. Feeding on the Horde and Alliance\'s brutality, the entity gleefully ravages the monks who struggle to impede the monstrous onslaught.
 686	0	877	0.721245	0.474967	5827	312	4	-1	Taran Zhu	The Sha of Hatred has tainted Taran Zhu, the Shado-pan\'s pragmatic and mighty leader. Once devoted to protecting his beloved home, Zhu now burns with seething hatred for all life, twisting his perception of everything--and everyone--around him.
-687	664	896	0.189445	0.515562	5835	317	4	-1	The Spirit Kings	PH
+687	664	896	0.189445	0.515562	5835	317	4	-1	The Spirit Kings	Ancient records tell of these legendary rulers, powerful mogu who carved an empire from the very rock of Pandaria. Their names still cause the land to tremble: Zian of the Endless Shadow, Meng Sharpfang, Qiang Steelskin, and Sebotai Swiftfoot. Some say their spirits lurk in the vaults, lost in ghostly memories of battle and glory.
 688	641	874	0.262048	0.456325	5862	316	1	-1	Thalnos the Soulrender	"Thalnos earned repute in the Scarlet Crusade for the brutal torture methods he used to \purify\"" new recruits. Ultimately, the sadistic mage contracted the plague of undeath and arose as a fearsome skeletal being. The vengeful Thalnos now prowls the monastery\'s graveyard, commanding apparitions and zombified creatures to attack anyone who trespasses on his unholy domain."""
-689	663	896	0.319351	0.328823	5871	317	2	-1	Feng the Accursed	Long ago, Feng Shri was the Mogu\'shan Vaults\' caretaker, tasked with preserving the treasures kept within these shadowy halls. After years of faithful service, he was caught stealing from the shelves�although some say he was framed by a jealous underling�and the mogu ruler punished him with a fatal curse. The doomed spirit of Feng Shri has wandered the vaults ever since, communing with the shades of past mogu heroes and warlords.
+689	663	896	0.319351	0.328823	5871	317	2	-1	Feng the Accursed	Long ago, Feng Shri was the Mogu\'shan Vaults\' caretaker, tasked with preserving the treasures kept within these shadowy halls. After years of faithful service, he was caught stealing from the shelves (although some say he was framed by a jealous underling) and the mogu ruler punished him with a fatal curse. The doomed spirit of Feng Shri has wandered the vaults ever since, communing with the shades of past mogu heroes and warlords.
 690	655	885	0.447903	0.759134	5911	321	2	-1	Gekkan	As the mogu clans battle for supremacy, the cunning Gekkan leads his fearsome saurok raiding party into the palace\'s fabled treasure caches. Loyalty is not usually ascribed to these ruthless reptilian beings, but Gekkan\'s courage and tactical brilliance inspire a sense of honor in his soldiers.
 691	0	809	0.67659	0.746956	5937	322	1	-1	Sha of Anger	The Sha of Anger, the physical manifestation of rage, has escaped from the Shado-pan Monastery in Kun-Lai Summit. Amid the brutal conflicts gripping Pandaria, the dark entity has grown ever more powerful. Recently, the sha has been seen wandering Kun-Lai, using negative energies to corrupt everything the being encounters.
 692	0	887	0.549391	0.462788	5955	324	3	-1	General Pa\'valak	The pragmatic General Pa\'valak does not fear the pandaren or their allies, and he does not differentiate between using his own might and that of his mantid armies to defeat his enemies. Victory is the only honor he seeks, and Pa\'valak will not tolerate failure should his minions fall short of their goal.

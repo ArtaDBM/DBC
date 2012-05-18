@@ -618,7 +618,7 @@ field0	field1	field2	field3	field4	field5	field6	field7
 1390	1008	0	0	0	Feng the Accursed	41192	3957
 1395	1008	0	-1000	1	The Stone Guard	41155	0
 1397	962	0	0	0	Saboteur Kip\'tilak	11097	0
-1405	962	0	1000	1	Strike Ga\'dok	0	0
+1405	962	0	1000	1	Striker Ga\'dok	0	0
 1406	962	0	2000	2	Commander Ri\'mok	0	0
 1407	1008	0	3000	2	Will of the Emperor	41391	0
 1409	996	0	0	0	Protectors of the Endless	41503	0
@@ -647,10 +647,10 @@ field0	field1	field2	field3	field4	field5	field6	field7
 1440	994	0	0	0	Gekkan	41920	0
 1441	994	0	1000	1	Xin the Weaponmaster	41987	0
 1442	994	0	-1000	2	Trial of the King	42059	0
-1443	389	0	0	0	Adjules	38759	0
+1443	389	0	0	0	Adarogg	38759	0
 1444	389	0	1000	1	Dark Shaman Koranthal	42101	0
-1445	389	0	2000	2	Magnaw	38773	0
-1446	389	0	3000	3	Lieutenant Gordoth	42100	0
+1445	389	0	2000	2	Slagmaw	38773	0
+1446	389	0	3000	3	Lava Guard Gordoth	42100	0
 1447	1011	0	1500	0	General Pa\'valak	42105	0
 1463	1009	0	0	0	Garalon	42105	0
 1464	1011	0	2500	1	Wing Leader Ner\'onok	23915	0

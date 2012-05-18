@@ -10,13 +10,13 @@ field0	field1	field2	field3
 229	|cffffd100Tip:|r On your character sheet is a reputation tab that tells you your status with different groups.	40	60
 230	|cffffd100Tip:|r You can perform many fun actions with the emote system, for instance you can type /dance to dance.	40	85
 231	|cffffd100Tip:|r The interface options menu <ESC> has lots of ways to customize your game play.	20	60
-234	|cffffd100Tip:|r A mail icon next to the minimap means you have new mail.  Visit a mailbox to retrieve it.	0	0
+234	|cffffd100Tip:|r A mail icon next to the minimap means you have new mail. Visit a mailbox to retrieve it.	0	0
 235	|cffffd100Tip:|r You can add additional action bars to your game interface from the interface options menu.	0	0
 236	|cffffd100Tip:|r If you hold down <Shift> while right-clicking on a target to loot, you will automatically loot all items on the target.	0	0
 237	|cffffd100Tip:|r If you enjoyed playing with someone from your realm, put them on your friends list!	20	60
 239	|cffffd100Tip:|r There are a number of different loot options when in a group. The group leader can right-click their own portrait to change the options.	60	85
 240	|cffffd100Tip:|r If you never want to hear from another player again, you can /ignore them. You can always change your mind later.	0	0
-241	"|cffffd100Tip:|r You can target members of your party with the function keys.  F1 targets you; F2 targets the second party member."	40	85
+241	"|cffffd100Tip:|r You can target members of your party with the function keys. F1 targets you; F2 targets the second party member."	40	85
 242	|cffffd100Tip:|r Being polite while in a group with others will get you invited back!	0	0
 243	|cffffd100Tip:|r You can click on a faction in the reputation pane to get additional information and options about that faction.	0	0
 244	|cffffd100Tip:|r A monster with a silver dragon around its portrait is a rare monster with better than average treasure.	0	0
@@ -39,7 +39,7 @@ field0	field1	field2	field3
 321	|cffffd100Tip:|r If you are having trouble finding something in a capital city, try asking a guard for directions.	10	85
 341	|cffffd100Tip:|r Remember to take all things in moderation (even World of Warcraft!)	0	0
 380	|cffffd100Tip:|r You can view messages you previously sent in chat by pressing <Alt> and the up arrow key.	0	0
-381	|cffffd100Tip:|r You can Shift-Click on an item stack to split it into smaller stacks.	0	0
+381	|cffffd100Tip:|r You can <Shift>Click on an item stack to split it into smaller stacks.	0	0
 382	|cffffd100Tip:|r Pressing both mouse buttons simultaneously will make your character run.	0	0
 383	|cffffd100Tip:|r When replying to a tell from a player (Default \'R\'), the <TAB> key cycles through people you have recently replied to.	0	0
 384	|cffffd100Tip:|r You can remove a friendly spell enhancement on yourself by right-clicking on the spell effect icon.	40	60
@@ -154,7 +154,7 @@ field0	field1	field2	field3
 595	|cffffd100Tip:|r You can change your class specialization, talents or glyphs by visiting a class trainer.	10	90
 596	|cffffd100Tip:|r Most achievements are account-wide. If you have earned the points on one of your characters, they will all share the points.	10	90
 597	|cffffd100Tip:|r Visit a Pet Battle Trainer if you want to collect and battle companion pets.	10	90
-598	|cffffd100Tip:|r You can\'t fly in Pandaria until your reach level 90.	85	90
+598	|cffffd100Tip:|r You can\'t fly in Pandaria until you reach level 90.	85	90
 599	|cffffd100Tip:|r Nobody has seen Alleria or Turalyon in years.	85	90
 600	|cffffd100Tip:|r Major Glyphs modify your spells in interesting ways. Minor Glyphs are more cosmetic or convenient.	15	90
 601	|cffffd100Tip:|r Companion pets are account-wide. If one of your characters has a pet, all your characters can use that pet.	10	90
@@ -163,3 +163,6 @@ field0	field1	field2	field3
 604	|cffffd100Tip:|r The tank role focuses on controlling enemy creatures during group play. Tanks sacrifice high damage for high survivability.	10	50
 605	|cffffd100Tip:|r The healer role focuses on keeping themselves and other members of the group alive.	10	50
 606	"|cffffd100Tip:|r The damage role (sometimes called \DPS\"") focuses on defeating the enemy. Damage dealers are supported by tanks and healers."""	10	50
+607	|cffffd100Tip:|r The Cooking trainers in Pandaria are located in the Halfhill Market in Valley of the Four Winds.	87	90
+608	|cffffd100Tip:|r The Archaeology trainers in Pandaria are located in the Seat of Knowledge in the Vale of Eternal Blossoms.	87	90
+609	|cffffd100Tip:|r The Inscription trainers in Pandaria are located in the library in the Temple of the Jade Serpent.	86	90

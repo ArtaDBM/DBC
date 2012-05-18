@@ -380,21 +380,14 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1275	671	41154	0	0	Brother Korloff	0
 1276	674	41220	1	607643	Commander Durand	0
 1277	674	2043	0	0	High Inquisitor Whitemane	0
-1281	679	41232	2	0	Jade Quilen	0
-1282	679	41233	3	0	Jasper Quilen	0
-1283	679	41234	0	0	Amethyst Quilen	0
-1284	679	41235	1	0	Cobalt Quilen	0
 1294	677	41392	1	0	Qin-xi	0
 1295	677	41391	0	0	Jan-xi	0
 1296	682	41256	0	0	Gara\'jal the Spiritbinder	0
-1301	683	41502	1	0	PH Council Leather Boss	0
 1304	685	39493	0	0	Sha of Violence	0
 1305	686	41121	0	0	Taran Zhu	0
-1306	683	41504	2	0	PH Council Cloth Boss	0
-1307	683	41503	0	0	PH Council Plate Boss	0
-1308	687	41812	1	0	Qiang Steelskin	6528
-1309	687	41813	0	0	Meng Sharpfang	6503
-1310	687	41565	2	0	Sebotai Swiftfoot	6559
+1308	687	41812	1	0	Qiang Steelskin	6510
+1309	687	41813	0	0	Meng Sharpfang	6485
+1310	687	41565	2	0	Sebotai Swiftfoot	6541
 1312	688	27705	0	0	Thalnos the Soulrender	0
 1313	689	41192	0	0	Feng the Accursed	0
 1315	690	41920	0	0	Gekkan	0
@@ -417,7 +410,6 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1383	726	41399	0	0	Elegon	0
 1385	725	42468	1	0	Chief Salyis	0
 1386	725	42439	0	0	Galleon	0
-1389	727	43151	0	0	Wing Leader Ner\'onok	0
 1393	684	40322	0	0	Darkmaster Gandling	0
 1394	728	17725	0	607556	Blood Guard Porung	0
 1400	737	43126	0	0	Amber-Shaper Un\'sok	0
@@ -428,7 +420,6 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1405	713	42368	0	0	Garalon	0
 1407	738	42169	0	0	Commander Vo\'jak	0
 1412	729	42811	0	0	Lei Shi	0
-1415	741	42645	0	0	Wind Lord Mel\'jarak	0
 1417	743	42730	0	0	Grand Empress Shek\'zeer	0
 1421	745	42807	0	0	Imperial Vizier Zor\'lok	0
 1422	655	43122	0	0	Saboteur Kip\'tilak	0
@@ -445,6 +436,15 @@ m_id	m_encounterId	m_modelId	m_index	field4	m_name	field6
 1434	335	43283	0	0	Sha of Doubt	0
 1435	698	41987	0	0	Xin the Weaponmaster	0
 1439	693	43197	0	0	Vizier Jin\'bak	0
-1444	742	42532	0	0	Tsulong	7003
-1465	742	42533	1	0	Tsulong	7020
+1444	742	42532	0	0	Tsulong	6985
+1465	742	42533	1	0	Tsulong	7002
 1466	744	43141	0	0	Blade Lord Ta\'yak	0
+1475	727	43151	0	0	Wing Leader Ner\'onok	0
+1476	679	41892	0	0	Amethyst Guardian	0
+1477	679	42644	3	0	Jasper Guardian	0
+1478	679	41893	1	0	Cobalt Guardian	0
+1479	679	41894	2	0	Jade Guardian	0
+1480	683	41504	2	0	Elder Asani	0
+1481	683	41502	1	0	Elder Regail	0
+1482	683	41503	0	0	Protector Kaolan	0
+1485	741	42645	0	0	Wind Lord Mel\'jarak	0

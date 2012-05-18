@@ -21,55 +21,55 @@ Heroes brave enough to infiltrate the brooding depths of the stronghold must con
 185	939	0	571756	571741	571760	Well of Eternity	Ten-thousand years in the past, the night elven capital city of Zin-Azshari was a magnificent, sparkling metropolis.  Situated on the shores of the Well of Eternity, it was here that the aristocratic Highborne first opened a portal into the Twisting Nether and invited the Burning Legion to invade Azeroth.  Under the command of the night elven queen, Azshara, they now pour their energies into the portal, preparing it for the terrifying and glorious entrance of the demon god Sargeras.
 186	940	0	571755	571740	571759	Hour of Twilight	With the Dragon Soul retrieved from the past, the Heroes of Azeroth now prepare for the final confrontation with Deathwing.  In the frozen wastes of Northrend, the towering spire of Wyrmrest Temple is under the assault of Deathwing\'s Twilight forces.  In order to save Azeroth, Thrall must arrive safely at the temple with the Dragon Soul in hand.
 187	967	0	571753	571738	571757	Dragon Soul	Forged by Deathwing during the War of the Ancients, the Dragon Soul harnessed the combined power of the dragonflights until it was ultimately destroyed. Through the Caverns of Time, Thrall and the remaining dragonflights were able to recover the powerful artifact before its destruction.  Now they have rallied at Wyrmrest Temple in a desperate attempt to use the might of the Dragon Soul against Deathwing himself.
-226	389	0	608211	608172	608250	Ragefire Chasm	Ragefire is a low level dungeon where you kill troggs (PH)
-227	48	0	608195	608156	608234	Blackfathom Deeps	Nagas, Cultists, Murlocs, oh my!  [PH]
-228	230	0	608196	608157	608235	Blackrock Depths	Dark Iron Dorfs. (PH)
-229	229	0	608197	608158	608236	Blackrock Spire	A spire of Orcs. (PH)
-230	429	0	608200	608161	608239	Dire Maul	Ogres. (PH)
-231	90	0	608202	608163	608241	Gnomeregan	Instance where you get to kill gnomes? GENIUS! (PH)
-232	349	0	608209	608170	608248	Maraudon	Purple side is the best side. (PH)
-233	129	0	608212	608173	608251	Razorfen Downs	NYI
-234	47	0	608213	608174	608252	Razorfen Kraul	NYI
-235	189	0	608214	608175	608253	Scarlet Monastery - OLD	NYI
-236	329	0	608216	608177	608255	Stratholme	NYI
-237	109	0	608217	608178	608256	The Temple of Atal\'hakkar	NYI
-238	34	0	608223	608184	608262	The Stockade	NYI
-239	70	0	608225	608186	608264	Uldaman	NYI
-240	43	0	608229	608190	608313	Wailing Caverns	NYI
-241	209	0	608230	608191	608267	Zul\'Farrak	NYI
+226	389	0	608211	608172	608250	Ragefire Chasm	PH
+227	48	0	608195	608156	608234	Blackfathom Deeps	PH
+228	230	0	608196	608157	608235	Blackrock Depths	PH
+229	229	0	608197	608158	608236	Blackrock Spire	PH
+230	429	0	608200	608161	608239	Dire Maul	PH
+231	90	0	608202	608163	608241	Gnomeregan	PH
+232	349	0	608209	608170	608248	Maraudon	PH
+233	129	0	608212	608173	608251	Razorfen Downs	PH
+234	47	0	608213	608174	608252	Razorfen Kraul	PH
+235	189	0	608214	608175	608253	Scarlet Monastery - OLD	PH
+236	329	0	608216	608177	608255	Stratholme	PH
+237	109	0	608217	608178	608256	The Temple of Atal\'hakkar	PH
+238	34	0	608223	608184	608262	The Stockade	PH
+239	70	0	608225	608186	608264	Uldaman	PH
+240	43	0	608229	608190	608313	Wailing Caverns	PH
+241	209	0	608230	608191	608267	Zul\'Farrak	PH
 246	1007	0	608215	608176	608254	Scholomance	Individuals seeking to master the powers of undeath know well of Scholomance, the infamous school of necromancy located in the dark and foreboding crypts beneath Caer Darrow. In recent years, several of the instructors have changed, but the institution remains under the control of Darkmaster Gandling, a particularly sadistic and insidious practitioner of necromantic magic.
-247	558	0	608193	608154	608232	Auchenai Crypts	NYI
-248	543	0	608207	608168	608246	Hellfire Ramparts	NYI
-249	585	0	608208	608169	608247	Magisters\' Terrace	NYI
-250	557	0	608193	608154	608232	Mana-Tombs	NYI
-251	560	0	608198	608159	608237	Old Hillsbrad Foothills	NYI
-252	556	0	608193	608154	608232	Sethekk Halls	NYI
-253	555	0	608193	608154	608232	Shadow Labyrinth	NYI
-254	552	0	608218	608179	608257	The Arcatraz	NYI
-255	269	0	608198	608159	608237	The Black Morass	NYI
-256	542	0	608207	608168	608246	The Blood Furnace	NYI
-257	553	0	608218	608179	608257	The Botanica	NYI
-258	554	0	608218	608179	608257	The Mechanar	NYI
-259	540	0	608207	608168	608246	The Shattered Halls	NYI
-260	547	0	608199	608160	608238	The Slave Pens	NYI
-261	545	0	608199	608160	608238	The Steamvault	NYI
-262	546	0	608199	608160	608238	The Underbog	NYI
-271	619	0	608192	608153	608231	Ahn\'kahet: The Old Kingdom	NYI
-272	601	0	608194	608155	608233	Azjol-Nerub	NYI
-273	600	0	608201	608162	608240	Drak\'Tharon Keep	NYI
-274	604	0	608203	608164	608242	Gundrak	NYI
-275	602	0	608204	608165	608243	Halls of Lightning	NYI
-276	668	0	608205	608166	608244	Halls of Reflection	NYI
-277	599	0	608206	608167	608245	Halls of Stone	NYI
-278	658	0	608210	608171	608249	Pit of Saron	NYI
-279	595	0	608219	608180	608258	The Culling of Stratholme	NYI
-280	632	0	521746	521743	521746	The Forge of Souls	NYI
-281	576	0	608221	608182	608260	The Nexus	NYI
-282	578	0	608222	608183	608261	The Oculus	NYI
-283	608	0	608228	608189	608312	The Violet Hold	NYI
-284	650	0	608224	608185	608263	Trial of the Champion	NYI
-285	574	0	608226	608187	608265	Utgarde Keep	NYI
-286	575	0	608227	608188	608266	Utgarde Pinnacle	NYI
+247	558	0	608193	608154	608232	Auchenai Crypts	PH
+248	543	0	608207	608168	608246	Hellfire Ramparts	PH
+249	585	0	608208	608169	608247	Magisters\' Terrace	PH
+250	557	0	608193	608154	608232	Mana-Tombs	PH
+251	560	0	608198	608159	608237	Old Hillsbrad Foothills	PH
+252	556	0	608193	608154	608232	Sethekk Halls	PH
+253	555	0	608193	608154	608232	Shadow Labyrinth	PH
+254	552	0	608218	608179	608257	The Arcatraz	PH
+255	269	0	608198	608159	608237	The Black Morass	PH
+256	542	0	608207	608168	608246	The Blood Furnace	PH
+257	553	0	608218	608179	608257	The Botanica	PH
+258	554	0	608218	608179	608257	The Mechanar	PH
+259	540	0	608207	608168	608246	The Shattered Halls	PH
+260	547	0	608199	608160	608238	The Slave Pens	PH
+261	545	0	608199	608160	608238	The Steamvault	PH
+262	546	0	608199	608160	608238	The Underbog	PH
+271	619	0	608192	608153	608231	Ahn\'kahet: The Old Kingdom	PH
+272	601	0	608194	608155	608233	Azjol-Nerub	PH
+273	600	0	608201	608162	608240	Drak\'Tharon Keep	PH
+274	604	0	608203	608164	608242	Gundrak	PH
+275	602	0	608204	608165	608243	Halls of Lightning	PH
+276	668	0	608205	608166	608244	Halls of Reflection	PH
+277	599	0	608206	608167	608245	Halls of Stone	PH
+278	658	0	608210	608171	608249	Pit of Saron	PH
+279	595	0	608219	608180	608258	The Culling of Stratholme	PH
+280	632	0	521746	521743	521746	The Forge of Souls	PH
+281	576	0	608221	608182	608260	The Nexus	PH
+282	578	0	608222	608183	608261	The Oculus	PH
+283	608	0	608228	608189	608312	The Violet Hold	PH
+284	650	0	608224	608185	608263	Trial of the Champion	PH
+285	574	0	608226	608187	608265	Utgarde Keep	PH
+286	575	0	608227	608188	608266	Utgarde Pinnacle	PH
 302	961	0	521746	521743	527422	Stormstout Brewery	When Chen Stormstout arrived in the Valley of the Four Winds, he journeyed to the renowned brewery of his namesake, hoping to connect with his relatives. What he found was his ancestral home in disarray. Under the watch of the incompetent Uncle Gao, loathsome virmen and unruly hozen have infiltrated the brewery, sparking a destructive revel that will soon devastate the region\'s supply of tasty beer.
 303	962	0	521746	521743	527422	Gate of the Setting Sun	For generations, a massive wall called the Serpent\'s Spine has protected the denizens of Pandaria from periodic assaults by the rampaging, insect-like mantid. This brutal race\'s cycle of aggression recently began earlier than expected, catching the wall\'s defenders off guard. As the mightiest mantid warriors charge the battle-worn gates, Pandaria must hold back the most devastating army in the land\'s recorded history.
 311	1001	0	608214	608175	608253	Scarlet Halls	The Crusade\'s fiercest warriors, those who have held their ground and fought to defend the monastery throughout these dark times, are rapidly preparing an army within the Scarlet Halls. These soldiers are bound by their hatred of the unliving, and they are willing to sacrifice everything for their order\'s righteous cause.
@@ -79,6 +79,6 @@ Heroes brave enough to infiltrate the brooding depths of the stronghold must con
 317	1008	0	521746	521743	527422	Mogu\'shan Vaults	The mogu, proud of their supremacy, kept lengthy records of their accomplishments within a great complex of vaults. Guarded by ferocious magical beings, these sacred chambers have remained silent since the mogu\'s departure.
 320	996	0	521746	521743	527422	Terrace of Endless Spring	Straddling the mountain range between the Jade Forest and the Vale of Eternal Blossoms, the Terrace of Endless Spring has been a sacred refuge for millennia. Its peaceful fountains are said to have the power to heal and rejuvenate, but when the Sha of Fear attacked, many of the complex\'s guardians turned on each other in fits of terror.
 321	994	0	521746	521743	527422	Mogu\'shan Palace	The ancient Mogu\'shan Palace is the last true bastion of the mogu\'s strength. Three of their great clans recently gathered at this stunning location to meet with their king, Xin the Weaponmaster. This mighty ruler has formulated a bold plan to unite his scattered people and reclaim the glory of their fallen empire. With turmoil gripping Pandaria, Xin\'s lofty dream of conquest could become reality.
-322	996	0	521746	521743	527422	Pandaria	PH
+322	996	0	521746	521743	527422	Pandaria	Shrouded in fog since the world was sundered more than ten thousand years ago, the ancient realm of Pandaria has remained unspoiled by war. Its lush forests and cloud-ringed mountains are home to a complex ecosystem of indigenous races and exotic creatures. It is the homeland of the enigmatic Pandaren, a race that celebrates life to the fullest even while under siege by an ancient menace.
 324	1011	0	521746	521743	527422	Siege of Niuzao Temple	Niuzao Temple extends across two fortified islands far beyond a towering wall called the Serpent\'s Spine. For years, tenacious pandaren defenders have protected the narrow bridges connecting the isles, staving off any would-be invaders. Yet recently, the mantid created their own bridge--a massive tree root--and seized one of the islands by surprise. Now, these brutal insectoids are poised to assault Niuzao\'s remaining guardians.
 330	1009	0	521746	521743	527422	Heart of Fear	The Sha of Fear has corrupted the grand empress of the mantid. Her increasingly erratic and paranoid commands have driven the Klaxxi--the keepers of mantid culture--to take aggressive action. Because they are few in number, the Klaxxi are reluctantly willing to accept outside help in destroying the empress and purging their race of the sha\'s negative influence.
